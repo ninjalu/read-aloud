@@ -1,0 +1,7 @@
+# Python deps for the Kokoro voice engine + article extraction.
+# Install into a venv:
+#   python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+# System deps (Homebrew): espeak-ng (Kokoro phonemes), ffmpeg (MP3 export)
+kokoro==0.9.4
+soundfile==0.14.0
+trafilatura==2.1.0

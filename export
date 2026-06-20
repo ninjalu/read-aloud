@@ -1,0 +1,6 @@
+#!/bin/bash
+# Batch-export articles to MP3 in Lewis's voice.
+#   ./export <url> [more urls...] [--voice bm_george] [--out DIR]
+#   ./export --file urls.txt
+cd "$(dirname "$0")"
+exec .venv/bin/python readaloud-export.py "$@"
