@@ -1,5 +1,7 @@
 # Read Aloud
 
+<p align="center"><img src="icon_master.png" width="128" alt="Read Aloud app icon"></p>
+
 A native macOS app that reads web articles aloud in a natural voice — paste a
 URL, it extracts the clean article text and reads it with **Kokoro**, an
 open-source neural text-to-speech model that runs **locally, free, and offline**.

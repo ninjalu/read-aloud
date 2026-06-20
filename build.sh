@@ -20,6 +20,7 @@ swiftc -O \
 
 echo "→ Bundling resources"
 cp ReadAloud/Resources/Readability.js "$CONTENTS/Resources/"
+[ -f ReadAloud/Resources/AppIcon.icns ] && cp ReadAloud/Resources/AppIcon.icns "$CONTENTS/Resources/"
 
 echo "→ Writing Info.plist"
 cat > "$CONTENTS/Info.plist" <<'PLIST'
@@ -31,6 +32,8 @@ cat > "$CONTENTS/Info.plist" <<'PLIST'
   <key>CFBundleDisplayName</key>     <string>Read Aloud</string>
   <key>CFBundleIdentifier</key>      <string>com.readaloud.app</string>
   <key>CFBundleExecutable</key>      <string>ReadAloud</string>
+  <key>CFBundleIconFile</key>        <string>AppIcon</string>
+  <key>CFBundleIconName</key>        <string>AppIcon</string>
   <key>CFBundlePackageType</key>     <string>APPL</string>
   <key>CFBundleShortVersionString</key> <string>1.0</string>
   <key>CFBundleVersion</key>         <string>1</string>
