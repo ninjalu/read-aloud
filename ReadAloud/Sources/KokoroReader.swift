@@ -34,7 +34,7 @@ final class KokoroReader: NSObject, ObservableObject, AVAudioPlayerDelegate {
         .init(id: "af_bella",    label: "Bella · American female"),
     ]
 
-    private let port = 8765
+    private let port = 8770
     private var base: URL { URL(string: "http://127.0.0.1:\(port)")! }
     private var player: AVAudioPlayer?
     private var cache: [Int: Data] = [:]
