@@ -286,10 +286,18 @@ final class KokoroReader: NSObject, ObservableObject, AVAudioPlayerDelegate {
     static func splitSentences(_ text: String) -> [String] {
         let cleaned = text.replacingOccurrences(of: "\r", with: "\n")
         var result: [String] = []
-        cleaned.enumerateSubstrings(in: cleaned.startIndex..<cleaned.endIndex,
-                                    options: .bySentences) { sub, _, _, _ in
-            let s = sub?.trimmingCharacters(in: .whitespacesAndNewlines) ?? ""
-            if !s.isEmpty { result.append(s) }
+        // Split on line breaks first so each heading and bullet item becomes its
+        // own chunk (and thus gets a clean pause), then sentence-split within a
+        // line for long paragraphs. Splitting only by sentences would let a
+        // bullet with no terminal punctuation merge into its neighbour.
+        for line in cleaned.components(separatedBy: "\n") {
+            let trimmedLine = line.trimmingCharacters(in: .whitespacesAndNewlines)
+            if trimmedLine.isEmpty { continue }
+            trimmedLine.enumerateSubstrings(in: trimmedLine.startIndex..<trimmedLine.endIndex,
+                                            options: .bySentences) { sub, _, _, _ in
+                let s = sub?.trimmingCharacters(in: .whitespacesAndNewlines) ?? ""
+                if !s.isEmpty { result.append(s) }
+            }
         }
         if result.isEmpty {
             let t = cleaned.trimmingCharacters(in: .whitespacesAndNewlines)
