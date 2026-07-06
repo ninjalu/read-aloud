@@ -12,6 +12,7 @@ import sys
 
 import trafilatura
 
+import podcast
 from tts_core import synth_to_mp3
 
 
@@ -75,11 +76,18 @@ def main():
         try:
             _, dur = synth_to_mp3(text, args.voice, out, title=title)
             print(f"   ✓ {os.path.basename(out)}  ({dur/60:.1f} min)\n")
+            podcast.register_episode(
+                outdir, os.path.basename(out), title, dur,
+                source_url=url, description=text[:300].strip(),
+                voice=args.voice)
             ok += 1
         except Exception as e:  # noqa
             print(f"   ! synthesis failed: {e}\n")
 
     print(f"Done — {ok}/{len(urls)} exported to {outdir}")
+    if ok:
+        print("\nUpdating podcast feed…")
+        podcast.publish(outdir)
 
 
 if __name__ == "__main__":

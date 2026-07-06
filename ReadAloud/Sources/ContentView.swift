@@ -6,6 +6,7 @@ struct ContentView: View {
 
     @State private var urlText = ""
     @State private var title = ""
+    @State private var sourceURL = ""   // the URL actually loaded, recorded on the podcast episode
 
     var body: some View {
         VStack(spacing: 0) {
@@ -129,7 +130,7 @@ struct ContentView: View {
 
             HStack(spacing: 10) {
                 Button {
-                    reader.export(title: title)
+                    reader.export(title: title, sourceURL: sourceURL)
                 } label: {
                     Label("Export MP3", systemImage: "square.and.arrow.down")
                 }
@@ -137,7 +138,7 @@ struct ContentView: View {
 
                 if reader.exporting {
                     ProgressView().controlSize(.small)
-                    Text("Exporting… long articles take a minute")
+                    Text("Exporting & adding to podcast… long articles take a minute")
                         .font(.caption).foregroundStyle(.secondary)
                 } else if let result = reader.exportResult {
                     Image(systemName: "checkmark.circle.fill").foregroundStyle(.green)
@@ -160,10 +161,12 @@ struct ContentView: View {
     }
 
     private func read() {
-        guard !urlText.trimmingCharacters(in: .whitespaces).isEmpty else { return }
+        let url = urlText.trimmingCharacters(in: .whitespaces)
+        guard !url.isEmpty else { return }
         reader.stop()
         title = ""
-        vm.extract(urlText) { article in
+        sourceURL = url                 // remember what we loaded, for the podcast episode record
+        vm.extract(url) { article in
             title = article.title
             reader.load(text: article.text)
             reader.play()

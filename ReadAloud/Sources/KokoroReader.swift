@@ -225,7 +225,7 @@ final class KokoroReader: NSObject, ObservableObject, AVAudioPlayerDelegate {
 
     // MARK: - MP3 export
 
-    func export(title: String) {
+    func export(title: String, sourceURL: String = "") {
         guard isReady, !fullText.isEmpty, !exporting else { return }
         exporting = true
         exportResult = nil
@@ -233,13 +233,13 @@ final class KokoroReader: NSObject, ObservableObject, AVAudioPlayerDelegate {
         let text = self.fullText
         let safeTitle = title.isEmpty ? "Article" : title
         Task {
-            let msg = await performExport(title: safeTitle, text: text, voice: voice)
+            let msg = await performExport(title: safeTitle, text: text, voice: voice, sourceURL: sourceURL)
             self.exporting = false
             self.exportResult = msg
         }
     }
 
-    private func performExport(title: String, text: String, voice: String) async -> String {
+    private func performExport(title: String, text: String, voice: String, sourceURL: String) async -> String {
         var comp = URLComponents(url: base.appendingPathComponent("export"), resolvingAgainstBaseURL: false)!
         comp.queryItems = [.init(name: "voice", value: voice), .init(name: "title", value: title)]
         var req = URLRequest(url: comp.url!)
@@ -256,9 +256,44 @@ final class KokoroReader: NSObject, ObservableObject, AVAudioPlayerDelegate {
             try data.write(to: fileURL)
             NSWorkspace.shared.activateFileViewerSelecting([fileURL])
             let where_ = dir.path.contains("Mobile Documents") ? "iCloud Drive › ReadAloud" : dir.path
-            return "Saved “\(fileURL.lastPathComponent)” to \(where_)"
+            let saved = "Saved “\(fileURL.lastPathComponent)” to \(where_)"
+            // Register + publish this file to the private podcast feed, source link intact.
+            let published = await publishToPodcast(fileURL: fileURL, title: title,
+                                                   sourceURL: sourceURL, voice: voice)
+            return published ? saved + " · added to podcast ✓"
+                             : saved + " · (podcast publish failed — run ./podcast-sync)"
         } catch {
             return "Export failed: \(error.localizedDescription)"
+        }
+    }
+
+    /// Run `podcast.py add` in the project venv to register the just-exported MP3
+    /// (with its source URL) and rebuild + upload the feed. Returns true on success.
+    private func publishToPodcast(fileURL: URL, title: String,
+                                  sourceURL: String, voice: String) async -> Bool {
+        let projectDir = Bundle.main.bundleURL
+            .deletingLastPathComponent()   // build/
+            .deletingLastPathComponent()   // project root
+        let py = projectDir.appendingPathComponent(".venv/bin/python")
+        let script = projectDir.appendingPathComponent("podcast.py")
+        let fm = FileManager.default
+        guard fm.fileExists(atPath: py.path), fm.fileExists(atPath: script.path) else { return false }
+
+        var args = [script.path, "add",
+                    "--library", fileURL.deletingLastPathComponent().path,
+                    "--file", fileURL.path, "--voice", voice]
+        if !title.isEmpty { args += ["--title", title] }
+        if !sourceURL.isEmpty { args += ["--url", sourceURL] }
+
+        let proc = Process()
+        proc.executableURL = py
+        proc.currentDirectoryURL = projectDir
+        proc.arguments = args
+        proc.standardOutput = FileHandle.nullDevice
+        proc.standardError = FileHandle.nullDevice
+        return await withCheckedContinuation { cont in
+            proc.terminationHandler = { cont.resume(returning: $0.terminationStatus == 0) }
+            do { try proc.run() } catch { cont.resume(returning: false) }
         }
     }
 

@@ -1,0 +1,6 @@
+#!/bin/bash
+# Rebuild + upload the private podcast feed from the MP3 library.
+#   ./podcast-sync            scan iCloud ReadAloud folder, rebuild feed, upload to R2
+#   ./podcast-sync rebuild    same but skip the upload
+cd "$(dirname "$0")"
+exec .venv/bin/python podcast.py "${1:-sync}" "${@:2}"

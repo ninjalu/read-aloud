@@ -53,6 +53,19 @@ The app auto-starts the local voice server (`tts_server.py`) on launch.
 MP3s land in `~/Library/Mobile Documents/com~apple~CloudDocs/ReadAloud`
 (iCloud Drive) and appear in the **Files** app on your iPhone.
 
+## Private podcast feed
+
+Exports can also appear as episodes of a private podcast in Apple Podcasts
+(playback position, speed, Watch/CarPlay). One-time setup: see
+`SETUP_PODCAST.md` (free Cloudflare R2 bucket + "Follow a Show by URL").
+
+- `./export <url>` registers the episode and republishes the feed automatically
+- `./podcast-sync` sweeps up in-app exports, rebuilds `feed.xml`, uploads
+- `podcast.py` holds the feed/upload logic; `podcast_config.json` (gitignored)
+  holds the R2 credentials and secret feed token
+- The feed sets `itunes:block` and lives behind an unguessable URL - it is a
+  personal, private feed, not for distribution
+
 ## Architecture
 
 | Piece | What it does |

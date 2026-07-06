@@ -13,3 +13,6 @@ exports/
 
 # macOS
 .DS_Store
+
+# Podcast feed secrets (R2 credentials + feed token)
+podcast_config.json

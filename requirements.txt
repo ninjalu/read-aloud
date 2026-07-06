@@ -5,3 +5,4 @@
 kokoro==0.9.4
 soundfile==0.14.0
 trafilatura==2.1.0
+boto3==1.43.40
