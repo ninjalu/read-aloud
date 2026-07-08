@@ -141,13 +141,21 @@ struct ContentView: View {
                     Text("Exporting & adding to podcast… long articles take a minute")
                         .font(.caption).foregroundStyle(.secondary)
                 } else if let result = reader.exportResult {
-                    Image(systemName: "checkmark.circle.fill").foregroundStyle(.green)
-                    Text(result).font(.caption).foregroundStyle(.secondary).lineLimit(1)
+                    Image(systemName: reader.exportOK ? "checkmark.circle.fill" : "exclamationmark.triangle.fill")
+                        .foregroundStyle(reader.exportOK ? .green : .orange)
+                    Text(result).font(.caption)
+                        .foregroundStyle(reader.exportOK ? Color.secondary : .orange)
+                        .lineLimit(2)
                 }
                 Spacer()
             }
         }
         .padding(14)
+        .alert("Couldn’t add this episode to the podcast", isPresented: $reader.showPublishError) {
+            Button("OK", role: .cancel) {}
+        } message: {
+            Text(reader.exportResult ?? "The publish step failed. Run ./podcast-sync to retry.")
+        }
     }
 
     private func banner(_ text: String, systemImage: String, color: Color) -> some View {

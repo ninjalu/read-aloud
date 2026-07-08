@@ -18,6 +18,8 @@ final class KokoroReader: NSObject, ObservableObject, AVAudioPlayerDelegate {
     @Published var engine: Engine = .starting
     @Published var exporting = false
     @Published var exportResult: String?
+    @Published var exportOK = true
+    @Published var showPublishError = false
     private(set) var fullText = ""
 
     @Published var rateFraction: Double = 0.5 { didSet { player?.rate = mappedRate() } }
@@ -233,13 +235,17 @@ final class KokoroReader: NSObject, ObservableObject, AVAudioPlayerDelegate {
         let text = self.fullText
         let safeTitle = title.isEmpty ? "Article" : title
         Task {
-            let msg = await performExport(title: safeTitle, text: text, voice: voice, sourceURL: sourceURL)
+            let (msg, ok) = await performExport(title: safeTitle, text: text, voice: voice, sourceURL: sourceURL)
             self.exporting = false
             self.exportResult = msg
+            self.exportOK = ok
+            if !ok { self.showPublishError = true }   // pop a real alert, don't hide it in a caption
         }
     }
 
-    private func performExport(title: String, text: String, voice: String, sourceURL: String) async -> String {
+    /// Returns (user-facing message, ok). `ok == false` means the MP3 may exist
+    /// but it did NOT make it into the podcast feed — surfaced as a modal alert.
+    private func performExport(title: String, text: String, voice: String, sourceURL: String) async -> (String, Bool) {
         var comp = URLComponents(url: base.appendingPathComponent("export"), resolvingAgainstBaseURL: false)!
         comp.queryItems = [.init(name: "voice", value: voice), .init(name: "title", value: title)]
         var req = URLRequest(url: comp.url!)
@@ -249,7 +255,7 @@ final class KokoroReader: NSObject, ObservableObject, AVAudioPlayerDelegate {
         do {
             let (data, resp) = try await URLSession.shared.data(for: req)
             guard (resp as? HTTPURLResponse)?.statusCode == 200, !data.isEmpty else {
-                return "Export failed — server error."
+                return ("Export failed — the TTS server returned an error.", false)
             }
             let dir = Self.exportDirectory()
             let fileURL = dir.appendingPathComponent(Self.safeFilename(title) + ".mp3")
@@ -260,10 +266,17 @@ final class KokoroReader: NSObject, ObservableObject, AVAudioPlayerDelegate {
             // Register + publish this file to the private podcast feed, source link intact.
             let published = await publishToPodcast(fileURL: fileURL, title: title,
                                                    sourceURL: sourceURL, voice: voice)
-            return published ? saved + " · added to podcast ✓"
-                             : saved + " · (podcast publish failed — run ./podcast-sync)"
+            if published {
+                return (saved + " · added to podcast ✓", true)
+            }
+            // Saved locally but not published. The folder-watcher LaunchAgent
+            // (com.readaloud.podcast-sync) should retry within ~20s; the fix
+            // command is a manual backstop.
+            return (saved + ", but it isn’t in the podcast feed yet. "
+                    + "The auto-sync watcher will retry shortly — or run ./podcast-sync to force it.",
+                    false)
         } catch {
-            return "Export failed: \(error.localizedDescription)"
+            return ("Export failed: \(error.localizedDescription)", false)
         }
     }
 

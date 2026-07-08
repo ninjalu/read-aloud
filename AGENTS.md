@@ -54,7 +54,7 @@ python3 -m venv .venv
 ## Project info (auto-detected)
 
 **Stack:** Python, Shell, Swift
-**Files:** ~36
+**Files:** ~39
 
 **Entry points:**
 - `./build.sh`
@@ -81,6 +81,9 @@ make_cover_v4.py
 make_icon.py
 make_icon.sh
 podcast-sync
+podcast-sync-watch.launchd.log
+podcast-sync-watch.log
+podcast-sync-watch.sh
 podcast.py
 podcast_config.json
 readaloud-export.py
@@ -98,10 +101,10 @@ SETUP_PODCAST.md
 stop-engine.sh
 test_extract.swift
 tts_core.py
-tts_server.py
+... (truncated)
 ```
 
-**Git:** branch: `main` | last commit: 2026-07-07 | 1 uncommitted | remote: https://github.com/ninjalu/read-aloud.git
+**Git:** branch: `main` | last commit: 2026-07-08 | 5 uncommitted | remote: https://github.com/ninjalu/read-aloud.git
 
 ## AI-agent bridge (Codex / open-source)
 

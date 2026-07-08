@@ -16,3 +16,8 @@ exports/
 
 # Podcast feed secrets (R2 credentials + feed token)
 podcast_config.json
+
+# podcast auto-sync watcher runtime
+podcast-sync-watch.log
+podcast-sync-watch.launchd.log
+.podcast-sync-watch.lock/
