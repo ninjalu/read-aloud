@@ -104,7 +104,7 @@ tts_core.py
 ... (truncated)
 ```
 
-**Git:** branch: `main` | last commit: 2026-07-11 | remote: https://github.com/ninjalu/read-aloud.git
+**Git:** branch: `main` | last commit: 2026-07-12 | 1 uncommitted | remote: https://github.com/ninjalu/read-aloud.git
 
 ## AI-agent bridge (Codex / open-source)
 
