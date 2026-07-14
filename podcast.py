@@ -106,10 +106,12 @@ def register_episode(library: str, filename: str, title: str,
     """Add (or refresh) one episode in the registry. Called by the export CLI."""
     episodes = load_registry(library)
     episodes = [e for e in episodes if e["filename"] != filename]
+    path = os.path.join(library, filename)
     episodes.append({
         "filename": filename,
         "title": title,
         "duration_sec": round(duration_sec, 1),
+        "size_bytes": os.path.getsize(path) if os.path.exists(path) else 0,
         "source_url": source_url,
         "description": description,
         "voice": voice,
@@ -151,15 +153,24 @@ def scan_library(library: str) -> list[dict]:
             "filename": name,
             "title": title or re.sub(r"[_-]+", " ", name[:-4]).strip(),
             "duration_sec": round(dur, 1),
+            "size_bytes": os.path.getsize(path),
             "source_url": "",
             "description": "",
             "voice": "",
             "date": mtime.isoformat(),
         })
         added += 1
-    # drop registry entries whose file has gone
+    # Backfill size for any episode whose MP3 is still present locally, so the
+    # feed can later be rebuilt after the file is cleared to R2.
+    for e in episodes:
+        p = os.path.join(library, e["filename"])
+        if os.path.exists(p) and not e.get("size_bytes"):
+            e["size_bytes"] = os.path.getsize(p)
+    # Keep episodes that are still local OR already archived to R2 (size on
+    # record). Only genuinely orphaned entries (no file, no size) get dropped.
     episodes = [e for e in episodes
-                if os.path.exists(os.path.join(library, e["filename"]))]
+                if os.path.exists(os.path.join(library, e["filename"]))
+                or e.get("size_bytes")]
     save_registry(library, episodes)
     if added:
         print(f"  + registered {added} new MP3(s) from the library folder")
@@ -192,7 +203,8 @@ def generate_feed(library: str, cfg: dict) -> str:
     items = []
     for e in episodes:
         url = f"{base}/audio/{quote(e['filename'])}"
-        size = os.path.getsize(os.path.join(library, e["filename"]))
+        path = os.path.join(library, e["filename"])
+        size = os.path.getsize(path) if os.path.exists(path) else e.get("size_bytes", 0)
         body = escape(e.get("description") or e.get("source_url") or e["title"])
         link = escape(e.get("source_url") or base)
         items.append(f"""    <item>
@@ -287,6 +299,39 @@ def upload(library: str, cfg: dict) -> None:
     print(f"\nFeed URL:  {cfg['base_url'].rstrip('/')}/{prefix}/feed.xml")
 
 
+def cleanup_synced(library: str, cfg: dict) -> None:
+    """Delete local MP3s that are confirmed on R2, freeing the iCloud library.
+
+    The feed keeps serving from R2 and rebuilds from the size_bytes recorded in
+    episodes.json, so the audio files no longer need to live locally. Only files
+    verified present on the bucket are removed; episodes.json / feed.xml / cover
+    stay put.
+    """
+    import boto3  # deferred: only needed once credentials exist
+
+    s3 = boto3.client(
+        "s3",
+        endpoint_url=cfg["endpoint_url"],
+        aws_access_key_id=cfg["access_key_id"],
+        aws_secret_access_key=cfg["secret_access_key"],
+        region_name="auto",
+    )
+    prefix = cfg["token"]
+    on_r2 = set()
+    paginator = s3.get_paginator("list_objects_v2")
+    for page in paginator.paginate(Bucket=cfg["bucket"], Prefix=prefix + "/audio/"):
+        on_r2.update(os.path.basename(o["Key"]) for o in page.get("Contents", []))
+
+    removed = 0
+    for e in load_registry(library):
+        path = os.path.join(library, e["filename"])
+        if os.path.exists(path) and e["filename"] in on_r2:
+            os.remove(path)
+            removed += 1
+    if removed:
+        print(f"  ~ cleared {removed} local MP3(s) now safely on R2")
+
+
 # ---------------------------------------------------------------- publish
 
 def publish(library: str | None = None) -> None:
@@ -299,6 +344,7 @@ def publish(library: str | None = None) -> None:
     if upload_ready(cfg):
         try:
             upload(library, cfg)
+            cleanup_synced(library, cfg)
         except Exception as e:  # noqa
             print(f"  ! upload failed: {e}")
     else:
