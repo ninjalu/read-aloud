@@ -1,0 +1,2620 @@
+Memo: On Regulation.
+
+I've been asked why there weren't any memos during the twelve weeks between September 9
+and December 1. Lack of ideas? Writer's block? Carpal tunnel syndrome? CIA posting? The
+answer is "none of the above." I was putting the finishing touches on a book, The Most
+Important Thing: Uncommon Sense for the Thoughtful Investor. It pulls together all of the
+strands of my philosophy into what might be thought of as a super-memo. It will be published in
+late April and I hope you'll let me know what you think.
+
+ * * *
+
+In the 31⁄2 years since the financial crisis surfaced in July 2007, there has been extensive
+discussion of the part deregulation played in creating it, as well as the need for increased
+regulation to prevent the next one. The release last month of the report of the Financial Crisis
+Inquiry Commission reawakened the debate. Thus I'm often asked nowadays how I feel about
+regulation and what I think the future holds in that regard.
+
+The Swing of the Regulatory Pendulum
+
+I've written before that attitudes toward regulation follow the same pendulum-like swing
+as most other aspects of market behavior. They oscillate not only in response to events in the
+economic environment, but also because neither total regulation nor total deregulation produces
+an entirely satisfactory answer. As in so many things, there's no perfect solution.
+
+A great source on the subject is Wall Street Under Oath, a 1939 book on the causes of the Great
+Crash of 1929 written by Ferdinand Pecora, who was counsel to the Senate committee
+investigating the crash and later a New York State judge. I first read it about twenty years ago,
+and I brought it out of storage in 2007. It is a typical polemic, assigning blame and touting
+regulation pursuant to what I assume were the author's philosophical/political biases (see page
+
+Pecora describes a Wall Street that, up to and including the 1920s, was like the Wild West.
+Bankers and brokers were out to make money for themselves; their behavior was largely
+unregulated; and conflicts between their interests and those of their clients were widespread and
+disregarded. In particular, according to Pecora, disclosure standards were non-existent.
+
+These facts combined with other causes to produce a market crash of epic proportions;
+widespread losses; a drying up of capital; deflation; and a massive depression with a resulting
+increase in unemployment to 25%. Unsurprisingly, fingers were pointed at the prior
+administration and political power shifted to believers in an activist role for government. The
+most lasting result was the enactment of laws that governed the financial system for decades and
+in many cases still do: the Securities Act, the Securities and Exchange Act, and the Glass-
+Steagall Act. Thus the 1930s saw a massive swing of the pendulum in favor of regulation.
+
+The next several decades on Wall Street were - perhaps thanks to the impact of those laws - a
+relatively placid period. This led to a view that, with rare exceptions, market participants are
+well-behaved by nature. Further, steady growth with only moderate dips caused a perception of
+an inherently benign and productive economy that could achieve even more if only the
+regulatory shackles were loosened. After President Carter deregulated the transportation
+industry in the late 1970s, the door was open for much of the regulatory apparatus built in the
+early part of the century to be relaxed. Ronald Reagan, whose famously free-market views
+coincided with a period of peace and prosperity, led the deregulatory charge. We saw a similar
+turn in Britain under the leadership of Margaret Thatcher; the collapse of the USSR and a
+resounding victory for capitalism; and the ascendance of free market adherents Alan Greenspan
+and George W. Bush.
+
+With the economy and financial system generating prosperity, people wanted more of the same.
+And with manufacturing in decline, we relied heavily on the financial sector for an increased
+contribution to GDP, job creation and standards of living. The prevailing view was that the less
+regulation we had, the more productive business and finance could be. And what was there to be
+feared from an unregulated economy, anyway? The result in the past decade, according to a
+great newspaper quote that sadly I can't locate, was "the kind of regulation you get from an
+administration that doesn't believe in regulation."
+
+Thus, coming full circle from the 1930s, starting in 1999 we saw revocation of Glass-Steagall;
+elimination of the up-tick rule limiting short sales to instances when stock prices were rising; a
+pivotal decision to exempt derivatives from regulation; increased permitted leverage at
+investment banks; and starvation of regulatory agency budgets. These developments were
+followed by the global financial crisis of 2007-08. Coincidence or causality?
+
+Free Markets Are Dangerous - Regulation is Essential
+
+The free-market, capitalist system runs on self interest and the desire for profit. We need
+regulation to ensure those things are kept within reasonable limits. Thus the goals of
+financial regulation are roughly as follows:
+
+ to limit risk, especially risk to the overall financial system,
+ to restrict the concentration of economic power,
+ to protect customers, especially "the little guy,"
+ to prevent error, fraud, misrepresentation and theft, and
+ to democratize finance and make it a tool of social policy.
+
+If ethics, self-regulation, personal responsibility, respect for risk and a sense of limits could be
+counted on, we wouldn't need much in the way of regulation. But, sadly, they can't.
+
+Since the profit motive can lead financial institutions to aggressive risk taking, error and even
+misdeeds, regulation is counted on to prevent these things. There's also concern that individuals'
+self-interest might drive them to actions that collectively might injure their companies and
+society.
+
+Free markets do a great job of allocating economic resources - especially on average over the
+long run - but the interim fluctuations produced by miscalculation can be intolerable and have to
+be modulated. This makes regulation indispensable. Bottom line: the financial system can't
+be entrusted to untrammeled free markets.
+
+Regulation is Imperfect and Harmful - Free Markets Do It Best
+
+On the other hand, regulation is too imperfect to be relied on. (Thanks to "Soggy" Sweat for
+this dialectical approach - see "All that Glitters," December 17, 2010.) It's easy to write hard-
+and-fast rules, but rules sometimes impose undue costs or restrict activity in undesirable ways.
+And their specificity often makes them capable of being circumvented. Because financial
+institutions are intent on innovation, rules rarely keep pace and regulators usually find
+themselves playing catch-up. Rule-writing is reactive: rules are written in response to the last
+problem, not to foresee and prevent the next one, which invariably is different. In addition,
+regulators lack the financial motivation that drives those who can profit from getting around
+regulations and exploiting loopholes.
+
+Since rules become outdated and circumvented, it might be preferable to regulate through
+principles. In other words, rather than numerical limits and defined borders, regulations might
+be written in general terms to produce adherence to ideals and policy goals. But regulating this
+way requires that judgments be made, and regulators are rarely accorded the license required for
+judgment-making. Imagine the second-guessing, legal appeals and phone calls to congressmen
+that would follow an individual regulator's decision that a financial institution's actions have
+violated vague principles . . . especially during a halcyon period when the warned-of
+consequences are slow in coming.
+
+Principle-based regulation requires not only flexibility that is hard to build into and nurture in
+bureaucracies, but also significant business acumen, perspicacity and foresight. The evidence is
+prima facie: very few people saw the risk posed by sub-prime mortgages and structured
+mortgage products, and certainly not the regulators. And no one I know of - regulator or
+otherwise - foresaw the effect these things would have on banks, money market funds and the
+commercial paper market.
+
+Why didn't regulators say a word about rating agencies' dispensing many thousands of triple-A
+ratings to structured mortgage vehicles? Why were the highly regulated banks ground zero for
+the consequences of the financial crisis, while unregulated hedge funds were relatively
+unscathed? I just can't imagine that regulators will ever have the ability to fully anticipate the
+consequences of changes in the fast-developing financial system, or to foresee the development
+
+of new problems for which rules and responses have yet to be drawn up. Here's how Peter
+Sands, chief executive of Standard Chartered, was quoted in the Financial Times of January 27:
+"It is not clear why some regulators who were there before the crisis should believe they now
+have all the right solutions."
+
+What regulator would have been able to make a difference in protecting our financial institutions
+(and the overall economy) from the developments of 2004-07? And given how valuable his
+skills would be in the private sector, how long would he have remained a regulator? No, it just
+doesn't make sense to expect government employees to safeguard the financial system. The
+conclusion is inescapable: responsibility for the safety of the financial system can't be
+delegated to regulators.
+
+The Origin of Attitudes
+
+In December I wrote of gold that it's like religion: either you believe in it or you don't. I think
+something very similar can be said about regulation of business and the economy.
+
+Liberals who champion an expanded role for government tend to be pro-regulation, while
+conservatives favoring laissez-faire policies and limitations on government will argue against it
+with vehemence. Democrats generally like an activist government: that's what makes them
+Democrats. Republicans don't.
+
+Those partaking in the benefits of economic growth tend to favor free-markets and oppose
+further regulation, since they're happy with things the way they are. The reverse is true for those
+who are failing to participate and those working in the public sector . . . although there are
+millions of exceptions on both sides. Businesspeople who trust the economy to perform for them
+generally oppose regulation, while members of labor want it to prevent their being taken
+advantage of by management and the owners of capital.
+
+I think our attitudes in this regard are highly correlated with those of our parents and largely a
+function of the time and place we grew up in. They can be altered through exposure to opposing
+points of view, but I think most people's attitudes toward regulation stem far more from
+upbringing and circumstances than from analytical and intellectual processes. Attitudes toward
+regulation, like politics, are largely hereditary and change slowly if at all.
+
+Reconciling the Two Positions
+
+It's my belief that because both free markets and regulation are imperfect - and because of
+the strength of people's political and philosophical biases - we will never settle
+permanently on either a completely free market or a thoroughly regulated system. Any
+position will prove merely temporary, and the pendulum will continue to swing toward one end
+of the spectrum and then back toward the other.
+
+ Scandals and crashes will cause a cry for regulation.
+ Regulation will curb the excesses and punish the wrongdoers, discouraging repetition.
+
+ The environment will calm, and economic progress will become the rule.
+ Memory of the events behind the demand for regulation will fade.
+ Free-marketeers will gain sway, and they'll argue that we could do even better if the
+ system were deregulated.
+ Regulation will be eased.
+ Risk-taking and misdeeds will rise.
+ Scandals and crashes will occur anew.
+ Pro-regulation forces will regain influence, and free-marketeers will be in the doghouse.
+ And the pendulum will swing back toward regulation.
+
+There will never be total, lasting agreement on either complete regulation or totally free markets.
+Importantly, however, it might well be the case that compromise between the two has the
+most dangerous consequences.
+
+ In the decade leading up to the crisis, politics favored home ownership and liberal
+ mortgage availability. These forces, combined with unregulated mortgage securities
+ markets, gave rise to excessive lending, exaggerated demand for mortgage securities
+ (given the illusion of safety), and thus artificially low mortgage rates and loose terms.
+
+ Which bailout recipients remain the biggest sinkholes, without any real chance of
+ repaying the government's investment? The answer is Fannie Mae and Freddie Mac, the
+ government-created mortgage agencies: supposedly private enterprises whose operations
+ were distorted by a tacit federal guarantee. They engaged in uneconomic behavior,
+ advancing the policy goal of making home ownership available to people who couldn't
+ afford it, and accepting vast risk on the basis of inadequate capital because they (and their
+ lenders) had no fear of loss.
+
+ Legislators turned regulation over to the private sector by putting credit rating agencies in
+ charge of financial institutions' investing standards, giving commercial organizations
+ excessive imprimatur. Financial temptation pressured them to drop their standards, and
+ when they succumbed, the previously sacrosanct triple-A rating became a meaningless
+ label.
+
+ Having witnessed the rescue of the banks and the financial system, we now have a system
+ where free-market rewards will continue to motivate risk taking and no one believes the
+ ultimate price - meltdown - will be demanded of too-big-to-fail institutions that take it
+ too far. A free-market mechanism undercut by moral hazard may perform adequately
+ 95% of the time, but it will pose terrible risks in the remainder.
+
+The real bottom line is that since both free markets and regulation are imperfect, our
+financial systems will continue to be imperfect. They will work well for us most of the time,
+although not perfectly, and they will be subject to bubbles and crises every few decades
+(hopefully not more often).
+
+The Recent Experience
+
+Think about the last few years: the depth of the financial crisis, the pain it caused, the blunders
+(or worse) that were behind the crisis, the financial sector bailouts it necessitated, and the
+acrimony they elicited from a Main Street feeling left to fend for itself. Then add in a White
+House and Congress controlled by Democrats, with their leaning toward government
+involvement in the economy. Certainly this was a formula for a powerful upswing in regulation.
+
+In this context, I'm surprised that we haven't seen much more government activism. The
+new financial regulations are mild and constrained, in my opinion. Increases in financial
+institution capital requirements and controls over executive compensation have generally been
+more moderate in the U.S. than in Europe. No one has gone to jail (or even been subjected to
+heavy fines) as in the Enron/Adelphia era. And there have been no punitive increases in taxes on
+"the rich."
+
+And yet there have been enough steps toward regulation for their limitations to be manifest. One
+of the primary components of last year's new financial reform law was the so-called Volcker
+Rule, under which banks can no longer risk their capital on trading and investing for their own
+account. The bankers I meet with rail against the extent to which this will interfere with their
+ability to serve their customers and lay off risk. They further complain that actions inherent in
+market-making can be hard to distinguish from Volcker Rule violations. Where do positions
+held for trading and hedging stop and prop trading start? Think about Goldman Sachs's bets
+against subprime mortgages:
+
+ Did they hedge Goldman's long positions in mortgages?
+ Did they lessen the risk in Goldman's overall portfolio?
+ Were they bets against Goldman's clients?
+ Or did they enable Goldman to take positions that served its clients and otherwise engage
+ in client facilitation?
+
+I'd guess the answer is "all of the above." Clearly, however, a market maker can do far more to
+provide liquidity if it is allowed to hedge through offsetting positions.
+
+Mortgage shorts also shored up Goldman's finances and made it one of the least needy financial
+institutions. Which would we like to have more of, Goldman Sachs or Lehman Brothers, which
+plunged into mortgages and derivatives without significant risk control and consequently went
+bankrupt? And yet Goldman's actions have been vilified and proprietary investing has been
+outlawed.
+
+On February 6, a front-page New York Times story indicated how difficult it is to rein in free-
+market forces and self-interest. Although Washington pushed financial institutions to
+compensate executives through stock grants in order to align interests with shareholders (and
+mandated it at the very top), the article described non-mandated employees' success in hedging
+their shareholdings and thus sidestepping exposure to the risks affecting their companies.
+
+ "Wall Street is saying it is reforming itself by granting stock to executives and
+ exposing them to the long-term risk of that investment," said Lynn E. Turner, a
+ former chief accountant at the Securities and Exchange Commission. "Hedging
+ the risk can substantially undo that reform. . . ."
+
+ More broadly, critics say, the practice of hedging represents another end run
+ around financial reform.
+
+ For example, new rules that cracked down on debit card fees have led several big
+ banks to eliminate free checking. Firms also plan to make up missing revenue by
+ adapting their businesses to the tougher new regulations on derivatives and
+ trading with the banks' own capital.
+
+The Wall Street Journal of February 18 provided another example:
+
+ In November, Barclays PLC quietly changed the legal classification of the U.K.
+ bank's main subsidiary in the U.S. so that the unit would no longer be subject to
+ federal bank capital requirements. . . .
+
+ The maneuver allows them to escape a provision of the financial-overhaul law
+ that forces the pumping of billions of dollars of new capital into the U.S. entities,
+ known as bank-holding companies.
+
+ "It's just not worth it to have all that capital trapped" in the holding company, said
+ a New York lawyer who is advising banks on how to restructure.
+
+ The moves are the latest example of how banks are scrambling to cushion the
+ impact of new laws and rules around the world.
+
+The article went on to illustrate how a patchwork system can be evaded through
+regulator-shopping. By deregistering its subsidiary as a bank-holding company, Barclays
+escaped regulation by the Federal Reserve Bank, which would insist on greater capital.
+Instead its units now fall under the FDIC and the SEC, which will impose no such
+requirement.
+
+The bottom line as far as I'm concerned is that you can enact a law or rule and tell
+businesspeople precisely what to do, but you can't make the economy or companies comply
+with policies and social aims. Regulations are limited in their scope and effect, and like a
+balloon, when you push in one place, self-interested behavior pops out in another. As these
+articles indicate, those who enact regulation sometimes get it right at first glance, but they're
+rarely able to anticipate and control the response of those being regulated or the second-
+order consequences of the rules.
+
+Errors and misdeeds will occur as long as imperfect, self-interested humans stray into
+excessive risk-taking. And as long as these things lead to bubbles and resulting crashes, the
+willingness to dispense with regulation and rely on free markets will never be complete,
+regardless of regulation's limitations.
+
+ * * *
+
+I believe a free market is the best decision maker, causing financial resources, labor and
+intellectual capital to flow where they are most valuable and thus have the potential to be
+best rewarded. But the ride will be bumpy - by necessity - and some of society's goals will
+go unfulfilled. Of course, those who favor limits on government involvement in business argue
+that financial and market regulation shouldn't be a vehicle for implementing social policy.
+
+The collapse of the USSR shows the limits of a thoroughly controlled economy. On the other
+hand, it's likely that China's impressive accomplishments over the last decade have been aided
+by the fact that its economy is controlled, such that the movement of resources can be centrally
+mandated in the short run. China's purposefulness is impressive, and China likely would have
+accomplished less if it had to work entirely through free-market forces. Would we trade our
+system (and results) for theirs? Will our answer be the same in twenty years? And will China
+remain the same, or once the highly regulated system has raised standards of living, will people
+insist on freer markets as well?
+
+The debate will inevitably go on:
+
+ What system is most likely to produce the results we seek? In the last few years we've
+ seen calls for regulations to require "prudent" mortgage lending and prevent "excessive"
+ compensation. What system is best able to define these amorphous terms and produce
+ these results?
+ How will economic goals be integrated and balanced with society's other priorities, and
+ should they be?
+ How will laissez-faire economics and financial regulation coexist, and what will be the
+ consequences?
+
+These questions will never be answered conclusively. The swing of the pendulum will continue
+unabated.
+
+
+Memo: How Quickly They Forget.
+
+In January 2004 I received a letter from Warren Buffett (how's that for name dropping?)
+ in which he wrote, "I've commented about junk bonds that last year's weeds have
+ become this year's flowers. I liked them better when they were weeds."
+
+ Warren's phrasings are always the clearest, catchiest and most on-target, and I thought
+ this Buffettism captured the thought particularly well. Thus for Oaktree's 2004 investor
+ conference we used the phrase "Yesterday's Weeds . . . Today's Flowers" as the title of a
+ slide depicting the snapback of high yield bonds. It showed the 45% average yield at
+ which a sample of ten bonds could have been bought during the Enron-plus-telecom
+ meltdown of 2002 and the 6% average yield at which they could have been sold in 2003;
+ on average, the yields had fallen by 87% in just thirteen months. The idea went full-
+ circle in 2005, when Warren used our slide at the Berkshire Hathaway annual meeting to
+ illustrate how rapidly things can change in the world of investing.
+
+ And that's the point of this memo. Asset prices fluctuate much more than fundamentals.
+ This happens because, rather than applying moderation and balancing greed against fear,
+ euphoria against depression, and risk tolerance against risk aversion, investors tend to
+ oscillate wildly between the extremes. They apply optimism when things are going well
+ in the world (elevating prices beyond reason) and pessimism when things are going
+ poorly (depressing prices unreasonably). Shortness of memory plays a major part in
+ abetting these swings. If investors remembered past bubbles and busts and their causes,
+ and learned from them, the swings would moderate. But, in short, they don't. And they
+ may be forgetting again.
+
+ High yield bonds and many other investment media have once again gone from
+ being weeds to flowers - from pariahs to market darlings - and it happened in a
+ startlingly short period of time. As is so often the case, things that investors wouldn't
+ touch in the depths of the crisis in late 2008 now strike them as good buys at twice the
+ price. The swing of this pendulum recurs regularly and creates some of the greatest
+ opportunities to lose or gain. Thus we must always be mindful.
+
+ The Importance - and Shortcomings - of Investment Memory
+
+ A number of my favorite quotations are on the subject of history and memory, and I've
+ used them all in past memos. Humorist and author Mark Twain talked about the
+ relevance of the past:
+
+ History doesn't repeat itself, but it does rhyme.
+
+ The philosopher Santayana stressed the penalty for failing to attach sufficient importance
+ to history:
+
+ Those who cannot remember the past are condemned to repeat it.
+
+ And economist John Kenneth Galbraith described the shabby way investors treat history
+ and those who consider it important:
+
+ Contributing to . . . euphoria are two further factors little noted in our time
+ or in past times. The first is the extreme brevity of the financial memory.
+ In consequence, financial disaster is quickly forgotten. In further
+ consequence, when the same or closely similar circumstances occur again,
+ sometimes in only a few years, they are hailed by a new, often youthful,
+ and always supremely self-confident generation as a brilliantly innovative
+ discovery in the financial and larger economic world. There can be few
+ fields of human endeavor in which history counts for so little as in the
+ world of finance. Past experience, to the extent that it is part of memory at
+ all, is dismissed as the primitive refuge of those who do not have the
+ insight to appreciate the incredible wonders of the present.
+
+ String together these three pearls of wisdom and you get a pretty accurate picture of
+ investment reality. Past patterns tend to recur. If you ignore that fact, you're likely
+ to fall prey to those patterns rather than benefit from them. But when markets get
+ cooking, the lessons of the past are readily dismissed. These are nothing short of
+ eternal verities, and their collective message is indispensible.
+
+ Why Does Investment Memory Fail?
+
+ Think back to the emotions you felt so strongly during the recent financial crisis, and the
+ terrifying events that brought them on. You swore at the time that you'd never forget,
+ and yet their memory has receded and nowadays has relatively little influence on your
+ decisions. Why does the collective memory of investment experiences - and especially
+ the unpleasant ones - fade so thoroughly? There are a number of reasons.
+
+ First, there's investor demographics. When the stock market declined for three
+ straight years in 2000-02, for example, it had been almost seventy years since that had
+ last happened in the Great Depression. Clearly, very few investors who were old
+ enough to experience the first such episode were around for the second.
+
+ For another example, I believe a prime contributor to the powerful equity bull market
+ of the 1990s and its culmination in the tech bubble of 1999 was the fact that in the
+ quarter century from 1975 through 1999, the S&P 500 saw only three minor annual
+
+ declines: 6.4% in 1977, 4.2% in 1981, and 2.8% in 1990. In order to have
+ experienced a bear market, an investor had to have been in the industry by 1974,
+ when the index lost 24.3%, but the vast majority of 1999's investment professionals
+ doubtless had less than the requisite 26 years of experience and thus had never seen
+ stocks suffer a decline of real consequence.
+
+ Second, the human mind seems to be very good at suppressing unpleasant
+ memories. This is unfortunate, because unpleasant experiences are the source of the
+ most important lessons. When I was in army basic training, I was sure the memories
+ would remain vivid and provide material for a great book. Two months later they had
+ disappeared. After the fact, we may remember intellectually but not emotionally: that
+ is, the facts but not their impact.
+
+ Finally, the important lessons of the past have to fight an uphill battle against
+ human nature, and especially greed. Memories of crises tell us to apply prudence,
+ patience, moderation and conservatism. But these things seem decidedly outdated
+ when the market's in a bull phase and risk bearing is paying off, and if practiced they
+ appear to yield nothing but opportunity costs.
+
+ Charlie Munger contributed a great quote to my recent book, from Demosthenes:
+ "Nothing is easier than self-deceit. For what each man wishes, that he also believes
+ to be true." In other words, there's a powerful tendency to believe that which
+ could make one rich if it were true.
+
+ I've tried to spend the last 42 years with my eyes open and my memory engaged. As a
+ result, a lot of what I write is based on recognition of past patterns. It's time to put my
+ recollections to work, because I'm definitely seeing a trend in the direction of Galbraith's
+ "same or closely similar circumstances."
+
+ The Not-So-Distant Past
+
+ It seems it was impossible - unless you were John Paulson - to escape entirely unscathed
+ from the financial crisis of 2007-08. Most investors could only hope to have turned
+ cautious in the run-up to the crisis, sold assets, increased the defensiveness of their
+ remaining holdings, reduced or eschewed leverage, and secured capital with which to buy
+ at the bottom in order to benefit from the subsequent recovery.
+
+ What might have prompted investors to do these things in advance of the mid-2007 onset
+ of the crisis? Almost no one fully foresaw the impending subprime meltdown, and few
+ macro-forecasts and market analyses were sufficiently pessimistic. Rather, I think
+ investors would have been most likely to take the appropriate actions if they were aware
+ of the pro-risk behavior taking place around them.
+
+ One of the most important things we can do is take note of other investors' attitudes
+ and behavior regarding risk. Fear, worry, skepticism and risk aversion are the things
+ that keep the market at equilibrium and prospective returns fair. When investors fear loss
+ appropriately, too-risky deals can't get done, and risky investments are required to offer
+ high prospective returns and generous risk premiums. (And when fear reaches extreme
+ levels during crises, the capital markets turn too stingy, asset prices sink too low, and
+ potential returns become excessive.)
+ But when investors don't fear sufficiently - when they're risk tolerant rather than risk
+ averse - they let down their guard, surrender their discipline, accept rosy projections,
+ enter into unwise deals, and settle for too little in the way of prospective returns and risk
+ premiums.
+ The years immediately preceding the onset of the crisis in mid-2007 constituted
+ nothing short of a "silly season." It seemed the financial world had gone crazy, with
+ deals getting done that were beyond reason. Investors acted as if risk had been banished.
+ They believed that the markets had been rendered safe by the combination of (a) an
+ omniscient, omnipotent Fed providing a "Greenspan put," (b) the wonders of
+ securitization, tranching and selling onward and (c) the "wall of liquidity" coming toward
+ our markets, composed of excess reserves being recycled by China and the oil-producing
+ nations. They accepted the alchemy under which financial engineering could turn sub-
+ prime mortgages into triple-A debt. And they viewed leverage as sure to have a salutary
+ effect on returns.
+
+ There's nothing more risky than a widespread belief that there's no risk . . . but
+ that's what characterized the investment world. It was possible to conclude in 2005-
+ 07 that investors were applying insufficient risk aversion and thus engaging in risky
+ behavior, elevating asset prices, reducing prospective returns, and raising risk levels.
+ What were the signs?
+
+ The issuance of non-investment grade debt was at record levels.
+ An unusually high percentage of the issuance was rated triple-C, something that's not
+ possible when attitudes toward risk are sober.
+ "Dividend recaps" went unquestioned, with buyout companies borrowing money with
+ which to pay dividends, vastly increasing their leverage and reducing their ability to
+ get through tough times.
+ Credit instruments were increasingly marked by few or no covenants to protect
+ lenders from managements' machinations, and by interest payments that could be
+ made with debt rather than cash at the companies' discretion.
+ Collateralized loan and debt obligations were accepted as being respectable
+ instruments - with the risk made to vanish - despite the questionable underlying
+ assets.
+ Buyouts of larger and larger companies were done at increasing valuation multiples,
+ with rising debt ratios and shrinking equity contributions, and despite the fact that the
+ target companies were increasingly cyclical.
+
+ Despite all of these indications of falling credit standards and rising riskiness, the
+ yield spread between high yield bonds and Treasury notes shrank to record lows.
+ The generous capital market conditions and low cost of capital for borrowers caused
+ buyout fund managers to describe the period as "the golden age of private equity."
+ Conversely, then, for lenders it was the pits.
+
+ In 2005-07, investors suspended skepticism and disbelief, ignored the risk of loss,
+ and obsessed instead about avoiding the risk of missing opportunities. This caused
+ them to buy securities at low implied returns; employ vast amounts of low-cost debt to
+ lever up those returns; loosen the terms on debt they would provide; and participate in
+ black-box vehicles on the basis of investment banks' recommendations, the
+ nontransparent machinations of financial engineers, and the imprimatur of far-from-
+ perfect rating agencies.
+
+ In short, investors were oblivious to risk and thus failed to demand adequate
+ risk premiums. The environment could only be described as euphoric. Here's
+ how I put it in "It Is What It Is" (March 2006):
+ The skinniness of today's risk premiums can be observed most clearly in
+ the high yield bond market, where prospective returns can be calculated
+ with precision and yield spreads are in the vicinity of historic lows, and in
+ certain real estate markets, where actual cash returns are similarly low.
+ But the difficulty of quantifying prospective returns in public and private
+ equity doesn't mean the offerings there are any less paltry. And, as Alan
+ Greenspan said, ". . . history has not dealt kindly with the aftermath of
+ protracted periods of low risk premiums."
+
+ Market Conditions Today
+
+ In May 2005, I wrote a memo entitled "There They Go Again," complaining that
+ investors were taking excessive comfort from mindless platitude of the type that
+ accompany and abet the creation of every bubble. These are accepted as a substitute for
+ putting rational intrinsic valuations on the assets that are the subject of the bubble, and
+ despite repeated evidence that trees can't grow to the sky. I touched on the mania for real
+ estate, as well as the growing popularity of hedge funds and private equity. I went on to
+ assert that this behavior - and the supportive underlying capital market trends - had
+ turned the markets into a "low-return world."
+
+ I recite all of this because I have no doubt that investors are making substantial
+ movement back in the same direction. To illustrate, here's an account of capital
+ market conditions in 2011 (Bridgewater Daily Observations, February 15):
+
+ Consistent with the pickup in credit creation that we have seen elsewhere, LBO
+ activity and the credit pipes that are supporting it have recently improved. Since the
+ first quarter of 2010 we have seen a steady rise in LBO activity, starting from a very
+
+ low base. The rate of activity is now roughly similar to the average level of activity
+ since 1985, excluding the boom and bust period of 2006 to 2009. . . . today's deals
+ are similar in size but the number of deals has risen by more than the dollar value of
+ deals. We also see that the leverage in the deals is increasing. For example, so far
+ this year the average deal was financed with 30% equity, down from last year's 38%,
+ though still up from the most leveraged period of 2005 to 2009 when deals were
+ financed with an average of 25% equity. The leveraged loan market has also picked
+ up and an increasing percentage of leveraged loans are going toward LBOs. A few
+ new CLOs and mutual funds have been created that are concentrated on the leveraged
+ loan market, indicative of renewed demand. Investor demand has pushed prices back
+ up to par and allowed a decline in the average credit quality of the loans, with
+ increasing indications of "covenant light" loans getting done.
+
+ In other words, in most regards the capital markets - and investors' tolerance of risk - are
+ retracing their steps back in the direction of the bubble-ish pre-crisis years. Low yields,
+ declining yield spreads, rising leverage ratios, payment-in-kind bonds, covenant-lite debt,
+ increasing levels of LBO activity and the beginnings of the return of levered, structured
+ vehicles . . . all of these are available for the eye to see.
+
+ For a case in point, let me recap a note I received from one of our veteran high yield bond
+ analysts regarding a deal that recently had come to market:
+
+ PIK/toggle bonds: the company can elect to pay interest in debt rather than cash
+ Holdco obligation: debt of a holding company, removed from the moneymaking
+ assets
+ Use of proceeds: to pay a dividend to the equity sponsor, returning half of the equity
+ it put into the company just a few months earlier
+ The sponsor's purchase price for the company in 2010 was 1.45 times what the seller
+ had bought it for in 2008
+ The company operates in a commodity industry where annual sales are shrinking and
+ costs are variable and unpredictable
+ Negative earnings comparisons are expected, since the environment makes it hard to
+ pass on rising raw material costs
+ EBITDA coverage of interest expense plus capital expenditures is modestly above 1x
+ The company is incorporated in Luxembourg, an uncertain bankruptcy environment
+ The assessment of Oaktree's Sheldon Stone: "I know they don't ring a bell at the top,
+ but they should on this deal!"
+
+ It's easy to gauge bond investors' attitudes. Here are the yield to maturity and yield
+ spread versus Treasurys on the average high yield bond at a few points in the recent past
+ and today:
+
+ Yield to Spread vs.
+ Maturity Treasurys
+
+ The yield spread on the average high yield bond is still on the generous side relative to
+ the 30-year norm of 350-550 basis points, a range of spreads that has given rise to
+ excellent relative returns over that period. On the other hand, (a) spreads have fallen
+ back to the normal range from the crisis-induced stratosphere and (b) the lowness of
+ today's interest rates means that reasonable spreads translate into promised returns that
+ are low in the absolute. The story's the same for many asset classes.
+
+ I don't mean to pick on high yield bonds. I use them here as my prime example only
+ because of my familiarity with them and because their fixed-income status facilitates
+ quantification of attitudes toward risk. In fact, high yield bonds still deliver above
+ average risk compensation, and they remain the highest returning contractual instruments
+ and excellent diversifiers versus high grade bonds.
+
+ If you refer back to a memo called "Risk and Return Today" (November 2004), you'll
+ see that today's expected returns and risk premiums - especially on the left-hand side of
+ the risk/return spectrum - are eerily similar to those prevailing in late 2004: money
+ market at 1%; 5-year Treasurys at 3%; high grade bonds at 5%; high yield bonds at 7%;
+ stocks expected to return 6-7%. I said at the time that low base interest rates and
+ moderate demanded risk premiums had combined to render the risk/return curve "low
+ and flat." In other words, absolute prospective returns were at modest levels, as were the
+ return increments that could be expected for taking on incremental risk. I described that
+ environment as "a low-return world." I think we're largely back there.
+
+ (Please note that late 2004 was nowhere near the cyclical peak. Security prices continued
+ to rise and prospective returns to fall for two and a half years thereafter. In particular, in
+ the 30 months following the publication of that memo, high yield bonds went on to return
+ a total of 19.7%. So similarities to 2004 don't constitute a sign of impending doom, but
+ perhaps a foreshadowing of a potential move into bubble territory.)
+
+ I want to state very clearly that I do not believe security prices have returned to the
+ 2006-07 peaks. It doesn't feel like the silly season is back in full. Investors aren't
+ euphoric. Rather they seem like what my late father-in-law used to call "handcuff
+
+ volunteers" - people who do things because they have no choice. They're also not
+ oblivious to the risks that exist. I imagine the typical investor as saying, "I'm not happy,
+ but I have to buy it." Finally, the leverage used at the peak of risk-prone pursuit of return
+ in 2005-07 isn't nearly as prevalent today, perhaps because investors are chastened, but
+ more likely because it's not available in the same amounts.
+
+ There may be corners of the market where elevated popularity and enthusiastic buying
+ have caused prices to move beyond reason: high-tech stocks, social networks, emerging
+ markets from time to time, perhaps gold and other commodities (what's the reasonable
+ price for a non-cash-flow-producing asset?) But for the most part, I think investors are
+ taking the least risk they can while assembling portfolios that they think can achieve their
+ needed returns or actuarial assumptions.
+
+ In general, I would describe most security prices as falling somewhere between fair
+ and full. Not necessarily bubbly, but also not cheap.
+
+ Especially since the publication of my book, people have been asking me for the secret to
+ risk control. "Okay, I'll read the 180 pages. But what's really the most important
+ thing?" If I had to identify a single key to consistently successful investing, I'd say
+ it's "cheapness." Buying at low prices relative to intrinsic value (rigorously and
+ conservatively derived) holds the key to earning dependably high returns, limiting risk
+ and minimizing losses. It's not the only thing that matters - obviously - but it's
+ something for which there is no substitute. Without doing the above, "investing" moves
+ closer to "speculating," a much less dependable activity. When investors are serene or
+ even euphoric, rather than discomforted, prices rise and we become less likely to find the
+ bargains we want.
+
+ So if you could ask just one question regarding an individual security, asset class or
+ market, it should be "is it cheap?" Oaktree's investment professionals try to ask it,
+ in different ways, every day.
+
+ And what makes for cheapness? In sum, the attitudes and behavior of others.
+
+ I try to get away from it, but I can't. The quote I return to most often in these memos,
+ even 17 years after the first time, is another from Warren Buffett: "The less prudence
+ with which others conduct their affairs, the greater prudence with which we should
+ conduct our own affairs." When others are paralyzed by fear, we can be aggressive. But
+ when others are unafraid, we should tread with the utmost caution. Other people's
+ fearlessness invariably translates into inflated prices, depressed potential returns
+ and elevated risk.
+
+ Today, pension funds and endowments simply can't achieve their goal of nominal returns
+ in the vicinity of eight percent if they keep much money in Treasurys or high grade
+ bonds, and they may not even expect public equities to be much help. They've moved
+ into high yield bonds, private equity and hedge funds . . . not because they want to, but
+
+ because they feel they have to. They just can't settle for the returns available on more
+ traditional investments. Thus their risk taking is in large part involuntary and perhaps
+ unenthusiastic.
+
+ So where do we stand today?
+
+ General interest rates are some of the lowest in history.
+ Yield spreads are about normal.
+ Returns on low-risk assets are reasonable in relative terms but skimpy in the absolute.
+ Investors are forced toward pro-risk behavior because of the lowness of returns in the
+ safer, low-risk portion of the risk/return curve.
+ Thus investors are jettisoning the conservatism they adopted at the depths of the
+ financial crisis, in many cases not out of choice.
+ Investors are once again engaging in risky behavior, albeit not at peak levels of
+ riskiness.
+
+ Those of us who calibrate our behavior based on what others are doing should
+ increase watchfulness and, as Buffett suggests, apply rising amounts of prudence.
+
+ How Did Things Get This Way?
+
+ Just two and a half years ago, in the depths of the financial crisis, I was convinced that
+ pro-risk psychology had undergone lasting damage. With investment banks, rating
+ agencies and financial engineers defrocked, no-lose investments collapsing, account
+ balances decimated and investors disillusioned, it seemed it might be years before market
+ psychology recovered. And yet markets began a dramatic recovery in early 2009,
+ investors have returned to bearing risk, and many indices are back in the vicinity of their
+ pre-crisis peaks. What's behind this turn of events?
+
+ In 2007 and 2008, governments around the world rushed to support financial institutions
+ and stimulate economies. They did this by making liquidity readily available and cutting
+ interest rates to near zero.
+
+ Everyone knew the rate cuts would stimulate the economy by encouraging borrowing and
+ reducing the cost of doing business, and that they would increase the profit margin in
+ lending, buttressing financial institutions. But I don't think anyone fully appreciated the
+ impact they would have on reviving pro-risk behavior.
+
+ In short, the rate cuts made it unrewarding to hold cash, T-bills and high grade bonds.
+ Investors looking for returns in line with their needs - or income on which to live - were
+ literally forced to move into riskier asset classes in pursuit of returns in excess of a few
+ percent.
+
+ Much of the money that normally would be invested in the giant Treasury market simply
+ couldn't stay there because the yields were so low. Thus large amounts flowed toward
+ smaller markets where they were quite capable of lifting prices. Nothing can reduce
+ returns, worsen terms or raise risk faster than "too much money chasing too few deals."
+ It's disproportionate flows of capital into a market that give rise to the disastrous
+ race to the bottom such as we saw in 2005-07. Greater sums are provided to weaker
+ borrowers at lower interest rates and with looser terms. Higher prices are paid for
+ assets: first less of a discount from intrinsic value, then the full intrinsic value, and
+ eventually premiums above intrinsic value. These processes account for many of the
+ trends decried here.
+
+ In addition, I would point out that the pain of the crisis was surprisingly short-lived. The
+ real panic began on September 15, 2008, the day Lehman Brothers filed for bankruptcy.
+ Until then, the world seemed to be coping and investors retained their equanimity. But
+ Lehman, Fannie Mae, Freddie Mac, Merrill Lynch, Washington Mutual and AIG fell like
+ dominoes in short order, and in the last fifteen weeks of 2008 people were paralyzed by
+ fear of a global financial meltdown.
+
+ And then things turned in the first quarter of 2009, primarily, I think, because people
+ were coerced to move further out on the risk curve as described above. Since then the
+ markets have risen dramatically from their lows.
+
+ In distressed debt, for example, the post-Lehman days and weeks were characterized by
+ terror, uncertainty, forced selling, illiquidity and huge mark-to-market losses. But if you
+ look back, you see that the panic and pain - and thus the greatest buying opportunity -
+ really lasted only fifteen weeks, through the end of 2008. Prices continued downward in
+ the first quarter of 2009, but without the deluge of supply brought on by the previous
+ quarter's forced selling. By April prices were headed up. So the lesson was painful but
+ short-lived and, apparently, easily forgotten.
+
+ As usual, the cyclical upswing is circular and self-reinforcing. It takes on the appearance
+ of a virtuous cycle that will proceed non-stop, and it does so . . . until it fails. Here's an
+ example of the process at work:
+
+ The pursuit of return caused people to move from Treasurys to high yield bonds.
+ The revival of demand enabled companies to raise money.
+ The reopening of the capital markets made it possible for companies to do bond
+ exchanges and refinancings: extending maturities, extinguishing covenants and
+ capturing bond discounts, converting them into reduced amounts of debt outstanding.
+ In some cases equity could be issued to delever balance sheets.
+ These remedial actions improved companies' creditworthiness and brought down the
+ default rate on high yield bonds from 10.8% in 2009 to a startling 1.1% in 2010, the
+ greatest one-year decline in history.
+
+ The resulting price appreciation produced profits for those who'd bought, turning
+ investor psychology more rosy and producing envy - and thus a rush to join in -
+ among those who had been slow to invest.
+ And the combination of these things convinced people that conditions had improved,
+ making them still more willing to take on increased risk.
+
+ I thought the lessons of 2007-08 had been etched into people's psyches, and that the
+ return to pro-risk behavior would therefore be slow. But clearly that hasn't been the case.
+
+ Prudent Behavior in a Low-Return World
+
+ The 2005 memo I mentioned earlier, "There They Go Again," proceeded from the
+ discussion of the low and flat risk/return curve contained in "Risk and Return Today" to
+ ponder what investors might do in times of low prospective returns and risk premiums.
+ The possibilities fell into just a few categories:
+
+ Go to cash - not a real alternative for most investors.
+ Ignore the lowness of absolute returns and pursue the best relative returns.
+ Forget that elevated prices might imply a correction, and buy for the long run.
+ Reach for return, going out further on the risk curve in pursuit of returns that used to
+ be available with greater safety.
+ Concentrate investments in "special niches and special people"; by this I meant
+ emphasizing strategies offering exceptional bargains and managers with enough skill
+ to wring value-added returns from assets of moderate riskiness.
+
+ Of all of these, I consider reaching for return to be the most flawed, especially if it's done
+ without being fully conscious (which is often the case when return becomes hard to come
+ by). I've described this approach as "insisting on achieving high returns in a low-return
+ world" and reminded people of Peter Bernstein's admonition: "The market's not a very
+ accommodating machine; it won't provide high returns just because you need them."
+
+ Here's what I wrote in May 2005:
+
+ Given today's paucity of prospective return at the low-risk end of the
+ spectrum and the solutions being ballyhooed at the high-risk end, many
+ investors are moving capital to riskier (or at least less traditional)
+ investments. But (a) they're making those riskier investments just when
+ the prospective returns on those investments are the lowest they've ever
+ been; (b) they're accepting return increments for stepping up in risk that are
+ as slim as they've ever been; and (c) they're signing up today for things
+ they turned down (or did less of) in the past, when the prospective returns
+ were much higher. This may be exactly the wrong time to add to risk in
+ pursuit of more return. You want to take risk when others are fleeing from
+ it, not when they're competing with you to do so.
+
+ Even six years later, I can't think of any responses to a low-return world beyond those
+ enumerated above. Limit risk, sacrificing return. Accept risk in pursuit of return, and
+ pray the consequences will be tolerable. Or strive to find ways to augment returns
+ through means other than risk bearing.
+
+ None of these possible solutions is perfect and without pitfalls. In fact, each brings
+ its own form of risk. Staying safe entails the risk of inadequate return. Reaching
+ for return increases the risk of financial loss. And the search for "alpha" managers
+ introduces the risk of choosing the wrong ones. But, as they say, "it is what it is."
+ When it's a low-return world, there are no easy solutions devoid of downside.
+
+ The Right Approach for Today
+
+ One of the things that makes investing interesting is the ever-changing nature of the
+ route to profit, the pitfalls that are present, and the tools and approaches that
+ should be employed. Conscious decisions regarding these things should underlie all
+ efforts to manage capital, and they must be revisited constantly as circumstances and
+ asset prices change. What's right today?
+
+ First, should you prepare for prosperity or not? By prosperity I mean a return to the
+ happy days of the 1980s and '90s, when reported economic growth was strong and
+ consumers were eager to spend. My answer is that we're not likely to see anything like
+ that, in large part because in those decades the gap between stagnant incomes and
+ vigorous consumption growth was bridged through buying on credit. Instead, in the
+ years ahead I think (a) growth in employment and incomes will be sluggish, (b)
+ consumers should be restrained in their borrowing as a result of having experienced the
+ crisis, (c) consumer credit shouldn't be available as readily, and (d) borrowing against
+ home equity will be much less of a factor, especially because home equity is so scarce.
+
+ Second, should you worry more about losing money or about missing opportunities?
+ This one's easy for me. First, the macro uncertainties tell me we won't be seeing a
+ highly effervescent economy or market environment. Second, other people's
+ increasingly aggressive behavior tells me to seek cover. And third, since I don't see
+ many compellingly cheap assets, I doubt there will be gains big enough to make us kick
+ ourselves for having invested too cautiously.
+
+ And that brings me to my third question: what tools should you employ? In late
+ 2008 and early 2009, you needed just two things to achieve big profits: money to commit
+ and the nerve to commit it. If you had caution, conservatism, risk control, discipline and
+ selectivity, you probably achieved lower returns than otherwise (although having factored
+ those things into your analysis might have given you the confidence needed to implement
+ favorable conclusions in that terrible environment). The short answer was simple: money
+ and nerve.
+
+ But what if you had money and nerve in 2006 or early 2007? The results would have
+ been disastrous. In those times you needed caution, conservatism, risk control, discipline
+ and selectivity to stay out of trouble. In short, when the market is defaulting on its job
+ of being a disciplinarian, discernment becomes our individual responsibility.
+
+ So then, which is the right set of equipment for today? I think we're back to needing the
+ cautious attributes, not the aggressive. An unusually large number of thorny macro
+ issues are outstanding, including:
+
+ the so-so U.S. recovery;
+ the U.S.'s deficit, debt ceiling impasse and dysfunctional political process;
+ the economic impact of deleveraging and austerity;
+ the over-indebtedness of peripheral eurozone countries;
+ the possibility of rekindled inflation and rising interest rates;
+ the uncertain outlook for the dollar, euro and sterling; and
+ the instability in the Middle East and resulting uncertainty over the price of oil.
+
+ With all of these, plus prices that are fair to full and investor behavior that has increased
+ in aggressiveness, I would rather gird for the things that can go wrong than ensure
+ maximum participation if things go right. (Of course that's not an unfamiliar refrain
+ from me.)
+
+ The other day, the investment committee of a non-profit on which I sit decided to take the
+ first steps toward marshaling resources and managers so as to be ready to buy into
+ beaten-down assets after the next round of bubble and bust. And it wasn't even my idea!
+
+ We can never be sure what will happen - and certainly not when - but it's
+ important to be prepared for what's likely to lie ahead. And understanding the
+ inevitable pendulum swing in the way investments are viewed - from weeds to
+ flowers and back - is an essential ingredient in being able to do so.
+
+ P.s.: I hope you'll consider rereading "Risk and Return Today" (November 2004) and
+ "There They Go Again" (May 2005) (see Hopefully
+ they'll strengthen the case for reflecting on past patterns and help you think through the
+ current conditions. You might also take a look at "The Cat, the Tree, the Carrot and the
+ Stick" in "What's Going On" (May 2003) for a metaphorical look at the process of risk
+ acceptance. Today's echoes of those past times are worth noting.
+
+
+Memo: Down to the Wire.
+
+Here are the ingredients in the plot: A problem everyone's aware of. If it isn't resolved,
+ a shutdown with unspecified but possibly disastrous consequences. A deadline which
+ seems indispensable, since in its absence it appears nothing would be done. And despite
+ the presence of the oncoming freight train, movement toward a solution is deterred by
+ highly entrenched positions. It's truly white-knuckle time, and if the progress toward a
+ solution continues to lag, the things that must happen won't.
+
+ I'm not talking about the nearly concluded drama at the National Football League, where
+ failure to reach a labor settlement for just a few more days would have caused significant
+ changes in the schedule for the coming year, upsetting the flow of wealth to owners and
+ players and depriving fans of the game they love. I'm talking about the down-to-the-wire
+ battle over the U.S. debt ceiling. I've decided to devote a memo to the debt issue and its
+ significance. I especially hope it'll be helpful to our non-U.S. clients, for whom the lack
+ of progress to date must be absolutely incomprehensible.
+
+ Interestingly, the immediate debt crisis is somewhat artificial. It is occasioned now only
+ because of our debt ceiling, which currently limits the net debt of the United States to
+ $14.29 trillion. Such ceilings are far from the norm worldwide. Many other nations
+ seem to function no worse without them.
+
+ But the U.S. has the historical accident of a ceiling, and we must deal with it. Because
+ the limitation is set in terms of absolute dollars and not indexed for inflation or growth,
+ we would run into it every few years even if our debt only grew apace with the economy.
+ "In fact, it's been raised nearly 100 times over the decades." (Financial Times, July 16)
+ But thanks to the especially rapid growth of our debt relative to GDP in recent years -
+ exacerbated by the Afghan and Iraq wars and the financial crisis - the ceiling has the
+ potential to provide some real excitement every once in a while.
+
+ The Relentless Growth of Debt
+
+ Greece, Ireland, Portugal, Spain, Italy, Iceland, the U.S., California . . . the list of
+ governments with debt problems is long and grows longer. The issue has flared up in the
+ last fifteen months and is often in the headlines nowadays.
+
+ And yet, the general conditions causing the concern are nothing new. The deficits and
+ debt that worry people today have existed for a good while: similar in kind albeit perhaps
+
+ not in degree. This merely shows that in the economic/investment world, what matters
+ most in the short run isn't necessarily what's true but, rather, what's on people's minds.
+
+ Serious attention began to be paid to government debt in April 2010, when the Greek
+ crisis burst into the news. Prior to that, no one seemed to worry about the way Greece -
+ like many other countries - increased its budget deficit and national debt each year
+ relative to its GDP. Banks and investors around the world were perfectly willing to
+ extend credit without limitation based on Greece's strong EU-backed credit rating, and
+ without thought as to whether there was any prospect for Greece ever paying down the
+ debt, or even slowing its growth or growing out of it.
+
+ If you ask me, one of the most pronounced trends in the global economy over the course
+ of my 42-year career has been the growth in the use of credit. And it's not just
+ governments that have vastly expanded their use of credit over this period.
+
+ If I wanted to buy something upon my arrival at college in 1963, I had two choices: I
+ could spend money I had in my pocket, or I could write a check against money I had in
+ the bank. The one thing I couldn't do - now here's a radical concept - is spend money I
+ didn't have. As a result, I had no way to buy things I couldn't afford.
+
+ But then, around 1967, Bank of America came out with the first credit card, the
+ BankAmericard, and First National City Bank countered with The Everything Card.
+ (When I was hired into FNCB that year for my first summer job, it was to go door-to-
+ door trying to convince merchants to accept the card. But then volume on the New York
+ Stock Exchange spiked to 25 million shares a day and banks like FNCB couldn't keep up
+ with the related paperwork; thus I was assigned instead to a task force whose job it was to
+ eliminate bottlenecks in the back office. But that's another story.)
+
+ Before the BankAmericard and The Everything Card, the only plastic in circulation
+ consisted of T&E ("travel and entertainment") cards - American Express, Diners Club
+ and Carte Blanche - which generally were limited to people in the upper economic strata
+ and had to be paid off each month. It was only in the last forty years that we've seen the
+ morphing of BankAmericard into Visa and The Everything Card into MasterCard. With
+ them came the ability of consumers to maintain an outstanding balance. Now it was easy
+ for people to buy things they couldn't afford. And so they did.
+
+ When I was a boy, as I recall, owing money was considered undesirable and debts were
+ generally expected to be paid off. When people bought homes, they put down 30% and
+ took out thirty-year mortgages to finance the rest. They made level payments that
+ included a substantial principal component that grew over time, eventually extinguished
+ their debt, invited their friends over for mortgage-burning parties, and owned their homes
+ free and clear in time for retirement.
+
+ But attitudes toward debt underwent significant change, and in the last forty years we've
+ seen the following:
+
+ Vast expansion of the use of credit cards, the balances on which are never
+ expected to be paid off.
+ Innovative mortgages requiring little or no principal amortization; reverse
+ mortgages, where you owe more at the end than the beginning; declining down
+ payment requirements; and eventually the availability of mortgage loans
+ exceeding purchase prices.
+ Home equity loans enabling owners to drain off any equity in their homes. Fifty
+ years ago these were called second mortgages, and people who had them were
+ considered by their neighbors to be in financial trouble.
+ Growth in corporate debt, and the extension of borrowing power to companies
+ with "speculative" credit ratings.
+ The development of the commercial paper market, where companies could access
+ "permanent" capital with maturities measured in days, on the assumption that the
+ paper could always be rolled over.
+ Creation of highly levered investment entities.
+ Vastly increased steady-state borrowing on the part of nations, whereas,
+ previously, deficit spending had been limited to occasional efforts to fight
+ recession through stimulus.
+
+ What's the upshot of all of this? For the last several years, as I've visited with clients
+ around the world, I've described the typical American as follows (exaggerating for effect,
+ of course): He has $1,000 in the bank, owes $10,000 on his credit card, makes $20,000 a
+ year after tax, and spends $22,000. And what do lenders do about this? They mail him
+ additional credit cards.
+
+ Most people laugh - perhaps uncomfortably - when they hear this. But no one says it's
+ inaccurate or benign. The bottom line is that consumer credit has been extended without
+ any thought for how the full balance might ever be paid off. As long as the borrower is
+ able to make monthly payments covering the interest and a tiny bit of principal, the
+ situation is considered acceptable. But that's not my version of fiscal health.
+
+ So now let's jump from the top of the above list of developments to the bottom. In much
+ the same way, credit has been available to governments deemed creditworthy without
+ limit and without concern for the fact that:
+
+ Countries were constantly spending more than they were taking in.
+ Their deficits were growing non-stop relative to GDP.
+ Their national debts likewise were expanding relative to GDP.
+ In other words, repayment of principal was absolutely unimaginable.
+
+ One of the most striking aspects of debt in the modern era is that little if any
+ attention is paid to repayment of principal. No one pays off their debt. They merely
+ roll it over . . . and add to it. Thus credit ratings are highly deficient (shocker!) in a way
+ that few people talk about. What ratings describe isn't the borrower's ability to repay
+ principal, but its ability to make interest payments and refinance principal. But the
+ assessment of their ability to roll their debt - likewise - isn't based on an ability to repay,
+ but rather to refinance again. So ultimately the security of capital providers stems not
+ from the borrower, but from the continued willingness of other capital providers to roll
+ debts in the future. (It was their occasional refusal in 2007-08 that caused the worst
+ moments of the financial crisis.)
+
+ With no one asking how debt could be repaid, nations were allowed for decades to
+ increase their deficits and debt non-stop relative to their GDP. And then, in the first
+ quarter of 2010, the little boy stepped out from the crowd, took note of the
+ emperor's non-existent new clothes, and said "Hey, wait a minute: Greece will never
+ be able to repay even the debt it has, forgetting that it takes on more all the time. Its
+ economy is non-competitive and stagnant, and tax compliance is non-existent. They
+ shouldn't be able to borrow."
+
+ That's all it took. Greece was denied further credit. And then people took a look around
+ peripheral Europe and saw more of the same. Today, although the situation is nowhere
+ as dire, they're also looking at the U.S. and some of its states.
+
+ It's Not the Ceiling
+
+ In June, the debt of the U.S. reached the ceiling, meaning no more could be issued.
+ That's bad news for a country that continuously spends more than it takes in. Thus the
+ deadline imposed by the debt ceiling has brought the issue to the forefront. (If the debt
+ limit was reached in June and we've continued to spend more than our revenues, how
+ have we financed the shortfall? The federal government has borrowed from federal
+ retirement funds; the courts ruled in the past that when we do this, it's not an expansion
+ of our net debt, since America is borrowing "from itself." The well-known deadline of
+ August 2 is the date on which the capacity for borrowing in this way is projected to be
+ exhausted.)
+
+ The problem isn't the ceiling, it's our behavior. The debt ceiling merely imposes a
+ discipline that our national leaders should provide but generally haven't. On this note, in
+ his press conference on July 15, when asked about conservatives' insistence on a
+ balanced-budget amendment to the Constitution, President Obama replied, "We don't
+ need a constitutional amendment to do that [balance the budget]; what we need to do is to
+ do our jobs." But clearly we do need some enforced discipline, because the years in
+ which we haven't run a deficit have been by far the exception of late, not the rule.
+
+ The U.S. has run deficits almost every year since World War II, with prominent surpluses
+
+ Go back a few decades, and the characterizations of the two political parties were fairly
+ well established. The Democrats stood for progressive taxation (meaning a higher
+ percentage burden on top earners) and more government spending, especially in aid of
+ those in need. The Republicans were the party of strong defense, small government,
+ fiscal responsibility and balanced budgets.
+
+ More recently, neither party has shown resolute fiscal discipline. Both have added
+ unfunded programs. Tax reduction has been discovered as a growth stimulant. The
+ upward march of our deficit and debt has been nearly uninterrupted.
+
+ We've seen the enactment of spending programs without providing for increased
+ revenues to pay for them, and cuts in taxes without corresponding reductions in spending.
+ As President Obama put it on July 15:
+
+ . . . we cut taxes without paying for them over the last decade; we ended up
+ instituting new programs like a prescription drug program for seniors that was
+ not paid for; we fought two wars, we didn't pay for them; we had a bad recession
+ that required a Recovery Act and stimulus spending and helping states . . .
+
+ The blame isn't limited to one party. The increases in deficits and debt took place when
+ both Democrats and Republicans were in power, and while control of government was
+ both divided and in the hands of a single party.
+
+ It seems apparent that in recent decades, politics has become more partisan, and
+ solving the nation's problems has taken a back seat to adhering to ideology and
+ getting re-elected. And what gets people elected? Promises of more: more benefits
+ without increased taxation, and more take-home pay without reduced largesse.
+ Only recently have large numbers of politicians begun to face the music, admitting
+ that the government has to either do less or charge people more or both.
+
+ Obstacles to a Solution
+
+ From my point of view, so much that's illogical is going on regarding these issues that I
+ sometimes find it hard to get my head around the current "debate" (if we can call it that
+ when so few people are conversing). Here's what I think is the logic of the situation
+ (with data from FactCheck, July 15):
+
+ Expenditures have risen relative to the economy even as revenues have declined.
+
+ Washington's spending has recently been higher as a percentage
+ of the nation's economic output than at any time since World
+ War II. But by the same measure, Washington's revenues are the
+ lowest in more than 60 years.
+
+ The government is spending far more than it brings in. The current deficit is in
+ excess of $1 trillion, and "the U.S. is borrowing about 36 cents of every dollar
+ spent so far this year. It borrowed 37 cents on the dollar last year, and 40 cents in
+
+ There's no way to change these facts in the short run. In particular:
+
+ The largest components of federal spending are Social Security
+ and Medicare programs for the elderly (33.5 percent of total
+ outlays in 2010) and national defense (20.1 percent). Interest
+ payments on federal debt . . . accounted for 5.7 percent of all
+ federal spending.
+
+ Thus revenues (which equate to 64% of spending) just slightly more than cover
+ the 59.3% of the budget that went for these inescapable expenditures. What about
+ cutting programs that are unpopular and more discretionary? That wouldn't
+ accomplish much:
+
+ Foreign aid . . . amounts to less than 1 percent of the entire
+ budget. . . . All agriculture programs - including farm subsidies
+ - make up just over one-half of 1 percent.
+
+ When deficit spending is unavoidable, we have to borrow.
+
+ Since we're at the current debt ceiling, continuing to borrow requires that the
+ ceiling be raised.
+
+ If the ceiling isn't raised and we can't borrow, we won't be able to make good on
+ all of our obligations. Someone will have to go unpaid: employees, creditors,
+ soldiers, retirees, vendors, etc. I don't think anyone believes we can make good
+ on all of our obligations without borrowing.
+
+ Thus we have to solve this immediate problem. We can enact spending cuts
+ and/or tax increases, but invariably these things will only take effect over the long
+ run. In the short run we have no choice but to raise the debt ceiling and keep
+ borrowing.
+
+ * * *
+
+ When the House of Representatives is under the control of one party and the
+ other party is in charge of the Senate and the White House, solving gritty
+ problems requires compromise.
+
+ A compromise is defined as a solution in which both sides make sacrifices, giving
+ up some of what they want and making concessions to the other side that they
+ find distasteful. On July 14 The New York Times cited Sen. Alan Simpson on
+ President Ronald Reagan's pragmatic attitude toward compromise:
+
+ He had a rule: If you can agree on 80 percent, take it. He raised
+ taxes 11 times in eight years. He did it to make the country run.
+
+ But compromise runs directly against ideology and is incompatible with lines
+ drawn in the sand. Some of today's elected officials have pledged not to permit
+ any increases in taxes. Others have vowed to resist any cuts in entitlement
+ programs such as Social Security and Medicaid. Some even campaigned on
+ explicit promises not to compromise and not to raise the debt ceiling; for
+ people like these, reaching agreement would be a problem, not a solution.
+
+ Even among Republicans, it seems that some put the highest priority on balancing
+ the budget while others insist on shrinking the government. This creates a
+ fundamental intra-party conflict, since increasing government revenues represents
+ a way to accomplish the former but is in direct contravention of the latter. (See
+ "Anarchists and Tassel Loafers," The New York Times, July 14.)
+
+ There's another important difference of opinion; which is more important,
+ adherence to avowed principles or action to address the short-term problem?
+ Many politicians have made public pronouncements that render the two mutually
+ exclusive.
+
+ Thus to date enough people have refused to accord first priority to solving
+ the debt problem in the short term that a compromise solution has been
+ rendered unreachable.
+
+ * * *
+
+ The picture is complicated by the fact that any action to reduce the deficit and
+ related borrowing - be it through reduced spending or increased revenues - would
+ have a depressing impact on an economy that is already anemic.
+
+ Thus many people want to maintain or increase spending or cut taxes to stimulate
+ the economy, even though doing so would exacerbate the problems of deficit and
+ debt in the short run.
+
+ There is considerable disagreement over which would be worse for the economy:
+ a $1 reduction in government spending or a $1 dollar increase in taxes?
+ Economics is too imprecise to produce a definitive conclusion. And economists
+ have ideologies, too; Republican economists tend to describe revenue increases as
+ more harmful, while Democratic economists are more likely to resist spending
+ cuts.
+
+ * * *
+
+ If the debt ceiling isn't raised, as I said, some people will have to go unpaid.
+ Among the candidates are our nation's creditors. Failure to pay creditors is called
+ default.
+
+ Some lawmakers believe that, even if the ceiling isn't raised, we'll manage to pay
+ creditors and avoid default.
+
+ At least until recently, and perhaps still, some of those involved have been
+ unconvinced that failure to act would have grave consequences.
+
+ At a closed-door meeting Friday morning [July 15], GOP leaders
+ turned to their most trusted budget expert, Rep. Paul D. Ryan of
+ Wisconsin, to explain to rank-and-file members what many
+ others have come to understand: A fiscal meltdown could occur if
+ Congress fails to raise the debt ceiling. House Speaker John A.
+ Boehner of Ohio underscored the point to dispel the notion that
+ failure to allow more borrowing is an option. "He said if we pass
+ Aug. 2, it would be like 'Star Wars,' " said Rep. Scott DesJarlais,
+ a freshman from Tennessee. "I don't think the people who are
+ railing against raising the debt ceiling fully understand that." (Los
+ Angeles Times, July 16)
+
+ * * *
+
+ If the U.S. defaults on its debt, our credit rating will likely be cut from triple-A.
+ But there may be people who don't believe this, while others seem unconvinced
+ that it would be a serious development.
+
+ I believe, however, that (a) our rating will be cut if there's a default, (b) this
+ would have serious repercussions for our cost of borrowing, and (c) even if we
+ were able to avoid default and/or downgrade, the feeling that our political leaders
+ had engaged in irresponsible action could reduce lenders' view of our credit and
+ increase our cost of borrowing anyway. I strongly doubt the dollar can remain
+ the world's reserve currency, of which unlimited amounts are accepted,
+ without unflinching adherence to the associated responsibilities.
+
+ Another thing I'm most sure of is that no one knows what the repercussions
+ of default and downgrade would be. They don't call economics "the dismal
+ science" for nothing. When some people warn of Armageddon, others feel
+ they're exaggerating for effect. There's no way to prove anything on this subject
+ other than by letting it happen.
+
+ Finally, I'm convinced that while it's not certain exactly what will happen if a
+ solution isn't reached, some of the possible results could be very negative.
+
+ This situation is incredibly complex and serious. I feel we need a compromise
+ solution, because I'm just not willing to conduct an experiment with consequences
+ that are unforeseeable and could be grave. But the events to date show us that
+ compromise solutions are assured only when there's a broad consensus that an agreement
+ is desirable, and that the consequences of not reaching one are worse than the
+ disadvantages of the compromise. Nothing tells me that such a consensus is prevalent
+ enough to guarantee that the underlying problem of deficit spending will be solved.
+
+ The Most Likely Outcome
+
+ If you want to get re-elected and suspect that failure to raise the ceiling might hurt your
+ chances - or if you just believe raising the ceiling would be good for the country - you
+ might agree to a compromise in the end. But, given the ideological divide, lawmakers
+ will be more likely to accept a compromise if there's less substance and less teeth in it.
+
+ Thus I think a solution will be reached. But given the complexity and difficulty of the
+ issue and the short time remaining before the deadline, it's unlikely to be either detailed
+ or iron-clad. The most likely outcome here is a short-term, stopgap solution. It
+ probably won't require the balanced-budget amendment desired by conservatives, the
+ broad spending cuts Republicans want, or the tax increases Democrats insist should be
+ part of any deal . . . some or all of which we clearly need.
+
+ In other words, the "solution" is unlikely to represent much fundamental progress;
+ for the most part it'll just kick the can down the road. It may call for a new
+ commission to study the problem, but:
+
+ the last commission came up with a plan that was hailed by the commission
+ members who were former elected officials, rejected by many of those still in
+ office (who have to face voters), and quickly forgotten, and
+
+ it's hard to believe that the likelihood of a plan being adopted will be greater
+ without the presence of a deadline for raising the debt ceiling, as opposed to
+ lower.
+
+ Progress will be touted, but much of it will be illusory. In that regard, I'm reminded of
+ the recently announced solution in the Minnesota budget stalemate. A good part of the
+ financial shortfall was bridged with an agreement to securitize and sell off payments
+ scheduled to be received in the future as a result of the tobacco settlement. But raising
+ money by selling assets doesn't permanently fix an excess of expenses over revenues.
+ That's like selling off manufacturing equipment to save a company that's operating in the
+ red. (Note that one of the things that keeps government from taking a "businesslike"
+ approach to fiscal issues is the fact that government accounting treats spending on capital
+ assets the same as expenses, and the proceeds from asset sales the same as revenues. No
+ business would join in these mistakes.)
+
+ Regardless of the exact methodology, I believe that any "solution" announced this month
+ will (a) fail to make fundamental improvement, and thus in the words of Rahm Emanuel
+ will let the current crisis - with its potential to compel real change - go to waste, (b)
+ delay any real action and (c) fail to reduce the likelihood of recurrence of the debt ceiling
+ problem.
+
+ * * *
+
+ What we need is this:
+
+ government expenditures that are limited to revenues, with the exception of
+ isolated instances of deficit spending designed to fight recession, where after the
+ deficits are promptly reversed by amassing surpluses, and
+
+ encouragement for economic growth that enables the pie to grow and government
+ to pay for its activities on a current basis.
+
+ Anything else would be a short-term palliative . . . or a continued exercise in imprudence.
+ Spending that grows no faster than GDP should be an imperative. Shrinking
+ government's share of the economy seems highly desirable. National debt that is
+ stable or declining as a percentage of GDP sounds compelling.
+
+ (In addition to balancing the budget and growing the economy, I think we have to accept
+ that the coming decades are likely to see U.S. standards of living decline relative to the
+ rest of the world. Unless our goods offer a better cost/benefit bargain, there's no reason
+ why American workers should continue to enjoy the same lifestyle advantage over
+ workers in other countries. I just don't expect to hear many politicians own up to this
+ reality on the stump.)
+
+ To close, I'm going to borrow some quotations and data from Michael Cembalest, Chief
+ Investment Officer of J.P. Morgan Private Bank (Eye on the Market, July 18):
+
+ The long-term threat:
+
+ . . . there are serious questions, most immediately about the sustainability
+ of our commitment to growing entitlement programs . . . the time we have
+ is growing short. (Paul Volcker, The New York Review of Books, June 24,
+
+ According to the CBO alternative case (tax cuts do not sunset as planned;
+ AMT keeps getting indexed to inflation; no Medicare cuts take place,
+ etc.), by the year 2024, entitlements plus interest spending will be equal to
+ total government revenue. Just 12 years ago, in 1999, the CBO estimated
+ that this would not happen until 2060. The crossing point has moved in by
+ 36 years.
+
+ In 1967, the government estimated that Medicare expenses would grow by
+ 7x by 1990 (unadjusted for inflation); they grew by 61x instead. In
+ addition to the lack of cost controls on entitlements, demographic changes
+ are a problem as well: the ratio of workers to Social Security recipients
+ has declined from 17-to-1 in 1950 to 3-to-1 today.
+
+ The short-term threat:
+
+ As the largest buyer and holder of U.S. Treasury bonds, we need to
+ seriously assess the risks. We hope that the U.S. government adopts a
+ serious policy to ensure the interests of the investors. (China Cabinet
+ Development Research Center, and the Chinese Foreign Ministry, after the
+ Moody's downgrade watch was announced and S&P reportedly told
+ lawmakers it might downgrade U.S. debt if payments were missed.)
+
+ The essential element in any real solution:
+
+ The country is so thoroughly given up to the spirit of the party, that not to
+ follow blindfolded the one or the other is an inexpiable offense. Between
+ both, I see the impossibility of pursuing the dictates of my own conscience
+ without sacrificing every prospect, not merely of advancement, but even
+ of retaining that character and reputation that I have enjoyed. Yet my
+ choice is made; I am at least determined to have the approbation of my
+ own reflections. (John Quincy Adams in his diary, on sticking to his
+ principles and supporting the British embargo, knowing that it would harm
+ his home state of Massachusetts and get him thrown out of the Federalist
+ party)
+
+ The world has awakened to the undesirability of ever-growing government debt.
+ Repairing the situation will require difficult decisions and great sacrifices, especially
+ on the part of lawmakers required to vote for unpopular solutions. This would be a
+ great time to start taking positive steps.
+
+
+Memo: What’s Behind the Downturn?.
+
+In May, I observed in "How Quickly They Forget" that investors had returned to pro-risk
+ behavior despite the lingering presence of significant macro worries. And then just three
+ months later, a number of exogenous events caused the markets to undergo a significant
+ decline and one of the greatest paroxysms of volatility ever seen. All of the reasons
+ existed well before. Investors simply hadn't taken them to heart.
+
+ I never cease to marvel, and complain, about the way investors flip-flop - focusing
+ on just the positives at one moment and just the negatives at another - and the
+ speed at which they do it. But I learned long ago not to be surprised by this
+ phenomenon or expect it to stop occurring, but instead to look past the market's behavior
+ and assess the underlying realities. Thus I decided to take the occasion of my summer
+ vacation to write a memo parsing the recent events and touching on the outlook.
+
+ Confluence
+
+ Markets usually do a pretty good job of coping with problems one at a time. When one
+ arises, analysts analyze and investors reach conclusions and calmly adjust their
+ portfolios. But when there's a confluence of negative events, the markets can become
+ overwhelmed and lose their cool. Things that might be tolerable individually combine
+ into an unfathomable mess whose extent and ramifications seem beyond analysis.
+ Market crises are chaotic, not orderly, and the multiplicity and simultaneity of
+ contributing causes play a big part in making them so.
+
+ That was certainly the case in the three crises we've lived through as investors in credit.
+ In addition to the recession and credit crunch that marked each one, we saw:
+
+ in 1990, the collapse of the most prominent leveraged buyouts of the 1980s; the Gulf
+ War, with Iraq's invasion of Kuwait and the allies' response; and the government's
+ crusade against high yield bonds, Drexel Burnham and Michael Milken;
+
+ in 2002, the aftermath of 9/11, including our invasion of Afghanistan; the unraveling
+ of the overbuilt fiber telecom industry; and the exposure of accounting scandals at
+ Enron, WorldCom and Adelphia and the fall of Arthur Andersen; and
+
+ in 2008, the sub-prime mortgage meltdown; the defrocking of tranching, leverage and
+ derivatives as constructive forces; the outing of credit rating agencies as no more
+
+ reliable than their models; the banks' major losses in off-balance-sheet investments;
+ and, as a result of all of the above, the collapse or rescue of a number of prominent
+ financial institutions and grave concern about the rest.
+
+ It's my sense that it was the simultaneous nature of these occurrences - in addition to, or
+ perhaps rather than, their force individually - that rendered the markets so incapable of
+ maintaining their equanimity.
+
+ Certainly that was the case in early August. For the first time in history, the Dow
+ Industrials either rose or fell by at least 400 points four days in a row. What was it that
+ sent the markets on that wild ride? I can think of a number of factors:
+
+ rising awareness of the import of the U.S.'s fiscal deficit, and the bitterly
+ disappointing display that played out in Washington as we approached the date on
+ which the debt ceiling would bind,
+ Standard & Poor's downgrading of U.S. government debt,
+ increasing worry about Europe's ability to deal with the excessive debts of its
+ peripheral countries, and thus about the health of European banks holding them,
+ concern over the possibility of a double-dip recession, and
+ mounting evidence that China and the rest of the emerging world are something less
+ than unstoppable economic miracles.
+
+ Importantly, we saw the onset of one of those negative feedback loops where intelligence
+ is imputed to market developments. We're told the falling prices reflect problems lying
+ ahead, and thus investors sell in response to the message being provided by . . . investors
+ who're selling.
+
+ Again, I think it was the collective force of these things that convinced people the world
+ was a scary place. What could be worse than the convergence of a number of major
+ worries whose extent, interaction and solution seem beyond comprehension?
+
+ Washington Debt Follies
+
+ Where can I start on this sorry subject? As described in "Down to the Wire" in late July,
+ America and the world contemplated the collision of an irresistible force (the U.S.
+ government's need to borrow due to its habit of spending more than it brings in) with an
+ immovable object (the debt ceiling and Washington's seeming inability to reach a
+ constructive solution to it).
+
+ With control of the government divided and many legislators committed to preventing
+ either tax increases or cuts in social programs, it was obvious to most level-headed
+ observers that any solution would require compromise. But while it could have been a
+ negotiating stance, several of the participants in the debate seemed not to attach much
+
+ importance to reaching a solution if it required compromising on their positions. In the
+ process, a disappointing number gave the impression that they didn't understand or care
+ much about the significance of deficits, defaults and downgrades.
+
+ On July 27, The New York Times ran an article on political negotiating. Its mention of
+ the game of chicken reflected what was going on in Washington: "two players [drive]
+ toward each other, each wanting the other to swerve. The one who does, loses. The trick
+ to winning is for one player to convince the other that under no circumstances will he or
+ she veer off course." One way to do that, The Times suggested, is to unscrew your car's
+ steering wheel and toss it out the window. I must say I found that an accurate metaphor
+ for what we were watching. While that may have been an effective tactic for winning
+ the political game, however, it didn't do much to reassure onlookers hoping for a
+ reasonable solution. Instead, it gave the strong impression that reason couldn't be
+ counted on to prevail.
+
+ Nevertheless, the situation played out as expected. We saw the short-term problem
+ papered over; little movement toward meaningful spending cuts or revenue increases; and
+ the formation of a bipartisan commission to come up with a solution to the long-term
+ problems. But if the plan formulated a year ago by another panel including some of our
+ most eminent former legislators couldn't gain traction, what's the likelihood a new one
+ will fare any better?
+
+ Anyhow, the markets breathed a collective sigh of relief and went back to normal when
+ the can was kicked down the road. Investors were hungry for reassurance that
+ Washington was up to solving the problem of deficits and debt and alleviating the
+ uncertainty, but I don't think they got it. All decisions to invest - whether in factories,
+ new employees or securities - require confidence that there'll be a salutary, stable
+ and predictable environment. Our leaders' response to the debt crisis did nothing
+ to foster one.
+
+ Confidence was further eroded when, a few days later, Standard & Poor's announced that
+ it had downgraded long-term U.S. debt from AAA to AA+, and all hell broke out. Was
+ the downgrade appropriate? What did it mean? And how many of those who reacted in
+ the markets really understood its significance?
+
+ According to S&P, a triple-A debt issue means "Extremely strong ability to meet
+ financial commitments. Highest rating." Certainly the U.S.'s ability to meet financial
+ commitments remains "extremely strong." But is it the "highest"? And is it as high
+ as it used to be, or do recent events suggest it is diminished? I find the issue hard to
+ wrestle with:
+
+ Given that the U.S. has the power to print the world's reserve currency, it doesn't
+ make sense to think it will fail to pay its obligations. (Of course, if it runs the printing
+
+ presses to pay its debts, the dollars with which it does so will likely have diminished
+ purchasing power.)
+
+ The truth is that an AA+ rating is far from meaning "default-prone." Since only a
+ few percent of single-B bonds default each year on average, at worst AA+ must imply
+ a probability of default of a small fraction of a percent. In fact, many potential triple-
+ As opt for AA+ instead in order to be able to carry more debt. That's one reason
+ S&P rates only four companies triple-A.
+
+ Getting a little more esoteric, what does it mean for a debtor to "meet financial
+ commitments"? As I mentioned in "Down to the Wire," debtors generally aren't
+ expected to pay off their debts; rather, it's the normal expectation that interest will be
+ paid and principal will be refinanced. Interesting, then: even triple-A doesn't
+ necessarily connote an ability to extinguish one's debts.
+
+ While credit ratings are explicitly defined as relative, relating primarily to the
+ likelihood of payment, I've always thought triple-A has a connotation for most
+ people that absolutely nothing can go wrong. For that matter, U.S. Treasurys
+ have traditionally been described as "riskless," which sounds pretty absolute to
+ me. If that's a fair description, it doesn't seem to fit the political process we've
+ witnessed in the last few months.
+
+ The events of July suggest some of those currently in control in Washington don't
+ think failing to meet commitments would be a big deal. Certainly it seemed possible
+ on July 31 that some of the people to whom the U.S. owed money might go unpaid
+ within a few days. So, is the risk on Treasurys really non-existent?
+
+ If the U.S. was triple-A in 2000, when it was running a surplus, its national debt was
+ far smaller, and Washington functioned much more constructively, mightn't it
+ deserve a lower rating today?
+
+ Our deficits are far bigger than ever, and the commitment to do what it takes to
+ reduce them seems quite weak. As I wrote in "I'd Rather be Wrong" (March 2010),
+ "Everyone wants to see the deficit narrowed, but today's circumstances seem to
+ prohibit both expenditure reduction and revenue increases. Everything else is on the
+ table." The process of governing seems to be running less well than ever.
+
+ The long-term outlook is particularly bleak. In "Down to the Wire" I described how
+ entitlement programs endanger our fiscal future. I failed, however, to mention that
+ the present value of our future unfunded obligations is estimated at $64 to $99 trillion
+ depending on the source (per J.P. Morgan), a burden that dwarfs our current national
+ debt of $14.3 trillion.
+
+ So S&P and Egan-Jones downgraded U.S. debt (while Moody's and Fitch didn't). There
+ was one main moving part on August 5: that's the day S&P labeled U.S. debt less safe.
+ What was the upshot? A buying panic in U.S. Treasury securities, with the yield on the
+ 10-year note falling below 2%.
+
+ As an aside, let's spend a minute thinking about that reaction. If there had been near
+ unanimity about anything, it was that a downgrade would raise the yield demanded on
+ U.S. debt. Certainly the fact that so many people could be wrong about this
+ supposedly simple linkage should disabuse investors of the notion that they know
+ how markets work. The expected reaction was much more logical than the one that
+ actually played out: after it was labeled less safe, the yield demanded on U.S. debt
+ declined markedly. I find the explanation fully worthy of Yogi Berra: the downgrade
+ of Treasurys made people so worried about the elevated risk in the world that they
+ ran to Treasurys for safety. So much for the supposed rationality of markets.
+
+ The bottom line for me in all the above is that, while on an emotional basis I find the
+ debt situation depressing, intellectually I believe U.S. Treasury obligations will
+ prove money good. At bottom I agree with former Treasury secretary Hank Paulson:
+
+ While the players in Washington certainly haven't performed at AAA
+ level, I would certainly take U.S. Treasuries over other AAA sovereigns
+ any day." (The New York Times, August 9)
+
+ The European Version
+
+ The problem in Europe isn't overwhelmingly different, just manifested differently. In
+ the credit boom of the last forty years, debtors all around the world - nations as well
+ as states and cities, consumers, home buyers and buyout companies - borrowed
+ amounts that they couldn't repay now if required to do so. The key questions are
+ whether the loans will be renewed, or who'll pay them off, or how they'll otherwise
+ be discharged. Only the details vary from instance to instance.
+
+ As I described in "It's Greek to Me" (July 2010), for years, especially thanks to their
+ membership in the European Union, peripheral nations with weak economies and little
+ fiscal discipline were able to borrow sums disproportionate to their incomes. Thus
+ Greece, Portugal, Spain and others could run continuous deficits to support excessively
+ generous programs with features such as retirement ages in the fifties and a thirteenth
+ month of pay each year. Lenders were unconcerned about the impossibility of
+ repayment, it seemed, until early 2010. But then they awoke.
+
+ Economically stronger nations such as Germany and France, on the other hand, applied
+ much greater prudence. They and their citizens and financial institutions didn't
+ participate as much in the trend toward over-borrowing, and thus don't share the
+
+ particular problems of the peripherals. But they have problems of their own, since they
+ took the capital piled up by their strong economies and lent it to the profligate borrowers.
+ Thus the direct problems in the strong nations relate not to unpayable debts, but to
+ questionable receivables: their banks and other providers of capital are owed large sums
+ lent to the governments and institutions of the peripheral nations.
+
+ All member countries are impacted by the general uncertainty present. As in the U.S.,
+ the divided, fractious nature of Europe's governing bodies will complicate the process of
+ problem solving. Will the governance structure of the European Union permit a solution
+ to be reached? What can be done about the weaker members? How much of the relief
+ will the strong nations be expected to provide? Will the untested, loose confederation of
+ the monetary union hold together or, alternatively, have to provide for the exit of the
+ weaker links? Will voters in the strong nations allow their elected officials to use
+ resources to support the weak ones?
+
+ The basic problems are similar to those in the U.S. in terms of scale, novelty, and the
+ difficulty of identifying solutions. How will the transition be handled from the easy-
+ money environment of the past to the more restrictive one of today? Who will bear
+ the burdens of excessive debt and shoulder the losses? How will the banks' bad-debt
+ problem be solved and their capital rebuilt? Will the political system produce the needed
+ solutions? Are the leaders up to the task? Here's how the Financial Times put it on
+ August 20:
+
+ There is no magic medicine and the best solution would be a combination
+ of [several] policies, wrapped up in a show of political will that restored
+ confidence to the global economy. But political will is in short supply,
+ and that may be the most worrying economic sign of all.
+
+ If markets abhor uncertainty - as we know they do - then these issues imply little in
+ the way of tranquility. And when multiple problems of this nature coincide, as they
+ did in early August, the result is chaos, at least until the markets become inured to
+ the uncertainty and the gyrations themselves run out of energy.
+
+ Possibility of a Double Dip
+
+ In 2010 and early 2011, the economic reports suggested a healthy recovery. They
+ contributed to confidence that things were going in the right direction, and thus to
+ investors' feeling of wellbeing and willingness to bear risk. In fact, I expressed in "How
+ Quickly They Forget" my belief that risk tolerance had become excessive relative to the
+ fundamental outlook.
+
+ Even when the economic reports were positive, I didn't feel they were as dynamic as in
+ past recoveries. And this one was from the worst recession I've seen, which should have
+
+ made for a strong rebound. In particular, job growth was slow and unemployment
+ remained at stubbornly high levels.
+
+ But then, concurrent with the explosion of uncertainty over debt in the U.S. and Europe,
+ slower growth was reported for the second quarter and the gains of the first quarter and
+ late 2010 were revised downward. All of a sudden, another contributor to the sense that
+ "it's all good" had turned negative instead.
+
+ I always hasten to point out that I am not an economist (and Oaktree doesn't have one).
+ Thus I don't have a strong opinion as to whether the U.S. will relapse into a double
+ dip. (I also have no idea how people reach firm conclusions on such things, other
+ than as expressions of their biases and hunches.) For our purposes, it suffices that
+ we have operated since the financial crisis under the assumption that the recovery
+ would be sluggish, rather than V-shaped. We still feel that way. And that feeling is
+ inconsistent with moving out on the risk curve or down in credit quality, investing more
+ in cyclicals or taking on leverage.
+
+ Our enthusiasm regarding the macro economy has been muted for a number of reasons,
+ including:
+
+ conviction that it was largely the growing use of credit that enabled consumption to
+ grow faster than sluggish incomes over the last 20-30 years, and that in the future
+ credit will not be equally available or equally employed,
+
+ the potentially counter-stimulative effect of austerity as government spending shrinks
+ and taxes rise relative to GDP, and of delevering in general on the part of over-
+ indebted governments, businesses and individuals,
+
+ concern (thus far unfounded) over the potential for rising interest rates and their
+ depressant effect on the economy,
+
+ continuing challenges regarding manufacturing competitiveness due to our status as a
+ high-cost location, and
+
+ belief that unemployment will remain a persistent problem due to the above-
+ mentioned decline in manufacturing, our problems in education, and the shift to an
+ information-based and more productive economy (read: fewer hours of labor per
+ dollar of output).
+
+ In addition, we mustn't ignore the part played by confidence. I think confidence is
+ everything in determining the economic future. If participants in the economy believe
+ things will be good in the future, they'll spend and invest and things will be good, and
+ vice versa. Economic expectations are self-reinforcing in many ways, and right now
+
+ that bodes ill. When people see nothing on TV but news of how bad things are, they
+ tend to pull in their horns. Certainly the recent events haven't been helpful in this regard.
+
+ Finally, there's no longer much confidence in the efficacy of the Fed, its chairman and its
+ arsenal. Clearly confidence in Alan Greenspan and his Fed was overdone in his last
+ decade (and thus contributed to the moral hazard of the period). Today the reverse seems
+ to be true, but at least that means we're not burdened with unrealistically high
+ expectations in this area.
+
+ On the positive side, many companies are reporting healthy orders and profits. Further, I
+ believe the likelihood or potential severity of another recession is reduced by the fact that
+ economic comparisons now and in the coming months will be against non-dynamic prior
+ periods, and thus relatively easy. In short, without a boom, it's harder to have a bust.
+
+ My overall vision continues to be of an airplane rising weakly, perhaps overloaded
+ or with an engine sputtering and thus having difficulty getting above "stall speed."
+ Its sluggishness constitutes a drag and introduces risk, but predicting deceleration is
+ going too far . . . and not necessary to convince us to remain cautious in deciding on
+ our course of action.
+
+ Emerging Markets Play Their Part
+
+ The emerging markets' contribution to the unsettled environment is of a very different
+ nature. Their economies are growing strongly and generally not over-indebted. Rather,
+ here the issues stem from the juxtaposition - as often seen - of investors' high
+ expectations with a new, less rosy reality.
+
+ I've written in the past (e.g., in "Hemlines," September 2010) about the propensity of
+ markets to become captivated by simple themes, like "the Internet will change the
+ world," "equities are good" or "who needs bonds?" One such easy-to-swallow story line
+ that prevailed over the past decade has been with regard to the "emerging market
+ miracle" and, especially, the inevitability of China.
+
+ I don't mean in the least to suggest that the outlook for China, India and the rest of the
+ emerging markets is less than bright. In fact, I'm sure they'll out-grow the developed
+ world over the remainder of the century. The problem, however, is that simplistic,
+ mania-following investors elevated emerging markets to the pedestal of the "sure
+ thing" where nothing can go wrong. And when prices incorporate unlimited virtue,
+ the eventual result is bound to be disappointment, disillusionment and depreciation.
+ Even favorable developments can lead to losses when they fail to measure up to
+ expectations. That's been the case in the emerging markets.
+
+ So now we see:
+
+ concern that the emerging market economies have been over-stimulated,
+ the rising inflation that occurs as a consequence,
+ uncertainty over whether the monetary tightening which is taking place will result in
+ a soft landing or something worse,
+ questions about corruption, fraud, non-transparency and inefficiency, and
+ realization - again - that their economic success isn't independent of that of the
+ developed world.
+
+ The fundamental outlook in the emerging markets is still excellent. It's just that at times
+ in recent years, when problems arose in the U.S., Europe and Japan, investors turned to
+ the emerging markets for investment solutions, and the view that their future would be
+ "superior" morphed into "flawless." When their securities became priced for that
+ perfection, the realization that they actually had feet of clay - at a time when investor
+ confidence was weakened by the other things I've mentioned - took a toll on investor
+ equanimity and security prices.
+
+ Taken Together
+
+ None of the issues described above is illusory. The U.S. is a fiscal and political mess,
+ and its leaders inspire little confidence regarding their ability to effect a solution. The
+ outlook in Europe is similarly murky, and the emerging markets have turned out not to be
+ as foolproof as had been believed. However:
+
+ none of these is a new development; they all existed three or six months ago, when
+ the markets were sanguine,
+ their scariness is due to the fact that many are relatively unprecedented, and thus the
+ solutions aren't obvious or time-tested, and
+ this uncertainty is among the greatest contributors to the markets' unease.
+
+ So, as is often the case, the swing we've had is more in psychology than in
+ fundamentals. The positives of June are diminished, forgotten or eclipsed, and now
+ investors are preoccupied with the negatives. As usual, the truth probably lies in
+ between.
+
+ We face a new world nowadays in terms of the speed of media coverage, the vast number
+ of outlets competing for people's attention, and in many cases their seeming lack of
+ concern over their own partiality, volatility and non-objectivity. I have no doubt that the
+ media contribute significantly to the manic swing from "it's all good" to "it's all bad,"
+ with its highly unsettling effect on the markets. Emotion takes over from reason.
+
+ Hysteria rules the day. Nobody knows what the developments mean or what to do about
+ them. But that doesn't prevent investors from acting in response.
+
+ With the strong flight to the perceived safety of Treasurys and the pronounced
+ cheapening of everything else, the dearth of bargains that I bemoaned a few months
+ ago is much eased. In U.S. high yield bonds, for example, the yield to worst and spread
+ on the Citi High Yield Market Index went from 6.8% and 526 basis points on May 31 to
+ 8.3% and 719 b.p. on August 31, just three months later. As for European issuers, the
+ yield and spread on the BofA Merrill Lynch Global High Yield ex. Russia Index went
+ from 7.7% and 545 b.p. to 10.0% and 840 b.p. in the same period. Not only are the
+ current spreads well above the historic averages, but the yields are actually quite
+ reasonable in the absolute (and suitable for institutions with 8-ish actuarial assumptions
+ or required returns). And what's been the response? Massive redemptions from high
+ yield bond mutual funds.
+
+ So the pattern of the last few weeks hews to the norm:
+
+ There's a period in which the news is good, reaction is favorable, psychology is
+ positive, willingness to bear risk grows, and assets move to higher prices, attracting
+ additional buyers into the markets.
+
+ Then something takes a turn for the worse and, in the most serious downturns, there is
+ a confluence of negative events.
+
+ The worrisome elements gain sway over investor psychology, and the positives are
+ forgotten.
+
+ Disillusionment replaces sanguineness: "How could I ever have put so much trust in
+ the markets?"
+
+ Money flows out of the markets rather than in; it's sellers who influence prices rather
+ than buyers; and securities eventually move from dear toward cheap.
+
+ Certainly some of these developments have taken place. Nobody waves a banner when
+ assets have gotten cheap enough, but it's incumbent on investors to recognize things
+ like these and react appropriately, rather than follow the herd. Thus right now I
+ would be a better buyer, albeit in moderation since fundamentals still pose threats.
+
+ * * *
+
+ Rather than end there, as I originally thought I would, I want to add a little about the
+ longer-term future. I could prepare the way by repeating my standard confession that I'm
+ given more to worrying than to enthusing, but you already know that.
+
+ What I want to say is this: the worries concerning the U.S. economic outlook enumerated
+ on page seven are not limited to the current short-term cycle. I touched on most of them
+ in "What Worries Me" (August 2008), "The Long View" (January 2009) and "Tell Me
+ I'm Wrong" (January 2010), and my view of their importance hasn't changed. I think
+ they're likely to influence the environment for years.
+
+ I feel today's distribution of possible futures is shifted to the left - that is, generally
+ less attractive - relative to the distribution that governed the late twentieth century.
+ The picture in the U.S. is less positive today in terms of consumer-led growth and the
+ supercharging impact of increased credit use, competitiveness and job creation, and the
+ government's fiscal situation (and thus its ability to stimulate the economy).
+
+ I think we benefited greatly in that earlier period from the luck of the draw. Things went
+ about as well as they could have for the economy (despite sluggish income growth).
+ Inflation was very much under control, and we benefited from steadily declining interest
+ rates. We were even lucky enough to see the collapse of our great enemy, the USSR, and
+ to live in a world that was generally at peace.
+
+ It was a period in which the markets benefited from positive developments and
+ overwhelmingly bullish attitudes. As my partner David Kirchheimer points out, the
+ favorable underlying trends constituted a rising tide in the Buffett sense, meaning for a
+ long time we didn't get a chance to see which borrowers, risk takers and financial
+ innovators were swimming unclothed. The picture has become less alluring with the
+ tides less favorable, and I expect only moderate improvement in that regard.
+
+ David adds that "it took many years, trillions of dollars in credit extension, and countless
+ well-intentioned but misguided policies to get us into this mess, so it's likely that under
+ the best of circumstances it will take many years for the economy - and standards of
+ living - to reach a new equilibrium, and for the financial markets to acclimate to a 'new
+ normal' of possibly lower returns without the artificial effect of record government
+ stimulus."
+
+ I feel the prosperity we enjoyed in the final decades of the twentieth century was
+ considerably better than "normal," and better than we're likely to see up ahead.
+ I'm not implying a world without growth or otherwise permanently negative. Just
+ one without the prosperity, dynamism or positive feelings of past decades. In
+ addition, the newness of the macro picture and some of the problems - and the opacity of
+ the solutions - certainly make it less clear in which direction we'll go.
+
+ It's my belief that things went better in the late twentieth century than we have reason to
+ expect in the years ahead. We could get lucky again, of course, but it would be
+ downright imprudent to make investments predicated on that assumption. Thus at
+ Oaktree we're making allowance for things that may go less well than they did in
+ past periods. Cheapness provides a margin of safety today, but only so much.
+ We're moving forward, but cautiously.
+
+
+Memo: It’s All Very Taxing.
+
+The issue is simple: the U.S. government generally spends more than it brings in . . . and
+ recently, a lot more. For years Congress was willing to serially raise the federal debt
+ ceiling and monetize the deficit. But this past summer, some legislators balked. When
+ the early August deadline for an increase in the ceiling arrived, our elected officials
+ kicked the can down the road, but less far than usual. They created a Congressional
+ supercommittee with unprecedented power to propose solutions, and they designed
+ automatic spending cuts in case no proposal won approval.
+
+ With the committee working under a November 23 deadline to find ways to reduce the
+ federal deficit by $1 trillion-plus over the next decade, and with a presidential election
+ less than a year away, the subject of taxes is all over the headlines and likely to remain
+ there. Thus I've decided to provide a background piece on the issues.
+
+ What form will the deficit-cutting action take? In fact, the possibilities fall into only four
+ categories:
+
+ cut discretionary spending,
+ reduce expenditures on entitlements,
+ cut waste and fraud, or
+ increase tax revenues.
+
+ Given the magnitude of the problem, the limited number of potential solutions, and the
+ differences between the parties on the subject, there's already debate regarding the fourth
+ of those listed above. Democrats generally feel tax increases should be part of any
+ solution, and Republicans often insist that while they're open to overhauling the tax code,
+ total taxes must not rise.
+
+ What's Fair is Fair
+
+ This memo got its start as an excuse for me to write about one of my greatest pet peeves:
+ the so-called "fair share."
+
+ Ask your typical Democrat or liberal about the idea of increasing taxes on upper-bracket
+ earners, and what will they say? In my experience, the answer's always the same:
+ "We're not out to soak the rich. We just want them to pay their fair share." We've
+ seen it over and over for years. For example:
+
+ Were [the politicians levying taxes on Americans] seeking to redistribute
+ wealth, to recast society along more egalitarian lines? Or were they simply
+ trying to ensure that rich people paid their "fair share"? The answer,
+ predictably, is both. . . .
+
+ If poor and middle class Americans were going to be asked [by President
+ Roosevelt], of necessity, to shoulder much of the fiscal burden, then they
+ needed assurance the rich were paying their share. . . .
+
+ No one made the case more succinctly than Rep. Cordell Hull, legislative
+ father of the 1913 income tax. "I have no disposition to tax wealth
+ unnecessarily or unjustly," he explained in his memoirs. "But I do believe
+ that the wealth of the country should bear its just share of the burden of
+ taxation and that it should not be permitted to shirk that duty."
+
+ ("Soaking the Wealthy: An American Tradition" The Wall Street Journal,
+
+ The rhetoric remained unchanged in the late twentieth century:
+
+ "We will lower the tax burden on middle class Americans," [Bill Clinton]
+ pledged in 1992, "by asking the very wealthy to pay their fair share."
+ ("The Middle-Class Tax Trap" The New York Times, April 17, 2011)
+
+ More recently, President Obama carried on the tradition.
+
+ I will veto any bill that changes benefits for those who rely on Medicare
+ but does not raise serious revenues by asking the wealthiest Americans or
+ biggest corporations to pay their fair share. (The New York Times,
+
+ And here's another reference from just a month ago:
+
+ In proposing a 5 percent surtax on incomes of more than $1 million a year
+ to pay for job-creation measures sought by President Obama, Senate
+ Democratic leaders on Wednesday escalated efforts to strike a more
+ populist tone and to draw Republicans into a confrontation over how much
+ affluent Americans should pay to help others cope with a struggling
+ economy. . . .
+
+ "It's interesting to note that independents, Democrats and Republicans and
+ even the Tea Party agree it's time for millionaires and billionaires to pay
+ their fair share of taxes," [Senate Majority Leader] Reid said Wednesday.
+
+ (The New York Times, October 6, 2011)
+
+ But what is the fair share? How is it to be determined, and by whom? When
+ Senator Reid says, "it's time for millionaires and billionaires to pay their fair
+ share," he implies they haven't been doing so thus far. How does he know? What's
+ the standard? If there's an objective standard for one's fair share, why does it only
+ seem to be those from the left side of the political spectrum who say it's not being paid?
+ And if there isn't an objective standard, how can the fair share be determined? The
+ truth is, fairness is almost entirely in the eye of the beholder, and "get them to pay
+ their fair share" seems like just another way to say "raise their taxes."
+
+ There's probably only one element of fairness that's beyond discussion: those with
+ higher incomes should pay more in taxes. After that, everything is up for grabs.
+
+ For example, we have a progressive system of taxation, meaning that higher
+ earners don't merely pay more in terms of dollars; they generally pay a higher
+ percentage of their incomes in taxes. Most people agree that this is fair. But is it?
+ Why should success be penalized through greater taxation? And if the tax rate for
+ those who earn more should be higher, how much higher? Should the top
+ marginal tax rate be double that applicable to lower-income taxpayers? Triple?
+ What's fair?
+
+ Are some forms of income more desirable to society and thus deserving of
+ taxation at lower rates?
+
+ And should we encourage certain expenditures by making them deductible from
+ taxable income?
+
+ The fairness of all of these things is subject to discussion and disagreement. They come
+ under the heading of tax policy.
+
+ Is Taxation Progressive? Progressive Enough?
+
+ Under the U.S. system, people in higher income brackets pay tax at higher rates.
+ (However, Mark Twain said, "All generalizations, including this one, are false." For an
+ exception to the generalization above, see the discussion of the "Buffett Rule" on page 5.)
+ In large part, the question of fairness primarily surrounds whether the higher rates
+ are high enough.
+
+ Talk about "the eye of the beholder." There's evidence on both sides of this debate:
+
+ The top 1% of U.S. taxpayers pay 38% of all individual federal taxes. The top
+ 10% pay 70% of all taxes, the top 25% pay 86%, and the top 50% pay 97%.
+
+ That leaves the bottom 50% of all taxpayers paying only 3% of the total.
+
+ About half of Americans pay no federal income tax, and almost 25% pay no
+ federal taxes at all.
+
+ The average federal income tax rate for the top 1% of Americans is 23% (and for
+ the top half it's 14%), while the average rate for the bottom half is 3%.
+
+ Notwithstanding the rhetoric, there's no doubt about the fact that America's top earners
+ are taxed more heavily than the rest. On the other hand, they pay at lower rates than they
+ used to (when I was a boy the top marginal rate was 94%), and it seems progressivity has
+ declined.
+
+ . . . the effective federal tax rate, including payroll taxes, for the wealthiest
+ 0.01 percent of earners fell to 31.5 percent in 2005, from 42.9 percent in
+ 1979 [for a decline of 26.6%], according to data from the Congressional
+ Budget Office. Over the same time, effective rates for taxpayers in the
+ center of the range fell to 14.2 percent, a decrease of just 4 percentage
+ points [or 22.0%]. (The New York Times, September 21, 2011)
+
+ Total revenues from income taxes have declined in the U.S. - they "are at a historical low
+ of 15.3 per cent of the gross domestic product, compared with a postwar average of 18.5
+ per cent" (Financial Times, September 25) - and they've declined more for top earners
+ than for the rest. This is because of both specific rate cuts that have been enacted and the
+ fact that the rates applied to dividends and capital gains - which clearly flow more to
+ people in the upper income brackets - have declined relative to the rates on salaries and
+ wages.
+
+ On average, higher earners absolutely do pay a higher percentage than those who
+ earn less. But the decision as to whether the differential is just right, too little or too
+ great is highly subjective and certainly a valid topic for debate.
+
+ Righteous Income
+
+ In the U.S., different types of income are taxed at different rates, suggesting some are
+ considered more virtuous than others. For example, profits on investment assets held for
+ more than a year, so-called "long-term capital gains," are taxed less than "ordinary
+ income" such as salaries and interest. This has been the case for so long that we consider
+ it the norm, and what we're used to often becomes the baseline for "fairness."
+
+ Long-term capital gains are taxed at reduced rates because of a judgment that long-term
+ investment in things like securities, companies and real estate is beneficial for the
+ economy and should be encouraged. Right now, the top tax rate on long-term investment
+ profit is less than half that on short-term gains and ordinary income. And in recent years,
+ the taxes on dividends have been reduced to similar levels, in part to mitigate double
+ taxation of corporate profits but also because of a judgment that the equity investments
+
+ that give rise to dividends are good for our society.
+
+ Is it appropriate to tax profits on long-term investments at rates below those on other
+ forms of income? Certainly we should encourage investment, but there's no consensus
+ that the tax code is the place to do it. Some foreign jurisdictions don't tax capital gains at
+ all, while others tax them at the same rate as all other income.
+
+ What about interest? Why are dividends taxed at preferential rates and interest at
+ ordinary rates? The explanation may lie in the fact that interest is deductible for
+ corporations, while dividends aren't. Interest is paid out of pretax income, while in
+ theory dividends are paid out of after-tax income - although the existence of corporate
+ deductions and credits means dividends may, in fact, be paid out of income that hasn't
+ been taxed by the U.S. Alternatively, the difference in tax treatment may be the result of
+ a desire to encourage investment in "risky" equities rather than "safe" debt. But some
+ companies' dividends are no doubt safer than some other companies' interest payments,
+ so this distinction is questionable. If the goal is to encourage risk bearing, is dividend
+ versus interest the right criterion?
+
+ While on the subject of gains from investments, it's interesting to note that, not long ago,
+ dividends were included with interest under the rubric "unearned income." This
+ pejorative phrase implied that income on capital, not requiring labor, was less virtuous
+ than that stemming from labor, so-called "earned income." Thus unearned income -
+ primarily dividends and interest - was taxed more heavily than wages.
+
+ But now things have turned 180 degrees, and returns on capital are taxed at lower rates
+ than wages. It's worth noting that the Democrats - commonly considered the party of
+ labor - controlled the government for much of the period 1928 to 1980, when earned
+ income was favored. On the other hand, the Republicans - the party of those with capital
+ to invest - have been in control more of the time since 1980, and the taxation of returns
+ on capital has declined in relative terms. The definition of virtuous income that should
+ be encouraged through lower taxes clearly is subjective, impermanent and subject
+ to change with the winds of politics.
+
+ One debate that has arisen recently surrounds the so-called "Buffett Rule." For
+ the last few years, Warren Buffett has been speaking about the fact that he pays a
+ smaller percentage of his income in taxes than does his secretary. Presumably this
+ is because his income consists primarily of long-term capital gains and very little
+ of salary, bonus and interest.
+
+ (As an aside, it should be noted that Buffett's lower tax rate, while not unique, is far from
+ the norm. According to The New York Times of September 24, "The number of people
+ who fall under the Buffett Rule is quite small, only 60,000" out of 450,000 taxpayers who
+ make over $1 million. "And the amount of revenue that would be generated [by the
+ Buffett Rule] over the next 10 years is equally small - just $13 billion. . . .")
+
+ Buffett's tax status is a function of policy choices made by the people who
+ wrote our tax laws. According to The New York Times of September 21,
+ "President Obama's proposal for a new tax on millionaires . . . would counteract
+ decades of tax reductions for most Americans that have given the wealthy the
+ most benefit. . . ." Do we consider these decisions appropriate in principle and
+ Buffett's just an extreme case? Or do we want to change things so returns on
+ capital are less favored and big earners can never pay overall taxes at lower rates
+ than those who earn less? (And, as an aside, are all long-term profits truly
+ beneficial to society? How, for instance, does society benefit when someone buys
+ a bar of gold?)
+
+ Deductions, Loopholes and Tax Incentives
+
+ Speaking of gold, in "All That Glitters" on that subject, I quoted from a speech by
+ Mississippi state legislator "Soggy" Sweat that showed his ability to simultaneously
+ praise and condemn whiskey with equal conviction. Outdoing Soggy, depending on
+ who's talking, Washington politicos use the three very different terms above to describe
+ the same thing: offsets to taxable income.
+
+ The drafters called them deductions: provisions that reduce the net income on which
+ taxes are levied. Critics call them loopholes, suggesting there's something underhanded
+ about those provisions. And politicians use the laudatory-sounding term tax incentives
+ to describe tax code provisions that reduce tax revenues in order to encourage certain
+ behavior. It all depends on your point of view.
+
+ Let's take a look at one of the most popular deductions: interest on mortgages. For
+ as long as I can remember, interest on home mortgages has been treated as a desirable
+ expenditure that should be encouraged. Because home ownership is considered part of
+ the American dream, the tax code subsidizes it by reducing the after-tax cost for those
+ who borrow to buy homes (and are able to itemize rather than take the standard
+ deduction). While everything else may be arguable, certainly this seems fair. But is it?
+
+ Are homeowners more virtuous than renters? If mortgage interest is deductible
+ but rent isn't, we're requiring renters to subsidize owners. Is that appropriate?
+
+ On average, homeowners are from the middle and upper income brackets. Is it
+ fair that poorer renters provide a benefit for richer owners?
+
+ And is it desirable that those able to buy more expensive homes should get more
+ of a subsidy than those consigned to cheaper ones?
+
+ As with the taxation of dividends, judgments on these matters change over time. Until
+ 1987, there was no limit on the amount of mortgage interest that could be deducted. If
+ you could afford to own ten homes with multiple million-dollar mortgages on each one,
+
+ taxpayers would collectively share the cost by reducing your income taxes due. Today
+ interest is deductible on only a maximum of $1.1 million of debt, and only on first and
+ second mortgages, and only on a primary residence and a second home. So the tax
+ treatment of owners of many homes and more expensive homes has become less
+ generous. But it's still better than that of renters. Is that proper?
+
+ What about the tax deductibility of charitable donations? As I travel the world
+ visiting with clients, I see that two things about the U.S. are quite uncommon: (a)
+ Americans give a lot of money to charity and (b) donations to charity are deductible in
+ calculating taxable income. Everyone tells me the latter is the main reason for the
+ former. In particular, these things are part of the explanation for the existence of the
+ many private, non-state-supported colleges and universities in the U.S., the best of which
+ are so good at least in part because of their significant donor-provided endowments. For
+ example, Harvard and Yale are only half as old as England's Oxford and Cambridge, but
+ they benefit from endowments that are far larger.
+
+ Part of this is true because legislators decided at some point to subsidize non-profits by
+ encouraging contributions through the tax code. That's certainly understandable. And
+ yet, changes were made in recent years to limit upper-bracket taxpayers' use of
+ deductions in order to ensure that they pay some minimum tax rate.
+
+ What about the unevenness of the subsidy? The cost of giving $1 to charity is reduced by
+ the amount of taxes it saves the donor, which is equal to $1 times the person's tax rate.
+ So today, speaking simplistically, it costs a top-bracket taxpayer 65 cents to give a dollar
+ to charity, while it costs a bottom-bracket taxpayer 85 cents. Is that fair? Should the
+ bigger earner receive a greater reward for a dollar of philanthropy than someone who can
+ afford it less easily? And should those who aren't inclined to give to charity be required
+ to subsidize those who are?
+
+ Finally, what about state and local taxes, the third of the significant deductions?
+ Here tax deductibility isn't due to a decision to encourage people to pay non-federal
+ taxes, but rather to cushion the effect of being taxed in multiple jurisdictions. Texas,
+ Florida and five other states have no personal income tax, California has a heavy one, and
+ someone living in Manhattan pays tax to both New York State and New York City.
+ Deductibility on the federal tax return somewhat evens out the burden and ensures that
+ (a) the states get first crack at taxing income and (b) the federal government can only tax
+ what's left, in line with federalist principles.
+
+ This raises a number of questions. Is the deductibility of state and local taxes fair? As
+ with other deductions, the key question is "fair to whom?" Some people pay more state
+ and local taxes than others, meaning they get greater deductions than others. As a result,
+ while a person with a given income who lives in a high-tax state pays higher total taxes,
+ he or she pays less federal tax than someone in a low-tax state. Is that fair?
+
+ Further, what all of this means is that by providing more benefits to its residents (or at
+ least spending more money, whether beneficially or not), a high-tax state creates a
+ deduction for its residents and thus reduces the federal government's total tax take. Is
+ this right? Should the federal government subsidize spending on the part of high-tax
+ states? That is, should residents in low-tax states bear part of the expenses of high-tax
+ states? There's nothing simple about these matters.
+
+ While the source of an exemption rather than a deduction, what about interest on
+ "municipal bonds" issued by states, counties, cities and local agencies. This is exempt
+ from federal taxation, under the legal doctrine that the federal government mustn't tax the
+ operations of the states. ("The power to tax is the power to destroy," one of our great
+ Supreme Court decisions held.) But here again, we're talking about a federal benefit (in
+ the form of a lower cost of capital) for the biggest-spending local governments and their
+ citizens, and a tax break for people who lend to them.
+
+ And what about property taxes? These are deductible without limitation. Thus the owner
+ of a mansion - or ten mansions - receives more of a tax benefit than a low-income
+ earner. And it's another subsidy for homeowners versus renters. Is this right, or should it
+ be changed?
+
+ To date, it has been deemed fair for state and local income tax to be deductible on federal
+ tax returns. But is this immutable? Sales tax used to be deductible, too (meaning the
+ buyer of a Rolls Royce got assistance from the federal government). Now it's not. More
+ fair?
+
+ What if the deduction for state and local taxes and the exemption for muni interest were
+ ended? This would increase the cost of financing for state and local governments and
+ most impact the highest-spending states, potentially requiring higher taxes causing people
+ to move away. This would reduce those states' revenues and require them to raise taxes
+ further (and drive away still more taxpayers) in a painful cycle. And are those states
+ profligate or just burdened (like California by a substantial low-income population) or
+ natural-resource-poor (lacking Texas's oil)?
+
+ So even in "small" matters like the tax deductibility of mortgage interest, charitable
+ donations, and state and local taxes, there are lots of difficult questions. While on their
+ face the deductions seem fair to homeowners, philanthropists and residents of high-tax
+ states, they're simultaneously penalizing renters, non-donors and residents of low-tax
+ states (as well as taxpayers in low tax brackets and those without enough deductions to
+ itemize).
+
+ How about the biggest exclusions of all: employer-provided health care and the deferral
+ of taxation of contributions to pension plans? In both cases, those receiving these
+ employer-paid benefits enjoy a substantial benefit not shared by those not fortunate
+ enough to participate. For instance, is it fair that many better-paid workers get thousands
+
+ of dollars a year in untaxed health-care benefits, while other workers enjoy no such
+ subsidy?
+
+ Fairness turns out to be quite an elusive concept.
+
+ Reasons for Increasing Taxes
+
+ As U.S. leaders wrestle to reduce the budget deficit in the coming months and years,
+ spending cuts are a certainty. But the question of whether taxes should be increased is
+ sure to be hotly debated. A number of justifications for doing so are advanced:
+
+ Some people want wealth to be redistributed throughout society by taxing the rich
+ and giving to the poor. They want the government to do more for those who are
+ less fortunate (or less able), and that means having the rest pay for it.
+
+ There's an argument that for the deficit solution to be equitable, all citizens
+ should contribute to it. Though some government spending benefits all citizens
+ alike, such as national defense, national parks and the administration of justice,
+ much spending disproportionately benefits lower earners, in the form of public
+ education and transportation (which are supported by the federal government),
+ unemployment insurance, food stamps, Medicare and Medicaid, etc. Thus the
+ effect of the coming spending cuts will fall more heavily on the poor. Some argue
+ that since they receive less in benefits and are therefore less likely to experience
+ their loss, the wealthy should share the burden of reducing the deficit through
+ increased tax payments.
+
+ As opposed to the ideological arguments reviewed above, tax increases are among
+ the limited number of possible contributors to deficit reduction listed on page 1.
+ Thus, in the simplest terms, we can cut more from the deficit if we tax more (all
+ else being equal).
+
+ The ultimate practical point is that spending cuts alone won't do much to
+ eliminate the deficit.
+
+ Viewed another way, promises of entitlements have been in place for decades,
+ people have relied on them, and those promises have to be kept. This is clearly
+ impossible without increased taxes and/or exploding deficits.
+
+ Is redistribution a valid goal? To some people, it is part of the process of helping every
+ citizen in the "pursuit of happiness." To others, it's akin to socialism and contrary to the
+ American ethic in which rewards follow ability and hard work.
+
+ Should everyone contribute to deficit reduction, including bigger earners through
+ the biggest tax increases? Or should the savings come primarily through sacrifices
+
+ on the part of those who to date have been the primary beneficiaries of excessive
+ government spending? I have no doubt that we'll see fireworks on these topics.
+
+ Reasons for Not Increasing Taxes (or for Lowering Them)
+
+ Before concluding that the above points are persuasive, you should consider the equally
+ numerous arguments to the contrary.
+
+ Many believe our massive deficit stems from a government (and an entrenched
+ army of government employees) willing and able to spend all available cash (and
+ more). A bureaucracy will always find uses - many of them wasteful - for
+ available revenues. Thus the only solution is to "starve the beast": only tax cuts
+ and restraints on borrowing will force the government to limit spending.
+
+ It is argued that by decreasing the after-tax proceeds from a dollar earned, tax
+ increases reduce people's incentive to work, and thus cut into a nation's overall
+ productivity. From 1974 to 1979, Britain's top marginal rate was 83% (although
+ with a 15% surcharge on interest and dividends, it could rise to 98%). I
+ remember reading about a banker who took time off without pay to paint his
+ house. Society benefits when each of us does the things we're best at. But if a
+ banker who earns $20,000 a month only gets to keep $3,400, he's better off
+ forgoing a month's salary to avoid paying a painter who gets $5,000 a month.
+
+ Research into the "elasticity of taxable income" (ETI) shows that "when marginal
+ tax rates go up, the amount of reported incomes goes down," suggesting higher
+ taxes do reduce productivity. (The Wall Street Journal, March 30, 2010). Of
+ course, it's also possible that when rates go up, the incentives for failing to report
+ income also go up. Thus part of the ETI effect could come from under-reporting,
+ as opposed to reduced effort.
+
+ Taking the above a step further, the "Laffer curve," named after economist and
+ presidential adviser Arthur Laffer, posits that by discouraging work (and thus
+ reducing incomes), raising income tax rates actually reduces income tax
+ collections. Thus, by increasing taxable income, rate reductions bring revenue
+ gains.
+
+ Last but especially timely is the classic Keynesian argument that raising taxes and
+ thus reducing after-tax incomes shouldn't be done at a time when the economy is
+ weak and spending should be encouraged, not inhibited.
+
+ For me the bottom line - the real reason why many people don't want rates to go up - is
+ that they don't want to pay more taxes. I think people tend to "vote their pocketbooks,"
+ meaning many people with incomes to tax will vote for the candidate who promises
+ lower taxes. But the economic theories discussed above certainly lend validity and
+
+ even nobility to the pursuit of higher after-tax income . . . and the fact that their
+ supporters are self-interested doesn't make them wrong. Finally, for whichever
+ reason, a good portion of the electorate buys these arguments. And The New York Times
+ reported on November 2 that "Americans for Tax Reform, a taxpayer advocacy group . . .
+ says that 41 senators and more than 235 House members have pledged in writing to
+ oppose all tax increases."
+
+ Topics in the News - Income Inequality
+
+ One of the outstanding characteristics of the U.S. economy at this time is the rising
+ dispersion between incomes. The percentage of total income going to higher earners has
+ been increasing dramatically, whether because of (a) the rising importance of education
+ and technological literacy or (b) the movement of work offshore, the declining
+ availability of blue-collar jobs and the reduced power of private-sector unions to garner
+ wage gains. And given the pattern of tax cuts and the special treatment given to income
+ on capital, the tax system has magnified the divergence.
+
+ A recent report from the Congressional Budget Office provided dramatic evidence of the
+ divergent trends in income. It outlined the percentage gain in average inflation-adjusted
+ after-tax income of various income groups between 1979 and 2007:
+
+ According to the CBO:
+
+ The share of income going to higher-income households rose, while the
+ share going to lower-income households fell.
+
+ The top fifth of the population saw a 10-percentage-point increase
+ in their share of after-tax income.
+
+ Most of that growth went to the top 1 percent of the population.
+
+ All other [quintile] groups saw their shares decline by 2 to 3
+ percentage points.
+
+ An October 26 article in The New York Times reported the following conclusions:
+
+ . . . the report said government policy has become less redistributive since
+ the late 1970s, doing less to reduce the concentration of income.
+
+ "The equalizing effect of federal taxes was smaller" in 2007 than in 1979,
+ as "the composition of federal revenues shifted away from progressive
+ income taxes to less-progressive payroll taxes," the budget office said.
+
+ Also, it said, federal benefit payments are doing less to even out the
+ distribution of income, as a growing share of benefits, like Social Security,
+ goes to older Americans, regardless of their income. . . .
+
+ Also cited as factors contributing to the rapid growth of income at the top
+ [in addition to federal tax and spending policies] were the structure of
+ executive compensation; high salaries for some "superstars" in sports and
+ the arts; the increasing size of the financial services industry; and the
+ growing role of capital gains, which go disproportionately to higher-
+ income households.
+
+ The implications for tax discussions are obvious. Upper earners have moved further
+ ahead relative to lower earners, and tax policies have contributed to this trend. For those
+ who think progressivity should be bolstered, income should be redistributed, and
+ those most able to pay should contribute more heavily to solving the deficit problem,
+ upper-bracket earners make a most attractive target.
+
+ Topics in the News - The Sputtering Economy
+
+ In early 2011, there was a growing consensus that the U.S. economy was on an upward
+ trajectory - that recovery had taken hold. Reported growth in GDP was accelerating.
+ Orders, sales and profits were strong. Cash was piling up in corporate coffers. The Fed
+ gave increased thought to increasing interest rates to cool off the economy and prevent
+ the rekindling of inflation.
+
+ But in the summer it was reported that the economy had cooled, and earlier estimates of
+ GDP were revised downward. A possible double-dip recession became the topic of the
+ day. At the same time, an unseemly political confrontation regarding the U.S. federal
+ debt ceiling exposed a flawed, unconstructive political system at work; produced a
+ downgrade of long-term Treasury debt on the part of Standard & Poor's; seemed to take
+ us to the brink of a default; and sapped confidence at all levels.
+
+ Despite the economy's weakness, further government aid for the economy has been
+ rendered untenable by widespread negative feelings about the stimulus programs of
+ 2007-08 and the popular view that the government took care of Wall Street but not Main
+ Street, combined with the nearness of the next presidential election. Especially with
+ stimulus unlikely, government actions that discourage growth should be viewed
+ skeptically.
+
+ In the U.S. - just like in Greece and elsewhere in Europe - the answer to problems of
+ excessive deficit and debt can be summed up in one word: austerity. Everyone's after
+ debtor nations to practice austerity; that is, to spend less and tax more. The problem is
+ that such behavior will reduce citizens' incomes, discourage consumer spending and slow
+ or reverse economic growth. While on paper austerity will cut deficits, it may actually
+ add to them by reducing government tax collections. In this way, it would necessitate
+ further borrowing.
+
+ There's no doubt that, along with spending cuts, tax increases would have a
+ detrimental impact on the prospects for economic recovery. Thus even people who
+ are open to tax increases may not want them to be effective until the economy is out
+ of danger. As the Financial Times put it on October 29, "Many households are so badly
+ overleveraged that a balanced federal budget would ruin them."
+
+ But our economic problems aren't just cyclical. There are worrisome secular trends,
+ many surrounding the scarcity of new jobs, the movement of manufacturing overseas,
+ and the low level of business investment in the U.S. The best cure for our cyclical and
+ secular difficulties would be growth based on industrial expansion. This would put
+ people to work, support increases in spending, reinvigorate the housing sector, increase
+ tax revenues and shrink the deficit. But for this to happen, we need (a) tax rates that
+ allow successful entrepreneurs to retain a substantial percentage of the resulting
+ profits and (b) confidence that the tax system won't be made more confiscatory
+ after they've made their investments. At the present time, the latter, in particular,
+ is very much lacking.
+
+ Topics in the News - Flat Tax
+
+ It's interesting to note that writers of tax law have two main routes to a given revenue
+ total: low rates without deductions, exemptions and credits, or high rates with them. To
+ date they have chosen the latter course. An article in The Wall Street Journal of January
+ 29, 2011 marked down this choice to pure politics:
+
+ Why did [Roosevelt's high tax rates] last so long . . . beginning their long
+ steady decline only during the Kennedy administration? . . . In part to
+ fund the Korean conflict and the Cold War, but also to grease the skids of
+ modern politics. Lawmakers were able to blunt the effect of high statutory
+ rates by handing out tax preferences to their friends, constituents and
+ contributors. Steep rates preserved the appearance of progressivity (and,
+ to be fair, some of the reality), while supplying politicians with their stock
+ in trade: favors.
+
+ There are periodic calls for lower "flat" income tax rates and the elimination of
+ deductions and other wrinkles, and we are hearing them today. The main goal is tax
+ simplification. I commend this. (I have to admit that I, with my MBA in accounting,
+ stopped being able to understand my own tax return decades ago.) But of course we
+
+ cannot convert to a flat tax system without altering people's relative taxes. A
+ change would require sweeping policy decisions.
+
+ Flat tax proposals are often accompanied by calls for a national sales, consumption or
+ "value added" tax on spending, such as many other nations have. The problem here is
+ that those with low incomes spend most or all of their earnings on life's necessities, and
+ as incomes rise, people gain the possibility of spending less of their incomes and saving
+ more. Thus sales taxes tend to take a higher percentage of income the lower one's
+ income. That's why, in contrast with progressivity, sales taxes are described as
+ "regressive."
+
+ Last month, Republican presidential candidate Herman Cain announced his "9-9-9 plan,"
+ which features a flat 9% income tax rate, 9% national sales tax and 9% business tax.
+ Let's take a look at it. The Tax Policy Center is a non-partisan joint venture of the Urban
+ Institute and Brookings Institution. The St. Petersburg Times's politifact.com
+ summarized the results of the TPC's analysis as follows: "83.8 percent of tax filers would
+ get a tax increase . . . compared with current tax policy. On the other hand, most of the
+ tax filers who make more than $1 million would get a tax cut . . . about 95.4 percent of
+ this high income group."
+
+ Would it be right to make poor people pay income tax at the same rate as rich
+ people and pay a higher percentage of their incomes in a national sales tax?
+ Anything's fair game, I guess, but if the TPC's analysis is correct, this plan would
+ represent a step away from progressivity and further skew after-tax income toward the
+ wealthy. Yet we're likely to hear a lot more about flat tax during the coming campaign.
+ When confronted with complex problems, people often welcome simple solutions.
+
+ Topics in the News - Political Posturing
+
+ A Democratic politician I know decided not to run for president in 2008 because he
+ expected a rising tide of populist rhetoric to be required. He was right: classist speech
+ rose substantially. And the rise continues unabated.
+
+ Democrats tend to lean toward bigger entitlement programs, greater governmental
+ involvement in the economy, deficit spending, progressive taxation and income
+ redistribution. These things are in contrast to Republicans' averred traditions of small
+ government, individual self-sufficiency, free markets, balanced budgets and tax
+ reduction. At the present time, with the economy performing poorly, Democrats are glad
+ to describe Republicans' laissez faire policies as having contributed to joblessness and
+ economic hardship. With difficulty more prevalent than prosperity today, populism -
+ appealing to disadvantaged economic classes based on claimed inequities - represents a
+ compelling brand of politics.
+
+ Thus in recent months we've increasingly heard Democratic politicians sneer at
+ "millionaires and billionaires" (see Senator Reid on page 2), an epithet aimed at a group
+ that's supposedly been getting away with something. (In the past, I seem to recall, it was
+ instead a group most people wanted to be part of.) To date, the preferred Republican
+ label for people with money has been "job creators," although this line of defense may be
+ tough to maintain in the current climate.
+
+ The Financial Times of October 29 carried an article headlined "Obama takes high-risk
+ stance against the rich." It described a decision to emulate Roosevelt's Depression-era
+ rhetoric and point an accusing finger at the Republicans as the party of wealth.
+
+ Throwing out the standard presidential playbook dictating an aspirational
+ approach to centrist voters, the White House is cementing a message that
+ strikes at wealth and privilege.
+
+ "There is surging sentiment among voters that the economy is weighted
+ towards the wealthy," said a senior White House official.
+
+ The White House strategy will make the 2012 election a generational test
+ of the Republican push of the last three decades for cutting taxes, in ways
+ their critics say have been constantly skewed towards the highest earners.
+
+ However, the article goes on to say Republicans may respond in kind to this tactic,
+ joining in support of the common man rather than standing up for wealthier supporters:
+
+ . . . Republicans are tweaking their public message, with the hardline
+ [H]ouse majority leader, Eric Cantor, recently acknowledging the need to
+ address the rich-poor gap.
+
+ Mitt Romney, the frontrunner in the race to challenge Barack Obama in
+ 2012, has taken to saying that he is standing up for the "middle class"
+ because the rich "can look after themselves."
+
+ With candidates in both parties competing to sound less pro-wealth, top earners and
+ their supportive tax policies should expect to be rhetorical targets in the coming
+ election. Whether this will extend to Republican candidates dropping their
+ resistance to tax increases remains to be seen.
+
+ The Ultimate Worry: Tyranny of the Majority
+
+ The elements that contributed importantly to America's success included economic
+ aspiration, upward mobility and a tax system that encouraged labor and risk-taking. In
+ short, we all could get rich. As a result, both those with money and those hoping to
+ make money were attracted to the idea of low taxes. This made tax reduction a very
+ popular theme over the last few decades.
+
+ But when people without money start to believe they can't make money, there's
+ little to keep them from taking it from those who have it. This represents a threat
+ to our way of life.
+
+ As I've written before, I was very impressed when, as a young man, I heard an interesting
+ explanation for America's economic progress relative to Great Britain: "When the worker
+ in Britain sees the boss drive out of the factory in his Rolls Royce, he says 'I'd like to put
+ a bomb under that car.' When the worker in America sees the boss drive out of the
+ factory in his Cadillac, he says 'I'd like to have a car like that someday.' " This tale says
+ a lot about how we achieved our success . . . and also about what we'd better retain if we
+ want to keep it.
+
+ The truth is, in a democracy, the lower-earning majority is perfectly capable of voting to
+ confiscate the wealth of the minority. A lot of people have written about this and
+ associated threats to our system:
+
+ "If Sparta and Rome perished," asked Rousseau in his Social Contract,
+ "how can any state hope to live forever? The Body Politick, like the body
+ of a man, begins to die as soon as it is born; it contains the seeds of its
+ own destruction. (Financial Times, October 29)
+
+ "When men get in the habit of helping themselves to the property of
+ others," warned the New York Times in 1909, "they are not easily cured
+ of it." (The Wall Street Journal, January 29, 2011)
+
+ Some people regard private enterprise as a predatory tiger to be shot.
+ Others look on it as a cow they can milk. Not enough people see it as a
+ healthy horse, pulling a sturdy wagon. (Winston Churchill)
+
+ As Margaret Thatcher famously said, the problem with socialism is that
+ sooner or later "you run out of other people's money." (New York Post,
+
+ The risk is exacerbated today by the fact (as noted earlier) that about half of all
+ Americans pay no federal income tax. This makes me wonder whether our democracy
+ can make good decisions about taxation when half the people are outside the system.
+
+ Obviously, it's tempting to many to increase taxes on the rich, seeing it as a harmless way
+ to enhance the welfare of the many at a small cost to the few. But the damage to the
+ U.S.'s success machinery could vastly outweigh the sums confiscated from those who are
+ targeted. The "fair share" taken from upper bracket earners has to be kept as small
+ as possible if the tax system is to benefit all of our society. The coming debate over
+ tax increases will be very important in this regard.
+
+ There can be no easy solution. Social programs and tax policies have been put in place
+ that will combine with demographic and income trends to create challenging conditions.
+ "The Middle-Class Tax Trap" (The New York Times, April 17, 2011) outlined the
+ consequences:
+
+ [Consider] the "current law baseline," a Congressional Budget Office
+ projection in which the Bush-era tax rates aren't renewed in 2012, the
+ Alternative Minimum Tax (which is supposed to hit only the rich but
+ increasingly bites into middle-class paychecks) isn't indexed for inflation,
+ and Medicare payments to doctors are slashed 20%.
+
+ With these changes, the deficit drops away in the next 10 years, and more
+ important, it stays manageably low for the decades after that. . . .
+
+ This is how the "current law baseline" cuts the deficit: Thanks to inflation
+ and bracket creep, its tax code generally subjects more and more
+ Americans to rates that now fall only on the wealthy.
+
+ Today, for instance, a family of four making the median income . . . pays
+ 15% in federal taxes. By 2035, under the C.B.O. projection, payroll and
+ income taxes would claim 25% of that family's income. The marginal tax
+ rate on labor would rise from 29% to 38%. Federal tax revenue, which
+ has averaged 18% of G.D.P. since World War II, would hit 23% by the
+ 2030s and climb ever higher after that.
+
+ Such unprecedented levels of taxation would throw up hurdles to
+ entrepreneurship, family formation and upward mobility. . . .
+
+ They could have ugly political consequences as well. Historically, the
+ most successful welfare states (think Scandinavia) have depended on
+ ethnic solidarity to sustain their tax-and-transfer programs. But the
+ working-age America of the future will be far more diverse than the
+ retired cohort it's laboring to support. Asking a population that's
+ increasingly brown and beige to accept punishing tax rates while white
+ seniors receive roughly $3 in benefits for every dollar they paid in (the
+ projected ratio in the 2030s) promises to polarize the country along racial
+ as well as generational lines.
+
+ The Republican vision for entitlement reform, President Obama said
+ last week, would lead to a "fundamentally different America" than
+ the one we inhabit today. He's right: asking the elderly to pay more
+ for their health care, as [Representative] Paul Ryan proposes to do,
+ would transform the American social contract, and cause no small
+ amount of pain.
+
+ But what Obama doesn't acknowledge is that the alternative path
+ could lead to a different country as well - a more stagnant and
+ balkanized society, in which our promise to the elderly crowds out the
+ fundamental promise of America itself. (Emphasis added)
+
+ Will we keep the promise of entitlement programs or cut them back? Given the
+ prominence of entitlements in the U.S. budget, in large part it comes down to that.
+
+ Over the last 80 years, politicians in the U.S. created entitlement programs that we cannot
+ afford. Likewise, to varying degrees citizens throughout the developed world have been
+ given promises their governments can't keep. That a day of reckoning would arrive is
+ not news - credible observers have warned of our current problems for decades - but few
+ politicians have been willing to fall on the sword of unpopular solutions.
+
+ Whatever action is taken now, it will not be pain-free. The unpayable debts run up
+ in the past will have to be dealt with. And as for the future, there are only three
+ possibilities: the promises will have to be scaled back, the tax burden will have to
+ grow, and/or the deficits will have to be permitted to increase. If nations are to
+ limit deficits - and it seems they may be forced to - there is no alternative to the first
+ two of these. This fundamental truth will constitute a major portion of the public
+ debate in coming years.
+
+ Tax policy consists of deciding who to take from (and how much) and who to give it to.
+ There are no easy answers. We should all throw our support behind the common good
+ and not just our individual interests.

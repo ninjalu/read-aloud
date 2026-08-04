@@ -16,6 +16,10 @@ exports/
 
 # Podcast feed secrets (R2 credentials + feed token)
 podcast_config.json
+berkshire_config.json
+
+# Berkshire letters podcast working files (audio cache, feed, raw sources)
+berkshire/
 
 # podcast auto-sync watcher runtime
 podcast-sync-watch.log

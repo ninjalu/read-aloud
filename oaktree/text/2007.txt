@@ -1,0 +1,3003 @@
+Memo: The Race to the Bottom.
+
+Cheapening Money
+ U
+
+ If you make cars and want to sell more of them over the long term - that is, take
+ permanent market share from your competitors - you'll try to make your product better.
+ (You might cut your prices or increase your advertising, but neither of those will work for
+ long if your cars are demonstrably inferior.) "Building a better mousetrap" should also
+ be effective for sellers of toothpaste, computers, televisions, magazines, movies and
+ dresses, or any other product that can be differentiated from its competitors. That's why
+ - one way or the other - most sales pitches say, "Ours is better."
+
+ However, there are products that can't be differentiated, and economists call them
+ "commodities." These are generic goods like gold, West Texas crude oil, pork bellies,
+ steel ingot, orange juice, electricity and telecommunications bandwidth. They're goods
+ where no seller's offering is much different from any other. They tend to trade on price
+ alone, and each buyer is likely to take the offering at the lowest delivered price.
+
+ Thus, if you deal in a commodity and want to sell more of it, there's generally one way to
+ do so: cut your price. It's futile to make claims for product superiority, and advertising is
+ unlikely to alter buying habits. Thus in order to gain market share, you have to make
+ your product cheaper than someone else's.
+
+ It helps to think of money as a commodity just like those others. Everyone's money is
+ pretty much the same. Yet institutions seeking to add to loan volume, and private
+ equity funds and hedge funds seeking to increase their fees (see "The New Paradigm"),
+ all want to move more of it. So if you want to place more money - that is, get people
+ to go to you instead of your competitors for their financing - you have to make your
+ money cheaper. As with the other commodities, low price is the most dependable route
+ to increased market share.
+
+ One way to lower the price for your money is by reducing the interest rate you charge on
+ loans. A slightly more subtle way is to agree to a higher price for the thing you're
+ buying, such as by paying a higher p/e ratio for a common stock or a higher total
+ transaction price when you're buying a company. Any way you slice it, you're settling
+ for a lower prospective return. But there are other ways to cheapen your money,
+ and they're the primary subject of this memo.
+
+ Congratulations!
+ U
+
+ What else is there - besides return - that you can accept less of in order to
+ accelerate the pace at which you put out your money? The answer is simple: safety.
+ So a provider of capital who wants to increase market share - that is, make a bigger
+ percentage of the loans or investments that are made - will accept risks that others won't.
+ That's another way to get the deal instead of having it go to someone else.
+
+ I sometimes buy at auctions. When the bidding's over, the auction house personnel come
+ up and say "congratulations." I usually say, "On what? All I did is pay more than
+ anyone else would pay." That's how auctions work - most market mechanisms, in fact:
+ the deal goes to the person who'll pay the most for the goods (or, looked at
+ conversely, get the least for his money). The capital markets are no different.
+
+ Of course, when the subject is price, it's obvious that the person who's willing to pay the
+ most wins the auction. It's a little more subtle that, when it comes to quality and safety,
+ the person who'll accept the least is likely to be congratulated as the "winner." Winner in
+ quotes, that is, because in putting out capital, the person who gets the deal is likely to
+ be a loser if he accepts a level of safety that turns out to be inadequate.
+
+ That leads me to one of my pet peeves. The "industry rags" in private equity are devoted
+ almost exclusively to reporting who bought what company, with accounts of how
+ competitors were outbid and innovative financing arranged. But the articles should focus
+ instead on whether the price was right, and the champagne should probably be kept on ice
+ until the company has been sold at a profit. Buying shows who was the highest bidder,
+ not necessarily the smartest bidder.
+
+ (Let me hasten to point out here that while I generalize as usual for simplicity and effect,
+ there are always exceptions. Oaktree routinely gains admittance to deals because we
+ provide prompt commitments, certainty of closure, assistance in structuring and/or the
+ promise of constructive behavior should problems arise. But much of the time -
+ especially today - deals go to the capital providers who'll pay the most and/or accept the
+ least. We try to gain access to deals by adding value, not by paying the most.)
+
+ The Auction's On
+ U
+
+ While the last few years have given me many opportunities to marvel at excesses in the
+ capital markets, in this case the one that elicited my battle cry - "that calls for a memo" -
+ hit the newspapers in England during my last stay. As the Financial Times reported on
+ November 1,
+
+ Abbey, the UK's second-largest home loans provider, has raised the
+ standard amount it will lend homebuyers to five times either their single or
+ joint salaries, eclipsing the traditional borrowing levels of around three
+ and a half times salary. It followed last week's decision by Bank of
+
+ Ireland Mortgages and Bristol and West to increase standard salary
+ multiples from four to 4.5 times.
+
+ In other words, there had been a traditional rule of thumb saying that borrowers can
+ safely handle mortgages with a face amount equal to three-plus times their salaries. But
+ now they can have five times - roughly 50% more. What inference should be drawn?
+ There are at least four possibilities:
+
+ 1. The old standard was too conservative, and the new one's right;
+ 2. Conditions have changed, such that the new standard is as conservative for today as
+ the old one was for its times;
+ 3. It's reasonable for mortgage lenders to accept higher default experience, and thus
+ lower net returns, because their cost of capital has declined; or
+ 4. The rush to place money has caused a supplier of capital to loosen its standards.
+
+ Now, I am no expert on the UK mortgage market, and it's my intention in this memo to
+ comment on general capital market trends, not any one sector. Further, it's certainly true
+ that today's lower interest rates mean a given salary can support a bigger mortgage (and
+ that's likely to hold true so long as (1) borrowers keep their jobs and (2) their mortgages
+ carry fixed rates). But if you think Abbey's reason for taking this step might be a logical
+ one like that, the question to ask is "why now?"
+
+ Logical reasons and sober decision making might be involved here. But so might
+ competition to put out money and the usual late-stage belief that "it's different this
+ time." Lenders and investors invariably depart from time-honored disciplines when
+ cycles move to extremes, out of a belief that current conditions are different from
+ those that prevailed in the past, when those disciplines were appropriate. And just
+ as invariably, they're shown that cycles repeat and nothing really changes.
+
+ What did we see in the U.S. mortgage market as home prices rose and interest rates
+ declined? First, low teaser rates. Then higher loan-to-value ratios. Then 100%
+ financing. Then low-amortization loans. Then no-amortization loans. Then loans
+ requiring no documentation of employment or credit history. These things made it
+ possible for more buyers to stretch for more expensive homes, but at the same time they
+ made mortgages riskier for lenders. And these developments took place when home
+ prices were at sky-high and interest rates were at multi-generation lows. In the end,
+ buyers took out the biggest mortgage possible given their incomes and prevailing interest
+ rates. Such mortgages would land them in the houses of their dreams . . . and leave them
+ there for as long as conditions didn't deteriorate, which they invariably do.
+
+ Do you remember the game Bid-a-Note from the TV show "Name that Tune"?
+ Contestant x said, "I can name that tune in six notes." Then contestant y said, "I can
+ name that tune in five notes." Then contestant x said, "I can name that tune in four
+ notes." The contestant who eventually got the chance to guess the name of the tune was
+ the one who was willing to accept the riskiest proposition - to try on the basis of the least
+ information.
+
+ So the Bank of Ireland entered the competition to lend money for home purchases and
+ said, "I'll lend four and a half times the borrower's salary." And Abbey said, "I'll lend
+ five times." The so-called winner in this auction is the one who'll put out the most
+ money with the least safety. Whether that's really winning or losing will become clear
+ when the cycle turns, as it did in the U.S. last year. But certainly there's a race to the
+ bottom going on . . . a contest to become the institution that'll make loans with the
+ slightest margin for error.
+
+ By the way, were the people who made those U.S. mortgages loans big losers? Defaults
+ spiked last year, but often the originators of the loans had escaped by selling the loans
+ onward to others, some of whom packaged them into mortgage-backed securities or
+ CLOs and sold them once again or borrowed against them on a non-recourse basis. Since
+ many of the people who make loans today flip them quickly, an aspect of "moral hazard"
+ has entered the equation, in which decision makers are insulated from the consequences
+ of their actions.
+
+ Any way you slice it, standards for mortgage loans have dropped in recent years,
+ and risk has increased. Logic-based? Perhaps. Cycle-induced (and exacerbated)?
+ I'd say so. The FT quoted John Paul Crutchley, a banking analyst at Merrill Lynch, as
+ saying "When Abbey are lending a multiple of five times salary, that could be perfectly
+ sensible - or it could be tremendously risky." Certainly mortgage lending was made
+ riskier. We'll see in a few years whether that was intelligent risk taking or excessive
+ competitive ardor.
+
+ Everyone's Got a Favorite
+ U
+
+ A lot of Oaktree's activities center around buying bonds, making loans and trying to
+ profit when debt that others hold goes bad. So who better than my colleagues for me to
+ turn to for examples of mistakes in the making? I asked for examples of the race to the
+ bottom, and the response was immediate and substantial. I won't embarrass individual
+ issuers or borrowers by describing specific transactions; the names have been omitted to
+ protect the guilty. But here are some of the themes our people told me about:
+
+ Hot potato - There's big money today in buying companies and then having them
+ U U
+
+ borrow money with which to pay you a dividend, even if doing so reduces the
+ companies' creditworthiness. Just a few years back, companies generally wouldn't
+ have been able to issue bonds or loans where the projected use of proceeds was
+ dividends to their equity owners. But since people are so eager to invest today,
+ they'll lend to companies where much or all of the equity paid in - or maybe more
+ than all of it - will be dividended out. They're doing so on the expectation that
+ they'll be able to exit before risk turns into loss. "If things take a turn for the
+ worse, I'll get out" is a refrain that accompanies most market excesses (tech
+ stocks in 1999 and condos in 2005 come immediately to mind), but rarely does it
+ turn out that way.
+
+ Heads We Win/Tails You Lose - Part of being willing to pay more for less relates to
+ U U
+
+ the balance between upside potential, downside risk and who gets what. SPACs - or
+ Special Purpose Acquisition Companies, also known as "blank check companies" or
+ "blind pools" - seem like a good example of miscalibration. People put equity capital
+ into a SPAC with no certainty as to what will be done with it. The SPAC's
+ "portfolio" is likely to consist of just one company. And the investors will get no
+ return on their money as long as it remains unspent, which can be up to 18 or 24
+ months. The sponsor, on the other hand, gets 20% of any profits, as there's no
+ preferred return. It does so through warrants, which it can liquidate even without
+ having sold the acquired company. And if it can't make an acquisition, it just returns
+ the money without penalty - usually reduced by banking and other fees.
+
+ Not My Problem - One of the stories I was told pertained to a company whose
+ U U
+
+ accounting problems had prevented it from issuing audited financial statements for a
+ relatively long period of time. After the company went bankrupt, we were
+ determined to learn more about its accounting issues than anyone else and then
+ intelligently make a debtor-in-possession loan, through which we might gain
+ ownership of the company. But before we could make the loan, someone else made
+ the company a better offer: more leverage on cheaper terms, with no provision for
+ accounting due diligence. When later we were able to ask about why we had lost out,
+ we were told that one reason the other lender was able to be more aggressive than
+ Oaktree was the fact that it had "pre-syndicated" most of the loan to hedge funds.
+ This was accomplished in the absence of financial statements or accounting due
+ diligence, but with validation from the high trading price of the company's public
+ securities (which was being set, again, in a financial-statement void). Okay, so the
+ lender's risk was limited. But how about the funds that bought the loan?
+
+ Complexity Outruns Analysis - Wall Street is incredibly inventive. It's staffed by
+ U U
+
+ bright people, pursuing massive incentives, trying to out-think their competitors in
+ order to win assignments to serve companies' financial needs. Sometimes this results
+ in structures that few people understand, fraught with hidden risks. My latest
+ nominee is the CPDO, or Constant Proportion Debt Obligation. CPDOs provide
+ capital to finance structured entities writing credit insurance on investment grade
+ debt. Because this debt entails little credit risk, the returns that can be earned from
+ writing credit insurance on it are similarly low. Thus, these entities have to lever up
+ substantially - typically 15-to-1 - to provide the LIBOR+200 returns promised on the
+ bottom-tier CPDO. The rating agencies bestow triple-A ratings on the CPDOs
+ because (a) the riskiness of investment grade bonds is low and (b) the projected
+ interest spreads and the net asset values initially are far more than sufficient to satisfy
+ the covenants. But because the portfolios are so highly leveraged, these cushions can
+ evaporate quickly.
+
+ I find two things about CPDOs worthy of particular note. First, this is the first-
+ loss equity piece beneath a highly leveraged entity where consequences can be
+ triggered by breaches of income and market value covenants. Thus, the equity
+
+ beneath a portfolio of bonds averaging single-A, leveraged up 15-to1, gets a
+ triple-A rating. Huh? Second, as the Financial Times wrote on November 13,
+ "if there are losses and the CPDO's net asset value begins to fall from its target,
+ the leverage is increased to try to earn more at a faster rate." In other words, if
+ you did a little of something and it didn't work, try to recoup your losses by
+ doing a lot.
+
+ What Due Diligence? - The other day, Orin Kramer (see "Pigweed") observed
+ U U
+
+ skeptically that "the most profitable way to be a lender today is to have no
+ underwriting department." In other words, default rates are too low, and the market is
+ too competitive, for credit analysis to be worth paying for. In December, Reuters
+ described a takeover bid whose competitiveness was enhanced by a reduced due
+ diligence period and a short list of information requirements. And most interestingly,
+ one of the major investment banks told us recently that on most syndicated loans,
+ about 70% of the buyers never visit the data rooms set up to facilitate due diligence.
+
+ Put the Pedal Down - FT.com pointed out on January 21 that, "One-tenth of the
+ U U
+
+ capital committed [to private equity funds] in 2002 was . . . put to work within one
+ year. For funds invested in 2005, the corresponding proportion was almost 30
+ percent." If the amount raised in 2005 was triple the 2002 level, as I believe was the
+ case, that means private equity funds deployed capital in 2005 roughly nine times as
+ fast as they had in 2002.
+
+ No one of these is evidence of misfeasance or terminal laxness by itself. But together
+ they describe a market where a desire for quantity and speed has taken over from an
+ insistence on quality and caution. And with that insistence goes the margin of safety that
+ Warren Buffett urges investors to demand.
+
+ The Amazing Disappearing Covenant
+ U
+
+ Evaluating and negotiating covenants is an important part of the high yield bond
+ investor's job. The law says a company's board of directors has a fiduciary duty to its
+ shareholders, but generally speaking there is no analogous duty to creditors such as banks
+ and bondholders. In fact, some companies behave as if they feel a responsibility to
+ actively take value from creditors and transfer it to the shareholders. Because companies
+ can do anything to creditors that isn't prohibited by law or the bond indenture, covenants
+ are a key component in creditor safety.
+
+ It's important to bondholders, for example, that the companies to which they lend money
+ remain as little changed as possible. They want the creditworthiness they lend against to
+ still be there years down the road, and strong covenants can do a lot to ensure that's the
+ case. Bondholders can't prevent problems in the economy, the company's markets, its
+ products' competitiveness or its executive suite. But with good covenants, they can put
+ limits on leverage, acquisitions, cash distributions or asset transfers, and they can tighten
+ financial tests and insist on rights that will be triggered if cash flow falls below a
+
+ specified multiple of the company's indebtedness or interest obligation. On the other
+ hand, just as people who are eager to buy bonds can increase their chances of being able
+ to do so by accepting less interest, they also can do so by settling for weaker covenants.
+
+ When credit markets are tight and providers of capital are reticent, money can be hard to
+ come by. Companies' demand for financing can exceed the supply, putting negotiating
+ power in the hands of the lenders. Thus lenders can insist on - and obtain - strict
+ covenants, and bonds issued in such an environment are likely to be relatively safe.
+
+ But when usually disciplined bond buyers have to compete against others who aren't
+ acting in a disciplined fashion, their ability to insist on covenant protection goes out the
+ window. In economics, Gresham's Law says "bad money drives out good." That's why,
+ when paper money joined gold as legal tender, gold was put in the strongbox rather than
+ spent, and only paper money circulated. The same thing happens in the investing world:
+ bad investors drive out good. When undisciplined investors are out there with lots of
+ money to get rid of, there's less scope for disciplined investors to insist on strong
+ covenants. That's why the level of covenant protection is a good barometer of the market
+ climate.
+
+ Covenants are the province of a special breed of analysts who are willing to "sweat the
+ details" and able to make sense of paragraph-long, highly technical sentences. "A
+ Review of Covenant Trends in 2006" by Adam B. Cohen is no less challenging reading.
+ It reviews last year's trends in a number of complex indenture provisions, but I'll limit
+ myself to quoting its general conclusions:
+
+ For years, investors have periodically lamented the declining quality of
+ high yield bond covenants but the trends have become especially
+ pronounced amidst a flurry of leveraged buyout (LBO) financings . . . . a
+ careful review of covenant packages - particularly in sponsor-backed [i.e.,
+ LBO] offerings - during 2006 reveals a systematic dismantling of
+ longstanding covenant protections . . .
+
+ And as Reuters reported on February 6, Standard and Poor's added the weight of
+ its opinion:
+
+ While credit quality is under even greater pressure, the amount of cash on
+ offer has meant private equity sponsors have been able to dilute lenders'
+ rights through weaker covenants and loan documentation, [S&P] said.
+ "Loan structures have become so borrow-friendly that private equity
+ sponsors can write their own term sheets, using their last term sheet as the
+ template for their next."
+
+ And, in our view, that template usually serves as the starting point for the next
+ round of erosion of covenants and terms.
+
+ Effects Short-Term and Long
+ U
+
+ In the short term, the effect of generous capital market conditions is to make more
+ money available to more companies for more reasons, at lower rates of interest
+ and with fewer covenants. This leads to higher levels of acquisitions, buyouts and
+ corporate expansion (not to mention rapid recapitalizations of buyout companies
+ and thus high short-term rates of return). In the short run, this contributes to a
+ high level of general financial activity.
+
+ Another effect is to forestall financial stringency at weak companies. When
+ lenders are strict and covenants are tight, operating problems can lead quickly to
+ both technical defaults (violations of covenants) and "money defaults" (non-
+ payment of interest or principal). But looser conditions can permit default to be
+ forestalled: if covenants are lax; if borrowers have the option to convert cash-pay
+ bonds into payment-in-kind bonds (through a recent innovation, "toggle bonds");
+ or if they can raise money and thus postpone the day of reckoning.
+
+ Eventually, one would think, many of the forestalled defaults will demonstrate
+ their inevitability, with the companies falling from more highly leveraged heights.
+ And certainly the capital markets' willingness to finance less-than-deserving
+ companies will lead ultimately to a higher level of corporate distress. Thus,
+ everything else being equal, the bigger the boom - the greater the excesses of
+ the capital markets in the upward direction - the greater the bust. Timing
+ and extent are never predictable, but the occurrence of cycles is the closest thing I
+ know to inevitable. And usually, the air goes out of the balloon a lot faster than it
+ goes in.
+
+ * * *
+
+ Today's financial market conditions are easily summed up: There's a global
+ glut of liquidity, minimal interest in traditional investments, little apparent
+ concern about risk, and skimpy prospective returns everywhere. Thus, as
+ the price for accessing returns that are potentially adequate (but lower than
+ those promised in the past), investors are readily accepting significant risk in
+ the form of heightened leverage, untested derivatives and weak deal
+ structures. The current cycle isn't unusual in its form, only its extent. There's
+ little mystery about the ultimate outcome, in my opinion, but at this point in the
+ cycle it's the optimists who look best.
+
+ As is often the case, I could have made this a shorter memo by simply invoking
+ my two favorite quotations, both of which have a place here.
+
+ The first is from John Kenneth Galbraith, who passed away last year. I was fortunate to
+ be able to spend a few hours with Mr. Galbraith a year and a half earlier and to have the
+
+ benefit of his wisdom firsthand. This quote, however, is from his invaluable book, "A
+ Short History of Financial Euphoria." It seems particularly apt under the current
+ circumstances:
+
+ Contributing to . . . euphoria are two further factors little noted in our time
+ or in past times. The first is the extreme brevity of the financial memory.
+ In consequence, financial disaster is quickly forgotten. In further
+ consequence, when the same or closely similar circumstances occur again,
+ sometimes in only a few years, they are hailed by a new, often youthful,
+ and always supremely self-confident generation as a brilliantly innovative
+ discovery in the financial and larger economic world. There can be few
+ fields of human endeavor in which history counts for so little as in the
+ world of finance. Past experience, to the extent that it is part of memory at
+ all, is dismissed as the primitive refuge of those who do not have the
+ insight to appreciate the incredible wonders of the present.
+
+ The second is Warren Buffett's bedrock reminder of the need to adjust our financial
+ actions based on the investor behavior playing out around us. Fewer words, but probably
+ even more useful:
+
+ The less prudence with which others conduct their affairs, the greater the
+ prudence with which we should conduct our own affairs.
+
+ This memo can be summed up simply: there's a race to the bottom going on,
+ reflecting a widespread reduction in the level of prudence on the part of investors
+ and capital providers. No one can prove at this point that those who participate will
+ be punished, or that their long-run performance won't exceed that of the naysayers.
+ But that is the usual pattern.
+
+ If you refuse to fall into line in carefree markets like today's, it's likely that, for a while,
+ you'll (a) lag in terms of return and (b) look like an old fogey. But neither of those is
+ much of a price to pay if it means keeping your head (and capital) when others eventually
+ lose theirs. In my experience, times of laxness have always been followed eventually by
+ corrections in which penalties are imposed. It may not happen this time, but I'll take that
+ risk. In the meantime, Oaktree and its people will continue to apply the standards that
+ have served us so well over the last twenty years.
+
+
+Memo: Everyone Knows.
+
+_____________________________________________________________________________
+
+ par·a·dox n 1 a seemingly absurd or self-contradictory statement that is or may
+ be true . . . 4 an opinion that conflicts with common belief. (Collins English
+ Dictionary)
+
+I'm sometimes asked to speak about investing with the choice of topic wide open. I like to begin
+by saying the thing I find most interesting about investing is how paradoxical it is: how often the
+things that seem most obvious - on which everyone agrees - turn out not to be true.
+
+I'm not saying accepted investment wisdom is sometimes valid and sometimes not. The reality
+is simpler and much more systematic: What's clear to the broad consensus of investors is
+almost always wrong.
+
+First, most people don't understand the process through which something comes to have
+outstanding moneymaking potential. And second, the very coalescing of popular opinion
+behind an investment tends to eliminate its profit potential.
+
+I've been saving up ideas for a memo about how often the investing herd is wrong and accepted
+wisdom should be bet against. Then along came the March 1 issue of Mark Faber's "Gloom,
+Boom and Doom Report" and its lead quotation from William Stanley Jevons (1835-1882).
+Another chance for someone else to help me say it better, this time from 100-plus years ago:
+
+ As a general rule, it is foolish to do just what other people are doing, because
+ there are almost sure to be too many people doing the same thing.
+
+"Common Sense" and Other Oxymorons
+
+Take, for example, the investment that "everyone" believes to be a great idea. In my view
+by definition it simply cannot be so.
+
+ If everyone likes it, it's probably because it has been doing well. Most people seem to
+ think outstanding performance to date presages outstanding future performance.
+ Actually, it's more likely that outstanding performance to date has borrowed from the
+ future and thus presages sub-par performance from here on out.
+ If everyone likes it, it's likely the price has risen to reflect a level of adulation from which
+ relatively little further appreciation is likely. (Sure it's possible for something to move
+ from "overvalued" to "more overvalued," but I wouldn't want to count on it happening.)
+ If everyone likes it, it's likely the area has been mined too thoroughly - and has seen too
+ much capital flow in - for many bargains to remain.
+
+ If everyone likes it, there's significant risk that prices will fall if the crowd changes its
+ collective mind and moves for the exit.
+
+Superior investors know - and buy - when the price of something is lower than it should
+be. And the price of an investment can be lower than it should be only when most people
+don't see its merit. Yogi Berra is famous for having said, "Nobody goes to that restaurant
+anymore; it's too crowded." It's just as nonsensical to say, "Everyone realizes that
+investment's a bargain." If everyone realizes it, they'll have bought, in which case the price
+will no longer be low.
+
+The Anatomy of a Bargain
+
+"Is it a good idea?" That's what everyone wants to know. And from time to time, popular
+opinion unites behind an investment, anointing it as a good idea - the next solution - the low-risk
+sure thing - the "silver bullet." Often this crowd mentality creates a self-fulfilling prophecy . . .
+for a while.
+
+I've seen it many times in my 39 years in this business: "it's a good idea to invest in the stocks of
+high-growth companies" (or energy stocks, small companies, disc drive companies, emerging
+markets, venture capital funds, technology stocks, hedge funds, real estate, China and India, or
+private equity). But just as often, I've stated my view: There's no such thing as a good idea.
+Only a good idea at a price. Something can be a very good idea at one price and a very bad
+idea at another.
+
+Invariably when I hear the media and the herd describe something as a good buy, it's without
+regard for price. They never say, "Internet stocks are a good buy at p/e ratios up to 50." Or
+"class-A office buildings are a good buy as long as the cap rate exceeds 7%." Or "private
+equity's a good idea at purchase prices below seven times EBITDA." Just "it's a good buy."
+
+My response is simple: There is no investment idea so good that it can't be ruined by a too-
+high entry price. And there are few things that can't be attractive investments if bought at
+a low-enough price. When investors forget these simple truths, they tend to get into trouble.
+
+How Money Is Made
+
+The fact is, there is no dependable sign pointing to the next big moneymaker: a good idea at a
+too-low price. Most people simply don't know how to find it. If someone really knew, why
+would he share his knowledge? And when the investing herd or some media commentator
+expresses an opinion, they're invariably pointing in the wrong direction.
+
+Large amounts of money (and by that I mean unusual returns, or unusual risk-adjusted
+returns) aren't made by buying what everybody likes. They're made by buying what
+everybody underestimates.
+
+In short, there are two primary elements in superior investing:
+
+ seeing some quality that others don't see or appreciate (and that isn't reflected in the
+ price), and
+ having it turn out to be true (or at least accepted by the market).
+
+It should be clear from the first element that the process has to begin with investors who
+are unusually perceptive, unconventional, iconoclastic or early. That's why successful
+investors are said to spend a lot of their time being lonely. As I wrote in "Dare to Be Great,"
+non-conformists don't get to enjoy the warmth that comes with being at the center of the herd.
+But it should be clear that when you're one of many buying something, it's unlikely to be a
+special opportunity. It's only when few others will buy that you can get a bargain.
+
+That's the thinking behind a brilliant observation that I heard in the 1970s, describing the three
+stages of a bull market:
+
+ the first, when a few forward-looking people begin to believe things will get better,
+ the second, when most investors realize improvement is actually underway, and
+ the third, when everyone believes things will get better forever.
+
+The loners who buy from a crowd of dispirited sellers can get a good deal - and high returns -
+because they're few in number and early. But when every Tom, Dick and Harriet joins the herd,
+after the merits of the situation have become obvious to all, they can't expect a bargain; the
+merits must be reflected fully - or to excess - in the price. In fact, each of those latecomers
+bears the risk of being the last to jump on the bandwagon . . . just before it goes off the cliff.
+
+The Best Companies in America
+
+As readers of these memos know, I first worked in the Investment Research Department of First
+National City Bank (now Citibank) in 1968. Whereas common stocks traditionally were bought
+on the basis of their issuers' current book value and earnings, "growth investing" recently had
+come into fashion. Under this new approach, buyers paid higher-than-usual valuation multiples
+for the stocks of "growth companies" in recognition of the above-average rates at which their
+earnings were projected to increase in the future.
+
+Growth investing reached its zenith in the pursuit of the "Nifty Fifty," and that's the style the
+bank pursued to the virtual exclusion of all others. It consisted of buying the stocks of the best,
+fastest-growing companies in America, companies like IBM, Xerox, Polaroid, Kodak, Hewlett
+Packard, Texas Instruments, Perkin Elmer, Merck, Lilly and Avon. Each one was a corporate
+icon, or what I call a "head nodder" - one person says "Xerox" and everyone else nods and says
+"great company." Head nodders are like silver bullets: always the subject of broad,
+unquestioning adoration, and thus invariably overpriced.
+
+The trap, of course, is that when everyone agrees something's a great company, it invariably
+comes at a great-company price. Some will turn out to actually be great companies, but the
+
+buyers of their stocks have already paid in full for greatness. Others will disappoint, and the
+stock of a disappointing company that's been bought at a great-company price can be a disaster.
+
+By 1970, the scene had been set for just such a development by the Nifty Fifty investors' attitude
+toward valuation: "These companies are so good, and growing so fast, that there's no such
+thing as a price that's too high. If the price seems excessive given this year's earnings, just
+wait; the earnings will grow enough to justify the price." Those who participated can say they
+cared about price, but I never heard of anyone refusing to hold those stocks just because they
+were priced too high. Such discipline is rarely seen during investment manias.
+
+The rest, as they say, is history. In the early and mid-70s, the wheels fell off. Common stock
+investing, which had become extremely popular, fell out of favor. Business Week ran its famous
+cover story, "The Death of Equities." The economy became mired in stagflation. Great
+companies' earnings failed to grow and sometimes contracted. Nifty Fifty stocks that had traded
+at p/e ratios of 80 and 90 fell to p/e ratios of 8 and 9 (really). And The Wall Street Journal
+eventually ran its customary listing of stocks that had lost 90% - a possible buy signal that
+depressed investors routinely ignore.
+
+So we had a quick lesson in the folly of buying on supposed merit alone, without regard to price.
+But the lesson continued. Here in 2007, only a few of those "Best Companies in America" are
+still thought of as such. In fact, IBM, Xerox, Kodak and Polaroid all became distressed in the
+interim and required turnarounds. Warren Buffett made a related observation in this year's
+Berkshire Hathaway Annual Report: "Of the ten non-oil companies having the largest market
+capitalization in 1965 - titans such as General Motors, Sears, DuPont and Eastman Kodak - only
+one made the 2006 list."
+
+The lesson is simple: beware sweeping statements, accepted wisdom and eternal verities,
+and look for pearls others haven't recognized.
+
+The Worst Companies in America
+
+I know I tend to repeat myself in these memos - my wife Nancy never fails to remind me - but I
+don't think I've ever told the whole story of my entry into the world of high yield bonds.
+
+In 1978, shortly after having organized and begun to manage Citibank's convertibles securities
+fund, I got a call from the boss: "There's some guy named Milken or something who works for a
+small brokerage firm in California. He deals in 'high yield bonds,' and a client wants us to
+manage a portfolio for them; can you find out what they are?" Obviously, that brief conversation
+changed my life.
+
+Everyone associates Michael Milken with high yield bonds (no one says "junk" anymore), but
+few people know exactly why or how. Mike was neither the inventor (first to create) nor the
+discoverer (first to find) of bonds rated below investment grade. He's just the person who did
+the most with them. Here are the facts:
+
+ For as long as bonds have been rated, there've been low-rated bonds. But prior to the late
+ 1970s, non-investment grade bonds couldn't be issued as such. Rather, they were "fallen
+ angels": bonds issued with investment-grade ratings that were subsequently downgraded due
+ to deterioration on the part of their issuers.
+
+ At Wharton, Mike read a 1958 study by W. Braddock Hickman which showed that over the
+ period 1900 to 1949, lower-rated bonds had produced higher realized returns on average than
+ higher-rated bonds. Sure some low-rated bonds defaulted, but higher yields and lower
+ purchase prices on the many that didn't default more than made up for the ones that did.
+
+ Mike concluded that low-rated bonds were an overlooked asset class; even for a weak credit,
+ there had to be some yield that would compensate for the credit risk; thus it should be
+ possible to issue bonds with speculative ratings; and he could make it happen.
+
+ Thus Mike's contribution consisted of raising the profile of the asset class and proselytizing
+ for it, making a market in high yield bonds and underwriting new issues. He wasn't the only
+ one, just the most prominent figure by far. And the expansion of the universe of new issue
+ high yield bonds from $2 billion to $200 billion that Mike presided over between 1978 and
+ 1990 provided early impetus for the growth of buyout investing into the major activity it is
+ today.
+
+By the time I got the call described above, Mike had joined Drexel Burnham Lambert, started the
+high yield bond department, moved it to California and begun to underwrite new issue high yield
+bonds for corporate borrowers. He visited me at the bank in the fall of 1978, and it was even
+more of a learning experience than the one I got from the Nifty Fifty. Mike's logic was the
+direct opposite, and to me much more appealing. Here's what he told me:
+
+ If you buy triple-A or double-A bonds, there's only one way for them to go: down. The
+ surprises are invariably negative, and the record shows that few top-rated bonds remain so
+ for very long.
+ On the other hand, if you buy B-rated bonds and they survive, all the surprises will be on the
+ upside.
+ Because the investment process is prejudiced against high yield bonds, they offer yields that
+ more than compensate for the risk.
+ Thus you'll earn a superior yield for having accepted the incremental credit risk, and
+ favorable developments can lead to capital gains as well.
+ Your main goal should be to weed out bonds that may default.
+ But diversification is essential, too, because some of the bonds you hold will default anyway,
+ and your positions in them mustn't be large enough to jeopardize the overall return.
+
+What an object lesson! What an epiphany! Buy the stocks of the best companies in
+America at prices that assume nothing can go wrong? Or buy the bonds of unloved
+companies at prices that overstate the risk of default, and from which the surprises are
+likely to be on the upside? Having seen fortunes lost investing in the best, it seemed much
+smarter to buy the worst at too-low prices.
+
+"If we avoid the losers, the winners will take care of themselves." Sound familiar? The
+motto we chose for Oaktree was inspired by a lot of people and events, but the morning I spent
+with Mike Milken in 1978 was the biggest single source of inspiration.
+
+The Perversity of Risk
+
+"I wouldn't buy that at any price - everyone knows it's too risky." That's something I've
+heard a lot in my life, and it has given rise to the best investment opportunities I've participated
+in. In fact, to an extent, it has provided the foundation for my career. In the 1970s and 1980s,
+insistence on avoiding non-investment grade bonds kept them out of most institutional portfolios
+and therefore cheap. Ditto for the debt of bankrupt companies: what could be riskier?
+
+The truth is, the herd is wrong about risk at least as often as it is about return. A broad
+consensus that something's too hot to handle is almost always wrong. Usually it's the opposite
+that's true.
+
+I'm firmly convinced that investment risk resides most where it is least perceived, and vice
+versa:
+
+ When everyone believes something is risky, their unwillingness to buy usually reduces its
+ price to the point where it's not risky at all. Broadly negative opinion can make it the least
+ risky thing, since all optimism has been driven out of its price.
+
+ And, of course, as demonstrated by the experience of Nifty Fifty investors, when everyone
+ believes something embodies no risk, they usually bid it up to the point where it's
+ enormously risky. No risk is feared, and thus no reward for risk bearing - no "risk premium"
+ - is demanded or provided. That can make the thing that's most esteemed the riskiest.
+
+This paradox exists because most investors think quality, as opposed to price, is the
+determinant of whether something's risky. But high quality assets can be risky, and low
+quality assets can be safe. It's just a matter of the price paid for them.
+
+The foregoing must be what Lord Keynes had in mind when he coined one of my favorite
+phrases: ". . . a speculator is one who runs risks of which he is aware and an investor is one who
+runs risks of which he is unaware." In 1978, triple-A bonds were considered respectable
+investments, while buying B-rated bonds was viewed as irresponsible speculation. Yet the latter
+have vastly outperformed the former, few of which remain triple-A today.
+
+Elevated popular opinion, then, isn't just the source of low return potential, but also of
+high risk. Broad distrust, disregard and dismissal, on the other hand, can set the stage for
+high returns earned with low risk. This observation captures the essence of contrarianism.
+
+The Unhelpful Consensus
+
+The bottom line is that what "everyone knows" isn't at all helpful in investing. What
+everyone knows is bound to already be reflected in the price, meaning a buyer is paying for
+whatever it is that everyone thinks they know. Thus, if the consensus view is right, it's likely
+to produce an average return. And if the consensus turns out to be too rosy, everyone's likely to
+suffer together. That's why I remind people that merely being right doesn't lead to superior
+investment results. If you're right and the consensus is right, your return won't be anything to
+write home about. To be superior, you have to be more right than the average investor.
+
+Let me give you an outstanding example of a dangerous consensus. Historic data, buttressed by
+two decades of good returns, produced near unanimity in the late 1990s regarding future equity
+returns. Ask 100 institutional investors and consultants in 1999, and virtually 100 would say
+"about 11%." There was little serious dissent. As a result, equity allocations were ratcheted up.
+Those who'd fallen behind because they were underweighted in equities earlier in the decade
+capitulated and bought more.
+
+Where did the support for that 11% number come from? It's simple: recent results. Earlier work
+at the University of Chicago had put the average annual return on stocks closer to 9% into the
+1960s, but a couple of decades of much higher returns pushed the cumulative experience - and
+thus the expectation - toward 11%. Shouldn't there have been support apart from experience?
+Was there an underlying economic process that would make stocks worth 11% more each year?
+Couldn't the last fifteen years, averaging well above 11%, have borrowed from the future by
+pushing up p/e ratios? Few people inquired. "You can't fight the tape," they said in essence.
+Who was willing to take the risk associated with a below-average weighting?
+
+Well, the elevated prices produced by that unanimously positive expectation, a reversal of the
+optimism it embodied, and the fact that those above-trend results had in fact borrowed heavily
+from the future all led eventually to the first three-year decline in equities since 1930. And, not
+surprisingly, to a new consensus. Now everyone says "about 7%." But is today's consensus any
+more likely to be right? Or does it just reflect more of that oxymoronic quality, common sense?
+
+Asset Class Returns
+
+Further on the topic of consensus expectations, let me visit the question of whether asset classes
+even "have" expected returns. I learned from managing fixed income portfolios that bonds come
+closest to having a dependable return. Over its life, a bond that's bought at a 10% yield to
+maturity and doesn't default will return 10%, won't it? An obvious truth? No, actually
+something of a misstatement.
+
+The majority of the lifetime return on a long-term bond comes not from the promised interest
+payments and redemption at maturity, but from the interest earned on interest payments after
+they're received. The yield to maturity at which a bond is bought expresses the overall return
+that will be earned if interest rates don't change - that is, if interest payments are reinvested at
+the rates prevailing at the time of purchase. But because interest rates are highly variable, so is
+the "interest on interest" component. Few non-bond people realize how un-fixed even fixed
+
+income investing is, and how substantial is the "reinvestment risk." And beyond bonds, it's even
+more up for grabs.
+
+What rate of return is implicit in equity investing? Certainly we should look to more than just
+returns over the last ten or twenty years for the answer. The rate of growth in corporate profits
+provides a clue, but in the short run, changes in p/e ratios tend to swamp changes in profits.
+
+In 1999, investors asked, "What's been the return on common stocks?" and were seduced by the
+11% answer propounded by authorities like Prof. Jeremy Siegel in his book, "Stocks for the
+Long Run." What they should have asked, however, is, "What's been the return on common
+stocks bought when the Standard & Poor's 500 was priced at 29 times earnings?" (which it
+was at the time). In other words, people made the mistake of believing that common stocks
+have a single rate of return you can depend on, regardless of entry point. They forgot the great
+extent to which the return on an asset is dependent on the price you pay for it.
+
+In the March/April 1997 issue of the Financial Analysts Journal, Peter Bernstein set forth a
+helpful way to consider returns from equities - one I'd thought about but had never seen in use.
+He calculated returns on the S&P 500 for periods spanning widely separated dates between
+which the p/e ratio didn't change. He called the result "valuation-adjusted long-run equity
+returns." In December 2006, he published some interesting results. With the S&P 500 trading at
+17.2 times earnings, he looked at four periods which had begun with the p/e at the same 17.2 and
+found that the returns over those periods had ranged from 10.4% to 11.1%.
+
+In other words, over periods when multiples were unchanged, the S&P 500 did deliver roughly
+11%. And in the very long run, over the course of which the impact of p/e fluctuations is
+watered down, stocks also have returned 11%. Thus it seemed reasonable for buyers of stocks in
+1999 to expect returns of 11% per year. But they failed to think about what might happen if p/e
+ratios fell in the short run.
+
+It shouldn't take a Ph.D. (or even an MBA) to know that if you buy the S&P in 1999 at a p/e
+ratio of 29, one of the highest multiples ever seen, the p/e ratio could decline and the resulting
+return could be below 11% - well below 11% if it happened quickly. In 1999, investors derived
+excessive comfort from an optimistic consensus that was based on long-run data. But in 2002,
+they were licking wounds inflicted in the short run. It's worth noting that for the seven years that
+ended March 31, 2007, the annualized return on the S&P 500 was 0.9%. So much for the
+crowd's certainty regarding 11%.
+
+And what about the return on private equity? Before saying what it'll be, investors should think
+about where returns come from. Some markets derive their returns from an underlying process.
+As far as I'm concerned, owning interests in money-making companies and income-producing
+real estate has such an underlying basis for returns, whereas owning gold and art does not.
+
+Companies produce profits, and thus buying interests in them represents buying into a stream of
+returns. When a private equity fund buys a company today at nine times EBITDA (which, let's
+say, equates to eleven times cash flow after capital expenditure needs), that implies a 9% free-
+cash-flow return on invested capital - and maybe 5% after fees and expenses. The rest of the
+return that's hoped for must come from doing other things: leveraging up the equity at a cost
+
+below 9%, making the company more productive, or selling it at an increased valuation. But the
+ability to do these things is either highly dependent on market conditions (leveraging cheap or
+selling dear) or skill-based. The wide disparity among private equity results for any given period
+of time shows how much they are a function of the skill of the general partners, and thus that
+most of the return on private equity is far from intrinsic to the asset class.
+
+Everyone Knows
+
+Two years ago, the herd knew residential real estate was a can't-miss way to build wealth. "You
+can live in it," "it's a hedge against inflation," and "they're not making any more land" were oft-
+recited mantras . . . just as they had been in the mid-1980s (See "There They Go Again," April
+2005). After ten years of rapid appreciation, owners of condos felt they had it made, and non-
+owners felt they were on the outside looking in. People lined up to put down deposits on condos
+that hadn't been built yet, and many assembled portfolios that way.
+
+No one talks that way anymore. The air came out of the condo balloon fast once prices stopped
+going up, putting the virtuous circle into a stall. The cheap financing that appeared to provide a
+ticket to financial security is now seen to have lured many buyers into water over their heads.
+"It can only go up" and "if it stops working, I'll get out" - two phrases that are heard in
+the course of virtually every financial mania - proved once again to be highly flawed.
+
+To avoid the trap in residential real estate, one needed a memory of events that occurred
+more than ten years earlier, the ability to understand their implications, and the discipline
+to resist joining the herd. Many failed the test and succumbed to yet another investment craze.
+
+Just think about the many things everyone agreed on in the last decade, and how overdone these
+fads turned out to be - or may turn out to be in the future.
+
+ "Everyone" loved emerging markets in the mid-90s, with their concept of per capita
+ consumption catch-up . . . until the Russian debt debacle and the collapse of Long-Term
+ Capital Management busted that bubble for a while.
+ A fellow member of a non-profit investment committee insisted in 1999 that we had to invest
+ the endowment in a hi-tech fund . . . just before its portfolio lost more than 90%.
+ Hedge funds were widely touted as the surefire solution to the weakness that stocks
+ demonstrated in 2000-02, in time to see the average return recede to unexciting single digits.
+
+Great recent performance and a failure to detect risky patterns have cost investors money
+on several recent occasions . . . and always will. Now silver bullets ranging from private
+equity to art are being touted as ways to make big money without risk . . . ignoring the
+unlikely nature of that proposition, as usual. There's plenty of evidence of the popularity of
+these ideas. Maybe they'll work forever. Maybe these trees will grow to the sky. But if they do,
+they'll be the first.
+
+ * * *
+
+Finally, it's important to remember that investment trends regularly go to great extremes,
+meaning "overpriced" and "overdone" are far from synonymous with "going down tomorrow."
+As Lord Keynes said, "The market can remain irrational longer than you can remain solvent."
+Thus, whatever it is the herd is favoring, a manager might either (a) hold a little to ensure that it
+doesn't continue doing well without him on board, making constituents question his judgment, or
+(b) avoid holding any, but he should be prepared to look wrong for a while. Anyone who's
+tempted to blow the whistle on a market trend just because it has gone too far or is priced too
+high must bear in mind one of the greatest adages of all: "Being too far ahead of your time is
+indistinguishable from being wrong."
+
+There's always a period - sometimes a long one - when those who follow the crowd look smart
+and the abstainers look dumb. But the roles are inevitably reversed in the long run. Insisting on
+buying value and controlling risk can seem awfully dowdy at times, but for us, there is no
+other way.
+
+
+Memo: It’s All Good.
+
+Readers of my memos know that one thing I believe in most strongly - and harp on most frequently -
+is the inevitability of cycles. They're something we can depend on absolutely.
+
+Several of my memos have dealt with cycles, starting from the very beginning: "First Quarter
+Performance" (April 11, 1991), "Will It Be Different This Time?" (November 25, 1996), "You Can't
+Predict. You Can Prepare." (November 20, 2001) and "The Happy Medium" (July 21, 2004). I've
+said in the past that I consider "You Can't Predict," a primer on cycles, to have been one of my best
+and also that it evoked the least response of any memo in this decade. Thus I'm offering it as a
+twofer with this memo; copies are available on request at no additional cost.
+
+I always say that while we can't know where we're going, we ought to know where we are (in
+cyclical terms). Understanding our environment can help us decide what tactics to employ, how
+aggressive to be, and which potential mistakes we should try hardest to avoid. Being conscious of
+cycles can be extremely helpful, even if we can't see the future.
+
+Thus I'm going to devote this memo to the cycle that's been underway for the last few years. In
+terms of amplitude, breadth and potential ramifications, I consider it the strongest, most
+heated upswing I've witnessed. A lot of this is because people seem to think everything's good
+and likely to stay that way.
+
+Cycles in the World of Investing
+U
+
+The basics of cycles are simple. The economic cycle gives rise to recessions and recoveries, creating
+the business environment. This produces a business cycle marked by rising and falling sales and
+profits. The credit cycle swings more radically, such that capital market conditions alternate between
+irrationally generous and unfairly restrictive. Likewise, market cycles fluctuate much more than do
+the more "fundamental" economic and business cycles, due largely to the volatile cycle in investor
+psychology.
+
+In this latter regard, I'll reprint a few paragraphs from "First Quarter Performance," the 1991 memo
+cited above. I think they capture investors' pattern of behavior.
+
+ The mood swings of the securities markets resemble the movement of a pendulum.
+ Although the midpoint of its arc best describes the location of the pendulum "on
+ average," it actually spends very little of its time there. Instead, it is almost always
+ swinging toward or away from the extremes of its arc. But whenever the pendulum is
+ near either extreme, it is inevitable that it will move back toward the midpoint sooner
+ or later. In fact, it is the movement toward the extreme itself that supplies the energy
+ for the swing back.
+
+ Investment markets make the same pendulum-like swing:
+
+ between euphoria and depression,
+ between celebrating positive developments and obsessing over negatives,
+ and thus
+ between overpriced and underpriced.
+
+ This oscillation is one of the most dependable features of the investment world, and
+ investor psychology seems to spend much more time at the extremes than it does at
+ the "happy medium."
+
+Polar Opposites
+U
+
+My 2004 memo, "The Happy Medium," took its title from this last phrase and went beyond the three
+listed above to discuss additional pairs of opposites between which the investment pendulum
+oscillates:
+
+ between greed and fear,
+ between optimism and pessimism,
+ between risk tolerance and risk aversion,
+ between credence and skepticism,
+ between faith in value in the future and insistence of concrete value in the present, and
+ between urgency to buy and panic to sell.
+
+I find particularly interesting the degree to which the polarities listed above are interrelated. When a
+market has been rising strongly for a while, we invariably see all nine of the elements listed first.
+And when the market's been declining, we see all nine of the elements listed second. Rarely do we
+see a blend of the two sets, given that the components in each are causally related, with one giving
+rise to the next.
+
+Usually, when either set of polar extremes is in the ascendancy, that fact is readily observable, and
+thus the implications for investors should be obvious to objective observers. But of course, the
+swing of the market pendulum to one set of extremes or the other occurs for the simple reason
+that the psyches of most market participants are moving in the same direction in a herd-like
+fashion. Few of the people involved actually are objective. To continue a thread from my last
+memo, "Everyone Knows," expecting widespread clinical observation during a market mania
+makes about as much sense as saying "everyone knows the market has gone too far." If many
+people recognized that it had gone too far, it wouldn't be there.
+
+Between the two sets of cyclical extremes, I have no doubt that the environment of the last few
+years has been marked by the elements listed first above, not second: euphoria, greed,
+optimism, risk tolerance and credence; not depression, fear, pessimism, risk aversion and
+skepticism. Certainly it's been the recent consensus of investors that, "It's all good."
+
+Unusual Breadth
+U
+
+In the past we've seen bull markets in equities, commodities and real estate. And we've seen bull
+markets in the U.S., Japan and the emerging markets. But this time around, we've been seeing a
+near-global bull market, where the participating sectors vastly outnumber those left out.
+
+In his April letter to investors, entitled "The First Truly Global Bubble," Jeremy Grantham summed
+up the worldwide nature of the good times.
+
+ Never before have all emerging countries outperformed the U.S. in GDP growth over
+ U U
+
+ a 12-month period until now, and this when the U.S. has been doing well. Not a
+ single country anywhere - emerging or developed - out of the 42 listed by The
+ Economist grew its GDP by less than Switzerland's 2.2%! Amazingly uniform
+ strength, and yet another sign of how globalized and correlated fundamentals have
+ become, as well as the financial markets that reflect them.
+
+ Bubbles, of course, are based on human behavior, and the mechanism is surprisingly
+ simple: perfect conditions create very strong "animal spirits," reflected statistically in
+ a low risk premium. Widely available cheap credit offers investors the opportunity to
+ act on their optimism. Sustained strong fundamentals and sustained easy credit go
+ one better; they allow for continued reinforcement: the more leverage you take, the
+ better you do; the better you do, the more leverage you take.
+
+ A critical part of the bubble is the reinforcement you get for your optimistic view
+ from those around you. And of course, as often mentioned, this is helped along by
+ the finance industry, broadly defined, that makes more money when optimism and
+ activity are high. . . . To say the least, there has never ever been anything like the
+ uniformity of this reinforcement.
+
+The March issue of Marc Faber's Gloom, Boom & Doom Report described the pervasiveness of the
+positive effect on markets. He listed four "bubbles of epic proportions" that he has witnessed:
+metals, mining and energy in the 1970s; Japanese equities and real estate and Taiwanese equities in
+the late 1980s; emerging markets in the 1990s; and TMT at the end of the 1990s. In contrast to the
+present experience, he pointed out,
+
+ . . . all had one common feature: they were concentrated in just one or very few
+ sectors of the economic or investment universe and were accompanied by a poor
+ performance in some other asset classes. . . . Currently, looking at the five most
+ important asset classes - real estate, equities, bonds, commodities, and art (including
+ collectibles) - I am not aware of any asset class that has declined in value since 2002!
+ Admittedly some assets have performed better than others, but in general every sort
+ of asset has risen in price, and this is true everywhere in the world.
+
+It's interesting not only to see just about everything rise at the same time, but also to see people act as
+if this is likely to continue for a prolonged period. Usually that just doesn't happen.
+
+It's Different This Time
+U
+
+My memos are full of quotations, adages and old saws. I'm attached to a few and tend to use them
+over and over. Why reinvent the wheel, especially if the old one can't be improved upon? Hopefully
+the things I borrow contain enough wisdom to make them worth repeating.
+
+Equally worth repeating are the statements I cite as investor mistakes. They, too, are highly
+instructive . . . in the sense that they're heard often and must be recognized for how potentially toxic
+they are. None is as dangerous as "it's different this time." Those four little words are always
+heard when the market swings to dangerously high levels. Like so many of the polar opposites
+enumerated above, it's not just the sign of an absurd condition. It's a prerequisite.
+
+ I first came across the phrase in what for me was a seminal article, "Why This Market Cycle Isn't
+ Any Different," by Anise C. Wallace (New York Times, October 11, 1987). The stock market's
+ rapid ascent at the time was being attributed to (or excused by), among other things, (1) the outlook
+ for continued economic growth, given that the economy had learned how to correct itself painlessly,
+ (2) the likelihood of continued buying of U.S. stocks by foreign investors piling up dollars with no
+ better place to go, and (3) the fact that stocks weren't overvalued compared to other assets, which
+ had also appreciated.
+
+ But Ms. Wallace countered as follows: "No matter what brokers or money managers say, bull
+ markets do not last forever. In general, investment professionals say, cycles and markets differ only
+ by degree." And of course, in the next eight days the Dow fell 30%.
+
+It wasn't just 1987. People also came to believe the business cycle had been tamed in 1928 and in
+the late 1990s. And wouldn't you know, I'm hearing it again today:
+
+ The Fed's skillfully walking the tightrope between stimulus and restrictiveness. (A few years
+ ago people felt Greenspan was indispensable; now there's suddenly faith in Bernanke.)
+ A service economy is less volatile than a manufacturing-based economy.
+ As the Chinese and Indians get rich, their purchases from us will buoy our economy.
+
+The truth is, we couldn't have great cyclical extremes if people didn't occasionally fall for a
+justification that's never held true before. How else might investors rationalize holding or
+buying despite highly elevated valuation parameters, low prospective returns and just-plain-
+wacky security structures? I still believe what I wrote in "The Happy Medium":
+
+ Cycles are inevitable. Every once in a while, an up- or down-leg goes on for a long
+ time and/or to a great extreme and people start to say "this time it's different." They
+ cite the changes in geopolitics, institutions, technology or behavior that have rendered
+ the "old rules" obsolete. They make investment decisions that extrapolate the recent
+ trend. And then it turns out that the old rules do still apply, and the cycle resumes. In
+ the end, trees don't grow to the sky, and few things go to zero. Rather, most
+ phenomena turn out to be cyclical.
+
+I'm hearing again - as often in the past - that we're in a Goldilocks economy. It's not so hot that
+there's risk of inflation accelerating, which would require restrictive measures on the part of the Fed.
+
+Or so cold that business will slow, with a depressing effect on profits. No, it's just right. Of course,
+this condition has never held for long in the past.
+
+Earlier this year, Kenneth Lewis, chairman of Bank of America, summed it up candidly and simply:
+"We are close to a time when we'll look back and say we did some stupid things . . . We need a little
+more sanity in a period in which everyone feels invincible and thinks this is different."
+
+And while I'm on the subject, I want to offer an important observation. No matter how
+favorable and steady fundamentals may be, the markets will always be subject to substantial
+cyclical fluctuation. The reason is simple: even ideal conditions can become overrated and
+ U
+
+therefore overpriced. And having reached too-high levels, prices will correct, bringing capital
+ U
+
+losses despite the idealness of the environment (see tech stocks in 2000). So don't fall into the
+trap of thinking that good fundamentals = positive market outlook (and especially not forever).
+As I said in "Everyone Knows," profit potential is all a matter of the relationship between
+intrinsic value and price. There is no level of fundamentals that can't become overpriced.
+
+Willing Suspension of Disbelief
+U
+
+One of the key requisites for enjoying a trip to the movies is a willingness to suspend disbelief. If
+they wanted to, moviegoers invariably could find plot glitches, technological impossibilities or
+historical inaccuracies. But they tend to overlook them in the interest of having a good time.
+
+Similarly, investors' recurring acceptance that it's different this time - or that cycles are no
+more - is exemplary of a willing suspension of disbelief that springs from glee over how well
+things are going (on the part of people who're in the market) or rationalization of the reasons
+to throw off caution and get on board (from those who've been watching from the sidelines as
+prices moved higher and others made money).
+
+The fact is, the higher asset prices go, the more people think assets are worth, and the more eager
+they become to buy them. A rip-roaring rally fuels buying appetites rather than make people think
+the appreciation may have moved prices to precarious levels. In the same way, price collapses cause
+people to worry rather than start combing the market for bargains.
+
+In this way, the bullish swing of the investment cycle tends to cause skepticism and risk
+tolerance to evaporate. Faith, credence and open-mindedness all tend to move up - at just the
+time that skepticism, discrimination and circumspection become the qualities that are most
+needed.
+
+Financial Innovation
+U
+
+Another element that I notice tends to rise and fall with the cycles is the level of financial innovation.
+Again, this is a cycle that's easily understood.
+
+Wall Street exists to develop and sell new products, no less so than toothpaste manufacturers
+and movie studios. So why is it that some periods are rife with innovation and other periods
+totally lacking? It's because it's only in bullish times that investors accept financial inventions.
+When the market's in an up-swing, people tend to say, "Sure, I'll give it a chance" or "Good, I've
+
+been looking for new ways to make money." But when the market has been moving down and
+people are tallying their losses, they tend to be much less open to new ideas. In the financial world,
+the mother of invention isn't necessity, its salability.
+
+In the roaring 1960s we saw Nifty-Fifty investing, dual shares from mutual funds and discounted
+shares issued through unregistered private placements without any mechanism for subsequent
+liquidity. In the '80s we saw portfolio insurance - a surefire way to enjoy the appreciation potential
+that comes with large commitments to equities, but with much less risk. And in the '90s, no one
+could think of a reason why every dot-com, e-tailer, media aggregation and venture capital fund
+wouldn't be successful. Of course, all of these things failed to function as promised and either
+disappeared forever or experienced severe corrections.
+
+And what have we seen in the last few years? CDOs, CLOs, CPDOs, SPACs and securitizations of
+every type. In the current environment - marked by decent returns; disinterest in conventional, safe
+assets; and openness to risky investments - few people seem to dwell on the reasons why something
+new might not work. No one asks why, if a $2 billion fund was successful, a $20 billion fund
+shouldn't be as well.
+
+Derivatives deserve particular attention in this regard. On July 8 The Wall Street Journal noted that,
+
+ Over the last six years, global futures trading on exchanges has grown nearly 30% a
+ year. The total derivatives market is valued at about $500 trillion, four times the value
+ of all publicly traded stock and bonds. . . . The four biggest futures exchanges have
+ launched more than 300 new derivatives products in just the last few years . . .
+
+Particularly intriguing, it seems the value of outstanding credit default swaps - insurance against
+defaults among corporate debt instruments - exceeds the value of the instruments insured. How will
+this work if a wave of defaults occurs? How well are the provisions of these insurance contracts
+documented? How readily will the writers of the insurance pay up? What will be the effect if
+conditions are chaotic? No one knows the answers to these questions. Inventions originate in up
+markets, but they're tested in down markets. Rarely do they work entirely as hoped.
+
+In down markets, people see potential risks that can't be argued away. But in markets like this
+one, they see opportunities they must seize to avoid being left behind. Thus, like the other
+things I'm discussing, a high level of financial innovation is symptomatic of a market that's
+been rising for a good while and may be behaving in an overconfident manner.
+
+What, Me Worry?
+U
+
+Two recent innovations deserve particular attention here: structured entities and what the British call
+"selling onward." Both embody an impractical expectation: that financial engineering can
+eliminate risk. Combined, they're particularly dangerous.
+
+In creating structured entities such as CDOs, managers bring together investors with different
+risk/return appetites. To satisfy those varying appetites, the investors are sold claims with different
+priorities with regard to the entity's portfolio and cashflows, and with projected returns that are
+proportional. The managers use the investors' capital to assemble a portfolio of assets. And each
+investor receives a security with risk and return tailored to its needs.
+
+It should work . . . in theory. My biggest knocks on structuring are these: First, many of the people
+who develop the structured entities and rate their securities know more about probabilities than they
+do about the specific assets in the portfolio, something that's particularly dangerous when portfolios
+are highly leveraged. And second, there seems to be a belief that this process - at Oaktree we call it
+"slicing and dicing" - can reduce the overall risk in the system.
+
+If risk is reduced, I'd like to know where the eliminated part goes. If ten people each hold a share of
+ten highly correlated risky assets, I don't think the overall system is much less risky than if each of
+the ten people held one entire risky asset. At the extreme, however, it may be true that risk sharing
+reduces the likelihood that a spate of failures will precipitate a generalized credit crunch.
+
+Selling onward is the process through which the originating of assets and the owning of assets are
+separated. In the old days, banks made loans and mostly held on to them, syndicating a bit to build
+relationships and limit risk. Nowadays, banks originate loans largely to generate loan and
+syndication fees, and actually living with the loans is much less prevalent. After they're originated,
+assets such as corporate loans, mortgages, auto paper and credit card receivables are often packaged
+and sold, sometimes in the form of securities. There's a belief that this process, too, makes the world
+less risky.
+
+I fail to see net benefits here as well. Instead, I think this process introduces great moral hazard.
+When the people making loans aren't going to remain dependent on the borrowers they give money
+to, they have little incentive to actively police risk. Thus I have grave doubts about a lot of the credit
+decisions being made.
+
+For an extreme example, take a look at the subprime mortgage brokers. Were they motivated to
+make prudent credit decisions? No; they were motivated to create a lot of paper. There's
+something wrong when it's in someone's best interests to lend money to unqualified borrowers,
+but this was the case in subprime mortgages. Obviously this occurred because mortgage brokers
+weren't risking their own money. With selling onward so prevalent, an originator just had to hope
+the borrower would make the first few payments, so that delinquencies wouldn't surface before the
+originator's repurchase obligation expired and the loans became the buyer's problem. How could
+buyers have been silly enough to purchase loans made by brokers operating under this set of
+incentives?
+
+Now, let's combine structuring and selling onward. Here's how I see it working:
+
+ A mortgage broker makes a bunch of loans without knowing much about creditworthiness (think
+ about so-called "liar loans") or caring much about creditworthiness (because he intends to sell
+ them momentarily).
+ An investment banker buys a few hundred of these loans, also without knowing much about them
+ (because of their sheer numbers), in order to package them into residential mortgage-backed
+ securities (RMBS) and sell them onward.
+ An investment manager buys a few dozen RMBS, about which he doesn't know much (also the
+ numbers) or care much (because the fees and potential profits incentivize him to put a lot of
+ money to work fast). They become part of the portfolio of a CDO, against which debt is issued.
+ A rating agency analyst assigns ratings to the CDO debt, about which he can't know much (lack
+ of specialized expertise; vast number of underlying assets; structural complexity and the newness
+
+ A hedge fund manager buys CDO debt about which he doesn't know much (with thousands of
+ underlying mortgages having been sliced and diced) or worry much (given the high debt ratings).
+
+Concoctions like this are tolerated only in heady times. Clearly the results can be incendiary. We're
+waiting to see the final outcome - and perhaps to pick among the ashes.
+
+One last thought: Let's say slicing, dicing and selling onward do have the potential to reduce the
+overall level of risk in the system, all other things being equal. Even if that were true, the other
+things wouldn't remain equal; market participants would adjust their behavior to the new
+reality and in so doing return risk to its old level. On May 23, the Financial Times said this about
+trying to reduce risk by selling onward and by obtaining credit insurance via derivatives:
+
+ This makes banks less vulnerable to individual defaults. But it could also be making
+ them feel so comfortable about lending risks that they are making more risky
+ loans. Outside investors such as hedge funds are gobbling them up, either because
+ they also think they are protected with credit derivatives or because they are
+ desperate to find somewhere to place their cash. This has triggered a collapse in the
+ standards used to conduct and fund deals. (Emphasis added)
+
+Again, no matter how good fundamentals may be, humans exercising their greed and propensity to
+err have the ability to screw things up. Perhaps Myron Scholes put it most succinctly (The Wall
+Street Journal, March 6): "My belief is that because the system is now more stable, we'll make
+it less stable through more leverage, more risk taking."
+
+The L Word
+U
+
+Some of the most glaring innovation this time around has taken place in the area of leverage. It's not
+that leverage hasn't been available and been used before: In the late 1980s, companies like RJR were
+the subject of leveraged buyouts in which 95% of the purchase price was borrowed. Nowadays, debt
+rarely constitutes much more than 80% of buyout capital structures, but the terms of the debt and the
+ease of obtaining it are startlingly accommodating.
+
+Unlike the historic norm, it's routine today to issue CCC-rated bonds. It's easy to borrow money for
+the express purpose of distributing cash to equity holders, magnifying the company's leverage. It's
+so easy to issue bonds with little or no creditor protection in the indenture that a label has been
+coined for them: "covenant-lite." And it's possible to issue bonds whose interest payments can be
+paid in more bonds at the option of the borrower.
+
+The first requirement for an elevated opportunity in distressed debt is the unwise extension of
+credit, which I define as the making of loans which borrowers will be unable to service if things
+get a little worse. This happens when lenders fail to require a sufficient margin of safety.
+
+Here the interrelatedness of cycles is quite evident. Good economic times bring rising profits.
+Rising profits cause the default rate to subside. And the low default experience erases lenders'
+reticence. Among other things, they become willing to lend money so that troubled companies can
+
+stay afloat and hopefully outgrow their problems. Today that's called "rescue finance"; in less rosy
+times it might be called "throwing good money after bad."
+
+The default rate in the high yield bond universe is at a 25-year low on a rolling-twelve-month
+basis. Under such circumstances, how could the average supplier of capital be expected to
+maintain a high level of risk aversion and prudence, especially when doing so means ceding all
+the loan making to others? It's not for nothing that they say "The worst of loans are made in
+the best of times."
+
+The Downside of Leverage
+U
+
+If lenders are acting in an imprudent fashion, what's the effect on the borrowing companies? If loans
+are available too readily, is it right or wrong to borrow? These are among the most interesting
+questions of the day.
+
+Lots of good things have been said about leverage. In the late 1980s, when venerable American
+companies were being bought in leveraged buyouts structured with debt/equity ratios of 25-to-one,
+we were told that an underleveraged balance sheet is indicative of a sub-optimal capital structure and
+excessive use of high-cost equity, and that significant leverage sharpens management's focus on cash
+flow and leads to better expense control.
+
+The only thing omitted was the reminder that equity - which doesn't require the periodic payment of
+interest or the repayment of principal at maturity - represents a company's margin of safety. It's the
+capital layer that absorbs the first blow in tough times without occasioning an event of default.
+While leverage may magnify gains in good times, it's a healthy layer of equity that gets
+companies through the bad times.
+
+It's inescapable that, all other things equal, greater leverage increases a company's likelihood
+of experiencing financial distress. Thus, with lenders enjoying a carefree recent experience and
+consequently financing some unwise deals - and with borrowers eager for the enhanced upside
+potential that comes with leverage - it seems clear that we'll see rising rates of default and
+bankruptcy a few years down the pike. This is especially true if, as has often been the case
+recently, debt is incurred not just to leverage the company's equity, but to finance payouts to equity
+holders that reduce or eliminate the equity.
+
+So then, are private equity funds - raising much more equity capital than ever, and doing the biggest
+deals in history at a rapid-fire pace, at rising transaction prices and rising leverage ratios - doing a
+smart thing or making a mistake? It all depends on how you look at things. The funds seem to be
+looking in terms of optionality.
+
+Ketchup, Easy Money and Optionality
+U
+
+I was a picky eater when I was a kid, but I loved ketchup, and my pickiness could be overcome with
+ketchup. I would eat hamburgers, frankfurters, veal cutlets, filet of sole and frozen fish sticks, but as
+far as I was concerned, they were all just vehicles for ketchup. The ketchup of today is easy
+borrowing, and private equity managers are entering into a large number of transactions to access it.
+
+Let me illustrate what I consider to be the thought process: If you were offered the chance to buy
+companies with 100% debt financing and no money of your own, how many would you buy? The
+smart answer is, "All of them." Not just the well-run ones? Or the growing ones? Or the profitable
+ones? No; all of them. Some would produce positive cash flow and/or appreciation, which you'd
+welcome. The others would be unsuccessful, but with none of your own money invested, you'd just
+walk away. That's optionality.
+
+Optionality is a new-age finance term for the ability to cheaply obtain a call on asset
+appreciation, creating the possibility of profits out of proportion to potential losses. That's the
+way it is in venture capital: all you can lose is your investment, but you can multiply it hundreds of
+times simply by finding the next Google. Even though venture capital investing produces only
+occasional success, it's justified by the occasional outsized payoff.
+
+I think that's the deal today in mega-private equity. In their highly successful first decade of 1975-
+85, LBO funds invested in small, underpriced industrial concerns or orphaned corporate spinoffs.
+They paid low prices for stable companies, financed their purchases with moderate amounts of debt,
+and put a lot of energy into improving the companies' operations. Both their batting averages and
+their overall rates of return were attractive.
+
+But I'm not sure that's the model today. Few companies are languishing on the bargain counter, and
+everyone knows that if buyout funds bid for a company, the shareholders had better take a good look
+at what they're giving up. Likewise, buyout funds are buying well into a period of economic
+expansion, and the scope for improvement in operations may be limited.
+
+No, the model today seems different: pay premiums to open-market prices for prominent, multi-
+billion dollar companies, sometimes after the boards, shareholders or other bidders have forced prices
+higher. Borrow large sums to finance the deals. Generate whatever fundamental improvement you
+can. Hope the market will provide a highly leveraged payoff. And, given the enormity of the scale,
+get rich off management fees, ancillary fees and the profits from the ones that work.
+
+In other words, it seems that, relative to the past, the thought process in mega-private equity is based
+on the combination of (1) ultra-cheap financing, (2) high fees, (3) quick withdrawal of equity capital
+and (4) a lower batting average but big payouts on the winners. The optionality is certainly on the
+GPs' side. Let's hope it works for the LPs as well.
+
+If the Lender's a Sap, Is the Borrower a Genius?
+U
+
+I have a lot of experience looking at leveraged transactions from the standpoint of the lender, but less
+experience as a borrower. Thus I found it novel - even surprising - to read a January memo on this
+subject from Carlyle founder William Conway to his colleagues, with thoughts echoing mine:
+
+ As you all know (I hope), the fabulous profits that we have been able to generate for
+ our limited partners are not solely a function of our investment genius, but have
+ resulted in large part from a great market and the availability of enormous amounts of
+ cheap debt. This cheap debt has been available for almost all maturities, most
+ industries, infrastructure, real estate, and at all levels of the capital structure. Frankly,
+ there is so much liquidity in the world financial system, that lenders (even "our"
+ lenders) are making very risky credit decisions. . . .
+
+ I know that this liquidity environment cannot go on forever. I know that the longer it
+ lasts the more money our investors (and we) will make. I know that the longer it
+ lasts, the greater the pressures will be on all of us to take advantage of this liquidity.
+ And I know that the longer it lasts, the worse it will be when it ends. And of course
+ when it ends the buying opportunity will be a once in a lifetime chance. But, I do not
+ know when it will end. . . .
+
+ Last year, I asked you to be humble, ethical and optimistic. This year I am asking
+ you to be careful as well.
+
+In 1990-91, our distressed debt funds made a fortune buying the obligations of companies that had
+been loaded up with too much debt in LBOs in the late '80s. Chastened by that experience, lenders
+in the '90s didn't provide enough leverage to make buyout companies much of a factor in the debt
+collapse of 2002. But with the memory of having 1990-91 faded, leverage became freely available in
+the last few years, and thus we have little doubt we'll be buying a great deal of distressed LBO debt
+the next time around.
+
+When all the above is taken together, it seems likely that a few years out, we'll see a landscape
+littered with companies that were crippled with excessive debt loads and lenders who weren't repaid.
+What happens to private equity funds and their investors will depend on the outcome of a game of
+hot potato: will they get their capital - and their gains - out of the over-leveraged companies before
+they go sour? We'll see.
+
+But Don't the Borrowers Have a Free Pass?
+U
+
+Much is being made of the possibility that today's debt is default-proof. "Toggle bonds" give
+borrowers the option of paying interest in the form of more bonds for a while. And covenant-lite
+indentures mean the likelihood of an interim technical default has been reduced. Do these
+developments reduce the overall risk?
+
+This, too, goes back to the concept of optionality. The value of an option is greater the longer it has
+to run, and options that can't be extinguished early are worth more than those that can.
+
+Think of someone who issues ten-year bonds to raise the money with which to buy a company. On
+the surface, it seems he has ten years for his purchase to work out profitably, at the end of which
+period he has to repay his lenders. In other words, he has a ten-year option on the company's
+appreciation potential. But what if the company gets in a bind in the early years and misses an
+interest payment? Or if an economic slowdown causes a technical breach of a covenant? In past
+downturns, these things have forced borrowers to pay lenders for extensions or forbearance, and they
+have led to defaults. Those things may be somewhat less likely nowadays.
+
+It is true that payment-in-kind and covenant-lite loans reduce the likelihood of interim defaults. But
+does that mean the credit landscape is risk-free and lenders can breathe easy? Sooner or later, debt
+has to be repaid or refinanced, and the credit market may not be accommodating at that moment; this
+is especially true if the company's fortunes have deteriorated. Not enough of a company's debt may
+be default-proof to make it invulnerable. The price of the debt may decline with the fundamentals,
+
+even if default isn't an immediate threat. And the free pass in the interim may just delay - but also
+worsen - the eventual outcome.
+
+Under a traditional structure, a company might default in the third year of a bond's life, by which
+time 20% of its value may have evaporated. But with these new wrinkles, it might not happen until
+year five . . . when 60% of the value is gone. Yes, lenders are giving borrowers more rope. But
+will it prove to be a lifeline for the company or a hangman's noose? A lot will depend on how
+things go while the postponed default is in abeyance.
+
+This is yet another area where up-cycle faith that risk has been reduced can convince people to add
+back the risk. As The Wall Street Journal said of standby revolvers on May 11, "Thanks to debt
+arrangements like this, some private-equity buyers say they are doing deals they would otherwise not
+do."
+
+What Could Cause This Upward Cycle to Falter?
+U
+
+Since I insist that the good times can't roll on forever, I'm often asked what might make them stop. I
+don't have any inside information on this subject, but I can enumerate the possibilities:
+
+ 1. economic slowdown,
+ 2. reduced willingness to lend or insistence on higher interest rates, perhaps due to increased
+ worry about credit risk,
+ 3. systemic problems like a crisis in derivatives or a cluster of hedge fund meltdowns,
+ 4. exogenous factors such as $100 oil, a dollar crisis, terrorist acts, and
+ 5. the things I haven't thought of.
+
+First, I want to point out that these things are not unrelated. A reduction in lenders' willingness to
+lend may stem from an economic slowdown. An economic slowdown could be brought on by an
+exogenous event. It's when there's a confluence of these things that the debt market gets into real
+trouble, as was the case in 1990 and 2002.
+
+Second, these things are often unpredictable. I like to remind people that the best buying opportunity
+we ever had in distressed debt arose in the summer of 2002, when recession, credit crunch, 9/11,
+Afghanistan, telecom meltdown and the scandals at Enron et al. occurred all at once. Few if any of
+these were predictable twelve months earlier.
+
+And third, the one we should worry about most is number five. Investors can cope with the things
+they can anticipate, analyze and discount. They have more trouble with the rest. I love hearing
+people from the "I know" school say, "I'm not anticipating any surprises." Those are the
+developments that can knock a market into a cocked hat. As Martin Wolf wrote in the Financial
+Times on May 2, "The most obvious reason for taking today's euphoria with a barrel of salt is that
+nobody ever expects shocks. That is what makes them shocks."
+
+Where do we stand in the cycle? In my opinion, there's little mystery. I see low levels of
+skepticism, fear and risk aversion. Most people are willing to undertake risky investments, often
+because the promised returns from traditional, safe investments seem so meager. This is true even
+though the lack of interest in safe investments and the acceptance of risky investments have rendered
+
+the slope of the risk/return line quite flat. Risk premiums are generally the skimpiest I've ever seen,
+but few people are responding by refusing to accept incremental risk.
+
+Peter Bernstein put it this way in the February 15 issue of Economics and Portfolio Strategy:
+
+ I hear over and over that we live in an era of low expected returns. The rational
+ response to low expected returns is to withdraw and wait until expected returns are
+ higher. That response to low expected returns appears to have gone out of fashion.
+ Today's response is to seek higher returns from higher risks in a low-risk
+ environment - or, worse, to underestimate the risks taken. [Of course, I am less
+ certain than Peter that we are in a low-risk environment.]
+
+Markets have tended recently to move up on positive developments and to recover easily from
+negatives. I see few assets that people are eager to get rid of, and few forced sellers; instead, most
+assets are strongly bid for. As a result, I'm not aware of any broad markets that I would describe as
+under-priced or uncrowded. I will say, however, that some of the excess confidence that usually
+accompanies booms may be missing. Some of the people making risky investments today seem to be
+doing so with their fingers crossed. And even though they're optimistic enough to make these
+prosperity-oriented investments, they're also wary enough to want to hedge their bets by
+participating in distressed debt as well.
+
+It is what it is. We've been living in optimistic times. The cycle has been swinging strongly
+upward. Prices are elevated and risk premiums are slender. Trust has replaced skepticism,
+and eagerness has replaced reticence. Do you agree or disagree? That's the key question.
+Answer it first, and the implications for investing become clear.
+
+In the first quarter of this year, significant delinquencies occurred in subprime mortgages. Those
+directly involved lost a lot of money, and onlookers worried about contagion to other parts of the
+economy and other markets. In the second quarter, the impact reached CDOs that had invested in
+subprime mortgage portfolios and hedge funds that had bought CDO debt, including two Bear
+Stearns funds. Those who had to liquidate assets were forced - as usual - to sell what they could
+sell, not what they wanted to sell, and not just the offending subprime-linked assets. We began to
+read about ratings downgrades, margin calls and fire-sales, the usual fuel for capital market
+meltdowns. And in the last few weeks we've begun to see investor reticence on the rise, with new
+low-grade debt issues repriced, postponed or pulled, leaving bridge loans un-refinanced.
+
+It is in this way that awareness of the inevitability of cycles is reawakened, and it is for reasons
+like these that the pendulum starts to swing back from one extreme toward the center of its arc
+. . . and then the other extreme. We never know whether a little jiggle is the start of the swing
+back and, if so, how far it will go. But we always should be aware that reversion will occur.
+
+The last 41⁄2 years have been carefree, halcyon times for investors. That doesn't mean it'll stay that
+way. I'll give Warren Buffett the last word, as I often do: "It's only when the tide goes out that you
+find out who's been swimming naked." Pollyannas take note: the tide cannot come in forever.
+Time, tide and cycles wait for no man.
+
+
+Memo: It’s All Good . . . Really?.
+
+As I worked on "It's All Good" during my vacation in late June - and even when I issued
+ it two weeks ago - I had no reason to believe that the universally upward cycle about
+ which I was writing could be curtailed before the end of July. But the good times
+ certainly have stopped rolling in many areas, at least for now. I think it's extremely
+ important to study the way this has happened, as it provides a highly instructive object
+ lesson.
+
+ It's folly to think we know in advance just what it is that will cause the market
+ pendulum to stop swinging in one direction and start in the other, but it's even
+ greater folly to think that nothing of that nature will happen. That's my twist on one
+ of my favorite quotes, from behaviorist Amos Tversky:
+
+ It's frightening to think that you might not know something, but more
+ frightening to think that, by and large, the world is run by people who
+ have faith that they know exactly what's going on.
+
+ My friend Bruce Newberg thinks a quote attributed to Mark Twain says it best, and he
+ may be right:
+
+ It ain't what you don't know that gets you into trouble. It's what you know
+ for sure that just ain't so.
+
+ Over the last few years, some people went around saying, "We don't know what bad
+ thing will happen, but something will," and others said, "We're confident that
+ nothing bad will happen." Now, as is often the case, unassuming caution seems to
+ be winning out over cocksure optimism.
+
+ The Seed
+ U
+
+ This memo isn't about the events of July 2007, but rather how recent events exemplify
+ the time-honored pattern that kicks off the swing back of the pendulum. That pattern
+ often begins with a single seed, and sometimes one that's hard to identify. That difficulty
+ isn't there this time; it's just that the seed seems so small compared with the
+ repercussions.
+
+ The seed of the current cyclical downturn sprouted in the area of subprime mortgages,
+ residential loans made to homeowners with less-than-stellar creditworthiness. The mere
+
+ making of those loans didn't create the problem. Rather, it's the fact that both borrowing
+ and lending decisions were quite poor and in many cases misguided.
+
+ As I described in "It's All Good," loan originators and mortgage brokers were
+ incentivized by fees to generate loan volume and often were able to do so without having
+ to risk their own capital. They were paid to produce quantity, not quality, and - surprise!
+ - they did. Capital providers' lack of concern regarding creditworthiness enabled
+ borrowers to borrow more than they could repay and more than was justified under
+ prudent lending standards . . . at adjustable rates even if the borrowers couldn't withstand
+ an upward adjustment . . . often supported by inadequate documentation regarding
+ incomes and assets. Deficiencies in due diligence even permitted numerous cases of
+ mortgage fraud, where borrowers bought houses, marked them up through sales to related
+ parties, and then borrowed against them in amounts far in excess of their actual value
+ (and their cost).
+
+ It's not surprising that these circumstances combined to produce a high volume of
+ deficient loans. In fact, it would be amazing if they hadn't. Who could have looked at
+ this system without expecting this outcome?
+
+ Okay - bad loans were made, and delinquencies and foreclosures have been rising among
+ the weakest of mortgage borrowers. How can these isolated developments have jumped
+ the rails to affect commercial real estate? How could they possibly have led to difficulty
+ for the private equity industry, which does no mortgage lending? And how can these
+ specific linkages have been generalized into widespread repercussions on the economy
+ and the credit and equity markets?
+
+ Contagion
+ U
+
+ Among the many cyclical phenomena that recur regularly, one of the most
+ interesting is the attitude toward contagion. When the environment is rosy and
+ market participants are optimistic, negative developments are described as "isolated
+ incidents." Market participants find it easy to maintain their equilibrium, and the
+ possibility of repercussions is easily dismissed. This is no more realistic than what
+ we see at the pessimistic end of the pendulum's swing, where negatives are
+ generalized into epidemics, contagion is overstated and participants totally lose their
+ cool.
+
+ Early in June, I met with Marty Fridson of FridsonVision. Marty is a longtime friend and
+ one of the deans of the high yield bond business - by any standard an expert on credit. In
+ his discussion of the subprime crisis, Marty referenced a complex flowchart labeled
+ "Possible Paths to Contagion." It showed a number of ways in which the subprime
+ problem could affect high yield bonds. Linkages like these can be foreseen if you're
+ thoughtful and willing to look ahead. Marty focused on contagion to high yield bonds,
+ but I'll discuss below how this small problem has spread far more broadly.
+
+ Animal, Vegetable or Mineral?
+ U
+
+ These were the categories into which things fell on the old TV quiz show "Twenty
+ Questions," and they were always the subject of the panelists' first question. In the case
+ of the subprime crisis, the factors contributing to contagion can be sorted into three other
+ categories: fundamental, psychological and technical. Here are some examples:
+
+ Fundamental influences are those with tangible consequences for business. When
+ mortgage delinquencies rise sharply, first there are the obvious direct effects:
+
+ Lenders lose money, and some go bankrupt.
+ Real estate brokers' commissions dry up.
+ Homebuilders see less demand for their product.
+ Building materials companies see lower volumes.
+
+ Then there are the second-order consequences, or what the British would call the "knock-
+ on effects":
+
+ Home prices fall. Mortgages based on the old, high prices cannot be refinanced, and
+ simple economics makes it smarter to default rather than service a $500,000 mortgage
+ on what is now a $400,000 house. Thus delinquencies rise further.
+ Lower home prices at the bottom of the ladder ripple through other sectors of the
+ housing market.
+ All consumers feel poorer due to the negative wealth effect and curtail their
+ expenditures, crimping revenues at retailers and then manufacturers.
+ Borrowing declines, depressing the level of business at financial institutions.
+
+ All of these things have direct consequences for the economy and the markets - from just
+ the little seed of bad subprime loans. But there will also be extensive psychological
+ repercussions:
+
+ Losses that are experienced - or even just imagined - cause investors and providers
+ of capital to realize they've been overstating positives and understating negatives.
+ Their confidence ebbs and they start to worry. Thus they make less capital available
+ for risky investments, or they charge more for the capital they will provide.
+ Thus risk premiums and expected returns must rise if investors are to be induced to
+ make further risk-bearing investments. One way this happens is through higher
+ interest rates - depressing consumer and business activity.
+ Another way prospective returns are raised is through price declines for existing
+ assets, and these can course through many markets.
+
+ Finally, the environment is altered by technical factors that influence the supply/demand
+ balance for capital and assets.
+
+ As capital dries up, deals become less attractive (because the cost of capital is higher)
+ and maybe downright impossible to execute (because capital is unavailable).
+
+ If portfolio holdings have to be sold to reduce leverage or raise cash to meet actual or
+ feared withdrawals, this has a depressant effect on asset prices that reinforces the
+ cycle.
+ Lower asset prices may lead to margin calls, and thus possibly to fire sales.
+ Forced sellers sell what they can sell, not necessarily what they want to sell. As a
+ result, the prices of assets that are entirely unrelated to the fundamental problem can
+ join the downward spiral. It's for this reason that they say, "In times of crisis, all
+ correlations go to one."
+
+ Every one of the above factors has been seen in the last few weeks - all growing from
+ just the subprime seed. The economy is still showing good strength overall and most
+ companies are doing fine; the default rate among high yield bonds continues to run
+ at 25-year lows. But strong fundamentals mean little if technical factors combine
+ with a fundamental problem to profoundly depress investor psychology.
+
+ It's important to remember the extent to which these factors interrelate. Fundamentals
+ influence psychology, which determines technicals, which feed back to further affect
+ fundamentals. Just as these things can create a virtuous circle on the upside - such
+ as the one that has prevailed since late-2002 - they're now behind the apparent start
+ of a vicious circle on the downside.
+
+ The L Word Revisited
+ U
+
+ Most explanations of the financial dynamism of the last few years have centered on
+ something called "excess liquidity." Vast amounts of liquidity in the hands of investors,
+ it's been said, caused them to avidly pursue investments, neglect due diligence, accept
+ low prospective returns, and therefore bid up asset prices.
+
+ But where does excess liquidity come from? Not from more currency. The amount of
+ currency in the world is somewhat fixed, and each person's receipt is another person's
+ expenditure. The fact that China has massive reserves to invest merely means those sums
+ came out of someone else's account.
+
+ I think the "L word" that should be focused on isn't liquidity, but leverage. This is
+ the one I discussed in "It's All Good," and the element behind many of the excesses of
+ late. High levels of lending and borrowing relative to capital balances can increase buying
+ power and fire up economies and markets. The question is whether that expansion will be
+ maintained and increased. If not, this source of growth will peter out . . . as has been the
+ case in the last few weeks.
+
+ A decade or so back, the ability of parties other than the Fed to increase the leverage in
+ the system was limited. Margin debt for purchases of stock couldn't exceed 100% of an
+ investor's equity, and bank loans likewise were restricted to a multiple of capital. But in
+ recent years, some new factors have meaningfully changed the picture, including
+ derivatives, hedge funds and non-bank lending. All three of these - among which there is
+
+ significant overlap - have negated the old limits and made vast amounts of leverage
+ available to investors and asset buyers.
+
+ This leveraging up was the greatest single element in the asset surge of the last few
+ years. In fact, the breadth of the gains tells me we didn't have an "asset bubble,"
+ but rather a "leverage bubble." As Jeremy Grantham points out in his latest letter,
+ leveraged loans (so-called "bank loans" often funded by hedge funds rather than banks)
+ are a good candidate for the "bubble" label, as their volume in the first half of 2007, at
+ $545 billion, was up 60% over the same period in 2006, which showed a similarly
+ dramatic increase over 2005. Leverage (along with the lowered standards that resulted
+ from eagerness to put borrowed capital to work) was the common thread in much of the
+ appreciation that took place across asset classes and regions.
+
+ Now we're having a chance to see - once again - that the process works in both
+ directions. And as so often is the case, the air tends to come out of the balloon far
+ faster (and more violently) than it went in. The process is mesmerizing - like
+ watching a train wreck happen.
+
+ The Engine of Growth Seizes Up
+ U
+
+ The pervasiveness of leverage throughout the financial system means the slowing process
+ comes in many forms and takes many twists and turns. It's not possible - or necessary -
+ to enumerate all of them. All we need are a couple of examples. For these we'll take a
+ look at collateralized debt obligations, or CDOs.
+
+ For a simple example, consider commercial mortgage-backed securities, or CMBS. Over
+ the last few months, Bruce Karsh has pointed out that prices for CMBS were falling even
+ though the business of being a landlord was good and prices of buildings were increasing.
+
+ His explanation has been that many CDOs held both subprime paper and the riskier
+ tranches of CMBS. Because of the developments in the subprime area, (1) they were
+ affected by psychological contagion, (2) new ones couldn't be formed, meaning CDOs
+ ceased to be buyers of new CMBS, and (3) some faced the need to reduce their leverage
+ and raise cash. Unable to sell subprime assets (or not wishing to recognize losses if they
+ could be deferred), they've been selling CMBS, putting downward pressure on prices.
+ That's how problems in one asset class can depress prices in another.
+
+ Now let's look a little deeper. Bear in mind that CDO managers are paid to (1) issue debt
+ in tranches that vary in terms of seniority and promised return and (2) use the proceeds to
+ assemble portfolios of debt instruments. Borrow and buy, borrow and buy. A CDO
+ manager's compensation increases in proportion to the amounts involved and is locked in
+ for the term of the CDO. Thus CDO managers, like mortgage brokers, were motivated to
+ play a major part in what I described in "The Race to the Bottom" in February: "a
+ market where a desire for quantity and speed has taken over from an insistence on
+
+ quality and caution." Not all managers succumbed to this temptation, of course, but it
+ was there.
+
+ CDOs have been among the greatest contributors to the recent upswing. To a large
+ extent they were a bottomless pit that could never be filled, a prime source of
+ demand for debt. Why was their growth so strong? Because they offered a terrific deal,
+ attracting vast quantities of money that had to be invested. What was that deal? Simple:
+ high-rated debt at low-grade yields.
+
+ Too good to be true? Of course. The ratings were too high because rating agency
+ analysts had to rate exotic structured products with which they had no experience (and
+ probably no true understanding). And I'm confident the CDO managers were very
+ persuasive, using sophisticated statistical models to explain how safe they were thanks to
+ portfolio diversification and over-collateralization. For this reason, many tranches of
+ CDOs stuffed with non-investment grade debt received investment grade ratings, looked
+ cheap based on their attractive promised yields, and thus sold out rapidly.
+
+ CDOs were among the greatest buyers of residential mortgage-backed securities (RMBS)
+ and non-investment grade leveraged loans. I'll bet some investors even leveraged up to
+ buy the debt of these highly leveraged entities, which in turn used their capital to buy
+ highly leveraged paper. Could the end be in doubt? This mode of response to the low-
+ return environment of the last few years was doomed to end badly.
+
+ Now the fallacies in this approach have been exposed, with widespread ramifications:
+
+ Because the ability to create new CDOs may be greatly curtailed, they're unlikely to
+ represent much of a source of demand for new leveraged loans.
+ In that case, future buyouts dependent on leveraged loan issuance won't be funded as
+ readily.
+ Billions in bridge loans that investment banks extended for buyouts appear to be
+ "hung" because of the difficulty in refinancing them through sales to investors.
+ The investment banks behind the loans are likely to encounter substantial losses as
+ they're marked down to make them salable.
+ Outstanding high yield bonds and leveraged loans will have to decline in price (and
+ rise in yield) to make them competitive with this marked-down buyout paper.
+ Debt that has been inventoried to facilitate the formation of new CDOs may have to
+ be dumped at losses now that the CDO creation process has shrunk.
+ Investment banks that made bridge loans and amassed inventories for non-existent
+ CDOs may be unwilling to extend new financing from their balance sheets.
+ Fewer buyouts will be able to be financed as long as the debt markets remain in this
+ condition.
+ Thus the "LBO put" may no longer be a force in the stock market, in which case
+ investors will no longer be able to count on buyout funds to purchase companies at
+ premium prices.
+
+ How did the increase in subprime mortgage delinquencies lead to last week's 580 point
+ drop in the Dow? These are some of the ways. Fault lines run through portfolios,
+ markets and economies, and usually they are exposed only in times of crisis. The
+ fault line this time came in the form of pervasive leverage.
+
+ The Role of Psychology
+ U
+
+ At the end of each day, Oaktree's debt trading desk sends out an email recapping our
+ buys and sells, along with market developments and the day's biggest headlines. On July
+ 26, (the day the Dow declined 312 points), one of the headlines read "Paulson Says
+ Subprime-Mortgage Collapse Doesn't Threaten Economic Growth."
+
+ On the simplest level, there's every reason to understand that the failure to make monthly
+ payments on the part of a bunch of mortgage borrowers at the bottom of the credit ladder
+ won't have direct effects far beyond their local communities and the holders of their
+ loans. But (1) the government usually does a poor job of anticipating second-order
+ consequences and (2) politicians have every incentive to act as cheerleaders for the
+ economy and downplay the negatives. Unlike distressed debt investors and other bargain
+ hunters, no officeholder wants to see economic weakness, since it tends not to do much
+ for re-electability.
+
+ Even leaving aside this factor, the issue here comes down to the difference between the
+ direct workings of the "real" economy and the follow-on effects of psychology. I believe
+ the latter are profound and have the ability to overwhelm the former. In fact, I
+ sometimes think there's little to the economy other than psychology - and thus that
+ the real economy simply can't be distinguished from the psychological one.
+
+ If consumers feel insecure about their economic future, they won't buy.
+ If they don't expect consumers to buy, manufacturers of consumer goods will cut
+ back production, and they certainly won't produce to build inventories. Instead
+ they'll downsize by laying off workers, further adding to consumer woes.
+ Pessimistic consumer goods manufacturers won't invest in plant expansion, so
+ construction companies and manufacturers of production equipment will suffer as
+ well.
+ All of this will be exacerbated by the reduced willingness of worried lenders to
+ provide debt capital, or at least their insistence on higher interest rates to cover the
+ increased risks.
+ At the extreme, government tax revenues might decline, necessitating restrictive tax
+ increases or the troubling growth of deficits.
+
+ It's all a matter of expectations. So when someone says, "psychological influences aside,
+ I don't think there'll be much of an impact," I wouldn't give that statement much weight.
+ It's entirely understandable that, despite favorable fundamentals, newly chastened
+ investors have pulled back into their shells, largely because of the profound effect of a
+ downturn in psychology.
+
+ * * *
+
+ In the last few weeks, investors have learned some painful lessons. They went from
+ feeling they understood exactly what was going on to realizing they merely had been
+ carried along in a rosy environment. They learned (1) that they hadn't accurately gauged
+ the risks they were taking when they invested in innovative and highly leveraged
+ structured entities, (2) that the rating agencies they'd relied on didn't know either, and (3)
+ that in understating risk they hadn't demanded enough of a risk premium or sufficient
+ protective covenants. They learned the hard way that leverage magnifies losses as well
+ as gains. And they learned that negative developments in a far-off corner of the economy
+ can affect them profoundly. There's absolutely nothing new in any of this.
+
+ In just the last two weeks, we've seen headlines such as these:
+
+ Subprime Uncertainty Fans Out
+ Bear Stearns Tells Investors Funds Worthless
+ Crisis Forces Banks to Make Hobson's Choice
+ Banks Delay Sale of Chrysler Debt As Market Stalls
+ Chrysler, Boots Financing Woes Dim "Golden Era" for Leveraged Buyout Firms
+ A Second Day of Declines Caps the Worst Wall Street Week in Years
+ Credit Crunch May Derail Buyout Boom; LBOver
+ Fears Intensify on Economy, Despite Growth
+ Hedge Fund Deleveraging Could Be Next Big Worry
+
+ What these developments mean for the future - and how far this swing toward negative
+ events and negative psychology will go - is absolutely unknowable. Is this just a bump
+ in the road, like the Asia-related declines that rippled through markets in the second
+ quarter of 2006 and the first quarter of 2007, from which the recovery was swift? Or are
+ these events the first steps toward a major credit crunch that will bring on a recession?
+ No one knows, including us.
+
+ But what we do know is that the bull-market excesses I decried in my memo of two
+ weeks ago (and in "The New Paradigm" in October and "The Race to the Bottom" in
+ February) have reversed for the moment, with profound effects on asset prices. Just as
+ risky companies could obtain ridiculously cheap and easy financing a month ago,
+ now the debt of perfectly good companies is providing generous promised returns
+ and sometimes is unsalable. Oaktree bottom fishers who've felt like they've been
+ cooling their heels for the last few years are smiling for a change.
+
+ And mindfulness of cycles is on the way to being restored. When things can't get
+ better - as some buyout GPs pointed out earlier this year - they won't. When the
+ pendulum reaches the extreme of its arc, it will swing back. When markets are
+ priced for perfection, they will disappoint. And when investors demand inadequate
+ compensation for bearing risk, they will learn the error of their ways. With the
+ word "eventually" implicit in these statements, I'm 100% sure they're all correct.
+
+ I can't say, "This is it," but I am willing to say, "This is more like it." It'll always go
+ this way. Investors should learn that simple lesson. But most never will. That's
+ what the philosopher Santayana had in mind when he said, "Those who cannot remember
+ the past are condemned to repeat it."
+
+
+Memo: Now It’s All Bad?.
+
+I'm a great believer in the cyclical nature of the markets, but I never cease to be amazed
+ at how far they can go in one direction and for how long; the extremes they can reach,
+ despite logical arguments to the contrary; and the swiftness of the swing back. It all
+ reminds me of a point I made in my second memo, "First Quarter Performance" (April
+ 1991): Although the midpoint of its arc best describes the location of the pendulum "on
+ average," it actually spends very little of its time there. Instead it is almost always
+ swinging toward or away from the extremes of its arc.
+
+ Just seven weeks ago, I complained in "It's All Good" that investors were acting as if
+ nothing could go wrong. "Priced for perfection" was the concept underlying values, and
+ people were more than willing to pay prices set that way.
+
+ Now, of course, the prevailing attitude appears to have swung from "it's all good" to "it's
+ all bad." Pessimism has replaced optimism, perhaps also to excess. There are days on
+ which no one seems able to tell me how the developing credit crisis might be resolved in
+ short order and a full-scale meltdown avoided, and when no one seems able to find a ray
+ of sunshine in the current situation (other than bargain hunters).
+
+ It's like the aspiring actor who takes acting classes, waits on tables and hustles auditions
+ for a decade . . . and then gets his big break and becomes an "overnight success." Except
+ that in this case, having built up great excesses over a period I date from November 2002,
+ people are now acting as if this market has become an overnight flop.
+
+ Some of us have been saying for years that a swing back of the market cycle was due, but
+ it took a long time to happen (calling to mind, as so often in my case, the dictum that
+ "being too far ahead of your time is indistinguishable from being wrong"). This delay
+ does a good job of illustrating Lord Keynes's famous observation that "markets can
+ remain irrational longer than you can remain solvent."
+
+ Markets can swing in a single direction for a longer period and to a greater extent than
+ anyone might expect. That's crowd psychology. But the swing back can be equally
+ surprising - in terms of what kicks it off and how fast it moves. I recently came across a
+ great quote from Larry Summers: "in economics things happen slower than you expected
+ they would but when they finally do, they happen faster than you imagined they could."
+ Certainly the recent transition from all good to all bad demonstrates this phenomenon.
+
+ The Virtuous Circle
+ U
+
+ The financial world seems to have melted down in just a few weeks. But the truth is, the
+ seeds of the crisis have been growing for years - unnoticed by most - as a seemingly
+ virtuous circle spun unabated.
+
+ Henry Kissinger was a member of TCW's board when I worked there, and a few times
+ each year I was privileged to hear him hold forth on world affairs. Someone would ask,
+ "Henry, can you explain yesterday's events in Bosnia?" and he'd say, "Well, in 1722 . . ."
+ The point is that chain reaction-type events can only be understood in the context of that
+ which went before. The challenge is figuring out how far back to go. In talking about
+ how the market got to its current condition, I'll just look back five years.
+
+ Everyone remembers the last corporate debt crisis, during the summer of 2002.
+ Recession, credit crunch, 9/11, Afghanistan, the telecom meltdown, and scandals at
+ Enron and the like combined to make bonds available at ridiculously high yields. Those
+ who were willing to buy had an opportunity to earn ultra-high returns with what turned
+ out to be very little risk.
+
+ Around the beginning of November 2002, however, it felt like a switch was thrown.
+ Maybe distressed debt managers who hadn't been aggressive enough during the summer
+ concluded they had to get invested before year-end. For whatever reason, bond prices
+ started to rise. Our active distressed debt funds gained 20% that month, and the markets
+ never looked back. Investors in all asset classes forgot the panic that had gripped them
+ just a few months earlier and became preoccupied with making money.
+
+ Because only modest returns were expected from high grade bonds (with their 4-5%
+ yields) and U.S. common stocks (following the 2000-02 bear market), investors sought
+ solutions in non-traditional investments with brief track records at best, and thus little or
+ no clarity regarding the risks involved.
+
+ Vast sums flowed to hedge funds, and thousands of new ones were formed. High yield
+ bonds and leveraged loans began to be issued again . . . because now there were buyers.
+ This enabled buyouts to be financed and then recapitalized, and quick payouts to equity
+ holders resulted in eye-popping IRRs, attracting more capital to buyout funds. Real
+ estate attracted vast amounts of capital, too, even when "cap rates" - current cash yields -
+ sunk below 5%; what could be better than a tangible asset providing inflation protection?
+
+ Borrowing power became virtually unlimited, as is often the case when providers of
+ capital are eager to put money to work. Thus the financial environment reflected (1) a
+ vast ability to leverage, (2) an uninhibited search for return, and (3) investors competing
+ to make investments by accepting lower returns and decreased safety. This combination
+ supported new investment techniques, which grew rapidly despite being untested.
+ Securitization, tranching and selling onward were employed extensively, often in
+ combination. For investors seeking high returns in a low-return world, leverage
+ seemed to hold the answer, and it was used in ways never seen
+
+ before. Collateralized loan obligations and collateralized debt obligations, for example,
+ grew practically unchecked. These debt factories bought up vast amounts of raw material
+ - in the form of underlying portfolio assets - in order to generate a salable product.
+
+ The bottom line of it all: high leverage, untested vehicles and inadequate
+ preparedness for adverse developments. Little awareness of risk, low credit
+ standards, slender risk premiums and little margin for error. In short, a recipe for
+ possible disaster.
+
+ The Vicious Circle
+ U
+
+ It's easy to explain what happens at this point in the typical market cycle:
+ eventually, everything goes the other way. That's exactly what happened this summer.
+
+ There's a bump in the road. It doesn't matter what it is, and it's usually different each
+ time. This year the problem occurred in the field of subprime mortgages. There was a
+ surprising rise in delinquencies, the immediate effect of which was limited to a small
+ segment of the economy and the few investors who'd bought securities backed by these
+ loans. In the months leading up to July, the impact went largely undetected outside the
+ subprime arena.
+
+ But from time to time in the investment world, a chain reaction is set off - maybe
+ you'd say a "tipping point" is reached - which causes one sort of problem to create
+ others and to cascade from one asset class, market or region to others.
+
+ I think the first step toward a broadening-out of the subprime problem came in a few days
+ during which rating agencies downgraded hundreds of mortgage-backed securities and
+ the debt of CDOs built on them. The repercussions were many and swift. Not only did
+ the downgradings have a direct negative effect on mortgage portfolios and their holders,
+ but they provided a wake-up call, a shocking reminder of some forgotten realities:
+
+ That risk had been underestimated.
+ That things investors thought they knew - truths they held so strongly - they really
+ hadn't known at all.
+ That elements they had relied on - in this case, debt ratings - had let them down.
+ Nothing works, they were reminded, except analysis that is first-hand, in-depth and
+ superior.
+
+ Then there were the holders' problems. Bear Stearns, for example, announced significant
+ losses in two of its hedge funds, as falling prices for subprime holdings rendered
+ collateral inadequate and margin calls eliminated maneuvering room. A few days later, it
+ was reported that the investors' equity was all gone.
+
+ And then there are technical factors. These are developments that encourage selling or
+ deter buying but are unrelated to investment fundamentals. A number soon arose:
+
+ Suddenly, market participants realized how hard it can be to value obscure,
+ infrequently-traded assets and how much the prices of such assets can diverge from
+ their value. In fact, "value" can be an empty concept in times of crisis, when it
+ becomes painfully clear that an asset is only worth what it can be sold for. Thus
+ people came to question the prices funds were using to value subprime-related
+ holdings, as well as the model-derived prices their investment bank creators had
+ charged for them.
+
+ Worried about both subprime fundamentals and pricing, and suddenly under
+ increased scrutiny, many lenders stopped providing financing. Short-term
+ commercial paper, which many investors had used to leverage their subprime-related
+ asset investments, became largely impossible to roll over.
+
+ Funds that had promised liquidity to their investors - even some money market funds
+ - became worried about their ability to accurately value subprime holdings and sell
+ them at fair prices. Thus they suspended withdrawals. What could have a more
+ traumatic effect on investor confidence?
+
+ Where leverage was withdrawn, margin calls arrived, or funds had to meet actual or
+ feared withdrawals, holders of subprime assets became forced sellers. Few things
+ have a more devastating effect on investment performance.
+
+ Metastasis
+ U
+
+ The fundamental, psychological and technical influences described above devastated the
+ market for subprime investments, of course, but they also spread quickly to other assets
+ and markets and metastasized into new forms of trouble.
+
+ Investor psychology turned in all markets, even those totally unconnected to subprime
+ loans. Caution replaced optimism. Risk aversion took over from risk tolerance (or risk-
+ blindness). Skepticism and the concept of capital preservation were resurrected.
+ Concern over being under-invested gave way to fear of buying too soon. Cash came to
+ be viewed as a source of security and buying power, not a drag on results. All over the
+ investment world, people started to think more about what can go wrong rather than what
+ can go right. In short, the things that contributed to the virtuous circle began to be
+ reversed, in ways that were unimaginable just two months ago.
+
+ Bridge financing for buyouts represents an outstanding example. Buyouts were an area
+ of great enthusiasm - and some of the greatest excesses, I think - in the 2002-07 up leg:
+
+ Vast sums were raised in buyout funds, likely increasing the managers' motivation to
+ buy companies.
+ Purchase prices for target companies were lifted by stock market strength, bidding
+ wars and the demands of stockholders and boards.
+
+ Acceptable debt/equity ratios - and thus the prices funds were willing to pay for
+ companies - increased as the cost of debt financing fell.
+ Companies became even more leveraged as recapitalizations allowed debt to replace
+ equity on post-acquisition balance sheets.
+
+ Although purchase prices and leverage ratios were rising rapidly, the banks were ready
+ and willing to "bridge" - or accept the risk involved in completing - future financings for
+ buyouts. Often this came in the form of "staple financing," through which banks enabled
+ buyers to include committed financing as a component of their bids. As of a month ago,
+ banks had committed to supply $277 billion of financing for buyouts, a figure that omits
+ equity bridges (promises to raise some of the equity required in a buyout) as well as non-
+ U.S. transactions. These bridges have become one of the big stories of 2007.
+
+ Prior to July, investors competed to put money to work despite rising buyout prices,
+ increasing leverage ratios, declining yield spreads and weaker terms and covenants. The
+ banks counted on this eagerness in extending their financing commitments, and for years
+ they were not disappointed.
+
+ But then the negative developments in subprime mortgages reminded investors about
+ risk.
+
+ The sight of funds melting down and suspending withdrawals was sobering.
+ Worry about the economic impact of falling home prices and less buoyant consumer
+ spending became pervasive.
+ In this new, chastened environment, investors who'd bought CLO and CDO debt
+ realized they had put too much faith in favorable ratings and thus were in trouble.
+ This caused their appetite for debt to dry up.
+ Bond pricing and terms no longer seemed adequate - and the risk associated with
+ declining to purchase a new issue no longer loomed so large.
+
+ In short, in the unique way in which markets can turn from red-hot to frigid, potential
+ buyers lost interest in the financings the banks had committed to place. And so the
+ bridges became "hung." The banks recognize that this isn't par paper anymore, and thus
+ they're likely to accept discount bids to clear it off their balance sheets. Observers
+ describe this process by saying "risk has been repriced." They mean investors now
+ realize they've been accepting inadequate compensation for bearing risk and are
+ insisting on more. "Risk repricing" is a good term for what's happening.
+
+ Clearly this phenomenon isn't limited to subprime debt and bridge financings. In fact,
+ the complete list of impacted securities, markets and participants is staggeringly long and
+ diverse:
+
+ subprime loans, and thus large amounts of residential mortgage-backed securities and
+ CDO debt,
+ money market funds that experienced losses in subprime-backed paper and were
+ forced to freeze redemptions,
+
+ Alt-A mortgages - not subprime, but similarly weak on documentation,
+ mortgage lenders,
+ commercial mortgage-backed securities, not because rents or property values are
+ down, but because these securities may be held by residential mortgage investors
+ forced to raise cash,
+ bridge financings - and with them the likelihood of future buyouts looking anything
+ like those of the recent past,
+ the investment and commercial banks that committed to the bridges,
+ the stocks of target companies in announced buyouts that are shaky as to completion
+ and/or likely to be renegotiated,
+ merger arbitrageurs, or "risk arbs," who assumed the risk of these deals failing to be
+ consummated as announced,
+ others who bet that good times and low volatility would continue, and that probable
+ things would happen and improbable things wouldn't. These include sellers of put
+ options and credit default insurance,
+ "quant firms" that built highly leveraged portfolios with help from models that
+ extrapolated past market behavior,
+ hedge funds and other leveraged investors in a wide variety of fields that pursued
+ "spread" or "carry" trades using large amounts of borrowed money (more on this
+ later),
+ banks (e.g., Germany's IKB) and fund managers (e.g., Carlyle and KKR) that formed
+ highly leveraged subsidiaries that would employ extensive leverage in the pursuit of
+ profit,
+ anyone dependent on issuing commercial paper or other forms of short-term debt to
+ finance leveraged investments, and
+ CLOs and CDOs, their investors, and those who depended on them to continue
+ buying debt providing inadequate risk compensation.
+
+ The list of affected areas is long and could grow longer. On bad days, losses on U.S.
+ stocks, European stocks and emerging market stocks all are attributed to the credit
+ crunch. Exchange rate swings - and strength in the yen in particular - are blamed on
+ declining use of the carry trade, a regular feature of which was borrowing at low rates in
+ Japan and investing for more elsewhere. And the other day, I read that lower profits at
+ London investment banks will likely result in smaller bonuses for investment bankers . . .
+ and thus in lower prices for London real estate.
+
+ How could investors in the areas listed above have expected that a crisis in subprime
+ mortgages would affect them this way? Who would have guessed, for example, that low-
+ grade mortgage delinquencies would depress returns on risk arb funds? The New York
+ Times of August 18 described A Demon of Our Own Design, by Richard Bookstaber (see
+ "Investment Miscellany," November 2000) as pointing out that "the proliferation of
+ complex financial products like derivatives, combined with use of leverage to bolster
+ returns, will inevitably mean that there will be a regular stream of market contagions like
+ the one we're having now - one of which, someday, could be calamitous."
+
+ This pattern of contagion exemplifies the hidden fault lines that I say can run
+ through portfolios and - like construction flaws in California homes - become
+ apparent only during infrequent catastrophes. But their invisibility most of the time
+ doesn't mean they're not there. The existence of these common threads is one of the
+ things that make it difficult to predict the correlation between assets, one of the key
+ ingredients in intelligent portfolio construction. And it's a good reason to attach a
+ significant premium to managers with alpha, or superior investment insight and skill.
+
+ Leverage and Liquidity
+ U
+
+ It's clear that when the story of 2002-07 is written, leverage and liquidity will be
+ among the main players. For much of the last few years, we saw a vast appetite for
+ securities. It created enormous demand for - and pushed up prices of - real estate- and
+ asset-backed paper, CLO and CDO debt, buyout funds, hedge funds, high yield bonds
+ and leveraged loans. In fact, there seemed to be unlimited demand for non-mainstream
+ investments. With all that money to put to work, few potential buyers refrained from
+ participating in an upswing that some observers thought lacked a sufficient raison d'être,
+ reasonable limits and adequate risk compensation.
+
+ One of the factors contributing most strongly to that demand was an ability to
+ borrow excessive amounts, for questionable purposes, on loose terms and at a low
+ cost. It was a result of the unattractiveness of yields on high grade debt . . . which
+ stemmed largely from the Fed's campaign to lower interest rates in order to mitigate the
+ depressant effect of the stock market slump and recession. It was abetted by the fact that
+ after a few years of good results, many people forget how money is lost.
+
+ Extensive use of leverage was behind many of the gains of the last few years, and it is at
+ the root of many of the problems being suffered today.
+
+ If I mistake not, the distress . . . was produced by an enemy more
+ formidable than hostile armies; by a pestilence more deadly than fever or
+ plague; by a visitation more destructive than the frosts of Spring or the
+ blights of Summer. I believe that it was caused by a mountain load of
+ DEBT.
+
+ Flowery commentary on the crisis of 2007? No; according to the Financial Times, the
+ quote from T.E. Burton's Crises and Depressions refers to events that occurred in 1857.
+ The point is that leverage is nothing new, and neither are its deleterious effects.
+
+ There are numerous reasons to use debt to leverage results, and none of them is likely to
+ evaporate any time soon:
+
+ 1. Hope springs eternal, as my mother used to say, and greed usually drives markets.
+ Thus any tool that has the power to magnify gains is very tempting.
+
+ 2. Of course, leverage can magnify losses as well as gains. But investors make
+ investments because they expect them to work, not fail, and thus the attraction of
+ magnified gains far outweighs the fear of magnified losses.
+ 3. Long-term bonds almost always offer higher yields than short-term debt, and
+ riskier investments invariably seem to promise higher returns than safe ones.
+ For these reasons, using short-term borrowings to finance lower grade and/or
+ longer-term investments invariably appears likely to produce positive returns.
+ 4. Most seductively, the incremental risk entailed in investments that are slightly longer
+ in term or slightly lower in quality usually appears quite small. For this reason,
+ these trades seem safe - but that doesn't mean they can't be rendered extremely
+ risky when leveraged up enough.
+ 5. Of course, when an upward cycle is generating strong returns and making risk
+ aversion recede, the equation becomes even more attractive. In the FT column that
+ provided the above quotation, John Authers describes the regular pattern of good
+ times, easy credit, increasing leverage and eventual crashes. I don't see that ever
+ changing.
+
+ It's for these reasons - and especially #4 - that highly leveraged positions are at the
+ root of most fund collapses. Long-Term Capital Management, the Granite Fund,
+ Amaranth Advisors, the two Bear Stearns funds, Sowood Alpha Fund and Basis Yield
+ Alpha Fund were all marked by "safe" positions leveraged to the sky. And they all
+ melted down.
+
+ In a number of ways, perpetuation of the market conditions of the last few years was
+ dependent on several assumptions about liquidity:
+
+ that investors with liquidity would be eager to put it to work,
+ that providers of capital would make liquidity available, meaning that leveraged
+ investors would be able to maintain their portfolio holdings and buy more,
+ that securities markets would remain liquid, such that holdings could always be sold
+ at prices close to their intrinsic value, and
+ that funds would therefore be able to keep the promise of liquidity that they'd made
+ to their investors.
+
+ In short, it was assumed that liquidity would continue to flow in the direction of
+ leveraged investment funds (in the form of financing and incremental capital
+ commitments) rather than away (in the form of margin calls and investor
+ withdrawals). Two or three months ago the world was described daily as "awash in
+ liquidity." Where is it now?
+
+ Investments requiring nothing more than the perpetuation of favorable market
+ conditions can be very seductive. And they work most of the time . . . until the pit
+ has been dug deep enough, the branches have been spread, and everyone has
+ forgotten about the existence of risk.
+
+ The investment environment of the last few years could have been negatively impacted
+ by the removal of any one of the elements of liquidity listed above. But if you look at the
+ list, it becomes clear that they're highly interrelated. Weakening one assumption could
+ render the others less reliable. And, in truth, a single exogenous development - such as a
+ major decline in psychology - could simultaneously harm them all. That's the main story
+ of the last few weeks.
+
+ Investments costing many times the investor's equity. Dependence on unreliable
+ short-term financing. Susceptibility to margin calls or capital withdrawals. Assets
+ that can become unsalable at a moment's notice. Prices that can collapse because
+ the markets are thin and everyone wants out at the same time. The formula is
+ simple and the results are predictable. Not every fund that's so disposed collapses,
+ but the potential's always there - with borrowing to buy at its core.
+
+ Fundamental problems are present in most investment conflagrations, but exposure to
+ excessive leverage and disappearing liquidity is often the accelerant. As
+ breakingviews.com (my new favorite) put it in The Wall Street Journal of August 2,
+ "The markets may hurt you, but your lenders will finish you off."
+
+ Risk Reduction
+ U
+
+ Of the many fairy tales told over the last few years, one of the most seductive - and thus
+ dangerous - was the one about global risk reduction. It went this way:
+
+ The risk of economic cycles has been eased by adroit central bank management.
+ Because of globalization, risk has been spread worldwide rather than concentrated
+ geographically.
+ Securitization and syndication have distributed risk to many market participants
+ rather than leaving it concentrated with just a few.
+ Risk has been "tranched out" to the investors best able to bear it.
+ Leverage has become less risky because interest rates and debt terms are so much
+ more borrower-friendly.
+ Leveraged buyouts are safer because the companies being bought are fundamentally
+ stronger.
+ Risk can be hedged by long/short and absolute return investing and through the use of
+ derivatives designed for that purpose.
+ Improvements in computers, mathematics and modeling have made the markets better
+ understood and thus less risky.
+
+ As described in "It's All Good . . . Really?" I thought many things that hinted at risk
+ reduction actually had the effect of decreasing understanding and increasing risk. Up to
+ July, all we read about was the beneficial nature of these developments. Now, with the
+ benefit of hindsight, these are the judgments of our leading business periodicals:
+
+ A system designed to distribute and absorb risk might, instead, have bred it, by
+ making it so easy for investors to buy complex securities they didn't fully
+ understand. (The Wall Street Journal, August 7)
+ [Loans] are now often bundled into securities that are sold in pieces to
+ investors around the world, changing hands many times. It spreads risk,
+ which policy makers believe keeps the overall financial system sound and
+ stable. But the downside to this system could be serious. (WSJ, August
+ "The market appears to be finding it harder to truly understand the
+ inherent and underlying risks involved," [according to Chris Rexworthy, a
+ former regulator with Britain's FSA]. The backlash is particularly sharp
+ abroad, in countries that were surprised to find that problems with United
+ States homeowners could be felt so keenly in their home markets. (New
+ York Times, August 31)
+ "Low volatility has created complacency, and that has translated into
+ poorly structured derivative markets," says Randall Dodd, director of the
+ Financial Policy Forum . . . The low volatility world of the past few years
+ may have worsened the situation, leading to lax lending standards for
+ derivative investors. (WSJ, August 2)
+ It is estimated that there are seven times as many credit derivatives
+ outstanding as there are outstanding bonds. You need to ask the question:
+ is risk being transferred or created? Are the new gladiators hedging with
+ derivatives or just leveraging up? (Jeff Pantages in Pensions &
+ Investments, August 20)
+
+ An apt metaphor came from Pension & Investments: "Jill Fredston is a nationally
+ recognized avalanche expert . . . She knows about a kind of moral hazard risk, where
+ better safety gear can entice climbers to take more risk - making them in fact less safe."
+ Like opportunities to make money, the degree of risk present in a market derives
+ from the behavior of the participants, not from securities, strategies and institutions.
+ Regardless of what's designed into market structures, risk will be low only if
+ investors behave prudently.
+
+ The bottom line is that tales like this one about risk control rarely turn out to be
+ true. Risk cannot be eliminated; it just gets transferred and spread. And
+ developments that make the world look less risky usually are illusory, and thus in
+ presenting a rosy picture they tend to make the world more risky. These are among
+ the important lessons of 2007.
+
+ Other Lessons Not Learned
+ U
+
+ In addition to the above, a number of other recurring themes can be seen as underlying
+ the recent difficulties. Here are a few:
+
+ Belief in market efficiency - Although academics say the actions of intelligent
+ U U
+
+ investors cause assets to be priced right, I often find prices screwy. Rather than
+ increasing market efficiency, improvements in computer and communications
+ technology may have made the markets even more unstable. As my partner Sheldon
+ Stone says, it's like a cruise ship where everyone is told to stand on the port side.
+ Then everyone simultaneously gets a message telling them to run to starboard. It
+ makes for a rocky crossing. The New York Times wrote on August 17 that
+ "Information may arrive instantly, but insight takes longer." Certainly the cycles
+ don't seem any less volatile than they used to be, or the extremes any less irrational.
+ In fact, in recent years, over-reliance on market efficiency may have kept people from
+ questioning asset prices.
+
+ Inefficacy of models - Quant funds invest according to models that extrapolate past
+ U U
+
+ patterns, operated by people who know computers and probabilities, not investment
+ fundamentals. But models can't tell you when past market behavior has been
+ irrational (and thus unreliable), and they can't predict when those patterns will
+ change. They lead to investments that "would have worked almost all the time in the
+ past," but it's amazing how often we see them derailed by once-in-a-lifetime events.
+ Matthew Rothman of Lehman Brothers has become famous for saying in early
+ August that "events that models only predicted would happen once in 10,000 years
+ happened every day for three days." Are those models you want to bet on?
+
+ Di-worst-ification - Warren Buffett harps on the folly of branching out into things
+ U U
+
+ you know less about solely for the purpose of increasing the number of baskets in
+ which you have your eggs. Investing in things about which you aren't expert doesn't
+ reduce risk, it increases it. And I think it's particularly unwise to finance
+ diversification with borrowed money.
+
+ Conflicts between managers and clients - Investors should look very closely at the
+ U U
+
+ alignment of their managers' interests with their own. The mere fact that a manager
+ is working for incentive compensation, or has money in his fund, isn't enough.
+ Recent events have shed some unusual - and provocative - light on the question of
+ alignment. Consider Sowood Capital, which lost half of its investors' capital, sold off
+ its portfolio in a block and closed down. Why did the loss of half the LPs' equity
+ occasion a liquidation? Might further losses have activated a clawback of previous
+ years' incentive fees? And might the interests of a manager with 100% of his net
+ worth in his fund have diverged from the interests of LPs who invested 1% of theirs?
+ I'm just speculating from the sidelines without knowledge of the facts in this
+ situation, but I wonder whether this doesn't show that to protect their own investment
+ in their funds, managers can be driven to take actions that damage their LPs.
+
+ The unreliability of ratings - Many investors act in reliance on ratings, and some
+ U U
+
+ require ratings before taking actions they're considering. But ratings must be taken
+ with a big grain of salt. In fact, a lot of my career (and Oaktree's success) has
+ been based on conviction that the rating agencies are often wrong. They
+ routinely rate securities too high when things are going well, and then overcorrect
+
+ when problems surface. It's instructive to note that a lot of CDO debt built on
+ subprime mortgages received triple-A ratings, many of which already have required
+ downward adjustment. And that rating agencies helped CDO managers design
+ structures so they would receive the desired rating. And that managers would run a
+ structure past a few agencies and hire the one that arrived at the highest rating. And
+ that ratings are paid for by those sponsoring the securities being rated, something
+ which sounds like a trial where the defendant picks and pays the judge.
+
+ All of these paragraphs highlight errors made by investors this time around . . . of a type
+ that always will be made (but with variations on the theme). The lesson isn't to distrust
+ managers, or models, or ratings, or diversification, or market efficiency.
+
+ What investors must learn - but most will not - is that there's no easy answer,
+ surefire tool or silver bullet. Lots of tools will help when applied thoughtfully, but
+ they'll bring harm otherwise - with the additional risk that excessive reliance on them
+ will increase the damage done when they turn out to be unavailing. Certainly none of
+ the highly-touted things discussed above held the answer this time around. Only
+ truly superior skill, discipline and integrity are likely to produce consistently high
+ returns in the long run with limited risk.
+
+ My advice: expect CEOs, regulators, rating agencies and other market participants to
+ make mistakes. Expect things to go wrong and cycles to swing to extremes and then
+ recover. Worry about outcomes, and hire worriers. Doing these things is sure to stand
+ between you and top returns in up-cycles, but it will deliver some degree of safety when
+ things turn bad. Ensuring the protection of capital under adverse circumstances is
+ incompatible with maximizing returns in good times, and thus investors must
+ choose between the two. That's the real lesson. The things discussed above are just
+ a few of the details.
+
+ What Next?
+
+ Lots of people are asking whether this is going to get ugly. Is this the beginning of a
+ credit crunch? Will it lead to a recession? How bad will it get? When will the bottom be
+ reached? How long will the recovery take? The answer's simple: no one knows.
+
+ Some of the psychological and technical preconditions for a challenging market
+ environment have been met. The bubble of positive investor psychology has been
+ pricked and could become seriously deflated. When others are aggressive, we should
+ be worried, but when others are worried, we can be confident. That's the essence of
+ contrarianism, and by that standard these are better times.
+
+ The easy-money machine has had some sand thrown in its gears and seems to be grinding
+ to a halt. Previously, anyone could get any amount of money for any purpose. Right
+ now, deserving borrowers are unable to obtain financing, and this could continue or get
+ worse.
+
+ The outlook for the economy is murky, as usual. It continues to limp along, not growing
+ strongly but not sagging. The big question surrounds the effect of the subprime crisis on
+ consumers. Home prices are through rising. Home equity borrowing is probably
+ finished for a while as a supporter of consumer spending. Ditto for the "wealth effect."
+ The reset of adjustable rate mortgages from artificially low teaser rates to full market
+ rates over the next 18-24 months is likely to have a depressing effect on a large number
+ of households, and thus on the economy. I would think furniture and auto manufacturers,
+ building materials suppliers, retailers and financial institutions have seen their best days
+ for a while. I consider the economy unpredictable, of course, and thus a lot of people's
+ answers will be more definite than mine. But not necessarily more correct.
+
+ Everyone's looking to the Fed to take action. Its last act - cutting the discount rate on
+ August 17 - was largely symbolic but had a positive effect. A reduction of the federal
+ funds rate would mean more, telling investors the Fed's there to help, cutting the cost of
+ borrowing and stimulating the economy. But it wouldn't do much for banks' balance
+ sheets or willingness to lend.
+
+ It's my view that Bernanke would rather not cut rates. Stimulative action that looked like
+ an investor bailout would contribute further to moral hazard and the expectation that the
+ Fed will always protect investors on the downside. This is an unhealthy expectation, as
+ each bailout encourages risk taking and thus increases the likelihood that another will be
+ needed. But the Fed is being importuned for a rate cut, and there are few people to argue
+ on the other side, for a good dose of unpleasant medicine.
+
+ I'm usually cautious, so I might as well keep my record intact. The economy should
+ weaken. Deals built on optimistic assumptions and paid for with a lot of borrowed
+ money shouldn't all thrive. Generous capital markets should not be expected to bail out
+ ailing companies. Bargain hunters and distressed debt investors will have more to do.
+ Eventually. But no one at Oaktree would advise you to act as if these views are sure to
+ be correct. We certainly won't.
+
+ * * *
+
+ An observation I made last October regarding the meltdown of Amaranth, in "Pigweed,"
+ T
+
+ is equally applicable to the recent problems:
+
+ Orin [Kramer] notes that Amaranth "occurred when the skies were blue;
+ T
+
+ the fund unraveled because a small and volatile commodity behaved in an
+ unpredicted fashion." This collapse didn't require an adverse economic
+ environment or a market crash. The combination of arrogance, failure to
+ understand and allow for risk, and a small adverse development can be
+ enough to wreak havoc. It can happen to anyone who doesn't spend
+ the time and effort required to understand the processes underlying
+ his portfolio.
+
+ Certainly the magnitude of this summer's crisis has been out of proportion to its
+ underlying fundamental cause: the increase in subprime delinquencies. Instead, a
+ standard combination has proved perfectly incendiary:
+
+ underlying greed,
+ good returns in the up-leg of the cycle,
+ euphoria and complacency,
+ a free-and-easy credit market,
+ Wall Street's inventiveness and salesmanship, and
+ investors' naiveté.
+
+ This formula often results in crushing losses. Or as Marc Faber put it, a surplus of
+ cash leads to a shortage of sense.
+
+ An obscure economist named Hyman Minsky is having his fifteen minutes of fame in the
+ current environment. Here's how The Wall Street Journal summarized his views on
+ August 18:
+
+ When times are good, investors take on risk; the longer those times stay
+ good, the more risk they take on, until they've taken on too much.
+ Eventually they reach a point where the cash generated by their assets no
+ longer is sufficient to pay off the mountains of debt they took on to
+ acquire them. Losses on such speculative assets prompt lenders to call in
+ their loans. "This is likely to lead to a collapse of asset values," Mr.
+ Minsky wrote. When investors are forced to sell even their less-
+ speculative positions to make good on their loans, markets spiral lower
+ and create a severe demand for cash.
+
+ The foregoing aptly describes the current cycle. . . and, I think, the way things always are.
+ It certainly seems inevitable that, eventually, investment merit becomes overpriced, and
+ the combination of good results and easy money causes dangerous leverage to be
+ employed in the pursuit of profit.
+
+ When will market cycles be banished or made more muted? That'll happen when
+ greed, human failings and herd behavior are eliminated. Or, in other words, never.
+ In "You Can't Predict. You Can Prepare." I wrote of cycles that success carries within
+ itself the seeds of failure, and failure carries the seeds of success. It'll always be so.
+
+
+Memo: No Different This Time – The Lessons of ‘07.
+
+On July 16, I published a memo called "It's All Good." I wrote it while on vacation in
+ late June and early July, and then it took a week after my return to get it out. It reviewed
+ the excesses that had occurred in the preceding few years and the extent to which people
+ were overlooking them, thinking instead that everything was ideal and would stay that
+ way. It discussed the recurring tendency of investors in bullish times to feel that "it's
+ different this time" - that the process which caused past cyclical highs to correct
+ wouldn't apply in the current instance.
+
+ The bullish balloon remained unpunctured as of July 16, and some may have thought my
+ memo unduly pessimistic. It's a good thing it didn't take another week or two to put it
+ out, however, because by July 30, things had started to go bad, set off by defaults among
+ subprime mortgages and downgrades of securities based on them.
+
+ "An isolated development," the bulls replied, as is usual when the first crack in the
+ dam appears. It's hard to believe that less than five months later, the effects are
+ widespread, significant losses have been registered, and negativism has taken over from
+ euphoria. No one doubts that we're in the throes of a full-fledged credit crunch. But in
+ that way, it truly is no different this time.
+
+ Investor Behavior in a Low-Return Market
+ U
+
+ Each player must accept the cards life deals him or her. But once they are
+ in hand, he or she alone must decide how to play the cards in order to win
+ the game.
+
+ I found that quote on the wall of a Melbourne, Australia coffee shop last month, with an
+ attribution to Voltaire. I was struck immediately by its applicability to the financial
+ markets. As I've pointed out in the past, we must never overlook the need to deal with
+ the investment environment as it is. The environment is the product of natural
+ phenomena as well as the decisions made by millions of "economic units" such as
+ consumers, investors, companies and nations. We are presented with it, and no one of us
+ can alter it. What matters is what we do with it.
+
+ To succeed as investors, we must recognize the environment for what it is and act
+ accordingly. In any given environment, some actions will lead to success and others to
+ failure. Which is which varies greatly over time. Our first task as investors is to assess
+ the environment and map a course which is appropriate for it.
+
+ As I noted a few years ago, (see "Risk and Return Today," October 2004) we were living
+ in a low-return world. The prospective returns offered on traditionally safe investments
+ were low in the absolute. Moving out on the risk curve added little to expected returns;
+ i.e., risk premiums were in many cases at record lows. Overall, then, the Capital Market
+ Line - the risk/return curve - was "low and flat." In all, the rewards offered for risk
+ bearing were paltry.
+
+ So what was an investor to do in that low-return world? You could make your usual
+ investments and accept returns below those you're used to, perhaps deciding to allocate
+ your capital for the long term and ignore the short term. Or you could decline to invest
+ and hold cash instead, despite the fact that the expected return for doing so is invariably
+ the lowest. Or - as I think most people did - you could reject the low returns available
+ on your usual investments and go for more. That is, you could insist on achieving high
+ returns in a low-return world. But insisting on them is one thing, and positioning your
+ portfolio to get them is another. How might the latter be accomplished?
+
+ The answer is simple: many reached for return. Primarily that meant making
+ riskier investments or using leverage to increase the capital at risk (or both). That's
+ the main story of the last few years, and the reason behind the jam the markets are
+ in today.
+
+ So What Happened?
+ U
+
+ As I wrote in "Risk and Return Today," in recent years investors did things they'd never
+ done before - or hadn't done as much of - because they wanted more than the 4-5% they
+ could get in high grade bonds and the 6-7% they felt they could expect from U.S.
+ equities. They put more into hedge funds, for example, and their commitments expanded
+ the largest buyout funds from $3-5 billion to $20 billion-plus in just a year or two.
+
+ Investors succumbed to the siren song of leverage. They borrowed cheap short-term
+ funds - the shorter the cheaper (you can get money cheap if you're willing to pledge
+ assets and promise repayment monthly). And they used that money to buy assets that
+ offered higher returns because they entailed illiquidity and/or fundamental risk. And
+ institutional investors all over the world took Wall Street up on the newest promises of
+ two "silver bullets" that would provide high returns with low risk: securitization and
+ structure.
+
+ On the surface, these investments made sense. They promised satisfactory absolute
+ returns, as the returns on the leveraged purchases would more than pay the cost of capital.
+ The results would be great . . . as long as nothing untoward happened.
+
+ But, as usual, the pursuit of profit led to mistakes. The expected returns looked good, but
+ the range of possible outcomes included some very nasty ones. The success of many
+
+ techniques and structures depended on the future looking like the past. And many of the
+ "modern miracles" that were relied on were untested.
+
+ A Dearth of Skepticism
+ U
+
+ Unlike market bottoms, where investors are too skeptical, during upswings most
+ people believe too much, worry too little and fail to apply enough skepticism. Since
+ all investors want a good deal - and see the people around them making money so easily
+ - they tend to jump aboard. They want to see the good times roll on, not to pour cold
+ water on the party by questioning what's going on.
+
+ Everyone dreams of easy riches - of high returns earned without risk. Wall Street comes
+ up with surefire solutions to which the hopeful flock, such as portfolio insurance in the
+ 1980s and dot-com IPOs in the 1990s. In the current decade, investors became convinced
+ that securitized mortgages and highly leveraged entities offered the magic solution.
+ People who long ago stopped believing in Santa Claus jumped aboard, and now they're
+ disappointed. But past results never deter new generations of dreamers from chasing the
+ next silver bullet.
+
+ In the last few years, people accepted myths that now have been exposed. Let's review a
+ few:
+
+ In 2006-07, we heard a lot of talk to the effect that disintermediation had reduced
+ risk. Because lending banks were moving loans off their books through syndication
+ to other banks and non-bank lenders alike, the risk residing at any one bank - and
+ thus in the financial system as a whole - had been reduced. Of course, the feeling
+ that the world had become a safer place led many participants to take on more risk
+ than they otherwise would. And where are we seeing the biggest losses reported?
+ At those supposedly safer banks.
+
+ A lot of people have lost money as a result of excessive reliance on credit ratings.
+ How is it, for example, that investors are showing up with such large losses on
+ mortgage-related CDO debt? Well, rather than accept the low yields on AA-rated
+ corporate bonds, they went for the AA-rated tranches from CDOs . . . because they
+ offered higher yields. But wait a minute! More yield for the same quality? A
+ free lunch? Not likely. Maybe the buyers relied too much on ratings in lieu of their
+ own due diligence. Maybe the credit rating agencies didn't fully understand the debt
+ under review, or had biases which led to too-high ratings. Maybe they didn't intend
+ the AA rating on CDO debt to mean the same thing as an AA rating on corporate
+ debt. And maybe the rating-agency analysts lacked the above-average skills that are
+ needed to add value in the investment world; if they possessed them, wouldn't they
+ be spending their time more lucratively as investors?
+
+ Perhaps most telling, it seems people were willing to drink up without asking,
+ "Who's paying the tab?" Take the CDO creation process: Acting on behalf of a
+
+ mortgage company, a mortgage broker made a loan. The mortgage company sold the
+ loan to an investment bank. The investment bank packaged it into a residential
+ mortgage-backed security and sold it to a CDO originator. The originator packaged it
+ into a CDO, having raised the money for the CDO through sales of debt to
+ institutional investors. The sale of the debt was facilitated by a placement agent or
+ investment bank. I count at least five parties who got paid each time a mortgage loan
+ was placed, securitized and distributed. Someone was paying a lot of fees. Even if
+ the original mortgage loan was priced reasonably at the beginning, is it possible
+ the CDO debt was fairly priced at the end? Wall Street's answer is simple: The
+ overall process may have been heavily laden with fees, but the individual tranches
+ were attractive. Huh? Few people looked at the multiple fees and asked if the deals
+ could withstand paying so many middlemen. In 2003-07, they didn't feel the need.
+
+ Widespread failings of skepticism are significant in two ways. Individually, each one
+ represents a way to lose money through an ill-considered investment. And collectively,
+ they're indicative of the market climate. In times of excess on the upside, fairy tales gain
+ currency and encourage risk taking. And then they are debunked, as is happening today.
+ Or as Warren Buffett puts it, "when the tide goes out, we find out who's been
+ swimming without a bathing suit." This time around, the answer is "lots of people."
+
+ The Magic of Leverage
+
+ It's obvious that the key element in many of the errors that tripped up investors this
+ time around was cheap and easy credit, utilized without much awareness of risk. An
+ oversupply of capital looking for a home in non-traditional investments caused vast sums
+ to be pushed into mortgage loans at low-cost teaser rates to un-creditworthy homebuyers
+ who often weren't required to document their incomes. It let hedge funds bulk up on the
+ carry trade and buyout funds bid enough to acquire world-class companies, taking on
+ enough leverage to target high expected returns. And it was the building block
+ supporting CLOs, CDOs, CDO2s, conduits, SIVs and other highly leveraged entities.
+
+ The Fed delivered cheap credit for the best of reasons: to counter the depressing effects
+ of the emerging market crisis, 9/11, the tech bubble bust, the first three-year stock market
+ decline since the Depression, Y2K, the telecom meltdown, concern about deflation, and
+ whatever else was on its mind. Interest rates were the lowest most of us had ever seen,
+ anchored by 1% on cash. The low rates both (a) drove down returns on investments at
+ the safe end of the risk curve and (b) provided the fuel for elevated risk taking.
+
+ One must never forget that leverage doesn't make investments better; it just
+ magnifies the gains and losses. Since most investments have a positive expected value,
+ meaning that gains are expected on average, leverage has the effect of appearing to
+ enhance the expected return. And most of the time, that works just fine.
+
+ But once in a while, something goes awry. Maybe asset prices go so high they become
+ unsupportable. Maybe the analysis behind an investment proves to have been faulty.
+
+ Maybe an exogenous event negatively influences asset prices or funding availability or
+ both. And maybe they all happen at once. When the unlikely occurs - when asset prices
+ decline unexpectedly - the impact as magnified by leverage can be unbearable, setting off
+ a negative chain reaction.
+
+ Falling asset prices cause lenders to shy away from providing credit, and eventually to
+ demand repayment. With credit less available, repayment might have to come from asset
+ sales, putting additional downward pressure on prices in an already unaccommodating
+ market. Prices go down further; confidence worsens; lenders grow more cautious; and
+ credit becomes even less available. What used to be a virtuous circle becomes a
+ vicious circle. This is how credit crunches occur.
+
+ There is a recurring element in most investor meltdowns. Lured by attractive promised
+ returns or spurred on by the perceived inadequacy of unleveraged returns, investors
+ borrow short-term capital with which to buy long-term assets. And then eventually
+ there comes a bad day, on which the short-term capital flows out (in response to demands
+ for repayment, the maturing of borrowings, or investor withdrawals). And on that
+ particular day, perhaps (a) the outgoing capital can't be replaced and (b) portfolio assets
+ can't be sold at fair prices. Sales, if feasible, may have to be made at prices so low that,
+ if all the assets were marked there, the entity's net worth would be negative. That's it:
+ meltdown. That's what happened this summer to Bear Stearns's High-Grade Structured
+ Credit Strategies Enhanced Leveraged Fund. It happened to Long-Term Capital
+ Management in 1998 and to the Granite Fund in 1994. And it'll happen again - because
+ financial memory is short and the attraction of leverage can be irresistible.
+
+ Investors must remember that it's not enough that an investment has a good expected
+ return, or that the negative outcomes are unlikely. One of the overlooked effects of
+ leverage is that it "fattens the tails" - increases the likelihood of extreme outcomes in
+ both directions - and worsens the consequences of negative events. Every portfolio or
+ investing entity must be examined to make sure it will be able to survive that bad
+ day - that it has been set up so the interaction of its terms, its borrowings and the
+ riskiness of its assets won't cause it to implode. Of course, this leads to the question of
+ how negative a set of circumstances we should allow for. Each investor's degree of risk
+ averseness will determine what level of negative developments a portfolio should be built
+ to withstand. But certainly these are topics that must be considered.
+
+ When I think about investors using leverage to try to wring acceptable results from low-
+ return investments, it seems like folly. Let's see: You have $100 to invest, and you
+ come across a fundamentally sound investment that yields 6%. But you consider the 6%
+ return too low. So rather than buy $100 worth, you borrow another $400 at 5% interest
+ and buy $500 worth. If you can borrow at 5% and invest at 6%, each "turn" of leverage
+ adds 1% to your expected return. Thus, in addition to the $6 earned on your own $100 of
+ capital, you'll earn an additional $1 per $100 of borrowed capital, or $4 on $400. Thus
+ the total return on your $100 of capital, leveraged four times, is $10. Voila! That
+ inadequate 6% return has been turned into a handsome 10%.
+
+ But wait a minute. Remember, you originally thought the 6% return on the investment
+ was too low. What happens when everyone comes to agree that it should be higher?
+ Well, the normal way for an investment's prospective return to go up is for its price to
+ fall. So now, with help from leverage, you've bought five times as much of an asset
+ that's under-returning and due for a price decline. It all reminds me of my friend
+ Sandy, whose favorite restaurant review is "the food's terrible, but the portions are
+ huge." In this case, it's "the return's inadequate, but thanks to leverage you can
+ buy a lot." Is that a good thing?
+
+ Garbage In, Garbage Out
+ U
+
+ This expression was in broad circulation 10-20 years ago, but I haven't heard it much
+ lately. It's meaning is simple: models and decision-making processes can't produce good
+ decisions if they don't begin from valid inputs. Roughly stated, I think all computers can
+ do is maintain and search data bases, compare one thing against another, and perform
+ calculations. They cannot think (yet).
+
+ I think the importance of this for financial decision makers is that while computers
+ can find, verify and extrapolate relationships that have held in the past, they can't
+ tell when those relationships will cease to work and what new relationships will take
+ their place.
+
+ Put another way, computers know a lot about the past but much less about the
+ future. In order for computers - or people lacking foresight, for that matter - to know
+ what will happen in the future, they need reliable data regarding the past and an ability to
+ expect that the future will be like the past. People were let down in both regards in 2007.
+
+ Most people have heard of "value at risk," or VAR, a worst-case estimate of a portfolio's
+ one-day loss potential. The Economist reported on November 1 that on no fewer than 16
+ T T
+
+ trading days in the third quarter (a quarter of all the days), UBS's trading losses exceeded
+ the VAR calculated the preceding day. In all the preceding years since UBS began to use
+ VAR in 1998, there hadn't been one such day . What went wrong? Maybe VAR isn't a
+ T
+
+ good measure. Maybe the data UBS used was erroneous. Maybe the model was based
+ on a period that was atypical or too short to be statistically significant. Or maybe the
+ world changed, invalidating the model.
+
+ In the last few years, financial alchemy led to the creation of large numbers of high-rated
+ securities out of pools of low-grade mortgages. Investors relied on the ratings, and I
+ suppose the rating agencies relied on default rate assumptions that looked reasonable in
+ the light of experience. But they didn't allow for changed circumstances (e.g., for the
+ fact that since mortgage initiators no longer risked their own money for long, they had
+ stopped making lending decisions the way they used to). It's for reasons like this that
+ assumptions can turn out to be inappropriate.
+
+ I'm not saying you can't invest profitably when the inputs are garbage. But only after
+ critically assessing the reliability of assumptions can sufficient allowance for risk be built
+ in via demands for an appropriate risk premium. In the last few years, people bought
+ "safe" securities where they really had little understanding of their workings or
+ foundations. The results are now clear.
+
+ I'm Shocked . . . Shocked
+ U
+
+ Given that market upswings are often accompanied by insufficient skepticism, it's not
+ unusual for lofty expectations to be disappointed. A story on Citibank's results in the
+ Wall Street Journal of November 2 contained words such as "unnerved" and "unsettled."
+ Few things have a more corrosive effect on investor psychology than disillusionment like
+ we're seeing today.
+
+ I remember getting a kick out of an article that ran in the Wall Street Journal around
+ 1991. After taking big losses in high yield bonds, a mutual fund investor was quoted as
+ saying, "I thought I was investing in a high yield bond fund. If I'd known it was a junk
+ bond fund, I never would've bought it." It's common for investors to act without
+ adequate understanding, and for them to feel betrayed when their hopes are unfulfilled.
+ This time they're saying, "It was rated triple-A, and now no one can tell me what it's
+ worth."
+
+ The disillusionment has been swift and dramatic (not to mention terrifying). Most CDO
+ investors must now realize they had no idea how the mechanisms would work or how
+ much risk they were taking. Holders have seen investment grade debt downgraded to
+ single-C in a single rating action. Investors in Bear Stearns's High-Grade Structured
+ Credit Strategies Enhanced Leveraged Fund lost all their money, finding no protection in
+ all those great adjectives. Some assets became unsalable at any reasonable price. A lot
+ of asset-backed commercial paper became unrenewable. And $5 billion anticipated
+ writedowns turned into $8 billion actual writedowns in just a few weeks.
+
+ In a statement that seems representative of this period, Marcel Rohner, the Chief
+ Executive of UBS, said last week the "ultimate value of our subprime holdings . . .
+ remains unknowable." I don't doubt that it is, and for that reason his statement calls to
+ mind a 2005 memo titled "Hindsight First, Please (or, What Were They Thinking?)."
+ Why couldn't investors figure out in advance that the result of these investments were
+ unpredictable? What caused them to make investments that now are described that way?
+ It truly makes me wonder what they were thinking.
+
+ The Challenge of Managing Risk
+ U
+
+ One of the reasons investor confidence has been hit so hard is simply that it was too
+ high (as is required for unsustainable market highs to be reached). And much of
+
+ investors' excessive comfort was in the area of risk, where it was roundly believed
+ things were under control. But the truth is, it's hard to manage risk.
+
+ As I stated in "Risk" (February 2006), investment risk is largely invisible - before the
+ fact, except perhaps to people with unusual insight, and even after an investment has been
+ exited. For this reason, many of the great financial disasters we've seen have been
+ failures to foresee and manage risk. There are several reasons for this.
+
+ 1. Risk exists only in the future, and it's impossible to know for sure what the
+ future holds. Or as Peter Bernstein puts it, "Risk means more things can
+ happen than will happen . . ." No ambiguity is evident when we view the past.
+ Only the things that happened happened. But that definiteness doesn't mean the
+ process that creates outcomes is clear-cut and dependable. Many things could
+ have happened in each case in the past, and the fact that only one did happen
+ understates the variability that existed. What I mean to say (inspired by Nicolas
+ Nassim Taleb's Fooled by Randomness) is that the history that took place is only one
+ version of what it could have been. If you accept this, then the relevance of history to
+ the future is much more limited than may appear to be the case.
+
+ 2. Decisions whether or not to bear risk are made in contemplation of normal
+ patterns recurring, and they do most of the time. But once in a while, something
+ very different happens. Or as my friend (and highly skilled investor) Ric Kayne
+ puts it, "Most of financial history has taken place within two standard deviations, but
+ everything interesting has occurred outside of two standard deviations." That's what
+ happened in 2007. We heard all the time this past summer, "that was a 5-standard
+ deviation event," or "that was a 10-sigma event," implying it should have happened
+ only once every hundred or thousand or ten thousand years. So how could several
+ such events have happened in a single week, as was claimed in August? The answer
+ is that the improbability of their happening had been overestimated.
+
+ 3. Projections tend to cluster around historic norms and call for only small changes. The
+ point is, people usually expect the future to be like the past and underestimate
+ the potential for change. In August 1996, I wrote a memo showing that in the Wall
+ Street Journal's semi-annual poll of economists, on average the predictions are an
+ extrapolation of the current condition. And when I was a young analyst following
+ Textron, building my earnings estimates based on projections for its four major
+ groups, I invariably found that I had underestimated the extent of both the positive
+ surprises and the shortfalls.
+
+ 4. We hear a lot about "worst-case" projections, but they often turn out not to be
+ negative enough. What forecasters mean is "bad-case projections." I tell my
+ father's story of the gambler who lost regularly. One day he heard about a race with
+ only one horse in it, so he bet the rent money. Half way around the track, the horse
+ jumped over the fence and ran away. Invariably things can get worse than people
+ expect. Maybe "worst-case" means "the worst we've seen in the past." But that
+
+ doesn't mean things can't be worse in the future. In 2007, many people's worst-case
+ assumptions were exceeded.
+
+ 5. Risk shows up lumpily. If we say "2% of mortgages default" each year, and even if
+ that's true when we look at a multi-year average, an unusual spate of defaults can
+ occur at a point in time, sinking a structured finance vehicle. Ben Graham and David
+ Dodd put it this way 67 years ago: ". . .the relation between different kinds of
+ investments and the risk of loss is entirely too indefinite, and too variable with
+ changing conditions, to permit of sound mathematical formulation. This is
+ particularly true because investment losses are not distributed fairly evenly in point of
+ time, but tend to be concentrated at intervals . . ." (Security Analysis, 1940 Edition).
+ It's invariably the case that some investors - especially those who employ high
+ leverage - will fail to survive at those intervals.
+
+ 6. People overestimate their ability to gauge risk and understand mechanisms
+ they've never before seen in operation. In theory, one thing that distinguishes
+ humans from other species is that we can figure out that something's dangerous
+ without experiencing it. We don't have to burn ourselves to know we shouldn't
+ sit on a hot stove. But in bullish times, people tend not to perform this function.
+ Rather than recognize risk ahead, they tend to overestimate their ability to understand
+ how new financial inventions will work.
+
+ 7. Finally and importantly, most people view risk taking primarily as a way to
+ make money. Bearing higher risk generally produces higher returns. The market has
+ to set things up to look like that'll be the case; if it didn't, people wouldn't make risky
+ investments. But it can't always work that way, or else risky investments wouldn't be
+ risky. And when risk bearing doesn't work, it really doesn't work, and people
+ are reminded what risk's all about.
+
+ Most of the time, risk bearing works out just fine. In fact, it's often the case that the
+ people who take the most risk make the most money. However, there also are times
+ when underestimating risk and accepting too much of it can be fatal. Taking too little
+ risk can cause you to underperform your peers - but that beats the heck out of the
+ consequences of taking too much risk at the wrong time. No one ever went
+ bankrupt because of an excess of risk consciousness. But a shortage of it - and the
+ imprudent investments it led to - bears responsibility for a lot of what's going on
+ now.
+
+ Recapping the Lessons - Nothing New
+
+ The markets are a classroom where lessons are taught every day. The keys to
+ investment success lie in observing and learning, which is what I've tried to do in the
+ 40 years since I got my first job at Citibank.
+
+ I think the credit cycle that began around 2002 will go down as one of the most
+ extreme on record and be the subject of discussion for years to come. It is one of the
+ most important, potentially most serious financial episodes I've witnessed, and it
+ presents a great learning experience. (Of course, it's said that "experience is what you
+ got when you didn't get what you wanted.")
+
+ People were blindsided this summer when the financial markets went wobbly in just a
+ few weeks on the basis of unhappiness in a remote corner of the mortgage market. But
+ nothing that happened should have come as a surprise. While the details of each financial
+ crisis may seem new and different, the major themes behind them are usually the same,
+ and several were repeated in the current cycle. Not one of the following twelve lessons is
+ specific to 2007 or to subprime mortgages or CDOs. And each one is something I've
+ seen at work before.
+
+ 1. Too much capital availability makes money flow to the wrong places. When
+ capital is scarce and in demand, investors are faced with allocation choices regarding
+ the best use for their capital, and they get to make their decisions with patience and
+ discipline. But when there's too much capital chasing too few ideas, investments will
+ be made that do not deserve to be made.
+
+ 2. When capital goes where it shouldn't, bad things happen. In times of capital
+ market stringency, deserving borrowers are turned away. But when money's
+ everywhere, unqualified borrowers are offered money on a silver platter. The
+ inevitable results include delinquencies, bankruptcies and losses.
+
+ 3. When capital is in oversupply, investors compete for deals by accepting low
+ returns and a slender margin for error. When people want to buy something, their
+ competition takes the form of an auction in which they bid higher and higher. When
+ you think about it, bidding more for something is the same as saying you'll take less
+ for your money. Thus the bids for investments can be viewed as a statement of how
+ little return investors demand and how much risk they're willing to accept.
+
+ 4. Widespread disregard for risk creates great risk. "Nothing can go wrong." "No
+ price is too high." "Someone will always pay me more for it." "If I don't move
+ quickly, someone else will buy it." Statements like these indicate that risk is being
+ given short shrift. This cycle's version saw people think that because they were
+ buying better companies or financing with more borrower-friendly debt, buyout
+ transactions could support larger and larger amounts of leverage. This caused them to
+ ignore the risk of untoward developments and the danger inherent in highly leveraged
+ capital structures.
+
+ 5. Inadequate due diligence leads to investment losses. The best defense against loss
+ is thorough, insightful analysis and insistence on what Warren Buffett calls "margin
+ for error." But in hot markets, people worry about missing out, not about losing
+ money, and time-consuming, skeptical analysis becomes the province of old fogeys.
+
+ 6. In heady times, capital is devoted to innovative investments, many of which fail
+ the test of time. Bullish investors focus on what might work, not what might go
+ wrong. Eagerness takes over from prudence, causing people to accept new
+ investment products they don't understand. Later, they wonder what they could have
+ been thinking.
+
+ 7. Hidden fault lines running through portfolios can make the prices of seemingly
+ unrelated assets move in tandem. It's easier to assess the return and risk of an
+ investment than to understand how it will move relative to others. Correlation is
+ often underestimated, especially because of the degree to which it increases in crisis.
+ A portfolio may appear to be diversified as to asset class, industry and
+ geography, but in tough times, non-fundamental factors such as margin calls,
+ frozen markets and a general rise in risk aversion can become dominant,
+ affecting everything similarly.
+
+ 8. Psychological and technical factors can swamp fundamentals. In the long run,
+ value creation and destruction are driven by fundamentals such as economic trends,
+ companies' earnings, demand for products and the skillfulness of managements. But
+ in the short run, markets are highly responsive to investor psychology and the
+ technical factors that influence the supply and demand for assets. In fact, I think
+ confidence matters more than anything else in the short run. Anything can happen in
+ this regard, with results that are both unpredictable and irrational.
+
+ 9. Markets change, invalidating models. Accounts of the difficulties of "quant" funds
+ center on the failure of computer models and their underlying assumptions. The
+ computers that run portfolios primarily attempt to profit from patterns that held true
+ in past markets. They can't predict changes in those patterns; they can't anticipate
+ aberrant periods; and thus they generally overestimate the reliability of past norms.
+
+ 10. Leverage magnifies outcomes but doesn't add value. It can make great sense to
+ use leverage to increase your investment in assets at bargain prices offering high
+ promised returns or generous risk premiums. But it can be dangerous to use leverage
+ to buy more of assets that offer low returns or narrow risk spreads - in other words,
+ assets that are fully priced or overpriced. It makes little sense to use leverage to try
+ to turn inadequate returns into adequate returns.
+
+ 11. Excesses correct. When investor psychology is extremely rosy and markets are
+ "priced for perfection" - based on an assumption that things will always be good -
+ the scene is set for capital destruction. It may happen because investors' assumptions
+ turn out to be too optimistic, because negative events occur, or simply because too-
+ high prices collapse of their own weight.
+
+ 12. Investment survival has to be achieved in the short run, not on average over the
+ long run. That's why we must never forget the six-foot-tall man who drowned
+ crossing the stream that was five feet deep on average. Investors have to make it
+ through the low points. Because ensuring the ability to do so under adverse
+
+ circumstances is incompatible with maximizing returns in the good times,
+ investors must choose between the two.
+
+ Most of these twelve lessons can be reduced to just one: be alert to what's going on
+ around you with regard to the supply/demand balance for investable funds and the
+ eagerness to spend them. We know what it feels like when there's too little capital
+ around and great hesitance to part with it (like now). Worthwhile investments can go
+ begging, and business can slow throughout the economy. It's called a credit crunch. But
+ the opposite deserves to receive no less attention. There's no official term for it, so "too
+ much money chasing too few ideas" may have to do. Regardless of what it's called, an
+ oversupply of capital and the accompanying dearth of prudence such as we saw in
+ the last few years - with their pernicious effects - can be dangerous for your
+ investing health and must be recognized and dealt with.
+
+ All of the rules enumerated above can be depended on to take effect . . . eventually. But
+ rarely do they operate on schedule. That's why, as markets go further to excess, more
+ and more people join in bullish behavior at worse and worse moments. Remember,
+ though, as Larry Summers put it, "in economics things happen slower than you expected
+ they would, but when they finally do, they happen faster than you imagined they could."
+
+ These are the themes behind the current crisis. Master them and you'll have a better
+ chance of side-stepping the next one.

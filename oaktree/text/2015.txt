@@ -1,0 +1,2479 @@
+Memo: Liquidity.
+
+My wife Nancy's accusations of repetitiveness notwithstanding, once in a while I think of something
+about which I haven't written much. Liquidity is one of those things. I'm not sure it's a profound topic,
+and perhaps my observations won't be either. But I think it's worth a memo.
+
+Liquidity Defined
+
+Sometimes people think of liquidity as the quality of something being readily saleable or marketable. For
+this, the key question is whether it's registered, publicly listed and legal for sale to the public.
+"Marketable securities" are liquid in this sense; you can buy or sell them in the public markets. "Non-
+marketable" securities include things like private placements and interests in private partnerships, whose
+salability is restricted and can require the qualification of buyers, documentation, and perhaps a time
+delay.
+
+But the more important definition of liquidity is this one from Investopedia: "The degree to which an
+asset or security can be bought or sold in the market without affecting the asset's price." (Emphasis
+added) Thus the key criterion isn't "can you sell it?" It's "can you sell it at a price equal or close to
+the last price?" Most liquid assets are registered and/or listed; that can be a necessary but not sufficient
+condition. For them to be truly liquid in this latter sense, one has to be able to move them promptly and
+without the imposition of a material discount.
+
+Liquidity Characterized
+
+I often say many of the important things in investing are counter-intuitive. Liquidity is one of them. In
+particular, it's probably more wrong than right to say without qualification that something is or
+isn't "liquid."
+
+If when people ask whether a given asset is liquid they mean "marketable" (in the sense of "listed" or
+"registered"), then that's an entirely appropriate question, and answering it is straightforward. Either
+something can be sold freely to the public or it can't.
+
+But if what they want to know is how hard it will be to get rid of it if they change their mind or want to
+take a profit or avoid a possible loss - how long it will take to sell it, or how much of a markdown they'll
+have to take from the last price - that's probably not an entirely legitimate question.
+
+It's often a mistake to say a particular asset is either liquid or illiquid. Usually an asset isn't
+"liquid" or "illiquid" by its nature. Liquidity is ephemeral: it can come and go. An asset's liquidity
+can increase or decrease with what's going on in the market. One day it can be easy to sell, and the next
+day hard. Or one day it can be easy to sell but hard to buy, and the next day easy to buy but hard to sell.
+
+In other words, the liquidity of an asset often depends on which way you want to go . . . and which
+way everyone else wants to go. If you want to sell when everyone else wants to buy, you're likely to
+
+find your position is highly liquid: you can sell it quickly, and at a price equal to or above the last
+transaction. But if you want to sell when everyone else wants to sell, you may find your position is
+totally illiquid: selling may take a long time, or require accepting a big discount, or both. If that's the
+case - and I'm sure it is - then the asset can't be described as being either liquid or illiquid. It's
+entirely situational.
+
+There's usually plenty of liquidity for those who want to sell things that are rising in price or buy
+things that are falling. That's great news, since much of the time those are the right actions to take.
+But why is the liquidity plentiful? For the simple reason that most investors want to do just the opposite.
+The crowd takes great pleasure from buying things whose prices are rising, and they often become highly
+motivated to sell things that are falling . . . notwithstanding that those may be exactly the wrong things to
+do.
+
+Further, the liquidity of an asset is very much a function of the quantity involved. At a given time, a
+stock may be liquid if you want to sell a thousand shares but highly illiquid if you want to sell a million.
+If so, it can't be said categorically that the stock is either liquid or illiquid. But people do it all the
+time.
+
+Investment managers are often asked how long it would take to liquidate a given portfolio. The answer
+usually takes the form of a schedule that says: "We could sell off x% of the portfolio in a day, y% in a
+week, and z% in a month, etc."
+
+But that's a terribly simplistic answer. It doesn't say anything about how the price received would
+compare with the last trade or the price at which the assets were carried on the previous valuation date.
+Or about how changing market conditions might make the answer different a month from now. Bottom
+line: to the statement "we could sell off z% in a month" one should add "but who knows what the price
+will be, or what effect changing market conditions might have on that percentage?" Anything else
+requires an assumption that the assets' liquidity is constant. That's often far from the case.
+
+Usually, just as a holder's desire to sell an asset increases (because he has become afraid to hold it),
+his ability to sell it decreases (because everyone else has also become afraid to hold it). Thus (a)
+things tend to be liquid when you don't need liquidity, and (b) just when you need liquidity most, it
+tends not to be there. (In the 2014 Berkshire Hathaway Annual Letter, released early this month,
+Warren Buffett expresses his dislike for "substitutes for cash that are claimed to deliver liquidity and
+actually do so, except when it is truly needed.") The truth is, things often seem more liquid when you buy
+than when you go to sell.
+
+The bottom line is that it can be wrong to assume it'll be easy and painless to get out of your
+holdings, and especially to exit a position after its price has begun to drop.
+
+Liquidity and Opportunities
+
+We watch TV, listen to radio or read newspapers. I'm always amused when the pundits say, "stocks went
+up today because several companies beat analysts' earnings forecasts" or "the market dropped because of
+increased uncertainty regarding the price of oil." How do they know? Where do buyers or sellers register
+their motivations, such that the media can discern them so definitively?
+
+There's only one indisputable explanation for why the market went up on a given day: there were more
+buyers than sellers. When buyers have greater influence in the market than sellers - because would-be
+
+buyers predominate relative to sellers; buyers feel more urgency than sellers; or buyers want to buy more
+shares than sellers want to sell - prices rise. Under those circumstances, sellers enjoy great liquidity, and
+buyers have to pay a premium over prior prices.
+
+So there's the germ of a plan. Why not sell the things people are bidding for most strongly and buy
+the things they're eager to dump? That sounds like a good idea. It is, and that's why smart investors
+flock to it: it's called contrarianism.
+
+One of the main reasons why opportunistic strategies like distressed debt investing can perform well is
+that investors are sometimes able to buy from sellers who outnumber them . . . who are in a hurry . . . who
+want to sell really badly . . . or who have to sell regardless of price. To achieve "immediacy" (a term for
+a quick exit coined by Richard Bookstaber), the sellers tend to sacrifice something else: price. And the
+price discount they accept makes an important contribution to the bargain hunter's excess return. (See
+Investment Miscellany, November 2000, for a thorough discussion of immediacy).
+
+Random Thoughts on Liquidity
+
+Here are a number of truths about liquidity. Some are important, but they don't fit into a coherent
+narrative.
+
+ It's possible that liquidity can be relied on when sellers and buyers are balanced in number and
+ degree of motivation. But more often, given the herd mentality in markets, "everyone" wants to
+ either sell or buy at once.
+
+ There's an old saying to the effect that "In times of crisis all correlations go to one." The prices
+ of everything move in unison during crises because investors are driven by mob psychology, not
+ fundamentals. Thus - and for the same reason - in times of crisis liquidity often goes to zero.
+
+ Usually, as described above, it's either hard to buy but easy to sell, or hard to sell but easy to buy.
+ Sometimes, however, when everyone's confused and intimidated, the market freezes up and
+ it can be hard to do both.
+
+ For example, after securities backed by sub-prime mortgages were thoroughly impugned in the
+ crisis of 2007-08, there was a total lack of trading. The fact that the "last trade" occurred months
+ ago made it hard for potential buyers and sellers to feel confident regarding what a fair price
+ might be. I believe it was for this reason that the U.S. Treasury organized the Public Private
+ Investment Partnership program, under which nine investment managers raised equity capital
+ from clients for investment in mortgage backed securities, with the Treasury matching the equity
+ and then supplying an equal amount of zero-cost leverage. The goal was to cause trading to
+ occur, and with it "price discovery." After transactions resumed, buyers and sellers had a better
+ idea what a fair price was, so trading and liquidity increased. This was one of the ways in which
+ the government coaxed the capital markets to reopen. Yet this program is little known and its
+ brilliance is unrecognized.
+
+ It's one of my standing rules that "No investment vehicle should promise greater liquidity
+ than is afforded by its underlying assets." If one were to do so, what would be the source of
+ the increase in liquidity? Because there is no such source, the incremental liquidity is usually
+
+ illusory, fleeting and unreliable, and it works (like a Ponzi scheme) until markets freeze up and
+ the promise of liquidity is tested in tough times.
+
+ Some hedge funds provided an example in the last crisis. They raised capital with which to buy
+ assets of uncertain liquidity, sometimes using leverage, and they promised investors the ability to
+ withdraw their money quarterly or annually. But when the end of 2008 rolled around, the desire
+ of LPs for liquidity overwhelmed the capacity of the marketplace to absorb the assets that were
+ for sale (or perhaps the GPs wisely refused to sell because a fair price couldn't be obtained).
+ When that occurred, the funds told LPs they couldn't have the liquidity they'd been promised.
+ Illiquid assets went into locked-up "side pockets," and "gates" came down delaying the effective
+ dates of withdrawals. These little-known provisions gave LPs an unpleasant surprise,
+ demonstrating that in a crisis, the promise of withdrawal from a vehicle holding illiquid
+ assets can easily turn out to be too good to be true.
+
+ People often think about liquidity constraints as relating to specific assets; they don't necessarily
+ think about the knock-on effects of illiquidity from asset to asset and market to market. For
+ example, in the crisis, institutional investors had to sell liquid assets at steep discounts and
+ redeem from the most liquid hedge funds because of the heavy allocations to illiquid strategies
+ and gated funds elsewhere in their portfolios. The resulting elevated supply of assets for sale
+ from these funds reduced the liquidity for sellers in those markets and put downward pressure on
+ assets that shouldn't have been so affected.
+
+ Specific investor actions can have a dramatic impact in illiquid markets. For example, the price
+ of an illiquid asset can rise simply because one buyer is buying, in which case selling the asset
+ becomes very easy. When that buyer stops buying, however, the market can quickly reset to
+ much lower levels in terms of both price and the liquidity enjoyed by sellers (and it can overshoot
+ in the other direction if the buyer decides to sell what he's bought).
+
+ In assessing an asset's liquidity, one should think about the other people who hold it. Are they all
+ the same type of investor, and thus likely to react the same to a given story on Bloomberg? Do
+ many of them own it in funds whose investors have the right to make quick withdrawals? And, in
+ particular, are they highly levered and subject to potential margin calls? The more ownership is
+ concentrated in the hands of investors who could become motivated to sell en masse, the faster
+ liquidity can disappear.
+
+ Taking on large amounts of illiquidity is neither a winning nor a losing strategy per se. Like
+ any other form of risk, it's advantageous to bear illiquidity when the incremental return for doing
+ so is high, but a bad idea when it's not. And, needless to say, the liquidity premium is neither
+ always there nor always generous.
+
+ In my view, some endowments emulated Yale to excess in the years before the crisis, taking on
+ too much illiquidity in the belief that (a) as ultra-long-term investors they could bear it and (b)
+ they were sure to be well paid for doing so. But risk premiums arise from risk aversion,
+ meaning they may not exist when investors are risk-tolerant. The willing acceptance of
+ illiquidity in the early to mid-2000s caused the premium for bearing it to be inadequate, and
+ investors who did so were penalized, not rewarded.
+
+ On the other hand, at the right time, investors can make tremendous amounts of money simply by
+ being willing to supply liquidity (or accept illiquidity). When everyone else is selling in panic or
+
+ sitting frozen on the sideline, refusing to buy, cash can be king. Often when a crash follows a
+ bubble-driven run-up, most people are short of cash (and/or the willingness to spend it).
+
+ But it may not be a good idea to always sit with a large amount of cash so as to be able to provide
+ liquidity and scoop up bargains in a once-a-decade crash. This may equate to sub-optimizing. It
+ would have paid off in 1990-91, 2001-02 and 2008-09, but what about the other 19 years in the
+ last 25?
+
+ A high degree of concern over illiquidity can push investors to avoid it to excess. For
+ example, institutions whose realities could permit a long-term investment approach sometimes
+ decide to invest only in things they can get out of quickly. Is this prudence, or merely sub-
+ optimizing? Is it done in response to a threat that has a reasonable likelihood of materializing, or
+ to a crisis while it is fresh in memory ("fighting the last war")? Is it realistic, or the result of an
+ irrational desire to be able to turn the whole portfolio into cash in short order? Or is it done in
+ order to always be able to comply with a sell order from the boss or the investment committee?
+ Liquidity is a good thing (everything else being equal). But is it smart to require that a
+ portfolio be able to provide more liquidity than is ever likely to be called on? Let's
+ remember that liquidity isn't free. There's usually a cost, and it comes in the form of
+ return forgone.
+
+ I think the best way to deal with the issue of liquidity is to think of the portfolio in terms of layers
+ ranging from highly liquid to totally illiquid. The appropriate size for each layer at a given point
+ in time is a function of each investor's specific situation, as well as the position of the market in
+ its cycle.
+
+ In sizing those layers, it's clear that no investor should shoulder more illiquidity than its realities
+ permit, as happened in 2008 with serious consequences for some endowments. Portfolios may be
+ required to (a) meet their owners' needs for current cash with which to operate, (b) fund capital
+ drawdowns at a time when lock-up funds aren't making distributions, or (c) enable the owners to
+ avoid having to sell assets at depressed prices. Thus portfolio liquidity should be set so these
+ needs can be met in bad times.
+
+ But how bad is bad? Should the portfolio have to respond to the last bad year, the average of
+ the last five bad years, the worst year ever . . . or something worse? These decisions require
+ judgment.
+
+ Finally, excessive liquidity can do more harm than good, and investors can be better off if they're
+ able to trade less rather than more. My son Andrew makes a number of excellent points on
+ the theme that liquidity is a good thing, but not necessarily all good:
+
+ o The siren song of liquidity can convince investors to try their hand as traders. The result can
+ be increases in (a) emphasis on short-term considerations relative to long-term ones, (b)
+ transaction costs and taxes, and (c) exposure to negative surprises when the liquidity they've
+ been enjoying and counting on disappears.
+
+ o Liquidity can cause you to lower the bar for investments. If you're thinking about making an
+ investment you know you won't be able to exit for years, you'll probably do thorough due
+ diligence, make conservative assumptions and apply skepticism, etc. But when you have
+ something that appears very liquid, you may take a position casually, with little work or
+
+ conviction, under the assumption that it would be easy and cheap to get out. Here's a great
+ quote on the subject from Warren Buffett:
+
+ If you aren't willing to own a stock for ten years, don't even think about owning
+ it for ten minutes. Put together a portfolio of companies whose aggregate
+ earnings march upward over the years, and so also will the portfolio's market
+ value.
+
+ o Certainly owners of companies wouldn't (and couldn't) trade in and out of them every day. If
+ you intend to invest in businesses based on their fundamentals - rather than trading based on
+ short-term market dynamics - it's critical to think and act like a long-term owner.
+
+ o When you find an investment with the potential to compound over a long period of time, one
+ of the hardest things is to be patient and maintain your position as long as doing so is
+ warranted on the basis of the prospective return and risk. Investors can easily be moved to
+ sell by news, emotion, the fact that they've made a lot of money to date, or the excitement of
+ a new, seemingly more promising idea. When you look at the chart for something that's
+ gone up and to the right for 20 years, think about all the times a holder would have had
+ to convince himself not to sell. An abundance of liquidity can be a handicap in this regard.
+ Here's some more good advice from Warren: "If you can enjoy Saturdays and Sundays
+ without looking at stock prices, give it a try on weekdays." Looking less often would
+ improve most investors' results.
+
+ I have particularly strong feelings about the insistence that 401(k) retirement accounts include
+ only investment choices that provide daily pricing and liquidity. I've heard from Oaktree pension
+ clients about employees who frequently trade their 401(k) accounts. It can't be a good thing for
+ these portfolios to be constantly rejiggered. It's hard enough to make an occasional well-
+ reasoned long-term decision, but much harder to make a large number of correct short-
+ term decisions. Rather than ensuring daily liquidity, the people in charge could help plan
+ participants by limiting them to annual changes at most.
+
+So liquidity - like most other things in the investment world - is multi-faceted and complex, not
+simple. There are a lot of considerations to be taken into account, and certainly no simple formula
+for doing so. Like everything else in investing, there's no surefire way to manage the issue of
+liquidity in the absence of superior insight.
+
+Influences on Liquidity Today
+
+Many factors cause the availability of liquidity to change over time. The biggest factor lately in some of
+our credit markets has been the growth of demand through mutual funds and ETFs, or Exchange-Traded
+Funds. While there's been no real mania for stocks, the ultra-low level of interest rates has driven many
+retail investors (who in the past may have invested in Treasurys and money market funds) to credit
+vehicles instead.
+
+Witness, for example, the fact that senior loan mutual funds saw net inflows of capital for 95 straight
+weeks leading up to April 2014. That's almost two solid years without a break. You might expect that to
+cause an imbalance of demand over supply, rendering buyers unable to get their fill. But Wall Street
+abhors a vacuum, and the banks were able to round up enough issuers to satisfy the buyers. And with
+large numbers of retail buyers on one side and obliging issuers on the other, the market certainly
+
+looked liquid. But when mutual fund inflows turned into outflows in the second half of 2014, the supply
+of loans put up for sale to meet redemptions added to the supply of loans issued by companies seeking
+capital. Thus the total supply of loans for sale exceeded the demand, causing prices to decline and the
+market to become less liquid for holders.
+
+Investors in mutual funds think of them as highly liquid. "You can get out any day," the ads say, "Just
+call the 800 number." But withdrawing from a mutual fund (if there isn't adequate cash in the fund to
+meet the redemption) is equivalent to requiring the portfolio manager to enter a "market held" order for
+some of the securities in the fund's portfolio: sell regardless of price. And the depressed price that results
+from the involuntary sale of securities is the same price that's paid to the redeeming fund investor.
+
+That's because the mutual fund investor may enter his redemption order at 6:00 p.m. on Monday or 10:00
+a.m. on Tuesday, but the price he gets will be determined in an NAV calculation after the close of trading
+Tuesday. He doesn't get the price that prevailed before the sell order occasioned by his redemption was
+entered. Thus a mutual fund may be "highly liquid," but that's not the same as "100% liquid," and it's
+certainly not more liquid than the assets in its portfolio.
+
+The other source of increasing demand for securities of late has been ETFs. ETF-like vehicles,
+sometimes known as "tracking shares," began to appear in the early 1990s, and they proliferated
+significantly after 2000. According to Wikipedia, "As of January 2014, there were over 1,500 ETFs
+traded in the U.S., with over $1.7 trillion in assets." (Several years ago I cited Wikipedia in a memo, and
+Oaktree co-founder Richard Masson - a stickler for correctness - told me in no uncertain terms that it
+wasn't a respectable source. I think things have changed enough since then, Richard: I'm citing it!)
+
+ETF's have become popular because they're generally believed to be "better than mutual funds," in
+that they're traded all day. Thus an ETF investor can get in or out anytime during trading hours,
+whereas with mutual funds he has to wait for a pricing at the close of business. "If you're considering
+investing," the pitch goes, "why do so through a vehicle that can require you to wait hours to cash out?"
+But do the investors in ETFs wonder about the source of their liquidity?
+
+Here's what Wikipedia has to say about the liquidity of ETFs:
+
+ An ETF combines the valuation feature of a mutual fund or unit investment trust, which
+ can be bought or sold at the end of each trading day for its net asset value, with the
+ tradability feature of a closed-end fund, which trades throughout the trading day at
+ prices that may be more or less than its net asset value. . . .
+
+Consider the possibility that many of the holders of an ETF become highly motivated to either buy or sell.
+Their actions theoretically could cause the trading price of the ETF to diverge from the value of the
+securities in the underlying portfolio. To minimize that risk, the creators of ETFs established a
+mechanism through which financial institutions can trade in wholesale quantities of "creation units" of the
+fund at NAV.
+
+ The ability to purchase and redeem creation units gives ETFs an arbitrage mechanism
+ intended to minimize the potential deviation between the market price and the net asset
+ value of ETF shares. Existing ETFs have transparent portfolios, so institutional
+ investors will know exactly what portfolio assets they must assemble if they wish to
+ purchase a creation unit, and the exchange disseminates the updated net asset value of
+ the shares throughout the trading day, typically at 15-second intervals.
+
+ If there is strong investor demand for an ETF, its share price will temporarily rise above
+ its net asset value per share, giving arbitrageurs an incentive to purchase additional
+ creation units from the ETF and sell the component ETF shares in the open market.
+ The additional supply of ETF shares reduces the market price per share, generally
+ eliminating the premium over net asset value. A similar process applies when there is
+ weak demand for an ETF: its shares trade at a discount from net asset value.
+
+What would happen, for example, if a large number of holders decided to sell a high yield bond ETF all at
+once? In theory, the ETF can always be sold. Buyers may be scarce, but there should be some price at
+which one will materialize. Of course, the price that buyer will pay might represent a discount from the
+NAV of the underlying bonds. In that case, a bank should be willing to buy the creation units at that
+discount from NAV and short the underlying bonds at the prices used to calculate the NAV, earning an
+arbitrage profit and causing the gap to close. But then we're back to wondering about whether there will
+be a buyer for the bonds the bank wants to short, and at what price. Thus we can't get away from
+depending on the liquidity of the underlying high yield bonds. The ETF can't be more liquid than
+the underlying, and we know the underlying can become highly illiquid.
+
+This whole discussion calls to mind a Wall Street Wonder called "auction rate securities." They were
+popular ten years ago, but today they're only a footnote to financial history. In brief, auction rate
+securities were developed to satisfy the desire of borrowers for long-term financing at the lower interest
+rates on short-term debt. The securities were described as safe and liquid because Dutch auctions would
+be held every week or month, resetting the yield on the securities to contemporary levels and thereby
+ensuring a price near par, as well as plentiful liquidity. Certainly there would always be some yield
+capable of enticing investors to buy at par. Thus the securities would be free from the risks associated
+with long-term debt. That's what should have happened. Here's what Wikipedia says did happen:
+
+ Beginning on Thursday, February 7, 2008, auctions for these securities began to fail
+ when investors declined to bid on the securities. The four largest investment banks who
+ make a market in these securities (Citigroup, UBS AG, Morgan Stanley and Merrill
+ Lynch) declined to act as bidders of last resort, as they had in the past. This was a result
+ of the scope and size of the market failure, combined with the firms' needs to protect their
+ capital during the 2008 financial crisis. (Emphasis added)
+
+ On February 13, 2008, 80% of auctions failed. On February 20, 62% failed (395 out of
+ 641 auctions) . . . .
+
+When the auctions failed, auction rate securities became frozen. Holders saw large markdowns and for
+years were unable to obtain liquidity. Eventually, the investment banks that had issued the securities
+bought many of them back at par, under threat of investigation by U.S. attorneys general. And one more
+"miracle" disappeared from the scene.
+
+Lastly on the subject of ETFs, a senior loan ETF can be sold for settlement in three days, whereas if there
+are tenders of creation units, sales of loans to raise the funds with which to pay for those units may
+require a week or considerably more to settle. What are the implications of such a mismatch?
+
+So-called "liquid alternatives" or "liquid alts" are another recent innovation. They're supposed to deliver
+performance comparable to other alternative investments without the illiquidity they entail. To me it
+sounds like just one more promise of something for nothing. How many portfolio managers are smart
+enough, for example, to deliver the alpha of a well-managed hedge fund without accepting the illiquidity
+that the clever manager of that hedge fund feels he has no choice but to bear?
+
+Financial innovations created in good times often fool people into thinking a silver bullet has been
+invented that offers a better deal than traditional investments. (By "traditional" I mean
+investments that are acknowledged to entail increased risk as the price for targeting increased
+return . . . not the "miracles" where increased return comes gratis.) Many recent innovations have
+promised high liquidity from low-liquidity assets. As I said on page three, however, no investment
+vehicle should promise more liquidity than is afforded by its underlying assets. Do these recent
+promises represent real improvements, or merely the seeds for subsequent disappointment?
+
+Auction rate securities were a way to buy long-term debt securities without interest-rate risk and
+illiquidity. Likewise, ETFs offer a liquid way to invest in potentially illiquid markets. But these
+instruments rely for their desirable outcomes on the assumption that other parties will do what they
+"should" do. Over the course of my career I've seen many instances when market participants failed to
+do what they were supposed to do. The related financial innovations often remind me of my father's
+story about the habitual gambler who finally found a sure thing: a race with only one horse. He bet all his
+money, but halfway around the track the horse jumped over the fence and ran away. Will ETFs prove
+liquid in the next crisis? And what impact will mass sales of ETFs have on the prices of underlying
+assets? We'll find out.
+
+Finally under the heading of recent developments, I want to mention the Volcker Rule, which arose from
+a suggestion from former Fed chairman Paul Volcker. The main reason for the 2008 government bailouts
+of systemically important banks was the losses the banks had suffered thanks to unsuccessful investments
+made with their proprietary capital in mortgage backed securities and other levered assets. When these
+collapsed, the banks lost a great deal of their capital, such that they required capital injections only the
+government could or would make.
+
+In response to that experience, legislators decided to incorporate the Volcker Rule into the Dodd-Frank
+Wall Street Reform and Consumer Protection Act, the main piece of regulation to emerge after the crisis.
+Although there has been much back-and-forth regarding its modification and enactment, the main thrust
+of the Volcker Rule is to prevent banks from making speculative investments that aren't related to their
+activities on behalf of clients; in other words, to impose a general ban on proprietary trading.
+
+Often during crises, investors take to the sidelines, such that there are no buyers for the assets that come
+up for sale. Liquidity dries up, and prices plummet. In the past, banks have stepped forward, risking their
+proprietary capital in pursuit of profit. Many times in our experience, banks have competed strongly
+against us to buy distressed debt, thereby supplying liquidity to the market. Although the eventual impact
+of the Volcker Rule is unknown, any diminution of the banks' likelihood of engaging in proprietary
+buying during crises suggests a significant reduction in liquidity just when it may be needed most.
+
+For the last few years I've been expressing my view that (a) investors - driven by central bank-mandated
+interest rates near zero - have been moving into riskier investments in pursuit of higher returns and (b) in
+taking that step they've often ignored the need for caution or been ignorant as to how to achieve it. I
+believe that as an important part of this behavior, those investors have extrapolated the high level
+of liquidity they've witnessed in the last five years, failing to understand its transitory nature.
+
+The impact on liquidity of ETFs, liquid alternatives and the Volcker Rule has yet to be tested in
+tough times. We'll see what happens in the next serious downturn.
+
+ * * *
+
+The bottom line is unambiguous. Liquidity can be transient and paradoxical. It's plentiful when
+you don't care about it and scarce when you need it most. Given the way it waxes and wanes, it's
+dangerous to assume the liquidity that's available in good times will be there when the tide goes out.
+
+What can an investor do about this unreliability? The best preparation for bouts of illiquidity is:
+
+ buying assets, hopefully at prices below durable intrinsic values, that can be held for a long
+ time - in the case of debt, to its maturity - even if prices fall or price discovery ceases to
+ take place, and
+ making sure that investment vehicle structures, leverage arrangements (if any),
+ manager/client relationships and performance expectations will permit a long-term
+ approach to investing.
+
+These are the things we try to do.
+
+And the worst defenses against illiquidity - or, better said, the approaches that make you most dependent
+on the availability of liquidity - are (a) employing trading strategies under which you buy things because
+of how you think they'll perform in the short run, not what they'll be worth in the long run, (b) being
+focused on what the market says your assets are worth, not what your analysis shows them to be worth,
+and (c) buying with leverage that exposes you to the risk of a margin call in a declining market.
+
+One of the great advantages of investing in performing debt is that if our credit judgments are correct, the
+return will come from our contractual relationship with the issuers - from the interest and principal
+they've promised to pay us - not the operation of the market. At Oaktree, trading is what we do to
+implement portfolio managers' long-term investment decisions. We generally consider it a cost of
+doing business, not something we engage in to make money.
+
+There are two benefits to this approach:
+
+ we aren't highly reliant on liquidity for success, and
+ rather than be weakened in times of illiquidity, we can profit from crises by investing more - at
+ lower prices - when liquidity is scarce.
+
+We're not immune to occasional periods of illiquidity; our holdings become just as hard to sell as
+anyone else's. But with the proper structure and approach, it's possible to turn such periods to our
+advantage rather than just endure them.
+
+ * * *
+
+I started this memo by saying liquidity might not be a profound topic. But when I ran a draft by our CEO
+Jay Wintrob, who came to us in November from AIG, he took issue. I'll give him the last word:
+
+ In September 2008, AIG experienced serious liquidity issues (despite its $1 trillion
+ balance sheet) when it couldn't post $20-25 billion of liquid collateral related to credit
+ default swap contracts written by one of its subsidiaries. The U.S. government stepped
+ in
+
+ as a result, lending support that eventually reached $182.3 billion, massively diluting
+ AIG shareholders in the process. When you can't meet a margin call because you
+ have insufficient liquidity, that's profound.
+
+
+Memo: Risk Revisited Again.
+
+The operators of racetracks take a dim view of bettors who engage in "past-posting": trying to get a bet
+down after the race is over (and the horses are "past the post"). In that vein, it's been my practice not to
+rewrite old memos as new developments arise or new ideas strike me. However, while preparing "Risk
+Revisited" of September 2014 for inclusion in a compilation of my memos, I thought of a number of ways
+in which it could be made better. And since it was my original intention to have it contain everything I
+know about risk, I've decided to incorporate them. To make it clear which sections are new, I've put
+them in italics.
+
+In April 2014, I had good results with Dare to Be Great II, starting from the base established in an earlier
+memo (Dare to Be Great, September 2006) and adding new thoughts that had occurred to me in the
+intervening years. Also in 2006 I wrote Risk, my first memo devoted entirely to this key subject. My
+thinking continued to develop, causing me to dedicate three chapters to risk among the twenty in my book
+The Most Important Thing. This memo adds to what I've previously written on the topic.
+
+What Risk Really Means
+
+In the 2006 memo and in the book, I argued against the purported identity between volatility and risk.
+Volatility is the academic's choice for defining and measuring risk. I think this is the case largely
+because volatility is quantifiable and thus usable in the calculations and models of modern finance theory.
+In the book I called it "machinable," and there is no substitute for the purposes of the calculations.
+
+However, while volatility is quantifiable and machinable - and can be an indicator or symptom of
+riskiness and even a specific form of risk - I think it falls far short as "the" definition of investment risk.
+In thinking about risk, we want to identify the thing that investors worry about and thus demand
+compensation for bearing. I don't think most investors fear volatility. In fact, I've never heard anyone
+say, "The prospective return isn't high enough to warrant bearing all that volatility." What they fear is
+the possibility of permanent loss.
+
+Permanent loss is very different from volatility or fluctuation. A downward fluctuation - which by
+definition is temporary - doesn't present a big problem if the investor is able to hold on and come out the
+other side. A permanent loss - from which there won't be a rebound - can occur for either of two
+reasons: (a) an otherwise-temporary dip is locked in when the investor sells during a downswing -
+whether because of a loss of conviction; requirements stemming from his timeframe; financial exigency;
+or emotional pressures, or (b) the investment itself is unable to recover for fundamental reasons. We can
+ride out volatility, but we never get a chance to undo a permanent loss.
+
+Of course, the problem with defining risk as the possibility of permanent loss is that it lacks the very thing
+volatility offers: quantifiability. The probability of loss is no more measurable than the probability of
+rain. It can be modeled, and it can be estimated (and by experts pretty well), but it cannot be known.
+
+In Dare to Be Great II, I described the time I spent advising a sovereign wealth fund about how to
+organize for the next thirty years. My presentation was built significantly around my conviction that risk
+
+can't be quantified a priori. Another of their advisors, a professor from a business school north of New
+York, insisted it can. This is something I prefer not to debate, especially with people who're sure they
+have the answer but haven't bet much money on it.
+
+One of the things the professor was sure could be quantified was the maximum a portfolio could fall
+under adverse circumstances. But how can this be so if we don't know how adverse circumstances can be
+or how they will influence returns? We might say "the market probably won't fall more than x% as long
+as things aren't worse than y and z," but how can an absolute limit be specified? I wonder if the professor
+had anticipated that the S&P 500 could fall 57% in the global crisis.
+
+While writing the original memo on risk in 2006, an important thought came to me for the first time.
+Forget about a priori; if you define risk as anything other than volatility, it can't be measured even after
+the fact. If you buy something for $10 and sell it a year later for $20, was it risky or not? The novice
+would say the profit proves it was safe, while the academic would say it was clearly risky, since the only
+way to make 100% in a year is by taking a lot of risk. I'd say it might have been a brilliant, safe
+investment that was sure to double or a risky dart throw that got lucky.
+
+If you make an investment in 2012, you'll know in 2014 whether you lost money (and how much), but
+you won't know whether it was a risky investment - that is, what the probability of loss was at the time
+you made it. To continue the analogy, it may rain tomorrow, or it may not, but nothing that happens
+tomorrow will tell you what the probability of rain was as of today. And the risk of rain is a very
+good analogue (although I'm sure not perfect) for the risk of loss.
+
+People Smarter Than Me
+
+Peter Bernstein, who passed away in 2009, was one of the smartest people I ever met: a real investment
+sage. He combined a brilliant and learned mind, great common sense, and the ability to express himself
+with incredible clarity. I found a great deal of inspiration in his newsletter "Economics and Portfolio
+Strategy," in his book "Against the Gods: The Remarkable Story of Risk," and in our correspondence.
+
+One of the newsletter's best issues, from June 2007, was titled "Can We Measure Risk with a Number?"
+It provided Peter's answer to that question, buttressed by the words of a number of great thinkers. It's so
+good that I want to share parts here (with all emphasis added but the first). This memo is greatly
+enhanced by their inclusion:
+
+ In life - and in investing - the biggest risks cannot be reduced to a hard number. As Bill
+ Sharpe put it to me recently, "It's dangerous, at least in general, to think of risk as a
+ number . . . . The problem we face is that there are many scenarios that can unfold in the
+ future. . . ." John Maynard Keynes, [in the 1920s], had this to say: "There is little
+ likelihood of our discovering a method of recognizing particular probabilities, without
+ any assistance whatever from intuition or direct judgment. . . . A proposition is not
+ probable because we think it so."
+
+ Consider the following story. In 1703, the great Swiss mathematician Jacob Bernoulli
+ wrote Leibniz he thought it strange that we knew the odds of throwing a seven instead of
+ an eight with dice, but we do not know the probability that a man of twenty will outlive a
+ man of sixty. He proposed following a large number of pairs of men to see whether he
+ could arrive at the probability that a man of twenty will outlive a man of sixty.
+ Leibniz was unimpressed. "Nature has established patterns originating in the return of
+ events, but only for the most part. . . . No matter how many experiments . . . you have
+
+ conducted, you have not thereby imposed a limit on the nature of events so that in the
+ future they would not vary." Leibniz had written to Bernoulli in Latin, as was customary
+ for exchanges between intellectuals in those days, but he put "but only for the most part"
+ in Greek, to give it maximum emphasis. If it were "always," there would be no
+ uncertainty, no risk.
+
+ "But only for the most part" is what risk is all about: uncertainty. The key hazard of
+ quantitative risk management is the illusion of control the models and their results impart
+ to us. No model has an R2 of 1.000. Even if you have a so-called statistically significant
+ outcome, which is 95% certain - and that is surely "for the most part" - 95% still leaves
+ 5% you know nothing about. The devil is in the residuals, as all of us have discovered to
+ our sorrow.
+
+ I have pursued this discussion of the nature of risk, and our inability to accurately
+ measure risk, because I think it sheds important light on how we should think about the
+ current environment, where the economic risks appear to be moderate and manageable
+ and where the environment itself seems to have so many self-reinforcing elements. I
+ believe we have to look at the environment in qualitative terms, not quantitative terms.
+ Only then can we develop an answer to the question of whether, in today's global
+ economy, we have ended "the slings and arrows of outrageous fortune," as so many
+ appear to believe. [Bernstein demonstrated considerable foresight in writing this
+ paragraph and the next four in the lead-up to the global financial crisis.]
+
+ Can we sustain the low-risk character of the environment when it leads many investors
+ to take high risks and to overvalue risky assets in search for higher returns? . . . The
+ more risk we take because we believe the environment is low-risk in character, the less
+ the environment continues to be low-risk in character.
+
+ . . . The more we emphasize the low risks in the environment, the more we point out and
+ explain its features, and the more we believe we understand what is going on - unique as
+ this environment may be - the weaker our normal and rational inclination to risk
+ aversion becomes and the more our actions alter the character of the environment.
+
+ The economist Hyman Minsky has reminded us, "Each state nurtures forces that lead to
+ its own destruction." All of history testifies to the truth of this observation. Greater
+ liquidity [by which Bernstein meant greater availability of funds] leads firms to borrow
+ more than before. But higher levels of debt mean increasing vulnerability to adversity
+ and negative shocks in an ever-changing world. For these reasons, as Minsky put it,
+ stability leads inevitably to instability. . . .
+
+ Even places that were once banana-republics, like Argentina and Brazil, are issuing
+ long-term bonds and even issuing bonds denominated in foreign currencies. The
+ eagerness to lend in so many different ways in so many different markets is a potent
+ symptom of confidence in the underlying stability of the global system. . . .
+
+ Shocks and surprises are what the history of investment is all about. Here is what G. K.
+ Chesterton had to say on this matter . . . :
+
+ The real trouble with this world of ours is not that it is an unreasonable
+ world, nor even that it is a reasonable one. The commonest kind of
+ trouble is that it is nearly reasonable, but not quite. Life is not an
+
+ illogicality; yet it is a trap for logicians. It looks just a little more
+ mathematical and regular than it is; its exactitude is obvious, but its
+ inexactitude is hidden; its wildness lies in wait.
+
+Beginning on page 9, you'll find a section borrowed from a memo I wrote back in 2007. Its first bullet
+point starts off as follows: "Risk exists only in the future. . . ." That notion holds a good part of the key to
+understanding investment risk. If you accept that the underlying processes affecting economics,
+business and market psychology are less than 100% dependable, as seems obvious, then it follows that
+the future isn't knowable. In that case, risk can be nothing more than the subject of estimation -
+Keynes's "intuition or direct judgment" (see page 2) - and certainly not reliably quantified.
+
+The Unknowable Future
+
+It seems most people in the prediction business think the future is knowable, and all they have to
+do is be among the ones who know it. Alternatively, they may understand (consciously or
+unconsciously) that it's not knowable but believe they have to act as if it is in order to make a
+living as an economist or investment manager.
+
+On the other hand, I'm solidly convinced the future isn't knowable. I side with John Kenneth
+Galbraith who said, "We have two classes of forecasters: Those who don't know - and those who
+don't know they don't know." There are several reasons for this inability to predict:
+
+ We're well aware of many factors that can influence future events, such as governmental
+ actions, individuals' spending decisions and changes in commodity prices. But these
+ things are hard to predict, and I doubt anyone is capable of taking all of them into account
+ at once. (People have suggested a parallel between this categorization and that of Donald
+ Rumsfeld, who might have called these things "known unknowns": the things we know
+ we don't know.)
+
+ The future can also be influenced by events that aren't on anyone's radar today, such as
+ calamities - natural or man-made - that can have great impact. The 9/11 attacks and the
+ Fukushima disaster are two examples of things no one knew to think about. (These
+ would be "unknown unknowns": the things we don't know we don't know.)
+
+ There's far too much randomness at work in the world for future events to be predictable.
+ As 2014 began, forecasters were sure the U.S. economy was gaining steam, but they were
+ confounded when record cold weather caused GDP to fall 2.9% in the first quarter.
+
+ And importantly, the connections between contributing influences and future outcomes
+ are far too imprecise and variable for the results to be dependable.
+
+That last point deserves discussion. Physics is a science, and for that reason an electrical engineer
+can guarantee you that if you flip a switch over here, a light will go on over there . . . every time.
+But there's good reason why economics is called "the dismal science," and in fact it isn't much of
+a science at all. In just the last few years we've had opportunity to see - contrary to nearly
+unanimous expectations - that interest rates near zero can fail to produce a strong rebound in
+GDP, and that a reduction of bond buying on the part of the Fed can fail to bring on higher
+interest rates. In economics and investments, because of the key role played by human behavior,
+you just can't say for sure that "if A, then B," as you can in real science. The weakness of the
+
+connection between cause and effect makes outcomes uncertain. In other words, it introduces
+risk.
+
+Given the near-infinite number of factors that influence developments, the great deal of
+randomness present, and the weakness of the linkages, it's my solid belief that future events cannot
+be predicted with any consistency. In particular, predictions of important divergences from trends and
+norms can't be made with anything approaching the accuracy required for them to be helpful.
+
+Coping with the Unknowable Future
+
+Here's the essential conundrum: investing requires us to decide how to position a portfolio for
+future developments, but the future isn't knowable.
+
+Taken to slightly greater detail:
+
+ Investing requires the taking of positions that will be affected by future developments.
+ The existence of negative possibilities surrounding those future developments presents risk.
+ Intelligent investors pursue prospective returns that they think compensate them for bearing the
+ risk of negative future developments.
+ But future developments are unpredictable.
+
+How can investors deal with the limitations on their ability to know the future? The answer lies in the
+fact that not being able to know the future doesn't mean we can't deal with it. It's one thing to know
+what's going to happen and something very different to have a feeling for the range of possible outcomes
+and the likelihood of each one happening. Saying we can't do the former doesn't mean we can't do the
+latter.
+
+The information we're able to estimate - the list of events that might happen and how likely each one is -
+can be used to construct a probability distribution. Key point number one in this memo is that the
+future should be viewed not as a fixed outcome that's destined to happen and capable of being
+predicted, but as a range of possibilities and, hopefully on the basis of insight into their respective
+likelihoods, as a probability distribution.
+
+Since the future isn't fixed and future events can't be predicted, risk cannot be quantified with any
+precision. I made the point in Risk, and I want to emphasize it here, that risk estimation has to be the
+province of experienced experts, and their work product will by necessity be subjective, imprecise, and
+more qualitative than quantitative (even if it's expressed in numbers).
+
+There's little I believe in more than Albert Einstein's observation: "Not everything that counts can be
+counted, and not everything that can be counted counts." I'd rather have an order-of-magnitude
+approximation of risk from an expert than a precise figure from a highly educated statistician who knows
+less about the underlying investments. British philosopher and logician Carveth Read put it this way: "It
+is better to be vaguely right than exactly wrong."
+
+By the way, in my personal life I tend to incorporate another of Einstein's comments: "I never think of the
+future - it comes soon enough." We can't take that approach as investors, however. We have to think
+about the future. We just shouldn't accord too much significance to our opinions.
+
+We can't know what will happen. We can know something about the possible outcomes (and how
+likely they are). People who have more insight into these things than others are likely to make
+superior investors. As I said in the last paragraph of The Most Important Thing:
+
+ Only investors with unusual insight can regularly divine the probability distribution that
+ governs future events and sense when the potential returns compensate for the risks that
+ lurk in the distribution's negative left-hand tail.
+
+In other words, in order to achieve superior results, an investor must be able - with some regularity
+- to find asymmetries: instances when the upside potential exceeds the downside risk. That's what
+successful investing is all about.
+
+Thinking in Terms of Diverse Outcomes
+
+It's the indeterminate nature of future events that creates investment risk. It goes without saying that if
+we knew everything that was going to happen, there wouldn't be any risk.
+
+The return on a stock will be a function of the relationship between the price today and the cash flows
+(income and sale proceeds) it will produce in the future. The future cash flows, in turn, will be a function
+of the fundamental performance of the company and the way its stock is priced given that performance.
+We invest on the basis of expectations regarding these things. It's tautological to say that if the
+company's earnings and the valuation of those earnings meet our targets, the return will be as expected.
+The risk in the investment therefore comes from the possibility that one or both will come in lower than
+we think.
+
+To oversimplify, investors in a given company may have an expectation that if A happens, that'll make B
+happen, and if C and D also happen, then the result will be E. Factor A may be the pace at which a new
+product finds an audience. That will determine factor B, the growth of sales. If A is positive, B should be
+positive. Then if C (the cost of raw materials) is on target, earnings should grow as expected, and if D
+(investors' valuation of the earnings) also meets expectations, the result should be a rising share price,
+giving us the return we seek (E).
+
+We may have a sense for the probability distributions governing future developments, and thus a feeling
+for the likely outcome regarding each of developments A through E. The problem is that for each of
+these, there can be lots of outcomes other than the ones we consider most likely. The possibility of less-
+good outcomes is the source of risk. That leads me to key point number two, as expressed by Elroy
+Dimson, a professor at the London Business School: "Risk means more things can happen than will
+happen." This brief, pithy sentence contains a great deal of wisdom.
+
+People who rely heavily on forecasts seem to think there's only one possibility, meaning risk can be
+eliminated if they just figure out which one it is. The rest of us know many possibilities exist today, and
+it's not knowable which of them will occur. Further, things are subject to change, meaning there will be
+new possibilities tomorrow. This uncertainty as to which of the possibilities will occur is the source
+of risk in investing.
+
+Even a Probability Distribution Isn't Enough
+
+I've stressed the importance of viewing the future as a probability distribution rather than a single
+predetermined outcome. It's still essential to bear in mind key point number three: Knowing the
+
+probabilities doesn't mean you know what's going to happen. For example, all good backgammon
+players know the probabilities governing throws of two dice. They know there are 36 possible outcomes,
+and that six of them add up to the number seven (1-6, 2-5, 3-4, 4-3, 5-2 and 6-1). Thus the chance of
+throwing a seven on any toss is 6 in 36, or 16.7%. There's absolutely no doubt about that. But even
+though we know the probability of each number, we're far from knowing what number will come up on a
+given roll.
+
+Backgammon players are usually quite happy to make a move that will enable them to win unless the
+opponent rolls twelve, since only one combination of the dice will produce it: 6-6. The probability of
+rolling twelve is thus only 1 in 36, or less than 3%. But twelve does come up from time to time, and the
+people it turns into losers end up complaining about having done the "right" thing but lost. As my friend
+Bruce Newberg says, "There's a big difference between probability and outcome." Unlikely things
+happen - and likely things fail to happen - all the time. Probabilities are likelihoods and very far from
+certainties.
+
+It's true with dice, and it's true in investing . . . and not a bad start toward conveying the essence of risk.
+Think again about the quote above from Elroy Dimson: "Risk means more things can happen than will
+happen." I find it particularly helpful to invert Dimson's observation for key point number four:
+Even though many things can happen, only one will.
+
+In Dare to Be Great II, I discussed the fact that economic decisions are usually best made on the basis of
+"expected value": you multiply each potential outcome by its probability, sum the results, and select the
+path with the highest total. But while expected value represents the probability-weighted average of all
+possible outcomes, we can be certain it will not be the outcome (unless by coincidence it's one of the
+possibilities). Clearly just one of the many things that can happen will happen - not the average of all of
+them. And if some of the paths under consideration include individual outcomes that are absolutely
+unacceptable, we might not be able to choose on the basis of the highest expected value. We may have to
+shun the quantitatively optimal path in order to avoid the possibility of an extreme negative outcome. I
+always say I have no interest in being a skydiver who's successful 95% of the time.
+
+Investment performance (like life in general) is a lot like choosing a lottery winner by pulling one
+ticket from a bowlful. The process through which the winning ticket is chosen can be influenced by
+physical processes, and also by randomness. But it never amounts to anything but one ticket picked from
+among many. Superior investors have a better sense for what's in the bowl, and thus for whether
+it's worth buying a ticket in a lottery. But even they don't know for sure which one will be chosen.
+Lesser investors have less of a sense for the probability distribution and for whether the likelihood of
+winning the prize compensates for the risk that the cost of the ticket will be lost.
+
+Risk and Return
+
+Both in the 2006 memo on risk and in my book, I showed two graphics that together make clear the
+nature of investment risk. People have told me they're the best thing in the book, and since readers of this
+memo might have not seen the old one or read the book, I'm going to repeat them here.
+
+The first one below shows the relationship between risk and return as it is conventionally represented.
+The line slopes upward to the right, meaning the two are "positively correlated": as risk increases, return
+increases.
+
+ Return
+
+ Risk
+
+In both the old memo and the book, I went to great lengths to clarify what this is often - but erroneously -
+taken to mean. We hear it all the time: "Riskier investments produce higher returns" and "If you want to
+make more money, take more risk."
+
+Both of these formulations are terrible. In brief, if riskier investments could be counted on to produce
+higher returns, they wouldn't be riskier. Misplaced reliance on the benefits of risk bearing has led
+investors to some very unpleasant surprises.
+
+However, there's another, better way to describe this relationship: "Investments that seem riskier have to
+appear likely to deliver higher returns, or else people won't make them." This makes perfect sense. If the
+market is rational, the price of a seemingly risky asset will be set low enough that the reward for holding
+it appears adequate to compensate for the risk present. But note the word "appear." We're talking about
+investors' opinions regarding future return, not facts. Risky investments are - by definition - far from
+certain to deliver on their promise of high returns. For that reason, I think the graphic below (with the
+probability distributions redrawn from those of the 2014 version of this memo) does a much better job of
+portraying reality:
+
+ Return
+
+ Risk
+
+Here the underlying relationship between risk and return reflects the same positive general tendency as
+the first graphic, but the result of each investment is shown as a range of possibilities, not the single
+outcome suggested by the upward-sloping line. At each point along the horizontal risk axis, an
+investment's prospective return is shown as a bell-shaped probability distribution turned on its side.
+
+The conclusions are obvious from inspection. As you move to the right, increasing the risk:
+
+ the expected return increases (as with the traditional graphic),
+ the range of possible outcomes becomes wider, and
+ the less-good outcomes become worse.
+
+This is the essence of investment risk. Riskier investments are ones where the investor is less secure
+regarding the eventual outcome and faces the possibility of faring worse than those who stick to
+safer investments, and even of losing money. These investments are undertaken because the expected
+return is higher. But things may happen other than that which is hoped for. Some of the possibilities are
+superior to the expected return, but others are decidedly unattractive.
+
+The first graph's upward-sloping line indicates the underlying directionality of the risk/return
+relationship. But there's a lot more to consider than the fact that expected returns rise along with
+perceived risk, and in that regard the first graph is highly misleading. The second graph shows both the
+underlying trend and the increasing potential for actual returns to deviate from expectations. While the
+expected return rises along with risk, so does the probability of lower returns . . . and even of losses. This
+way of looking at things reflects Professor Dimson's dictum that more than one thing can happen.
+That's reality in an unpredictable world.
+
+The Challenge of Managing Risk
+
+The foregoing has been somewhat philosophical and theoretical. To provide a glimpse at how risk
+operates in the real world, and even though you may have read it earlier, I reproduce here (with minor
+modifications) a section that appeared with the above title in my memo "No Different This Time - The
+Lessons of '07" (December 2007). It points out some of the ways in which risk deviates in practice from
+the risk of theory. Each of these "realities" adds a degree of complexity that wouldn't exist if risk were
+quantifiable, linear and dependable, and thus easily treated. But then it wouldn't be risk.
+
+One of the reasons investor confidence was hit so hard [in 2007] is simply that it was too high (as is
+required for unsustainable market highs to be reached). And much of investors' excessive comfort was in
+the area of risk, where it was roundly believed things were under control. But the truth is, it's hard to
+manage risk.
+
+As I stated in "Risk" (February 2006), investment risk is largely invisible - before the fact, except
+perhaps to people with unusual insight, and even after an investment has been exited. For this reason,
+many of the great financial disasters we've seen have been failures to foresee and manage risk. There
+are several reasons for this:
+
+ Risk exists only in the future, and it's impossible to know for sure what the future holds.
+ Expectations are often formulated on the basis of what happened in the past, but the events of the
+ past must be taken with a substantial grain of salt. No ambiguity is evident when we view the past.
+ Only the things that happened happened. But that definiteness doesn't mean the process that
+ creates outcomes is clear-cut and dependable. Many things could have happened in each case in
+ the past, and the fact that only one did happen understates the potential for variability that existed.
+ What I mean to say (inspired by Nicolas Nassim Taleb's "Fooled by Randomness") is that the history
+ that took place is only one version of what it could have been. If you accept this, then the relevance
+ of history to the future is much more limited than many believe to be the case. [Along these same
+ lines, Peter Bernstein wrote the following in his November 2001 newsletter: "We like to rely on
+ history to justify our forecasts of the long run, but history tells us over and over again that the
+ unexpected and the unthinkable are the norm, not an anomaly. That is the real lesson of history."]
+
+ Decisions whether or not to bear risk are made in contemplation of normal patterns recurring, and
+ they do most of the time. But once in a while, something very different happens. Or as my friend
+ (and highly skilled investor) Ric Kayne puts it, "Most of financial history has taken place within two
+ standard deviations, but everything interesting has occurred outside of two standard deviations."
+ That's what happened in 2007. We heard all the time that summer, "that was a 5-standard deviation
+ event," or "that was a 10-sigma event," implying it should have happened only once every hundred
+ or thousand or ten thousand years. So how could several such events have happened in a single
+ week, as was claimed in August? The answer is that the improbability of their happening had been
+ overestimated.
+
+ Projections tend to cluster around historic norms and call for only small changes. The point is,
+ people usually expect the future to be like the past and underestimate the potential for change. In
+ August 1996, I wrote a memo showing that in the Wall Street Journal's semi-annual poll of
+ economists, on average the predictions are an extrapolation of the current condition. And when I
+ was a young analyst following Textron, building my earnings estimates based on projections for its
+ four major groups, I invariably found that I had underestimated the extent of both the positive
+ surprises and the shortfalls.
+
+ We hear a lot about "worst-case" projections, but they often turn out not to be negative enough.
+ What forecasters mean is "bad-case projections." I tell my father's story of the gambler who lost
+ regularly. One day he heard about a race with only one horse in it, so he bet the rent money. Half
+ way around the track, the horse jumped over the fence and ran away. Invariably things can get
+ worse than people expect. Maybe "worst-case" means "the worst we've seen in the past." But that
+ doesn't mean things can't be worse in the future. In 2007, many people's worst-case assumptions
+ were exceeded.
+
+ Risk shows up lumpily. If we say "2% of mortgages default each year," and even if that's true when
+ we look at a multi-year average, an unusual spate of defaults can occur at a point in time, sinking a
+ structured finance vehicle. Ben Graham and David Dodd put it this way: ". . . the relation between
+ different kinds of investments and the risk of loss is entirely too indefinite, and too variable with
+ changing conditions, to permit of sound mathematical formulation. This is particularly true because
+ investment losses are not distributed fairly evenly in point of time, but tend to be concentrated at
+ intervals . . ." (Security Analysis, 1940 Edition). It's invariably the case that some investors -
+ especially those who employ high leverage - will fail to survive at those intervals.
+
+ People overestimate their ability to gauge risk and understand mechanisms they've never before
+ seen in operation. In theory, one thing that distinguishes humans from other species is that we can
+ figure out that something's dangerous without experiencing it. We don't have to burn ourselves to
+ know we shouldn't sit on a hot stove. But in bullish times, people tend not to perform this function.
+ Rather than recognize risk ahead, they tend to overestimate their ability to understand how new
+ financial inventions will work.
+
+ Finally and importantly, most people view risk taking primarily as a way to make money. Bearing
+ higher risk generally produces higher returns. The market has to set things up to look like that'll be
+ the case; if it didn't, people wouldn't make risky investments. But it can't always work that way, or
+ else risky investments wouldn't be risky. And when risk bearing doesn't work, it really doesn't
+ work, and people are reminded what risk's all about.
+
+Most of the time, risk bearing works out just fine. In fact, it's often the case that the people who take the
+most risk make the most money. However, there also are times when underestimating risk and accepting
+too much of it can be fatal. Taking too little risk can cause you to underperform your peers - but that
+beats the heck out of the consequences of taking too much risk at the wrong time. No one ever went
+bankrupt because of an excess of risk consciousness. But a shortage of it - and the imprudent
+investments it led to - bears responsibility for a lot of what went on in 2007.
+
+The Many Forms of Risk
+
+The possibility of permanent loss may be the main risk in investing, but it's not the only risk. I can
+think of lots of other risks, many of which contribute to - or are components of - that main risk.
+
+In the past, in addition to the risk of permanent loss, I've mentioned the risk of falling short. Some
+investors face return requirements in order to make necessary payouts, as in the case of pension funds,
+endowments and insurance companies. Others have more basic needs, like generating enough income to
+live on.
+
+Some investors with needs - particularly those who live on their income, and especially in today's low-
+return environment - face a serious conundrum. If they put their money into safe investments, their
+returns may be inadequate. But if they take on incremental risk in pursuit of a higher return, they
+face the possibility of a still-lower return, and perhaps of permanent diminution of their capital,
+rendering their subsequent income lower still. There's no easy way to resolve this conundrum.
+
+There are actually two possible causes of inadequate returns: (a) targeting a high return and being
+thwarted by negative events and (b) targeting a low return and achieving it. In other words, investors
+face not one but two major risks: the risk of losing money and the risk of missing opportunities.
+Either can be eliminated but not both. And leaning too far in order to avoid one can set you up to be
+victimized by the other.
+
+Potential opportunity costs - the result of missing opportunities - usually aren't taken as seriously as real
+potential losses. But they do deserve attention. Put another way, we have to consider the risk of not
+taking enough risk.
+
+These days, the fear of losing money seems to have receded (since the crisis is all of six years in the past),
+and the fear of missing opportunities is riding high, given the paltry returns available on safe, mundane
+investments. Thus a new risk has arisen: FOMO risk, or the risk that comes from excessive fear of
+missing out. It's important to worry about missing opportunities, since people who don't can invest too
+conservatively. But when that worry becomes excessive, FOMO can drive an investor to do things he
+shouldn't do and often doesn't understand, just because others are doing them: if he doesn't jump on the
+bandwagon, he may be left behind to live with envy.
+
+Over the last three years, Oaktree's response to the paucity of return has been to develop a suite of five
+credit strategies that we hope will produce a 10% return, either net or gross (we can't claim to be more
+precise than that). I call them collectively the "ten percent solution," after a Sherlock Holmes story called
+The Seven-Per-Cent Solution (we aim to do better). Talking to clients about these strategies and helping
+them choose between them has required me to focus on their risks.
+
+"Just a minute," you might say, "the ten-year Treasury is paying just 21⁄2% and, as Jeremy Grantham says,
+the risk-free rate is also return-free. How, then, can you target returns in the vicinity of 10%?" The
+
+answer is that it can't be done without taking risk of some kind - and there are several candidates. I'll list
+below a few risks that we're consciously bearing in order to generate the returns our clients desire:
+
+ Today's ultra-low interest rates imply low returns for anyone who invests in what are deemed
+ safe fixed income instruments. So Oaktree's pursuit of attractive returns centers on accepting and
+ managing credit risk, or the risk that a borrower will be unable to pay interest and repay
+ principal as scheduled. Treasurys are assumed to be free of credit risk, and most high grade
+ corporates are thought to be nearly so. Thus those who intelligently accept incremental credit
+ risk must do so with the expectation that the incremental return promised as compensation
+ will prove sufficient.
+
+ Voluntarily accepting credit risk has been at the core of what Oaktree has done since its
+ beginning in 1995 (and in fact since the seed was planted in 1978, when I initiated Citibank's
+ high yield bond effort). But bearing credit risk will lead to attractive returns only if it's done
+ well. Our activities are based on two beliefs: (a) that because the investing establishment is
+ averse to credit risk, the incremental returns we receive for bearing it will compensate generously
+ for the risk entailed and (b) that credit risk is manageable - i.e., unlike the general future, credit
+ risk can be gauged by experts (like us) and reduced through credit selection. It wouldn't make
+ sense to voluntarily bear incremental credit risk if either of these two beliefs were lacking.
+
+ Another way to access attractive returns in today's low-rate environment is to bear illiquidity
+ risk in order to take advantage of investors' normal dislike for illiquidity (superior returns often
+ follow from investor aversion). Institutions that held a lot of illiquid assets suffered considerably
+ in the crisis of 2008, when they couldn't sell them; thus many developed a strong aversion to
+ them and in some cases imposed limitations on their representation in portfolios. Additionally,
+ today the flow of retail money is playing a big part in driving up asset prices and driving down
+ returns. Since retail money has a harder time making its way to illiquid assets, this has made the
+ returns on the latter appear more attractive. It's noteworthy that there aren't mutual funds or
+ ETFs for many of the things we're investing in.
+
+ Some strategies introduce it voluntarily and some can't get away from it: concentration risk.
+ "Everyone knows" diversification is a good thing, since it reduces the impact on results of a
+ negative development. But some people eschew the safety that comes with diversification in
+ favor of concentrating their investments in assets or with managers they expect to outperform.
+ And some investment strategies don't permit full diversification because of the limitations of
+ their subject markets. Thus problems - if and when they occur - will be bigger per se.
+
+ Especially given today's low interest rates, borrowing additional capital to enhance returns is
+ another way to potentially increase returns. But doing so introduces leverage risk. Leverage
+ adds to risk two ways. The first is magnification: people are attracted to leverage because it will
+ magnify gains, but under unfavorable outcomes it will magnify losses instead.
+
+ The second way in which leverage adds to risk stems from funding risk, one of the classic
+ reasons for financial disaster. The stage is set when someone borrows short-term funds to make a
+ long-term investment. If the funds have to be repaid at an awkward time - due to their maturity,
+ a margin call, or some other reason - and the purchased assets can't be sold in a timely fashion
+ (or can only be sold at a depressed price), an investment that might otherwise have been
+ successful can be cut short and end in sorrow. Little or nothing may remain of the sale proceeds
+ once the leverage has been repaid, in which case the investor's equity will be decimated. This is
+ commonly called a meltdown. It's the primary reason for the saying, "Never forget the six-foot-
+
+ tall man who drowned crossing the stream that was five feet deep on average." In times of crisis,
+ success over the long run can become irrelevant.
+
+ When credit risk, illiquidity risk, concentration risk and leverage risk are borne
+ intelligently, it is in the hope that the investor's skill will be sufficient to produce success. If
+ so, the potential incremental returns that appear to be offered as risk compensation will
+ turn into realized incremental returns (per the graphic at the top of page 8). That's the only
+ reason anyone would do these things.
+
+ As the graphic at the bottom of page 8 illustrates, however, investing further out on the risk curve
+ exposes one to a broader range of investment outcomes. In an efficient market, returns are
+ tethered to the market average; in an inefficient market, they're not. Inefficient markets offer
+ the possibility that an investor will escape from the "gravitational pull" of the market's
+ average return, but that can be either for the better or for the worse. Superior investors -
+ those with "alpha," or the personal skill needed to achieve outsized returns for a given level of
+ risk - have scope to perform well above the mean return, while inferior investors can come out
+ far below. So hiring an investment manager introduces manager risk: the risk of picking the
+ wrong one. It's possible to pay management fees but get decisions that detract from results rather
+ than add.
+
+Some or all of the above risks are potentially entailed in our new credit strategies. Parsing them allows
+investors to choose among the strategies and accept the risks they're more comfortable with. The process
+can be quite informative.
+
+Our oldest "new strategy" is Enhanced Income, where we use leverage to magnify the return from a
+portfolio of senior loans. We think senior loans have the lowest credit risk of anything Oaktree deals
+with, since they're senior-most among their issuer's debt and historically have produced very few credit
+losses. Further, they're among our most liquid assets, meaning we face relatively little illiquidity risk,
+and being active in a broad public market permits us to diversify, reducing concentration risk. Given the
+relatively high degree of safety stemming from these loans' seniority, returns aren't overly dependent on
+the presence of alpha, meaning Enhanced Income entails less manager risk than some other strategies.
+But to have a chance at the healthy return we're pursuing in Enhanced Income requires us to take some
+risk, and what we're left with is leverage risk. The 3-to-1 leverage in Enhanced Income Fund II will
+magnify the negative impact of any credit losses (of course we hope there won't be many). However,
+we're not worried about a meltdown, since the current environment allows us to avoid funding risk; we
+can (a) borrow for a term that exceeds the duration of the underlying investments and (b) do so without
+the threat of margin calls related to price declines.
+
+Strategic Credit, Mezzanine Finance, European Private Debt and Real Estate Debt are the other four
+components of our "ten percent solution."
+
+ All four entail some degree of credit risk, illiquidity risk (they all invest heavily or entirely in
+ private debt) and concentration risk (as their market niches offer only a modest number of
+ investment opportunities, and securing them in today's competitive environment is a challenge).
+
+ The Real Estate Debt Fund can only lever up to 1-to-1, and the other three borrow only small
+ amounts and for short-term purposes, so none of them entails significant leverage risk.
+
+ However, in order to succeed they'll all require a high level of skill from their managers in
+ identifying return prospects and keeping risk under control. Thus they all entail manager risk.
+ Our response is to entrust these portfolios only to managers who've been with us for years.
+
+It's reasonable - essential, really - to study the risk entailed in every investment and accept the
+amounts and types of risk that you're comfortable with (assuming this can be discerned). It's not
+reasonable to expect highly superior returns without bearing some incremental risk.
+
+I touched above on concentration risk, but we should also think about the flip side: the risk of over-
+diversification. If you have just a few holdings in a portfolio, or if an institution employs just a few
+managers, one bad decision can do significant damage to results. But if you have a very large number of
+holdings or managers, no one of them can have much of a positive impact on performance. Nobody
+invests in just the one stock or manager they expect to perform best, but as the number of positions is
+expanded, the standards for inclusion may decline. Peter Lynch coined the term "diworstification" to
+describe the process through which lesser investments are added to portfolios, making the potential risk-
+adjusted return worse.
+
+While I don't think volatility and risk are synonymous, there's no doubt that volatility does present risk.
+If circumstances cause you to sell a volatile investment at the wrong time, you might turn a downward
+fluctuation into a permanent loss. Moreover, even in the absence of a need for liquidity, volatility can
+prey on investors' emotions, reducing the probability they'll do the right thing. And in the short run, it
+can be very hard to differentiate between a downward fluctuation and a permanent loss. Often this
+can really be done only in retrospect. Thus it's clear that a professional investor may have to bear
+consequences for a temporary downward fluctuation simply because of its resemblance to a permanent
+loss. When you're under pressure, the distinction between "volatility" and "loss" can seem only
+semantic. Volatility is not "the" definition of investment risk, as I said earlier, but it isn't irrelevant.
+
+One example of a risk connected with volatility - or the deviation of price from what might be intrinsic
+value - is basis risk. Arbitrageurs customarily set up positions where they're long one asset and short a
+related asset. The two assets are expected to move roughly in parallel, except that the one that's slightly
+cheaper should make more money for the investor in the long run than the other loses, producing a small
+net gain with little risk. Because these trades are considered so low in risk, they're often levered up to the
+sky. But sometimes the prices of the two assets diverge to an unexpected extent, and the equity invested
+in the trade evaporates. That unexpected divergence is basis risk, and it's what happened to Long-Term
+Capital Management in 1998, one of the most famous meltdowns of all time. As Long-Term's chairman
+John Meriwether said at the time, "the Fund added to its positions in anticipation of convergence, yet . . .
+the trades diverged dramatically." This benign-sounding explanation was behind a collapse some thought
+capable of bringing down the global financial system.
+
+Long-Term's failure was also attributable to model risk. Decisions can be turned over to quants or
+financial engineers who either (a) conclude wrongly that an unsystematic process can be modeled or (b)
+employ the wrong model. During the financial crisis, models often assumed that events would occur
+according to a "normal distribution," but extreme "tail events" occurred much more often than the normal
+distribution says they will. Not only can extreme events exceed a model's assumptions, but excessive
+belief in a model's efficacy can induce people to take risks they would never take on the basis of
+qualitative judgment. They're often disappointed to find they had put too much faith in a statistical sure
+thing.
+
+Model risk can arise from black swan risk, for which I borrow the title of Nassim Nicholas Taleb's
+popular second book. People tend to confuse "never been seen" with "impossible," and the consequences
+can be dire when something occurs for the first time. That's part of the reason why people lost so much
+
+in highly levered subprime mortgage securities. The fact that a nationwide spate of mortgage defaults
+hadn't happened convinced investors that it couldn't happen, and their certainty caused them to take
+actions so imprudent that it had to happen.
+
+As long as we're on the subject of things going wrong, we should touch on the subject of career risk. As
+I mentioned in Dare to Be Great II, "agents" who manage money for others can be penalized for
+investments that look like losers (that is, for both permanent losses and temporary downward
+fluctuations). Either of these unfortunate experiences can result in headline risk if the resulting losses
+are big enough to make it into the media, and some careers can't withstand headline risk. Investors who
+lack the potential to share commensurately in investment successes face a reward asymmetry that can
+force them toward the safe end of the risk/return curve. They are likely to think more about the risk of
+losing money than about the risk of missing opportunities. Thus their portfolios may lean too far toward
+controlling risk and avoiding embarrassment (and they may not take enough chances to generate returns).
+There are consequences for these investors, as well as for those who employ them.
+
+Event risk is another risk to worry about, something that was created by bond issuers about twenty years
+ago. Since corporate directors have a fiduciary responsibility to stockholders but not to bondholders,
+some think they can (and perhaps should) do anything that's not explicitly prohibited to transfer value
+from bondholders to stockholders. Bondholders need covenants to shield them from this kind of pro-
+active plundering, but at times like today it can be hard to obtain strong protective covenants.
+
+There are many ways for an investment to be unsuccessful. The two main ones are fundamental risk
+(relating to how a company or asset performs in the real world) and valuation risk (relating to how the
+market prices that performance). For years investors, fiduciaries and rule-makers acted on the belief that
+it's safe to buy high-quality assets and risky to buy low-quality assets. But between 1968 and 1973, many
+investors in the "Nifty Fifty" (the stocks of the fifty fastest-growing and best companies in America) lost
+80-90% of their money. Attitudes have evolved since then, and today there's less of an assumption that
+high quality prevents fundamental risk, and much less preoccupation with quality for its own sake.
+
+On the other hand, investors are more sensitive to the pivotal role played by price. At bottom, the
+riskiest thing is overpaying for an asset (regardless of its quality), and the best way to reduce risk is
+by paying a price that's irrationally low (ditto). A low price provides a "margin of safety," and that's
+what risk-controlled investing is all about. Valuation risk should be easily combatted, since it's
+largely within the investor's control. All you have to do is refuse to buy if the price is too high given
+the fundamentals. "Who wouldn't do that?" you might ask. Just think about the people who bought into
+the tech bubble.
+
+Fundamental risk and valuation risk bear on the risk of losing money in an individual security or asset,
+but that's far from the whole story. Correlation is the essential additional piece of the puzzle.
+Correlation is the degree to which an asset's price will move in sympathy with the movements of others.
+The higher the correlation among its components, all other things being equal, the less effective
+diversification a portfolio has, and the more exposed it is to untoward developments.
+
+An asset doesn't have "a correlation." Rather, it has a different correlation with every other asset. A
+bond has a certain correlation with a stock. One stock has a certain correlation with another stock (and a
+different correlation with a third). Stocks of one type (such as emerging market, high-tech or large-cap)
+are likely to be highly correlated with others within their category, but they may be either high or low in
+correlation with those in other categories. Bottom line: it's hard to estimate the riskiness of a given
+asset, but many times harder to estimate its correlation with all the other assets in a portfolio, and
+thus the impact on performance of adding it to the portfolio. This is a real art.
+
+Fixed income investors are directly exposed to another form of risk: interest rate risk. Higher interest
+rates mean lower bond prices - that relationship is absolute. The impact of changes in interest rates on
+asset classes other than fixed income is less direct and less obvious, but it also pervades the markets.
+Note that stocks usually go down when the Fed says the economy is performing strongly. Why? The
+thinking is that stronger economy = higher interest rates = more competition for stocks from bonds =
+lower stock valuations. Or it might be stronger economy = higher interest rates = reduced stimulus =
+weaker economy.
+
+One of the reasons for increases in interest rates relates to purchasing power risk. Investors in securities
+(and especially long-term bonds) are exposed to the risk that if inflation rises, the amount they receive in
+the future will buy less than it could today. This causes investors to insist on higher interest rates and
+higher prospective returns to protect them against the loss of purchasing power. The result is lower
+prices.
+
+Finally, I want to mention a new concept I hear about once in a while: upside risk. Forecasters are
+sometimes heard to say "the risk is on the upside." At first this doesn't seem to have much legitimacy,
+but it can be about the possibility that the economy may catch fire and do better than expected, earnings
+may come in above consensus, or the stock market may appreciate more than people think. Since these
+things are positives, there's risk in being underexposed to them.
+
+ * * *
+
+To move to the biggest of big pictures, I want to make a few over-arching comments about risk.
+
+The first is that risk is counterintuitive.
+
+ The riskiest thing in the world is the widespread belief that there's no risk.
+ Fear that the market is risky (and the prudent investor behavior that results) can render it quite
+ safe.
+ As an asset declines in price, making people view it as riskier, it becomes less risky (all else being
+ equal).
+ As an asset appreciates, causing people to think more highly of it, it becomes riskier.
+ Holding only "safe" assets of one type can render a portfolio under-diversified and make it
+ vulnerable to a single shock.
+ Adding a few "risky" assets to a portfolio of safe assets can make it safer by increasing its
+ diversification. Pointing this out was one of Professor William Sharpe's great contributions.
+
+The second is that risk aversion is the thing that keeps markets safe and sane.
+
+ When investors are risk-conscious, they will demand generous risk premiums to compensate
+ them for bearing risk. Thus the risk/return line will have a steep slope (the unit increase in
+ prospective return per unit increase in perceived risk will be large) and the market should reward
+ risk-bearing as theory asserts.
+ But when people forget to be risk-conscious and fail to require compensation for bearing risk,
+ they'll make risky investments even if risk premiums are skimpy. The slope of the line will be
+ gradual, and risk taking is likely to eventually be penalized, not rewarded.
+ When risk aversion is running high, investors will perform extensive due diligence, make
+ conservative assumptions, apply skepticism and deny capital to risky schemes.
+
+ But when risk tolerance is widespread instead, these things will fall by the wayside and deals will
+ be done that set the scene for subsequent losses.
+
+Simply put, risk is low when risk aversion and risk consciousness are high, and high when they're low.
+
+The third is that risk is often hidden and thus deceptive. Loss occurs when risk - the possibility of
+loss - collides with negative events. Thus the riskiness of an investment becomes apparent only when it
+is tested in a negative environment. It can be risky but not show losses as long as the environment
+remains salutary. The fact that an investment is susceptible to a serious negative development that will
+occur only infrequently - what I call "the improbable disaster" - can make it appear safer than it really is.
+Thus after several years of a benign environment, a risky investment can easily pass for safe. That's why
+Warren Buffett famously said, ". . . you only find out who's swimming naked when the tide goes out."
+
+Assembling a portfolio that incorporates risk control as well as the potential for gains is a great
+accomplishment. But it's a hidden accomplishment most of the time, since risk only turns into loss
+occasionally . . . when the tide goes out.
+
+The fourth is that risk is multi-faceted and hard to deal with. In this memo I've mentioned 24
+different forms of risk: the risk of losing money, the risk of falling short, the risk of missing opportunities,
+FOMO risk, credit risk, illiquidity risk, concentration risk, leverage risk, funding risk, manager risk, over-
+diversification risk, risk associated with volatility, basis risk, model risk, black swan risk, career risk,
+headline risk, event risk, fundamental risk, valuation risk, correlation risk, interest rate risk, purchasing
+power risk, and upside risk. And I'm sure I've omitted some. Many times these risks are overlapping,
+contrasting and hard to manage simultaneously. For example:
+
+ Efforts to reduce the risk of losing money invariably increase the risk of missing out.
+ Efforts to reduce fundamental risk by buying higher-quality assets often increase valuation risk,
+ given that higher-quality assets often sell at elevated valuation metrics.
+
+At bottom, it's the inability to arrive at a single formula that simultaneously minimizes all the risks that
+makes investing the fascinating and challenging pursuit it is.
+
+The fifth is that the task of managing risk shouldn't be left to designated risk managers. I'm
+convinced outsiders to the fundamental investment process can't know enough about the subject assets to
+make appropriate decisions regarding each one. All they can do is apply statistical models and norms.
+But those models may be the wrong ones for the underlying assets - or just plain faulty - and there's little
+evidence that they add value. In particular, risk managers can try to estimate correlation and tell you how
+things will behave when combined in a portfolio. But they can fail to adequately anticipate the "fault
+lines" that run through portfolios. And anyway, as the old saying goes, "in times of crisis all correlations
+go to one" and everything collapses in unison.
+
+"Value at Risk" was supposed to tell the banks how much they could lose on a very bad day. During the
+crisis, however, VaR was often shown to have understated the risk, since the assumptions hadn't been
+harsh enough. Given the fact that risk managers are required at banks and de rigueur elsewhere, I think
+more money was spent on risk management in the early 2000s than in the rest of history combined . . .
+and yet we experienced the worst financial crisis in 80 years. Investors can calculate risk metrics like
+VaR and Sharpe ratios (we use them at Oaktree; they're the best tools we have), but they shouldn't put
+too much faith in them. The bottom line for me is that risk management should be the responsibility
+of every participant in the investment process, applying experience, judgment and knowledge of the
+underlying investments.
+
+The sixth is that while risk should be dealt with constantly, investors are often tempted to do so only
+sporadically. Since risk only turns into loss when bad things happen, this can cause investors to apply
+risk control only when the future seems ominous. At other times they may opt to pile on risk in the
+expectation that good things lie ahead. But since we can't predict the future, we never really know when
+risk control will be needed. Risk control is unnecessary in times when losses don't occur, but that doesn't
+mean it's wrong to have it. The best analogy is to fire insurance: do you consider it a mistake to have
+paid the premium in a year in which your house didn't burn down?
+
+Taken together these six observations convince me that Charlie Munger's trenchant comment on
+investing in general - "It's not supposed to be easy. Anyone who finds it easy is stupid." - is
+profoundly applicable to risk management. Effective risk management requires deep insight and a deft
+touch. It has to be based on a superior understanding of the probability distributions that will govern
+future events. Those who would achieve it have to have a good sense for what the crucial moving parts
+are, what will influence them, what outcomes are possible, and how likely each one is. Following on
+with Charlie's idea, thinking risk control is easy is perhaps the greatest trap in investing, since
+excessive confidence that they have risk under control can make investors do very risky things.
+
+Thus the key prerequisites for risk control also include humility, lack of hubris, and knowing what
+you don't know. No one ever got into trouble for confessing a lack of prescience, being highly risk-
+conscious, and even investing scared. Risk control may restrain results during a rebound from crisis
+conditions or extreme under-valuations, when those who take the most risk generally make the most
+money. But it will also extend an investment career and increase the likelihood of long-term success.
+That's why Oaktree was built on the belief that risk control is "the most important thing."
+
+Lastly while dealing in generalities, I want to point out that whereas risk control is indispensable,
+risk avoidance isn't an appropriate goal. The reason is simple: risk avoidance usually goes hand-
+in-hand with return avoidance. While you shouldn't expect to make money just for bearing risk,
+you also shouldn't expect to make money without bearing risk.
+
+ * * *
+
+At present I consider risk control more important than usual. To put it briefly:
+
+ Today's ultra-low interest rates have brought the prospective returns on money market
+ instruments, Treasurys and high grade bonds to nearly zero.
+ This has caused money to flood into riskier assets in search of higher returns.
+ This, in turn, has caused some investors to drop their usual caution and engage in aggressive
+ tactics.
+ And this, finally, has caused standards in the capital markets to deteriorate, making it easy for
+ issuers to place risky securities and - consequently - hard for investors to buy safe ones.
+
+Warren Buffett put it best, and I regularly return to his statement on the subject:
+
+ . . . the less prudence with which others conduct their affairs, the greater the prudence
+ with which we should conduct our own affairs.
+
+While investor behavior hasn't sunk to the depths seen just before the crisis (and, in my opinion, that
+contributed greatly to it), in many ways it has entered the zone of imprudence. To borrow a metaphor
+
+from Chuck Prince, Citigroup's CEO from 2003 to 2007, anyone who's totally unwilling to dance to
+today's fast-paced music can find it challenging to put money to work.
+
+It's the job of investors to strike a proper balance between offense and defense, and between worrying
+about losing money and worrying about missing opportunity. Today I feel it's important to pay more
+attention to loss prevention than to the pursuit of gain. For the last four years Oaktree's mantra has
+been "move forward, but with caution." At this time, in reiterating that mantra, I would increase the
+emphasis on those last three words: "but with caution."
+
+Economic and company fundamentals in the U.S. are fine today, and asset prices - while full - don't
+seem to be at bubble levels. But when undemanding capital markets and a low level of risk aversion
+combine to encourage investors to engage in risky practices, something usually goes wrong eventually.
+Although I have no idea what could make the day of reckoning come sooner rather than later, I
+don't think it's too early to take today's carefree market conditions into consideration. What I do
+know is that those conditions are creating a degree of risk for which there is no commensurate risk
+premium. We have to behave accordingly.
+
+June 8, 2015 (updating Risk Revisited published September 3, 2014)
+
+
+Memo: It’s Not Easy.
+
+In 2011, as I was putting the finishing touches on my book The Most Important Thing, I was fortunate to
+have one of my occasional lunches with Charlie Munger. As it ended and I got up to go, he said
+something about investing that I keep going back to: "It's not supposed to be easy. Anyone who finds
+it easy is stupid."
+
+As usual, Charlie packed a great deal of wisdom into just a few words. Let's take the first six: "It's not
+supposed to be easy." While it's pretty simple to achieve average results, it shouldn't be easy to make
+superior investments and earn outsized returns. John Kenneth Galbraith said something similar years ago:
+
+ There is nothing reliable to be learned about making money. If there were, study would
+ be intense and everyone with a positive IQ would be rich.
+
+What Charlie and Professor Galbraith meant is this: Everyone wants to make money, and especially to
+find the sure thing or "silver bullet" that will allow them to do it without commensurate risk. Thus they
+work hard (actually, study is intense), searching for bargain securities and approaches that will give them
+an edge. They buy up the bargains and apply the approaches. The result is that the efforts of these
+market participants tend to drive out opportunities for easy money. Securities become more fairly priced,
+and free lunches become harder to find. It makes no sense to think it would be otherwise.
+
+And what about the next seven words: "Anyone who finds it easy is stupid"? It follows from the above
+that given how hard investors work to find special opportunities, and that their buying eliminates such
+prospects, people who think it can be easy overlook substantial nuance and complexity.
+
+Markets are meeting places where people come together (not necessarily physically) to exchange one
+thing (usually money) for another. Markets have a number of functions, one of which is to eliminate
+opportunities for excess returns.
+
+Ed calls me and bids $10,000 for my car. Then he offers to sell it to Bob for $20,000. If Ed's lucky and
+we both say yes, he doubles his money overnight. To put it simply, anyone who expects to make money
+easily trading cars this way either thinks (a) Bob and I are idiots or (b) the market won't function in a way
+that enables us to know about the fair value of my car. If these conditions were met, it would be an
+"inefficient market."
+
+But if Bob and I have access to market data on used car pricing, Ed's chances of pulling off this deal are
+greatly reduced. In most markets, transparency tends to reveal and thus preclude obvious
+mispricings. (Thanks to the incredible gains in access to data by way of the Internet, this is certainly
+more true today than ever before.) In my view, this is a good part of the basis for Charlie's comment:
+anyone who thinks it's easy to achieve unusual profits is overlooking the way markets operate. This
+memo is largely about the challenges they present.
+
+Second-Level Thinking
+
+I always thought that when I retired, I would write a book pulling together the elements of investment
+philosophy discussed in my memos. But in 2009, I got a letter from Warren Buffett saying that if I'd
+write a book, he'd give me a blurb for the jacket. It didn't take me long to move up my timing.
+
+Columbia Business School Publishing had been talking to me about a book, and when I told them I was
+ready, they asked to see a sample chapter. For some reason, I was able to sit down - without previously
+having given the topic any organized thought - and knock out a chapter about the importance of
+something I labeled "second-level thinking." This is a crucial subject that has to be understood by
+everyone who aspires to be a superior investor. And yet I've never covered it explicitly for the readers of
+my memos. I want to correct that now.
+
+In what ended up being the book's first chapter, I introduced the subject as follows:
+
+ Remember your goal in investing isn't to earn average returns; you want to do better than
+ average. Thus your thinking has to be better than that of others - both more powerful and
+ at a higher level. Since others may be smart, well-informed and highly computerized,
+ you must find an edge they don't have. You must think of something they haven't
+ thought of, see things they miss, or bring insight they don't possess. You have to react
+ differently and behave differently. In short, being right may be a necessary condition for
+ investment success, but it won't be sufficient. You must be more right than others . . .
+ which by definition means your thinking has to be different. . . .
+
+ For your performance to diverge from the norm, your expectations - and thus your
+ portfolio - have to diverge from the norm, and you have to be more right than the
+ consensus. Different and better: that's a pretty good description of second-level thinking.
+
+Second-level thinking is what immediately pops into my mind when I think about Charlie's observation.
+And it's a good general heading under which to discuss the great many things that make superior
+investing a challenge. In short, to borrow from Charlie, anyone who thinks it's easy must be a first-
+level thinker. Let me use some simple examples from the book to illustrate the difference.
+
+ • First-level thinking says, "It's a good company; let's buy the stock." Second-level
+ thinking says, "It's a good company, but everyone thinks it's a great company, and
+ it's not. So the stock's overrated and overpriced; let's sell."
+
+ • First-level thinking says, "The outlook calls for low growth and rising inflation.
+ Let's dump our stocks." Second-level thinking says, "The outlook stinks, but
+ everyone else is selling in panic. Buy!"
+
+ • First-level thinking says, "I think the company's earnings will fall; sell." Second-
+ level thinking says, "I think the company's earnings will fall far less than people
+ expect, and the pleasant surprise will lift the stock; buy."
+
+ First-level thinking is simplistic and superficial, and just about everyone can do it (a bad
+ sign for anything involving an attempt at superiority). All the first-level thinker needs is
+ an opinion about the future, as in, "The outlook for the company is favorable, meaning
+ the stock will go up."
+
+ Second-level thinking is deep, complex and convoluted. The second-level thinker takes
+ many things into account:
+
+ • What is the range of likely future outcomes?
+ • Which outcome do I think will occur?
+ • What's the probability I'm right?
+ • What does the consensus think?
+ • How does my expectation differ from the consensus?
+ • How does the current price for the asset comport with the consensus view of the
+ future, and with mine?
+ • Is the consensus psychology that's incorporated in the price too bullish or bearish?
+ • What will happen to the asset's price if the consensus turns out to be right, and what
+ if I'm right?
+
+The bottom line is that first-level thinkers see what's on the surface, react to it simplistically, and buy or
+sell on the basis of their reactions. They don't understand their setting as a marketplace where asset
+prices reflect and depend on the expectations of the participants. They ignore the part that others
+play in how prices change. And they fail to understand the implications of all this for the route to
+success.
+
+For example, when I lived in Los Angeles, a stockbroker often spoke on the radio station I listened to
+while driving to work. His advice was simple: "If there's a company whose product you like, buy the
+stock." That's first-level thinking. How seductively easy. But also how error-prone, in that it ignores the
+possibility that a company with a good product can have a bad business; the good product can become
+obsolete; or the stock can be priced too high to be a good investment.
+
+On the other hand, second-level thinkers double-think (and triple-think) every angle of every situation. A
+good example can be seen in the hypothetical newspaper contest John Maynard Keynes wrote about in
+1936. Readers would be shown 100 photos and asked to choose the six prettiest girls, with prizes going
+to the readers who chose the girls readers voted for most often. Naive entrants would try to win by
+picking the prettiest girls. But note that the contest would reward the readers who chose not the
+prettiest girls, but the most popular. Thus the road to winning would lie not in figuring out which were
+the prettiest, but in predicting which girls the average entrant would consider prettiest. Clearly, to do so,
+the winner would have to be a second-level thinker. (The first-level thinker wouldn't even recognize the
+difference.)
+
+Wikipedia points out that one vying to win the contest might go beyond this distinction:
+
+ This can be carried one step further to take into account the fact that other entrants would
+ each have their own opinion of what public perceptions are. Thus the strategy can be
+ extended to the next order and the next and so on, at each level attempting to predict the
+ eventual outcome of the process based on the reasoning of other agents.
+
+ "It is not a case of choosing those [faces] that, to the best of one's judgment, are really
+ the prettiest, nor even those that average opinion genuinely thinks the prettiest. We have
+ reached the third degree where we devote our intelligences to anticipating what average
+ opinion expects the average opinion to be. And there are some, I believe, who practice
+ the fourth, fifth and higher degrees." (Keynes, The General Theory of Employment,
+ Interest and Money, 1936).
+
+Keynes created his contest to make a point about the stock market. In the short run, beating the market
+requires the ability to predict which stocks will win the popularity contest among investors. Higher-level
+thinkers who recognize this dynamic have a head start toward earning the greatest gains. Ben Graham
+applied the same thinking when he described the market as a "voting machine" in the short run (although
+he made plain his belief that it's a "weighing machine" in the long run).
+
+The first-level thinker simply looks for the highest-quality company, the best product, the fastest
+earnings growth or the lowest p/e ratio. He's ignorant of the very existence of a second level at
+which to think, and of the need to pursue it.
+
+The second-level thinker goes through a much more complex process when thinking about buying an
+asset. Is it good? Do others think it's as good as I think it is? Is it really as good as I think it is? Is it as
+good as others think it is? Is it as good as others think others think it is? How will it change? How do
+others think it will change? How is it priced given: its current condition; how I think its condition will
+change; how others think it will change; and how others think others think it will change? And that's just
+the beginning. No, this isn't easy.
+
+(Please note that the above discussion is entirely on the subject of short-term investing, and I go
+through it only to provide a graphic illustration of the difference between first-level and second-
+level thinking. Oaktree and I aren't focused on short-term results, and the thinking we apply to
+long-run considerations is quite different. We think much less about what others will make
+popular in the short run; instead, we rely on the eventual functioning of the weighing machine. The
+highest priority - by far - should be an objective evaluation of fundamentals. Market participants can get
+so caught up in predicting other participants' behavior that they ignore value and fail to buy bargains out
+of fear that the assets in question will remain unpopular or become more so. This creates great
+opportunities for those investors whose willingness to think independently and endure the short-term pain
+that comes with temporary unpopularity enables them to purchase attractive investments from the bargain
+counter.)
+
+What Keynes's hypothetical contest shows most clearly is that the route to success in the competitive
+arena may not be what it seems at first glance. When the goal is to lift the greatest weight, achieve the
+lowest score on the golf course, get the highest grade on a math test or finish a crossword puzzle in the
+shortest time, the competition is against oneself and the objective challenge at hand. But when the goal,
+as it is in investing, is to outdo other people in a largely mental pursuit involving a lot of psychology -
+while they're trying to do the same to you - the challenge is much more complex.
+
+The investor's basic goal of buying desirable assets at fair prices is sensible and straightforward.
+But the deeper you look, the more you see how many aspects of successful investing are
+counterintuitive and how much of what seems obvious is wrong. There's a lot more that matters, of
+course, but these realizations are key.
+
+The Things Everyone Likes
+
+The most outstanding characteristic of first-level thinkers - and of the investing herd - is that they
+like things with obvious appeal. These are the things that are easy to understand and easy to buy. But
+that's unlikely to be the path to investment success. Here's how I put it in "Everyone Knows" (April
+
+ What's clear to the broad consensus of investors is almost always wrong.
+
+ First, most people don't understand the process through which something comes to
+ have outstanding moneymaking potential. And second, the very coalescing of
+ popular opinion behind an investment tends to eliminate its profit potential.
+
+ Take, for example, the investment that "everyone" believes to be a great idea. In my
+ view by definition it simply cannot be so.
+
+ • If everyone likes it, it's probably because it has been doing well. Most people seem
+ to think outstanding performance to date presages outstanding future performance.
+ Actually, it's more likely that outstanding performance to date has borrowed from the
+ future and thus presages sub-par performance from here on out.
+
+ • If everyone likes it, it's likely the price has risen to reflect a level of adulation from
+ which relatively little further appreciation is likely. (Sure it's possible for something
+ to move from "overvalued" to "more overvalued," but I wouldn't want to count on it
+ happening.)
+
+ • If everyone likes it, it's likely the area has been mined too thoroughly - and has seen
+ too much capital flow in - for many bargains to remain.
+
+ • If everyone likes it, there's significant risk that prices will fall if the crowd changes
+ its collective mind and moves for the exit.
+
+ Superior investors know - and buy - when the price of something is lower than it should
+ be. And the price of an investment can be lower than it should be only when most people
+ don't see its merit. Yogi Berra is famous for having said, "Nobody goes to that restaurant
+ anymore; it's too crowded." It's just as nonsensical to say, "Everyone realizes that
+ investment's a bargain." If everyone realizes it, they'll have bought, in which case the
+ price will no longer be low.
+
+So the things with the most obvious merit become the things that everyone likes. They're also likely
+to be the things that are most hotly pursued and most highly priced, and thus least promising and
+most treacherous. What are some examples?
+
+When I first showed up for work in First National City Bank's investment research department in 1968,
+the bank was investing heavily in the "Nifty Fifty": the stocks of America's best, fastest growing
+companies. Since these were companies where nothing could go wrong, the official dictum said it didn't
+matter much what price you paid. It didn't seem unreasonable to pay p/e ratios of 80 or 90 given these
+companies' growth rates.
+
+But it turned out that the price you pay does matter, and 80-90 times earnings had been too high. Thus,
+when the market ran into trouble in the early 1970s, many of these stocks lost the vast majority of their
+value, and investors learned the hard way that it's possible to like a good thing too much. Unsurprisingly,
+it also turned out that predictions of a flawless future can be wrong, as once-dominant companies such as
+Kodak, Polaroid and Xerox eventually went bankrupt or required turnarounds.
+
+Roughly ten years ago, everyone was gaga over real estate, especially residential. This was underpinned
+by some bits of "accepted wisdom" that seemed compelling, such as "you can always live in it," "home
+
+prices always go up" and "real estate is a hedge against inflation." Conservative debt investors (rather
+than buyers of homes themselves) were persuaded to buy levered and tranched mortgage-backed
+securities by the fact that "there has never been a nationwide wave of mortgage defaults."
+
+But in 2007 it turned out that home prices can go down as well as up, and mortgage loans extended
+casually based on their flawless record can have flaws. Homes and mortgages, bought when everyone
+liked them, turned out to be terrible investments.
+
+The fact is, painful bubbles can't come into existence if there isn't an underlying grain of truth. The Nifty
+Fifty were generally terrific companies. Home prices do tend to rise over time and offset inflation.
+Mortgages generally are repaid or carry adequate collateral. The Internet would change the world. Oil at
+$147/barrel was indispensable and in short supply. But in each case the merits were too obvious; the
+investment ideas became too popular; and asset prices consequently became dangerously high.
+
+Following the trends that are popular at a point in time certainly isn't a formula for investment
+success, since popularity is likely to lead investors on a path that is comfortable but pointed in the
+wrong direction. Here's more from "Everyone Knows":
+
+ The fact is, there is no dependable sign pointing to the next big moneymaker: a good idea
+ at a too-low price. Most people simply don't know how to find it. . . .
+
+ Large amounts of money (and by that I mean unusual returns, or unusual risk-adjusted
+ returns) aren't made by buying what everybody likes. They're made by buying what
+ everybody underestimates.
+
+ In short, there are two primary elements in superior investing:
+
+ • seeing some quality that others don't see or appreciate (and that isn't reflected in the
+ price), and
+ • having it turn out to be true (or at least accepted by the market).
+
+ It should be clear from the first element that the process has to begin with investors
+ who are unusually perceptive, unconventional, iconoclastic or early. That's why
+ successful investors are said to spend a lot of their time being lonely.
+
+Risk and Counterintuitiveness
+
+If what's obvious and what everyone knows is usually wrong, then what's right? The answer comes from
+inverting the concept of obvious appeal. The truth is, the best buys are usually found in the things most
+people don't understand or believe in. These might be securities, investment approaches or investing
+concepts, but the fact that something isn't widely accepted usually serves as a green light to those who're
+perceptive (and contrary) enough to see it. A great example can be found in the area of risk (again from
+"Everyone Knows"):
+
+ "I wouldn't buy that at any price - everyone knows it's too risky." That's something
+ I've heard a lot in my life, and it has given rise to the best investment opportunities I've
+ participated in. In fact, to an extent, it has provided the foundation for my career. In the
+ 1970s and 1980s, insistence on avoiding non-investment grade bonds kept them out of
+ most institutional portfolios and therefore cheap. Ditto for the debt of bankrupt
+ companies: what could be riskier?
+
+ The truth is, the herd is wrong about risk at least as often as it is about return. A
+ broad consensus that something's too hot to handle is almost always wrong. Usually it's
+ the opposite that's true.
+
+ I'm firmly convinced that investment risk resides most where it is least perceived,
+ and vice versa:
+
+ • When everyone believes something is risky, their unwillingness to buy usually
+ reduces its price to the point where it's not risky at all. Broadly negative opinion can
+ make it the least risky thing, since all optimism has been driven out of its price.
+
+ • And, of course, as demonstrated by the experience of Nifty Fifty investors, when
+ everyone believes something embodies no risk, they usually bid it up to the point
+ where it's enormously risky. No risk is feared, and thus no reward for risk bearing -
+ no "risk premium" - is demanded or provided. That can make the thing that's most
+ esteemed the riskiest.
+
+ This paradox exists because most investors think quality, as opposed to price, is the
+ determinant of whether something's risky. But high-quality assets can be risky, and
+ low-quality assets can be safe. It's just a matter of the price paid for them.
+
+For me, it follows from the above that the bottom line is simple: the riskiest thing in the world is the
+widespread belief that there's no risk. That's what most people believed in 2006-07, and that belief
+abetted the careless behavior that brought on the Great Financial Crisis. Only an understanding that risk
+was high could have discouraged that behavior and rendered the world safe.
+
+I call this "the perversity of risk." For most people it's hard to grasp that a perception of safety brings
+on risk, and a perception of risk can lead to safety. But it's clear for the deeper second-level thinker. This
+is just another example of the fact that what "everyone knows" is what shapes the environment, bringing
+high prices when things are perceived to be good, and vice versa.
+
+A perception that fundamental risk is low and the future is positive causes investors to be optimistic.
+This, in turn, causes asset prices to rise, and thus investment risk to be high. The problem that befalls
+most people - the first-level thinkers - is that they fail to distinguish between fundamental risk and
+investment risk.
+
+What has to be remembered is the defining role of price. Regardless of whether the fundamental
+outlook is positive or negative, the level of investment risk is determined largely by the relationship
+between the price of an asset and its intrinsic value. There is no asset so good that it can't become
+overpriced and thus risky, and few so bad that there's no price at which they're a buy (and safe). This is
+one of the greatest examples of counterintuitiveness. Only those who are able to see its logic can
+hope to be superior investors.
+
+What Else?
+
+I've covered a few of the most important topics under the headings of complexity and counter-
+intuitiveness:
+
+ • the importance of second-level thinking,
+ • the lack of identity between "good company" and "good investment,"
+ • the unhelpfulness of the things everyone knows, and
+ • the perversity of risk.
+
+I see, however, that I've already filled seven pages. So rather than continue to provide a full treatment of
+all the topics I want to cover, let's conduct an exercise. I'll list below a number of elements of time-
+honored investment wisdom. See if you can tell which are helpful and which aren't:
+
+ • The market is "efficient," meaning asset prices reflect all available information and thus provide
+ accurate estimates of intrinsic value.
+ • Because people are risk-averse, risky deals are discouraged and the market awards appropriate
+ risk premiums as compensation for incremental risk.
+ • Risky investments produce high returns.
+ • Adding risky assets to a portfolio makes it riskier.
+ • It's desirable that everything in a well-diversified portfolio performs well.
+ • Understanding the science of economics will enable you to safely harness the macro future.
+ • Sometimes the outlook is clear, and sometimes it's complicated and unpredictable. You have to
+ be careful when it's the latter.
+ • Correct forecasts lead to investment gains.
+ • A forecast has to be correct in order to be profitable.
+ • The earning of a profit proves the investor made a good decision.
+ • A low price makes for an attractive investment.
+ • Assets that are appreciating deserve your attention.
+ • Contrarianism will bring consistent success.
+ • It's important to do what feels right.
+ • Assets with greater liquidity are safer.
+ • The level of risk in a portfolio can be kept low by applying a simple formulaic process.
+
+My answer is that all sixteen reflect potential misconceptions, and they have to be (a) understood at the
+second level, not the first, and (b) dismissed as always holding the keys to success. Here's why:
+
+ • The market is "efficient," meaning asset prices reflect all available information and thus
+ provide accurate estimates of intrinsic value - The efficient market hypothesis assumes people
+ are rational and objective. But since emotion so often rules in place of reason, the market doesn't
+ necessarily reflect what's true, but rather what investors think is true. Thus prices can range all
+ over the place. Sometimes they're fair, but sometimes they're way too high or low. It's a big
+ mistake to impute rationality to the market and believe its message.
+
+ • Because people are risk-averse, risky deals are discouraged and the market awards
+ appropriate risk premiums as compensation for incremental risk - The truth is that investors'
+ risk-averseness fluctuates between too much and too little. When it's the latter, skepticism and
+ conservatism dry up, due diligence is inadequate, risky deals are easy to pull off, and
+
+ compensation for risk bearing usually turns out to be insufficient. Investors absolutely cannot
+ depend on the market to discipline itself.
+
+ • Risky investments produce high returns - This is one of the greatest of the old saws, and one
+ of the wrongest.
+
+ o A collection of low-risk investments can produce a high return if the low-risk character of
+ the components permits them to perform dependably and keeps there from being any big
+ losers to pull down the overall result. An absence of losses can give you a great start
+ toward a good outcome. This is the cornerstone of Oaktree's investment philosophy.
+
+ o On the other hand, high-risk investments can't be counted on for high returns. If they
+ could, they wouldn't be high-risk. High-risk investments can fail to provide the high
+ returns they seemed to promise if the analysis underlying them proves to have been ill-
+ founded or if they run into negative developments.
+
+ The presumed positive relationship between risk and return is predicated on the assumption that
+ there's no such thing as investment skill and value-adding decision making. If markets are
+ efficient and there's no skill, it's reasonable to believe that higher returns can be attained only
+ through the bearing of increased risk. But if outstanding skill is present, there's no reason to
+ think it can't be used to create portfolios with low risk and high return potential.
+
+ • Adding risky assets to a portfolio makes it riskier - One of Nobel prize-winner William
+ Sharpe's greatest contributions to investment theory came in the realization that if a portfolio
+ holds only low-risk assets, the addition of a risky asset can make it safer. This happens because
+ doing so increases the portfolio's diversification and reduces the correlation among its
+ components, reducing its vulnerability to a single negative development.
+
+ • It's desirable that everything in a well-diversified portfolio performs well - The truth is, if all
+ the holdings were to perform well in one scenario, they could all perform poorly in another. That
+ means the benefits of diversification wouldn't be enjoyed. It shouldn't be surprising - or totally
+ disappointing - to have some laggards in a portfolio that's truly well-diversified.
+
+ • Understanding the science of economics will enable you to safely harness the macro future -
+ There are no immutable rules in play. "In economics and investments, because of the key role
+ played by human nature, you just can't say for sure that 'if A, then B,' as you can in real science.
+ The weakness of the connection between cause and effect makes outcomes uncertain. In other
+ words, it introduces risk." ("Risk Revisited," September 2014).
+
+ • Sometimes the outlook is clear, and sometimes it's complicated and unpredictable. You
+ have to be careful when it's the latter - The truth is, the future is never worry-free. Sometimes
+ it seems to be, because no risks are apparent. But the skies are never as clear as they seem at their
+ clearest. Which is more treacherous: when everyone understands that the future presents
+ risks, or when they believe it to be knowable and benign? As I mentioned earlier, I worry
+ about the latter much more than the former.
+
+ • Correct forecasts lead to investment gains - The easiest way to have a correct forecast is to
+ extrapolate a trend and see it continue as expected. Most forecasters do a lot of extrapolating,
+ meaning their forecasts are usually broadly shared. Thus when the trend does continue,
+ everyone's right. But since everyone held the same view, the continuing trend was probably
+
+ discounted in advance in the price of the asset, and the fact that it rolls on as expected doesn't
+ necessarily produce profit. For a forecast to be highly profitable, it has to be idiosyncratic. But,
+ given how often trends continue, idiosyncratic forecasts aren't often right.
+
+ • A forecast has to be correct in order to be profitable - Just as correct forecasts aren't
+ necessarily profitable, profitable forecasts don't have to be correct. A forecast - even if it's not
+ correct - can be profitable if it's merely less wrong than others. If a trend that everyone else
+ extrapolates turns out not to continue, a prediction of the deviation can be very profitable . . . even
+ if it's not exactly on target.
+
+ • The earning of a profit proves the investor made a good decision - One of the first things I
+ learned at Wharton was that you can't necessarily tell the quality of a decision from the outcome.
+ Given the unpredictability of future events and, especially, the presence of randomness in the
+ world, a lot of well-reasoned decisions produce losses, and plenty of poor decisions are
+ profitable. Thus one good year or a few big winners may tell us nothing about an investor's skill.
+ We have to see a lot of outcomes and a long history - and especially a history that includes some
+ tough years - before we can say whether an investor has skill or not.
+
+ • A low price makes for an attractive investment - I talked at the bottom of page seven about the
+ importance of price in determining whether an investment is risky. But if you reread the part in
+ bold, you'll see it doesn't say a low price is the essential element. An asset may have a low
+ absolute dollar price, a low price compared to the past, or a low p/e ratio, but usually the price has
+ to be low relative to the asset's intrinsic value for the investment to be attractive and for the risk
+ to be low. It's easy for investors to get into trouble if they fail to understand the difference
+ between cheapness and value.
+
+ • Assets that are appreciating deserve your attention - Most people impute intelligence to the
+ market, and thus they think rising prices signal fundamental merit. They may be attracted to
+ "momentum investing," which is based on the belief that something that has been appreciating is
+ likely to continue doing so. But the truth is, the higher the price (everything else being equal), the
+ less attractive an asset is. Momentum investing works until it stops, at which time the things that
+ have been doing worst - and may be most undervalued - take over market leadership.
+
+ • Contrarianism will bring consistent success - It's true that the investing herd is often wrong.
+ In particular, it behaves more aggressively the more prices rise, and more cautiously the more
+ they fall - the opposite of what should happen. But doing the opposite of what the crowd does
+ isn't a sure thing either. Much of the time there isn't anything dramatic to either do or avoid.
+ Contrarianism is most effective at the extremes, and then only for those who understand what the
+ herd is doing and why it's wrong. And they still have to summon the nerve to do the opposite.
+
+ • It's important to do what feels right - The best investors know intellectually what the right
+ thing to do is. But while this knowledge gives them comfort, they have to tamp down their
+ feelings in order to follow it. The best ideas are ones others haven't tumbled to, and as I wrote in
+ "Dare to Be Great," "Non-consensus ideas have to be lonely. By definition, non-consensus ideas
+ that are popular, widely held or intuitively obvious are an oxymoron. . . . Most great
+ investments begin in discomfort." Good investors are subjected to the same misleading
+ influences and emotions as everyone else. They're just more capable of keeping them under
+ control.
+
+ • Assets with greater liquidity are safer - Greater liquidity generally means you can get out of an
+ asset easier and closer to the price of the last trade. But first, liquidity can dry up when other
+ investors change their mind about the asset. And second, the theoretical ability to get out when
+ you want says nothing about fundamental safety and relatively little about investment safety in
+ the long run. It's much safer to be in well-analyzed assets with good fundamentals and attractive
+ prices, in which case you can hold for a long time without needing to exit. The best defense
+ against a lack of liquidity is arranging your affairs so there's little need for it.
+
+ • The level of risk in a portfolio can be kept low by applying a simple formulaic process -
+ Rather, risk comes in many forms and they can be overlapping, contrasting and hard to manage.
+ For example, as I said in "Risk Revisited," efforts to reduce the risk of losing money invariably
+ increase the risk of missing out on gains, and efforts to reduce fundamental risk by buying higher-
+ quality assets often increase valuation risk, given that higher-quality assets often sell at elevated
+ valuation metrics.
+
+What does the above consist of? It's a collection of time-honored bromides that range from (a) only
+effective part of the time to (b) just plain wrong. These investment myths are pervasive but of little help.
+That fact leaves the investor to struggle in a complex, challenging environment.
+
+Recent Experience
+
+The recent volatility in the world's markets, the S&P 500's 11% drop between August 17 and 25, and the
+decline of nearly 40% in Chinese equities have given investors an opportunity to experience something
+else that's not easy: portfolio management under adverse conditions. A few lessons are worth noting,
+none of which are always easy to employ:
+
+ • Emotion is one of the investor's greatest enemies. Fear makes it hard to remain optimistic about
+ holdings whose prices are plummeting, just as envy makes it hard to refrain from buying the
+ appreciating assets that everyone else is enjoying owning. As I mentioned just above, everyone is
+ buffeted by the same influences and emotions. Superior investors may not be insulated, but
+ they manage to act as if they are.
+
+ • Confidence is one of the key emotions, and I attribute a lot of the market's recent volatility to a
+ swing from too much of it a short while ago to too little more recently. The swing may have
+ resulted from disillusionment: it's particularly painful when investors recognize that they
+ know far less than they had thought about how the world works. In this case, when China's
+ growth slowed, its currency depreciated and its market corrected, I think a lot of investors
+ realized they don't know what the implications of these things are for the economies of the U.S.
+ and the world. It's important to remain moderate as to confidence, but instead it's usually the
+ case that confidence - like other emotions - swings radically.
+
+ • Especially during downdrafts, many investors impute intelligence to the market and look to it to
+ tell them what's going on and what to do about it. This is one of the biggest mistakes you can
+ make. As Ben Graham pointed out, the day-to-day market isn't a fundamental analyst; it's
+ a barometer of investor sentiment. You just can't take it too seriously. Market participants
+ have limited insight into what's really happening in terms of fundamentals, and any intelligence
+ that could be behind their buys and sells is obscured by their emotional swings. It would be
+ wrong to interpret the recent worldwide drop as meaning the market "knows" tough times lay
+ ahead. Rather, China came out with some negative news and people panicked, especially
+
+ Chinese investors who had bought stocks on margin and perhaps were experiencing their first
+ serious market correction. Their selling prompted investors in the U.S. and elsewhere to sell also,
+ believing that the market decline in China signaled serious implications for the Chinese economy
+ and others. The analysis of fundamentals and valuation should dictate an investor's
+ behavior, not the actions of others. If you let the investing herd - which determines market
+ movements - tell you what to do, how can you expect to outperform?
+
+ • While China was the "proximate cause" of the volatility, other things often contribute, and last
+ month was no exception. The word that always comes to mind for me is "confluence."
+ Investors can usually keep their heads in the face of one negative. But when they face more
+ than one simultaneously, they often lose their cool. One additional negative last month was the
+ glitch in Bank of New York Mellon's SunGard software, and the bank's consequent inability to
+ price 1,200 mutual funds and ETFs that it administers. It was another dose of disillusionment: no
+ one enjoys learning that the market mechanisms they need to work can't be depended on.
+
+ • In good times - perhaps emulating Warren Buffett - investors talk about how much they'd like to
+ see the stocks they own decline in price, since it would allow them to add to positions at lower
+ levels. But when prices collapse, the chance to average down is usually a lot less welcome
+ . . . and a lot harder to act on.
+
+ • Investors can be tempted to sell during corrections like this one. Oftentimes emotional behavior
+ is cloaked in intelligent-sounding rationalizations like "it's important to sell down to your
+ comfort level." But the valid reasons to sell are principally because you feel fundamentals have
+ deteriorated or because the price has risen enough. Selling to get more comfortable as prices
+ fall (just like buying for that purpose in a rising market) has nothing to do with the
+ relationship between price and value.
+
+ • Another reason to sell, of course, is fear that the slide will continue. But if you're tempted to do
+ so, ask yourself first whether you think the stock market is going to rise or fall tomorrow, and
+ second how much you'd bet on it. If you can tackle those decisions in your head rather than your
+ gut, you'll probably admit you have no idea what's going to happen in the short term.
+
+ • Regardless of the outlook for fundamentals or the relationship between price and value, many
+ people sell in a downdraft because, well, you have to do something, and they feel it's
+ unreasonably passive to just sit there. But something about which I feel strongly is that it's
+ not the things you buy and sell that make you money; it's the things you hold. Of course you
+ have to buy things in order to hold them. But my point is that transactions merely adjust what
+ you own, and engaging in them doesn't necessarily increase potential profit. Sticking with what
+ you own may be enough - although it may not be easy in tough times.
+
+ • In my memo on liquidity in March, I borrowed an idea from my son Andrew: If you look
+ longingly at the chart for a stock that has risen for twenty years, think about how many days there
+ were when you would've had to talk yourself out of selling. That's not always easy. Two of the
+ main reasons people sell stocks are because they go up and because they go down. When they go
+ up, people who hold them become afraid that if they don't sell, they'll give back their profit, kick
+ themselves, and be second-guessed by their bosses and clients. And when they go down, they
+ worry that they'll fall further.
+
+ There may be absolutely no intellectual justification for that feeling. If you liked it a month ago
+ at $80, should you sell it now just because it's at $60? The best way to get through a
+ downdraft is to verify your thesis, tighten your seatbelt and hang on. If you sell just
+ because there's a downdraft (or an updraft), you'll never get that twenty-year winner.
+ When you look closely, you'll see that every twenty-year rise included a lot of ups and downs.
+ To enjoy long-term success, you have to hold through them.
+
+ • A lot has been written of late about reduced liquidity in the current investment environment, in
+ part a result of restrictions under the Volcker rule. This may have contributed to last month's
+ volatility, but it should be viewed as having exacerbated the short-term pain, not as altering the
+ long-term fundamentals.
+
+Coping with a declining market seems easy ahead of time, since emotions aren't in play and investors
+know what they should do. It's only when prices start falling in earnest, as they have recently, that it
+turns out to be harder than expected.
+
+So What Will Work?
+
+Superior investing isn't easy. I've set forth a number of examples of its complexity, and a long list of
+simplistic rules that can't be depended on. Among the many things that keep investing from being easy is
+the fact that no tactic works every time. Almost every tool an investor might employ is a two-edged
+sword. Here's how I put it last year in "Dare to Be Great II":
+
+ • If you invest, you will lose money if the market declines.
+ • If you don't invest, you will miss out on gains if the market rises.
+
+ • Market timing will add value if it can be done right.
+ • Buy-and-hold will produce better results if timing can't be done right.
+
+ • Aggressiveness will help when the market rises but hurt when it falls.
+ • Defensiveness will help when the market falls but hurt when it rises.
+
+ • If you concentrate your portfolio, your mistakes will kill you.
+ • If you diversify, the payoff from your successes will be diminished.
+
+ • If you employ leverage, your successes will be magnified.
+ • If you employ leverage, your mistakes will be magnified.
+
+ Each of these pairings indicates symmetry. None of the tactics listed will add value if it's
+ right but not subtract if it's wrong. Thus none of these tactics, in and of itself, can hold
+ the secret to dependably above average investment performance.
+
+ There's only one thing in the investment world that isn't two-edged, and that's
+ "alpha": superior insight or skill. Skill can help in both up markets and down markets.
+ And by making it more likely that your decisions are right, superior skill can increase the
+ expected benefit from concentration and leverage. But that kind of superior skill by
+ definition is rare and elusive. . . .
+
+ Why should superior profits be available to the novice, the untutored or the lazy?
+ Why should people be able to make above average returns without hard work and above
+ average skill, and without knowing something most others don't know? And yet many
+ individuals invest based on the belief that they can. (If they didn't believe that, wouldn't
+ they index or, at a minimum, turn over the task to others?)
+
+ No, the solution can't lie in rigid tactics, publicly available formulas or loss-eliminating
+ rules . . . or in complete risk avoidance. Superior investment results can only stem
+ from a better-than-average ability to figure out when risk taking will lead to gain
+ and when it will end in loss. There is no alternative.
+
+Superior skill is an essential ingredient if superior investment results are to be achieved reliably. No
+tactic or technique will lead to superior results in the absence of superior judgment and
+implementation. But by definition, only a small percentage of investors possess superior skill.
+
+It is mathematically irrefutable that (a) the average investor will produce before-fee performance in line
+with the market average and (b) active management fees will pull the average investor's return below the
+market average. This has to be considered in light of the fact that average performance can generally be
+obtained through passive investing, with tiny fees and almost no risk of falling short.
+
+Superior investors and their well-thought-out approaches can produce superior returns on average in the
+long run. But even they are far from perfect. The best they can hope for is that they'll be right more
+often than they're wrong, and that their successful decisions will add more than their mistakes subtract.
+
+So, in the end, there's only one absolute truth about investing. Charlie's right: it isn't easy.
+
+
+Memo: Inspiration from the World of Sports.
+
+I'm constantly intrigued by the parallels between investing and sports. They're illuminating as well as
+fun, and thus they've prompted two past memos: "How the Game Should Be Played" (May 1995) and
+"What's Your Game Plan?" (September 2003). In the latter memo, I listed five ways in which investing
+is like sports:
+
+ It's competitive - some succeed and some fail, and the distinction is clear.
+ It's quantitative - you can see the results in black and white.
+ It's a meritocracy - in the long term, the better returns go to the superior investors.
+ It's team-oriented - an effective group can accomplish more than one person.
+ It's satisfying and enjoyable - but much more so when you win.
+
+Another angle on the investing/sports analogy has since occurred to me: an investment career can feel like
+a basketball or football game with an unlimited number of quarters. We may be nearing December 31
+with a substantial year-to-date return or a big lead over our benchmarks or competitors, but when January
+1 rolls around, we have to tackle another year. Our record isn't finalized until we leave the playing field
+for good. Or as Yogi Berra put it, "It ain't over till it's over." It was Yogi's passing in late September
+that inspired this memo. [Since most of the references in this memo are to American sports, with their
+peculiarities and unique terminology, this is a good time for an apology to anyone who's unfamiliar with
+them.]
+
+Yogi Berra, Baseball Player
+
+Lawrence "Yogi" Berra was a catcher on New York Yankees baseball teams for eighteen years, from
+1946 to 1963. Although he was rarely number one in any offensive category, he often ranked among the
+top ten players in runs batted in, home runs, extra-base hits (doubles, triples and home runs), total bases
+gained and slugging percentage (total bases gained per at bat). He excelled even more on defense: in the
+1950s he was regularly among the top three or four catchers in terms of putouts, assists, double plays
+turned, stolen bases allowed and base stealers thrown out.
+
+Yogi was selected to play in the All-Star Game every year from 1948 through 1962. He was among the
+top three vote-getters for American League Most Valuable Player every year from 1950 through 1956,
+and he was chosen as MVP in three of those years. The Yankee teams on which he played won the
+American League pennant and thus represented the league in the World Series fourteen times, and they
+won the World Series ten times. He was an important part of one of the greatest dynasties in the history
+of sports.
+
+To me, the thing that stands out most is Yogi's consistency. Not only did he perform well in so many
+different categories, but also:
+
+ He led the American League in number of games played at the grueling catcher position eight
+ years in a row.
+
+ He was regularly among the catchers with the fewest passed balls and errors committed.
+ He had around 450-650 at bats most years, but over his entire career he averaged only 24
+ strikeouts per year, and there was never one in which he struck out more than 38 times. (In 1950
+ he did so only 12 times in nearly 600 at bats.) Thus, ten times between 1948 and 1959 he was
+ among the ten players with the fewest strikeouts per plate appearance.
+
+In short, Yogi rarely messed up.
+
+Consistency and minimization of error are two of the attributes that characterized Yogi's career, and they
+can also be key assets for superior investors. They aren't the only ways for investors to excel: some great
+ones strike out a lot but hit home runs in bunches the way Reggie Jackson did. Reggie - nicknamed "Mr.
+October" because of his frequent heroics in the World Series - was one of the top home run hitters of all
+time. But he also holds the record for the most career strikeouts, and his ratio of strikeouts to home runs
+was four times Yogi's: 4.61 versus 1.16. Consistency and minimization of error have always ranked
+high among my priorities and Oaktree's, and they still do.
+
+Yogi Berra, Philosopher
+
+Although Yogi was one of the all-time greats, his baseball achievements may be little-remembered by the
+current generation of fans, and few non-sports lovers are aware of them. He's probably far better known
+for the things he said:
+
+ It's like déjà vu all over again.
+ When you come to a fork in the road, take it.
+ You can observe a lot by just watching.
+ Always go to other people's funerals, otherwise they won't come to yours.
+ I knew the record would stand until it was broken.
+ The future ain't what it used to be.
+ You wouldn't have won if we'd beaten you.
+ I never said most of the things I said.
+
+I've cited Yogi's statements in previous memos, and I borrowed the Yogi-ism at the top of the list above
+for the title of one in 2012. "Out of the mouths of babes," they say, comes great wisdom. The same was
+true for this uneducated baseball player, and many of Yogi's seeming illogicalities turn out to be profound
+upon more thorough examination.
+
+"Baseball is ninety percent mental and the other half is physical." That was another of Yogi's dicta, and I
+think it's highly useful when thinking about investing. Ninety percent of the effort to outperform may
+consist of financial analysis, but you need to put another fifty percent into understanding human behavior.
+The market is made up of people, and to beat it you have to know them as well as you do the thing
+you're considering investing in.
+
+I sometimes give a presentation called, "The Human Side of Investing." Its main message surrounds just
+that: while investing draws on knowledge of accounting, economics and finance, it also requires insight
+into psychology. Why? Because investors' objectivity and rationality rarely prevail as much as
+investment theory assumes, and emotion and "human nature" often take over instead. That's why my
+presentation is subtitled, "In theory there's no difference between theory and practice. In practice
+there is." Yogi said that, too, and I think it's absolutely wonderful.
+
+Things often fail to work the way investment theory says they should. Markets are supposed to be
+efficient, with no underpricings to find or overpricings to avoid, making it impossible to outperform. But
+exceptions arise all the time, and they're usually attributable more to human failings than to math
+mistakes or overlooked data.
+
+And that leads me to one of the most thought-provoking Yogi-isms, concerning his choice of restaurant:
+"Nobody goes there anymore because it's too crowded." What could be more nonsensical? If nobody
+goes there, how can it be crowded? And if it's crowded, how can you say nobody goes there?
+
+But as I wrote last month in "It's Not Easy," a lot of accepted investment wisdom makes similarly little
+sense. And perhaps the greatest - and most injurious - of all is the near-unanimous enthusiasm that's
+behind most bubbles.
+
+"Everyone knows it's a great buy," they say. That, too, makes no sense. If everyone believes it's a
+bargain, how can it not have been bought up by the crowd and had its price lifted to non-bargain
+status as a result? You and I know the things all investors find desirable are unlikely to represent good
+investment opportunities. But aren't most bubbles driven by the belief that they do?
+
+ In 1968, everyone knew the Nifty Fifty stocks of the best companies in America represented
+ compelling value, even after their p/e ratios had reached 80 or 90. That belief kept them there . . .
+ for a while.
+
+ In 2000, everyone thought tech investing was infallible and tech stocks could only rise. And they
+ were sure the Internet would change the world and the stocks of Internet companies were good
+ buys at any price. That's what took the TMT boom to its zenith.
+
+ And here in 2015, everyone knows social media companies will own the future. But will their
+ valuations turn out to be warranted?
+
+Logically speaking, the bargains that everyone has come to believe in can't still be bargains . . . but
+that doesn't stop people from falling in love with them nevertheless. Yogi was right in indirectly
+highlighting the illogicality of "common knowledge." As long as people's reactions to things fail to be
+reasonable and measured, the spoils will go to those who are able to recognize this contradiction.
+
+Looking for Lance Dunbar
+
+There may be a few folks in America who, like the rest of the world's population, are unaware of the
+growing popularity of daily fantasy football. In this on-line game, contestants assemble imaginary
+football teams staffed by real professional players. When that week's actual football games are played,
+the participants receive "fantasy points" based on their players' real-world accomplishments, and the
+participants with the most points win cash prizes. (Why is it okay to engage in interstate betting on
+fantasy football but not on football itself? Because proponents were able to convince the authorities that
+the act of picking a team for fantasy football qualifies it as a game of skill, not chance. But last week,
+Nevada became the sixth state to ban daily fantasy sports, concluding that it's really nothing but
+gambling.) The commercials for fantasy football say things like, "Sign up, make your picks, and
+collect your winnings." That sounds awfully easy . . . and not that different from discount brokers'
+ads during bull markets.
+
+In daily fantasy football, the challenge comes from the fact that the participants have a limited amount of
+money to spend and want to acquire the best possible team for it. If all players were priced the same
+
+regardless of their ability (a completely inefficient market), the prize would go to the participant
+who's most able to identify talented players. And if all players were priced precisely in line with
+their ability (a completely efficient market), it would be impossible to acquire a more talented team
+for the same budget, so winning would hinge on random developments.
+
+The market for players in fantasy football appears to be less than completely efficient. Thus participants
+have the possibility of finding mispricings. A star may be overpriced, so that he produces few fantasy
+points per dollar spent on him. And a journeyman might be underpriced, able to produce more rushing
+(i.e., running) yards, catches, tackles or touchdowns than are reflected by his price. That's where the
+parallel to investing comes in.
+
+Smart fantasy football participants understand that the goal isn't to acquire the best players, or
+players with the lowest absolute price tags, but players whose "salaries" understate their merit -
+those who are underpriced relative to their potential and might amass more points in the next game than
+the cost to draft them reflects. Likewise, smart investors know the goal isn't to find the best
+companies, or stocks with the lowest absolute dollar prices or p/e ratios, but the ones whose
+potential isn't fully reflected in their price. In both of these competitive arenas, the prize goes to
+those who see value others miss.
+
+There's another similarity. Sports media employ "experts" to cover this imaginary football league, and
+it's their job to attract viewers and readers by offering advice on which players to draft. (What other
+talking heads does that remind you of?) My musings on fantasy football started in late September, when I
+heard a TV commentator urge that participants take a look at Lance Dunbar, a running back for the Dallas
+Cowboys, based on the belief that Dunbar's price might understate his potential to earn fantasy points.
+The commentator's thesis was that the Cowboys' star quarterback was injured and, because of the
+replacement quarterback's playing style, Dunbar might get more opportunities - and run up more yardage
+- than his price implied. Thus, Dunbar might represent an underappreciated investment opportunity.
+
+Or not. Dunbar tore his anterior cruciate ligament in the next game, meaning he won't produce any more
+points - real or virtual - this season. It just proves that even if your judgment is sound, randomness has a
+lot of influence on outcomes. You never know which way the ball will bounce.
+
+"Sign up, make your picks, and collect your winnings." If only everyone - fantasy football entrants
+and investors alike - understood it's not that easy.
+
+Are the Helpers Any Help?
+
+In investing, there are a lot of people who'll offer to enhance your results . . . for a fee. In an allegorical
+treatment in Berkshire Hathaway's 2005 annual report, Warren Buffett called them "Helpers." There are
+helpers in sports, too, especially where there's betting. This memo gives me a chance to discuss an
+invaluable clipping on the subject that I collected nine months ago and have been looking for an occasion
+to mention.
+
+The New York Post's sports writers opine weekly as to which professional football games readers should
+bet on (real games, not fantasy). Each week, the Post reports on the results of the prognostications for the
+season to date. When they published the results last December 28, they might have thought they
+demonstrated the value of those helpers. But I think that tabulation - nearly at the end of the football
+season - showed something very different.
+
+By the time December 28 had rolled around, the eleven forecasters had tried to predict the winner of each
+of the 237 games that had been played to date, as well as what they thought were their 47 or so "best
+bets." By "the winner," I assume they meant the team that would win net of the bookies' "point spread."
+(Without doing something to even the odds, it would be too easy for bettors to win by backing the
+favorites. To make betting more of a challenge, the bookies establish a spread for each game: the number
+of points by which the favored team has to beat the underdog in order to be deemed the winner for betting
+purposes.) How often were the Post's picks correct? Here's the answer:
+
+ Percentage correct Total picks (2,607 games) Best bets (522 games)
+
+An incorrigible optimist - or perhaps the Post - might say these results show what a good job the
+forecasters did as a group, since some were right more often than they were wrong. But that's not the
+important thing. For me, the key conclusions are these:
+
+ The average results certainly make it seem that picking football winners (net of the points spread)
+ is just a 50/50 proposition. Evidently, the folks who establish the point spreads are pretty good at
+ their job, so that it's hard to know which team will win.
+
+ The symmetrical distribution of the results and the way they cluster around 50% tell me there
+ isn't much skill in predicting football winners (or, if it exists, these pickers don't have it). The
+ small deviations from 50% - both positive and negative - suggest that picking winning football
+ teams for betting purposes may be little more than a matter of tossing a coin.
+
+ Even the best forecasters weren't right much more than half the time. While I'm not a
+ statistician, I doubt the fact that a few people were right on 56-58% of their picks rather than 50%
+ proves it was skill rather than luck. Going back to the coin, if you flipped one 47 times (or even
+ 237 times), you might occasionally get 58% heads.
+
+ Lastly, all eleven writers collectively - and seven of them individually - had worse results on
+ the games they considered their "best bets" than on the rest of the games. So clearly they
+ aren't able to accurately assess the validity of their own forecasts.
+
+And remember, these forecasts weren't made by members of the general populace, but rather by
+people who make their living following and writing about sports.
+
+My favorite quotation on the subject of forecasts comes from John Kenneth Galbraith: "We have two
+classes of forecasters: Those who don't know - and those who don't know they don't know." Clearly
+these forecasters don't know. But do they know it? And do their readers?
+
+The bottom line on picking football winners seems to be that the average forecaster is right half the time,
+with exceptions that are relatively few in number, insignificant in degree and possibly the result of luck.
+He might as well flip a coin. And that brings us back to investing, since I find this analogous to the
+
+observation that the average investor's return equals the market average. He, too, might as well
+flip a coin . . . or invest in an index fund.
+
+And by the way, the average participant's average result - in both fields - is before transaction costs and
+fees. After costs, the average investor's return is below that of the market. In that same vein, after
+costs the average football bettor doesn't break even.
+
+What costs? In sports betting, we're not talking about management fees or brokerage commissions, but
+"vigorish" or "the vig." Wikipedia says it's "also known as juice, the cut or the take . . . the amount
+charged by a bookmaker . . . for taking a bet from a gambler." This obscure term refers to the fact that to
+try to win $10 from a bookie, you have to put up $11. You're paid $10 if you win, but you're out $11 if
+you lose. N.b.: bookies and sports betting parlors aren't in business to provide a public service.
+
+If you bet against a friend and win half the time, you end up even. But if you bet against a bookie or a
+betting parlor and win half the time, on average you lose 10% of the amount wagered on every other bet.
+So at $10 per game, a bettor following the Post's football helpers through December 28, 2014 would have
+won $13,280 on the 1,328 correct picks but lost $14,069 on the 1,279 losers. Overall, he would have lost
+$789 even though slightly more than half the picks were right. That's what happens when you play in
+a game where the costs are high and the edge is insufficient or non-existent.
+
+Another Look at Performance Assessment
+
+This memo gives me an opportunity to touch on another recent sporting event: Super Bowl XLIX, which
+was played last February. I'm returning to a subject I covered at length in the "What's Real?" section in
+"Pigweed" (February 2006), which was about the meltdown of a hedge fund called Amaranth. Among
+the ways I tried to parse the events surrounding Amaranth was through an analogy to the Rose Bowl game
+played at the end of the 2005 college football season to determine the national champion. In the game,
+the University of Texas beat the favored University of Southern California. While leading by five points
+with less than three minutes left to play, USC had a fourth down with two yards to go for a first down.
+They lost largely because - in something other than the obvious choice - the coach elected to go for it
+rather than punt the ball away, and they were stopped a yard short. UT got the ball and went on to score
+the winning touchdown. Before the game, USC had widely been considered one of the greatest teams in
+college football history. Afterwards there was no more talk along those lines. Its loss hinged on that one
+very controversial play . . . controversial primarily because it was unsuccessful. (Had USC made the two
+yards and earned a first down, they would have retained the ball and been able to run out the clock,
+sealing a victory.)
+
+Something very similar happened in this year's Super Bowl. The Seattle Seahawks were trailing the New
+England Patriots by a few points. On second down, with just 26 seconds to go and one timeout
+remaining, the Seahawks had the ball on the Patriots' one-yard line. Everyone was sure they would try a
+run by Marshawn Lynch (who in the regular season had ranked first in the league in rushing touchdowns
+and fourth in rushing yards), and that he would score the winning touchdown. But the Seahawks'
+maverick coach, Pete Carroll - ironically, also the coach of USC's losing Rose Bowl team - tried a pass
+play instead. The Patriots intercepted the pass, and the Seahawks' dreams of a championship ended.
+
+"What an idiot Carroll is," the fans screamed. "Everyone knows that when you throw a pass, only three
+things can happen (it's caught, it's dropped or it's intercepted) and two of them are bad." The Seahawks
+lost a game they seemed to be on the verge of winning, and Carroll was vilified for being too bold and
+wrong . . . again. His decision was unsuccessful. But was it wrong?
+
+With assistance from Warren Min in Oaktree's Real Estate Department, I want to point out some of the
+considerations that Carroll may have taken into account in making his decision:
+
+ Up to that point in the season, more than 100 passes had been attempted from the one-yard line,
+ and none of them had been intercepted. So Carroll undoubtedly expected that, at the very worst,
+ the pass would be incomplete and the clock would stop (as it does after incomplete passes) with
+ just a few seconds elapsed. That would have given the Seahawks time for one or two more plays.
+
+ With only 26 seconds remaining and the Seahawks down to their last timeout, if they ran and
+ Lynch was stopped, the clock would have kept running (as it does after rushing plays). Seattle
+ would then have been forced to either use their precious timeout or try a hurried play.
+
+ Malcolm Butler, the defender who intercepted Seattle's pass, was a rookie playing in the biggest
+ game of his life, and he was undersized relative to Ricardo Lockette, the wide receiver to whom
+ the pass was thrown.
+
+ According to The Boston Globe, of Lynch's 281 carries during the 2014 regular season, 20 had
+ resulted in lost yardage and two more had yielded fumbles. In other words, the Seahawks had
+ experienced a setback 7.8% of the time when Lynch carried the ball. Further, Lynch had been
+ handed the ball at the one-yard line five times in 2014, but he scored only once, for a success rate
+ of 20%. Thus it was no sure thing that Lynch would be able to gain that needed yard against a
+ defense expecting him to run.
+
+To the first-level thinker, Carroll's decision to pass looks like a clear mistake. Maybe that's because great
+running backs seem so dependable, or because passing generally seems like an uncertain proposition. Or
+maybe it's just because the pass was picked off and the game lost: outcomes strongly bias perceptions.
+
+The second-level thinker sees that the obvious call - to run - was far from sure to work, and that doing
+the less-than-obvious - passing - might put the element of surprise on the Seahawks' side and represent
+better clock management. Carroll made his decision and it was unsuccessful. But that doesn't prove he
+was wrong.
+
+Here's what my colleague Warren wrote me:
+
+ The media and "talking heads" completely buried the decision to throw because of one
+ data point: the pass was intercepted and the Seahawks lost the game. But I don't believe
+ this was a bad decision. In fact, I think this was a very well-informed decision that more
+ people possessing all the data might have made given ample time to analyze the situation.
+
+ As you always say, you can't judge the quality of a decision based on results. If we
+ somehow were able to replay this game in alternative realities to test the results, I think
+ the Seahawks' decision wouldn't look so bad. But they certainly lost, perhaps because of
+ bad luck. Now, similar to the USC/Texas situation, the media has written some very
+ significant storylines regarding legacies:
+
+ The Patriots secured "dynasty" status by winning four Super Bowls since 2001.
+ Tom Brady, the Patriots' quarterback, is hailed as one of the greatest of all time.
+ The Seahawks' defense, which was talked about as being "the greatest ever," is
+ lauded no more (despite the fact that it wasn't defense that lost the game).
+
+But should this one victory - which swung on a single play - really place the Patriots and Tom
+Brady among the greatest? And was Carroll actually wrong? All of this goes back to one of my
+favorite themes from Fooled by Randomness by Nassim Nicholas Taleb, for me the bible on how to
+understand performance in an uncertain world.
+
+In his book, Taleb talks about "alternative histories," which I describe as "the other things that reasonably
+could have happened but didn't." Sure, the Seahawks lost the game. But they could have won, and
+Carroll's decision would have made the difference in that case, too, making him the hero instead of the
+goat. So rather than judge a decision solely on the basis of the outcome, you have to consider (a) the
+quality of the process that led to the decision, (b) the a priori probability that the decision would
+work (which is very different from the question of whether it did work), (c) the other decisions that
+could have been made, (d) all of the events that reasonably could have unfolded, and thus (e) which
+of the decisions had the highest probability of success.
+
+Here's the bottom line:
+
+ There are many subtle but logical reasons for arguing that Coach Carroll's decision made sense.
+ The decision would have been considered a stroke of genius if it had been successful.
+ Especially because of the role of luck, the correctness of a decision cannot necessarily be judged
+ from the outcome.
+ You clearly cannot assess someone's competence on the basis of a single trial.
+
+What all the above really illustrates is the difference between superficial observation and deep, nuanced
+analysis. The fact that something worked doesn't mean it was the result of a correct decision, and
+the fact that something failed doesn't mean the decision was wrong. This is at least as true in
+investing as it is in sports.
+
+The Victor's Mindset
+
+It often seems that just as I'm completing a memo, a final inspiration pops up. This past weekend, the
+Financial Times carried an interesting interview with Novak Djokovic, the number one tennis player in
+the world today. What caught my eye was what he said about the winner's mental state:
+
+ I believe that half of any victory in a tennis match is in place before you step on the court.
+ If you don't have that self-belief, then fear takes over. And then it will get too much
+ for you to handle. It's a fine line. (Emphasis added)
+
+Djokovic's statement reminded me of a conversation I had earlier this month, on a subject I've written
+about rarely if ever: self-confidence. It ranks high among the attributes that must be present if one is to
+achieve superior results.
+
+To be above average, an athlete has to separate from the pack. To win at high-level tennis, a player has to
+hit "winners" - shots his opponents can't return. They're hit so hard, so close to the lines or so low over
+the net that they have the potential to end up as "unforced errors." In the absence of skill, they're unlikely
+to be executed successfully, meaning it's unwise to try them. But people who possess the requisite skill
+are right in attempting them in order to "play the winner's game" (see "What's Your Game Plan").
+
+These may be analogous to investment actions that Yale's David Swensen would describe as
+"uncomfortably idiosyncratic." The truth is, most great investments begin in discomfort - or, perhaps
+
+better said, they involve doing things with which most people are uncomfortable. To achieve great
+performance you have to believe in value that isn't apparent to everyone else (or else it would already be
+reflected in the price); buy things that others think are risky and uncertain; and buy them in amounts large
+enough that if they don't work out they can lead to embarrassment. What are examples of actions that
+require self-confidence?
+
+ Buying something at $50 and continuing to hold it - or maybe even buying more - when the price
+ falls to $25 and "the market" is telling you you're wrong.
+ After you've bought something at $50 (thinking it's worth $200), refusing to "prudently take
+ some chips off the table" when it gets to $100.
+ Going against conventional wisdom and daring to "catch a falling knife" when a company
+ defaults and the price of its debt plummets.
+ Buying much more of something you like than it represents in the index you're measured against,
+ or entirely excluding an index component you dislike.
+
+In each of these cases, the first-level thinker does that which is conventional and easy - and which doesn't
+require much self-confidence. The second-level thinker views things differently and, as a consequence, is
+willing to take actions like those described above. But they're unlikely to be done in the absence of
+conviction. The great investors I know are confident second-level thinkers and entirely comfortable
+diverging from the herd.
+
+It's great for investors to have self-confidence, and it's great that it permits them to behave boldly, but
+only when that self-confidence is warranted. This final qualification means that investors must
+engage in brutally candid self-assessment. Hubris or over-confidence is far more dangerous than a
+shortage of confidence and a resultant unwillingness to act boldly. That must be what Mark Twain had in
+mind when he said, "It ain't what you don't know that gets you into trouble. It's what you know for sure
+that just ain't so." And it also has to be what Novak Djokovic meant when he said, "It's a fine line."
+
+So there you have some of the key lessons from sports:
+
+ For most participants, success is likely to lie more dependably in discipline, consistency and
+ minimization of error, rather than in bold strokes - high batting average and an absence of
+ strikeouts, not the occasional, sensational home run.
+ But in order to be superior, a player has to do something different from others and has to have an
+ appropriate level of confidence that he can succeed at it. Without conviction he won't be able to
+ act boldly and survive bouts of uncertainty and the inevitable slump.
+ Because of the significant role played by randomness, a small sample of results is far from sure to
+ be indicative of talent or decision-making ability.
+ The goal for bettors is to see value in assets that others haven't yet recognized and that isn't
+ reflected in prices.
+ At first glance it seems effort and "common sense" will lead to success, but these often prove to
+ be unavailing.
+ In particular, it turns out that most people can't see future outcomes much better than anyone else,
+ but few are aware of this limitation.
+ Before a would-be participant enters any game, he should assess his chances of winning and
+ whether they justify the price to play.
+
+These lessons can serve investors very well.

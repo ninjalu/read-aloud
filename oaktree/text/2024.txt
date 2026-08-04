@@ -1,0 +1,2421 @@
+Memo: Easy Money.
+
+The backstory: I began writing these memos in 1990 and continued to do so for ten years despite
+never receiving a single response. Then, on the first business day of 2000, I published bubble.com, a memo
+with warnings about excesses in the tech sector that turned out to be timely. The inspiration for the
+memo came from a book I'd read the preceding autumn: Devil Take the Hindmost: A History of
+Financial Speculation, by Edward Chancellor, an account of speculative excesses starting with the South
+Sea Bubble of the early 1700s. The book's description of behavior surrounding the mania for the South
+Sea Company jibed with what I was seeing in the tech/media/telecom bubble that was underway. I
+received excellent feedback on the memo from clients - encouragement that prompted the many memos
+that have followed.
+
+I consider it highly coincidental that 24 years later, I devoted another autumn to reading another
+Chancellor book, The Price of Time: The Real Story of Interest, his history of interest rates and central
+bank behavior. I thank Zach Kessler, a regular memo reader, for sending it. The relevance of The Price
+of Time to the trends I've been discussing for the last year occasions this memo.
+
+ * * *
+
+In December 2022, I published Sea Change, a memo that primarily discussed the 13-year period from
+the end of 2008, when the U.S. Federal Reserve cut the fed funds rate to zero to counter the effects of
+the Global Financial Crisis, to the end of 2021, when the Fed abandoned the idea that inflation was
+transitory and readied what turned out to be a rapid-fire succession of interest rate increases. The
+memo concentrated on the impact that this lengthy period of unusually low interest rates had on the
+economy, the financial markets, and investment outcomes. I followed this up with the memo Further
+Thoughts on Sea Change, which Oaktree released to clients in May 2023 and to the public in October.
+In the latter memo and subsequent conversations with clients, I've emphasized the significant impact
+of low interest rates on the behavior of participants in the economy and the markets.
+
+Easy Times
+
+In Sea Change, I likened the effect of low interest rates to the moving walkway at the airport. If you walk
+while on it, you move ahead faster than you would on solid ground. But you mustn't attribute this rapid
+pace to your physical fitness and overlook the contribution from the walkway.
+
+In much the same way, declining and ultra-low interest rates had a huge but underrated influence on the
+period in question. They made it:
+
+ • easy to run a business, with the stimulated economy growing unabated for more than a
+ decade;
+ • easy for investors to enjoy asset appreciation;
+
+ • easy and cheap to lever investments;
+ • easy and cheap for businesses to obtain financing; and
+ • easy to avoid default and bankruptcy.
+
+In short, these were easy times, fueled by easy money. Like travelers on the moving walkway, it was
+easy for businesspeople and investors to think they were doing a great job all on their own. In particular,
+market participants got a lot of help in this period as they rode the 10-year-plus bull market, the longest in
+U.S. history. Many disregarded the benefits that ensued from low interest rates. But as one of the oldest
+investment adages says, we should never confuse brains with a bull market.
+
+As I've continued to think and talk about the switch from declining and/or ultra-low interest rates
+to more normal, stable ones, I've emphasized the fact that low rates alter investor behavior,
+distorting it in ways that have serious consequences.
+
+Thinking about the change in interest rates sensitized me to media mentions of low rates, and I've noticed
+many. This was particularly true following Silicon Valley Bank's meltdown last March, which many
+articles attributed to faulty managerial decisions made "during the preceding period of easy money."
+More recently, there's been much discussion of the less-favorable outlook for private equity, usually
+related to expectations that interest rates aren't going to return to the low levels of the recent past.
+
+The effects of low interest rates are multi-faceted and ubiquitous, yet frequently overlooked. I became
+more conscious of them as I read The Price of Time, and I want to catalog them here:
+
+ i. Low interest rates stimulate the economy
+
+ Everyone knows that when central banks want to stimulate their countries' economies, they cut
+ interest rates. Lower rates reduce costs for businesses and put money into the hands of
+ consumers. For example, since most people buy cars on credit or lease them, lower interest rates
+ make cars more affordable, increasing demand. The result is typically good for automakers, their
+ suppliers, and their workers, and thus for the economy in general.
+
+ It's important to realize that easy money keeps the economy aloft, at least temporarily. But low
+ interest rates can make the economy grow too fast, bringing on higher inflation and
+ increasing the probability that rates will have to be raised to fight it, discouraging further
+ economic activity. This oscillation of interest rates between extremes can have effects and
+ encourage behavior that natural/neutral rates (see p. 13) would be less likely to induce.
+
+ ii. Low interest rates reduce perceived opportunity costs
+
+ Opportunity cost is a major consideration in most financial decisions. But in low-interest-rate
+ environments, the rate earned on cash balances is minimal. Thus, you don't forgo much interest
+ by withdrawing money from the bank to buy a house or boat (or make an investment), which
+ makes doing so seem painless. For example, if someone's thinking about taking $1 million out of
+ savings for a purchase at a time when savings accounts pay 5% interest, they're likely to
+ understand that doing so will cost them $50,000 per year in forgone income. But when the rate
+ is zero, there is no opportunity cost. This makes the transaction more likely to occur.
+
+ iii. Low interest rates lift asset prices
+
+ In finance theory, the value of an asset is defined as the discounted present value of its future cash
+ flows. We discount future cash flows when calculating present value because we must wait to
+
+ receive them, so they're less valuable than cash flows received today. The lower the rate at which
+ future cash flows are discounted, the higher the present value, as investors have noted for
+ centuries:
+
+ In the [18th] century, Adam Smith described how the price of land depended on
+ the market rate of interest. In The Wealth of Nations (published in 1776) Smith
+ noted that land prices had risen in recent decades, as interest rates declined. (The
+ Price of Time, or "TPOT")
+
+ By placing too low a discount on the future earnings of companies, investors [in
+ the 1920s] ended up paying too much. (TPOT)
+
+ In real life, investments are evaluated primarily on a relative basis. The return demanded on each
+ investment is largely a function of the prospective returns on other investments and differences in
+ these investments' respective levels of risk. Low interest rates lower the "relative bar,"
+ making the higher returns offered on riskier assets appear relatively attractive even if
+ they're low in the absolute.
+
+ In this vein, The Price of Time describes the thought process that made "iffy" loans to the
+ government of Argentina acceptable in the low-rate environment of the late 1880s:
+
+ Buenos Aires "took advantage of the low rate of interest and the abundance of
+ money in Europe to contract as many loans as possible, new loans often being
+ made in order to pay the interest on former ones." Some Argentine loans paid as
+ little as 5 percent - low in absolute terms or relative to their risk but still a
+ couple of points above the measly yield on [consols, or perpetual British
+ government debt] . . . (TPOT, emphasis added)
+
+ When bond yields decline, bonds present less competition for riskier assets. Thus, low yields on
+ bonds lead to lower demanded returns - and higher valuations - on other asset classes, such as
+ equities, real estate, and private equity. For these reasons, low interest rates lead to asset
+ inflation and sometimes asset bubbles like those we saw in late 2020 and throughout 2021.
+
+ iv. Low interest rates encourage risk taking, leading to potentially unwise investments
+
+ Low interest rates create a "low-return world" marked by paltry prospective returns on safe
+ investments. At the same time, investors' required returns or desired returns typically don't
+ decline (or they decline by much less), meaning investors face a shortfall. The ultra-low returns
+ on safe assets cause some investors to take additional risks to access higher returns. Thus,
+ these investors become what my late father-in-law called "handcuff volunteers" - they move
+ further out on the risk curve not because they want to, but because they believe it's the only
+ way to achieve the returns they seek.
+
+ In this way, capital moves out of low-return, safe assets and in the direction of riskier
+ opportunities, resulting in strong demand for the latter and rising asset prices. Riskier
+ investments perform well for a while under these conditions, encouraging further risk
+ taking and speculation:
+
+ In his 1844 book On the Regulation of Currencies [banker John Fullarton]
+ observed that at times of low interest, "everything in the nature of value puts on
+ an aspect of bloated magnitude," and every article becomes an object of
+
+ speculation. Long periods of easy money, wrote Fullarton, engender "a wild
+ spirit of speculation and adventure." Fullarton noted that financial euphoria
+ occurred after a period of falling interest rates: "From the Bubble year [i.e., the
+ South Sea Bubble of 1720] downwards, I question much if an instance could be
+ shown of any great or concurrent speculative movement on the part of capitalists,
+ which had not been preceded by a marked decline of the current rate of interest."
+ (TPOT)
+
+ The risk-free rate is the point of origin, or jumping-off point, for returns and risk premia. When a
+ central bank cuts the risk-free rate:
+
+ • the rest of the yield curve usually follows;
+ • the capital market line governing asset-class returns also shifts downward, especially if
+ the desire for higher returns in the low-return environment causes riskier investments to
+ be aggressively pursued as described above;
+ • in addition to moving lower, the capital market line also can flatten, reducing risk premia,
+ if investors are paying little heed to fundamental/credit risk; and
+ • the liquidity premium - the increment in expected return for owning illiquid rather than
+ readily saleable assets - can also shrink, as return-seeking investors embrace illiquid
+ investments.
+
+ In all these ways, the return increments associated with longer-term, riskier, or less-liquid
+ assets can become inadequate to fully compensate for the increase in risk. Nevertheless, the
+ low prospective returns on safe securities cause investors to look past these factors and
+ lower their standards, encouraging speculation and causing questionable investments to be
+ made in pursuit of higher returns:
+
+ For [Austrian-school economist Friedrich] Hayek, it was axiomatic, but all too
+ often overlooked, that "all economic activity is carried out through time." When
+ interest rates decline, he said, businesses are inclined to invest in projects with
+ more distant payoffs - in Hayek's terminology, the "structure of production"
+ lengthens. If interest rates are kept below their natural level [see p. 13],
+ misguided investments occur: too much time is used in production, or, put
+ another way, the investment returns don't justify the initial outlay.
+ "Malinvestment", to use a term popularized by Austrian economists, comes
+ in many shapes and sizes. It might involve some expensive white-elephant
+ project, such as constructing a tunnel under the sea, or a pie-in-the-sky
+ technology scheme with no serious prospect of ever turning a profit. (TPOT,
+ emphasis added; the quotation is from 1928)
+
+ I'll provide a few examples of imprudent investments made during the recent easy money period:
+
+ • In the low-return environment of 2017, Argentina once again became the poster child
+ for questionable investment opportunities, when it offered 100-year bonds. As I asked at
+ the time in my memo There They Go Again . . . Again (July 2017), "Is Argentina, a
+ country that defaulted five times in the last hundred years (and once in the last five),
+ likely to get through the next hundred without a rerun?" Argentina's checkered history
+ as a borrower was ignored in the low-return environment, and the bonds were
+ oversubscribed thanks to their having a yield of 7.85% at a time when 30-year Treasurys
+ offered only 2.77%. It took less than a year for Argentina to request a loan from the
+ International Monetary
+
+ Fund and less than three years for it to default on the bonds. When the 100-year bonds
+ were restructured in 2020, holders received new bonds with an expected recovery value
+ of roughly 54.5 cents on the dollar, according to The Wall Street Journal of August 31,
+ 2020. Aptly, that same Journal article quoted Piotr Matys of Rabobank Group NV, as
+ saying, "Treasury yields are so low, it's forcing investors into risk. That's why
+ people are buying crazy stuff."
+ • In the 2010s, investors eagerly snapped up leveraged buyout loans bearing historically
+ low yields of around 6%. The buyers included CLOs, which are structured to give
+ relatively high yields to the investors in their lower-rated tranches, as well as private
+ credit lenders that levered up the prospective returns to roughly 9%.
+ • While "zombie" companies that burn cash haven't historically been considered
+ creditworthy, many were able to borrow easily in the pro-risk times through 2021. But as
+ financial conditions have tightened, these companies have seen their cost to borrow rise
+ and/or the amounts they can borrow shrink.
+ • The craving for good returns in low-return times can enable scams. Theranos (the
+ medical technology company) and FTX (the cryptocurrency exchange) were the most
+ prominent examples in recent years. Such scandals are less likely to happen in times of
+ economic and capital market stringency, when investors are less eager and more careful.
+
+ Under easy-money conditions, long-dated bonds may appear particularly desirable; since the
+ yield curve usually slopes upward, they typically offer higher yields. It should be noted,
+ however, that long bonds are more rate-sensitive than short ones, meaning their prices change
+ more in response to a given change in interest rates. As a result, the higher yields on more-
+ volatile long bonds can attract capital in times of low rates, just when the odds usually favor a
+ subsequent increase in yields (and thus a rapid decline in long bond prices).
+
+ It seems to me that there's often a similar movement of capital toward "long stocks" when interest
+ rates are low. By this I mean the stocks of companies believed to have many years of rapid
+ growth ahead. For these companies, more of the projected cash flows are, by definition, in the
+ distant future. Yet, investors may become more attracted to these stocks when rates are low
+ because they want the higher returns that such rapid growth would bring, and there's less
+ opportunity cost associated with the long wait for the relevant cash flows. (These sound like
+ Hayek's "projects with more distant payoffs." See the quote on the previous page.) Just as the
+ prices of longer bonds fluctuate more in response to a given change in interest rates, so-called
+ "growth stocks" usually rise more than others in times of easy money and fall more when money
+ dries up. The former was certainly the case in late 2020 and in 2021 . . . and the latter in 2022.
+
+ I love Hayek's word "malinvestment," because of the validity of the idea behind it: in low-
+ return times, investments are made that shouldn't be made; buildings are built that
+ shouldn't be built; and risks are borne that shouldn't be borne. People with money feel they
+ must put it to work, since cash yields little or nothing. They drop their risk aversion and, as
+ discussed below, compete spiritedly for lending or investing opportunities with higher potential
+ returns. The investment process becomes all about flexibility and aggressiveness, rather
+ than thorough diligence, high standards, and appropriate risk aversion.
+
+ Skimpy return prospects on safe assets lead to elevated risk taking - sometimes abetted by
+ widespread optimism and/or the suspension of disbelief - and thus to the approval of investments
+ that would likely be greeted with skepticism in normal times. Many of the risky assets people
+ invest in out of presumed necessity are deemed less palatable and less valuable under tougher
+ market conditions, when they can only be sold at lower prices.
+
+ v. Low rates enable deals to be financed readily and cheaply
+ Related to the above, low rates make people more willing to lend for risky propositions. Providers
+ of capital vie to be the one who gets the deal. To compete for deals, the "winner" must be
+ willing to accept low returns from possibly questionable projects and reduced safety, including
+ weaker documentation. For this reason, it's often said that "the worst of loans are made at the
+ best of times."
+ The availability of capital fluctuates radically. Whereas in times of stringency, capital
+ may not be available even to quality borrowers for valid purposes, in periods of easy
+ money, capital typically becomes available to weaker borrowers, in large amounts, for
+ almost any purpose. Things that couldn't be financed in tighter times are deemed
+ acceptable.
+ For one example, consider the shifting perception of high-tech companies. Prior to roughly
+ 2005, they were usually considered too undependable to be creditworthy, since outcomes for
+ tech investments are generally asymmetric. If the company succeeds, the equity owners get
+ rich. If it fails, there's little asset value for creditors to recover. But in the years following the
+ tech/media/telecom meltdown of 2000-02, when interest in public equities declined and large
+ sums flooded into private equity funds, tech companies began to be bought out, often with
+ financing from the newly popular field of private credit.
+
+ vi. Low interest rates encourage greater use of leverage, increasing fragility
+ Borrowed money - leverage - is the mother's milk of rapid expansion and speculation. In my
+ memo It's All Good (July 2007), I compared leverage to ketchup: "I was a picky eater when I
+ was a kid, but I loved ketchup, and my pickiness could be overcome with ketchup." Ketchup
+ got me to eat food I otherwise would have considered inedible. In much the same way,
+ leverage can make otherwise unattractive investments investible. Let's say you're offered a
+ low-rated loan yielding 6%. "No way," you say, "I'd never buy a security that risky at such a
+ low yield." But what if you're told you can borrow the money to buy it at 4%? "Oh, that's a
+ different story. I'll take all I can get." But it must be noted that cheap leverage doesn't make
+ investments better; it merely amplifies the results.
+ In times of low interest rates, absolute prospective returns are low and leverage is cheap.
+ Why not use a lot of leverage to increase expected returns? In the late 2010s, money flowed
+ to both private equity, given its emphasis on leveraged returns from company ownership, and
+ private credit, which primarily provides debt capital to private equity deals. These trends
+ complemented each other and led to a significant upswing in levered investing.
+ But in the last decade, some companies acquired by private equity funds were saddled with
+ capital structures that failed to anticipate the increase in interest rates of 400-500 basis-
+ points. Having to pay interest at higher rates has reduced these companies' cash flows and
+ interest coverage ratios. Thus, companies that took on as much debt as possible - based on their
+ former levels of earnings and the prevailing low interest rates - may now be unable to service
+ their debt or roll it over in a higher-rate environment.
+ Finally, all else being equal, the more leverage that's piled on a company, the lower the
+ probability it'll be able to survive a rough patch. This is one of the foremost reasons for the adage
+ "never forget the six-foot-tall man who drowned crossing the stream that was five feet deep on
+ average." Heavy leverage can render companies fragile and make it hard for them to get through
+ the proverbial low spots in the stream. Take, for example, Signa, a large privately owned
+
+ property company in Europe, which announced in November of last year that it was beginning
+ insolvency proceedings:
+
+ The decision to go all-out during the era of cheap money left Signa
+ dangerously exposed to the sharp rise of interest rates this year. . . . And
+ rising interest rates have hammered commercial property values across the
+ market, reducing the value of the assets used to secure Signa's loans. (FT
+ Asset Management Newsletter, December 11, 2023, emphasis added)
+
+vii. Low interest rates can lead to financial mismatches
+
+ Easy-money episodes make it particularly attractive to borrow short at low rates in order to make
+ long-term investments or loans with higher prospective returns. This is the other classic reason
+ why, in the investment world, proverbial six-footers often drown. (Investors with liability
+ maturities that match the duration of their assets make it across the river much more regularly.)
+ In tougher times, if lenders demand their money back or decline to roll over existing debt when it
+ comes due, debtors can find themselves holding discounted or illiquid assets - just when cash is
+ needed. This is a familiar theme that frequently marks the turn of the cycle from benign to nasty.
+ Chancellor provides an example from 1866 in connection with the failure of Overend Gurney, a
+ London broker:
+
+ Lending against long dated and illiquid collateral was not a suitable business for
+ Overend, which normally discounted three-month commercial paper financed
+ with daily cash calls on the money market. The Times [of London] described
+ how Overend had erred:
+
+ A Discount Company which had forsaken the business of discount
+ brokers for that of "financing", which had locked up its assets in
+ securities promising to repay a high rate of interest, but incapable of
+ conversion into cash on an emergency, had found its resources too
+ limited to meet the calls upon them except at a ruinous sacrifice of
+ its property, and had, therefore, suspended payment. (TPOT)
+
+viii. Low interest rates give rise to expectations of continued low rates
+
+ It's common for people to conclude that the environment they've lived through for a while is
+ "normal," and that the future will entail more of the same. For this reason, people who have
+ gotten used to low interest rates may think rates will always be low and make decisions based on
+ that assumption. As a result, investor due diligence or corporate planning may assume that
+ the cost of capital will remain low. This can become a source of trouble if rates are higher
+ when financing is actually sought.
+
+ For example, in recent months, I've noted a number of lots in midtown Manhattan that have been
+ cleared for the construction of new buildings. Given the lengthy planning and approval process
+ involved with such projects, these buildings were undoubtedly greenlit in the low-interest-rate
+ environment that preceded 2022. Will they be built if the actual financing costs are higher than
+ those that were assumed? Or will they be abandoned at significant cost?
+
+ When the pandemic year of 2020 came to a close, the recovering economy, rallying stock market,
+ and low interest rates put investors in a good mood, and there was widespread belief that the Fed
+ would keep rates "lower for longer," supporting the economy and stock market for years to come.
+
+ However, investors learned a lesson that has been repeated throughout financial history: catalysts
+ for interest rate increases inevitably pop up, and thus perpetual prosperity and "the end of cycles"
+ turn out to be nothing but wishful thinking. Consider another example from Chancellor:
+
+ One of the aims of U.S. monetary policy in the 1920s was to dampen the
+ seasonal fluctuations of interest rates caused by the agricultural cycle, which led
+ to money being tight at certain times of the year. The Fed was so successful at
+ this that Treasury Secretary Andrew Mellon went so far as to hail an end to the
+ cycle of boom and bust. "We are no longer the victim of the vagaries of business
+ cycles. . . . As economist Perry Mehring writes [in The New Lombard Street]:
+ "Intervention to stabilize seasonal and cyclical fluctuations produced low
+ and stable money rates of interest, which supported the investment boom
+ that fueled the Roaring Twenties but also produced an unstable asset price
+ bubble." (TPOT, emphasis added)
+
+ ix. Low interest rates bestow benefits and penalties, creating winners and losers
+
+ Importantly, low interest rates subsidize borrowers at the expense of savers and lenders.
+ Does it make sense to reduce the revenues of lenders so that investors can lever their investments
+ cheaply?
+
+ [In the mid-17th century,] Thomas Manley added that lowering the rate of
+ interest would involve robbing Peter (the creditor) to pay Paul (the borrower).
+ (TPOT)
+
+ Doing so is a policy decision, or more likely the consequence of a decision to stimulate the
+ economy. But it can have many other effects.
+
+ When the rate of interest on savings is 4%, a retiree fortunate enough to have saved up $500,000
+ will earn $20,000 per year on her bank balance. But when the interest rate on a savings account
+ is near zero, as we saw for much of the last 14 years, she gets essentially nothing. Is it good for
+ society to make her settle for zero? Or would it be better if she put the money into the stock
+ market in an effort to make more?
+
+ While discussing the ramifications of policy decisions, let's consider the impact of low rates on
+ the distribution of income and wealth.
+
+ . . . because assets like stocks and real estate are disproportionately held by
+ the rich, ZIRP [the "zero interest-rate policy" that was introduced in
+ December 2008] helped produce the largest spike in wealth inequality in
+ postwar American history. From 2007 to 2019, . . . the wealthiest 1 percent of
+ Americans saw their net worth increase by 46 percent, while the bottom half saw
+ only an 8 percent increase. A report from McKinsey Global Institute, not exactly
+ known as a bastion of economic populism, calculated that from 2007 to 2012, the
+ Fed's policies created a benefit for corporate borrowers worth about $310 billion,
+ whereas households that tried to save money were penalized by about $360
+ billion. (The Atlantic, December 11, 2023, emphasis added)
+
+ The yawning economic gap is one of the biggest problems the U.S. faces, and it's probably
+ responsible for a fair bit of the extreme divisiveness we see every day in the media and in
+
+ politics. A central bank's decision to set rates that subsidize some and penalize others
+ clearly has consequences.
+
+ x. Low rates induce optimistic behavior that lays the groundwork for the next crisis
+
+ Elevated risk taking, underestimating future financing costs, and increased use of leverage
+ often lie behind investments that fail when tested in subsequent periods of stringency,
+ bringing on the next crisis and perhaps the need for the next rescue. In this way, excesses in
+ one direction typically precede excesses in the other direction.
+
+ In October 1889, the Governor of the Bank of England, William Lidderdale,
+ delivered a stern warning to the City:
+
+ The present tendency of finance . . . is distinctly in the direction of
+ danger, too much capital is being forced into industrial
+ developments, financiers are taking larger & larger risks in securities
+ which require prosperity & easy money to carry without becoming a
+ burden, & an increased number of investments have been driven up
+ in price by the combined efforts of a long period of cheap money &
+ depression in trade . . . we have most of the elements of a Crisis.
+ (TPOT)
+
+The Never-Ending Story
+
+One of the quotes I return to most frequently is Mark Twain's purported observation that "history doesn't
+repeat itself, but it often rhymes." For investors, cycles, along with their causes and effects, are among
+the influential matters that invariably rhyme from one period to the next.
+
+ Roughly 30 years ago - largely thanks to my involvement with my partner Bruce Karsh and his distressed
+ debt funds - I became much more conscious of the importance of fluctuations in the availability and cost
+ of money. Thus, I wrote as follows in my memo You Can't Predict. You Can Prepare. (November 2002):
+
+ The longer I'm involved in investing, the more impressed I am by the power of the credit
+ cycle. It takes only a small fluctuation in the economy to produce a large fluctuation in
+ the availability of credit, with great impact on asset prices and back on the economy
+ itself.
+
+I reused that paragraph in my 2018 book Mastering the Market Cycle: Getting the Odds on Your Side,
+adding this:
+
+ . . . the credit cycle can be easily understood through the metaphor of a window. In short,
+ sometimes it's open and sometimes it's closed. And, in fact, people in the financial world
+ make frequent reference to just that: "the credit window," as in "the place you go to
+ borrow money." When the window is open, financing is plentiful and easily obtained,
+ and when it's closed, financing is scarce and hard to get. . . .
+
+In the book I made three foundational observations about cycles in general:
+
+ • The events that make up each cyclical progression don't merely follow each other. Much
+ more importantly, each event in the progression is caused by those that went before. This
+ causality must be appreciated if one is to fully understand cycles and navigate them successfully.
+ • Cyclical oscillation isn't best thought of as consisting merely of "ups and downs," but rather as
+ (a) an excessive departure from the midpoint, secular trend or norm in one direction, and (b) a
+ correction of that excess, which often ends up in (c) an excessive continuation of the correction in
+ the opposite direction. "Excesses and corrections" is a much more useful way to think about
+ cycles than "ups and downs."
+ • Cycles don't have an obvious beginning and end. The only requirement for something to
+ correctly be considered a full cycle is that it must include four components: (1) a movement from
+ a norm to a high, (2) a move away from that high back toward the norm, (3) a move from the
+ norm to a corresponding low, and (4) a movement from that low back toward the norm. Any of
+ these can be labeled the start of a cycle, providing it goes on to include all four.
+
+While there's no fixed point that represents the official start or end of a cycle, most economic cycles can
+be described as follows. Notably, each step in the cycle causes the next.
+
+ • First, stimulative rate cuts bring on easy money and positive market developments;
+ • which reduce prospective returns;
+ • which leads to willingness to bear increased risk;
+ • which results in unwise decisions and, eventually, investment losses;
+ • which bring on a period of fear, stringency, tight money, and economic contraction;
+ • which leads to stimulative rate cuts, easy money, and positive market developments.
+
+Here's an especially trenchant observation on the cyclical process:
+
+ The Manchester banker John Mills commented perceptively [in 1865] that "as a rule,
+ panics do not destroy capital; they merely reveal the extent to which it has
+ previously been destroyed by its betrayal into hopelessly unproductive works."
+ (TPOT, emphasis added)
+
+As readers know, I believe investors can gain an advantage by studying cycles, understanding their
+causes, and watching for excesses in one direction that are likely to lead to corrections in the opposite
+direction. Walter Bagehot, the editor of The Economist in the 1860s, is described as having demonstrated
+an exceptional understanding of cycles and cycle-related behavior:
+
+ . . . our modern monetary mandarins never stop to consider Bagehot's warnings about the
+ adverse consequences of easy money - how interest rates set at 2 per cent or less fuel
+ speculative manias, drive savers to make risky investments, encourage bad lending and
+ weaken the financial system. (TPOT)
+
+What I so enjoy about Chancellor's books is the way they illustrate the tendency of financial history
+themes to rhyme, as Twain would say, and thus how behavior that took place 200 or 400 years ago is
+being repeated today and is sure to reappear again and again in the future. What he tells is a never-
+ending story.
+
+Easy Money Observed
+
+The behavior brought on by low rates takes place in plain sight. Some people take note of it, and a subset
+of them talk about it rather than let it pass unremarked. Fewer still understand its real implications. And
+almost no one alters their investment approach to take them into account.
+
+The low-rate period that immediately preceded the Global Financial Crisis of 2008-09 was marked by the
+kind of spirited competition to make investments and provide financing described above. It was in this
+climate that Chuck Prince, then CEO of Citi, made the statement for which he is remembered:
+
+ When the music stops, in terms of liquidity, things will be complicated. But as long as
+ the music is playing, you've got to get up and dance. (July 14, 2007)
+
+When money is easy, few people opt to sit out the dance, even though the adverse results described
+above can reasonably be anticipated. When faced with the choice between (a) maintaining high
+standards and missing deals and (b) making risky investments, most people will choose the latter.
+Professional investment managers especially may fear the consequences of idiosyncratic behavior that's
+bound to look wrong for a while. Abstaining demands uncommon strength when doing so means
+departing from herd behavior.
+
+And this gives me a great opportunity to reference one of my favorite quotations from John Kenneth
+Galbraith's wonderful book on market excesses:
+
+ Contributing to and supporting this euphoria are two further factors little noted in our
+ time or in past times. The first is the extreme brevity of the financial memory. In
+ consequence, financial disaster is quickly forgotten. . . . There can be few fields of
+ human endeavor in which history counts for so little as in the world of finance. (A Short
+ History of Financial Euphoria)
+
+The lessons from past periods of easy money usually fall on deaf ears since they come up against (a)
+ignorance of history, (b) the dream of profit, (c) the fear of missing out, and (d) the ability of
+cognitive dissonance to make people dismiss information that is inconsistent with their beliefs or
+perceived self-interest. These things are invariably enough to discourage prudence in times of low
+interest rates, despite the likely consequences.
+
+As you no doubt know, Charlie Munger passed away on November 28 at the age of 99. I want to pay a
+small tribute to Charlie's life and wisdom by sharing something he wrote me in 2001: "Maybe we have a
+new version of Lord Acton's law: easy money corrupts, and really easy money corrupts absolutely."
+
+Will We Go Back to Easy Money?
+
+Before I turn to the above question, I want to answer the one I'm asked most often these days: "Are you
+saying interest rates are going to be higher for longer?" My answer is that today's rates aren't high.
+They're higher than we've seen in 20 years, but they're not high in the absolute or relative to history.
+Rather, I consider them normal or even on the low side.
+
+ • In 1969, the year I started work, the fed funds rate averaged 8.2%.
+ • Over the next 20 years, it ranged from 4% to 20%. Given this range, I certainly wouldn't
+ describe 5.25-5.50% as high.
+
+ • Between 1990 and 2000, which I would consider the last roughly normal period for rates, the fed
+ funds rate ranged from 3% to 8%, suggesting a median equal to today's 5.25-5.50%.
+
+So no, today's interest rates aren't high. Having disposed of that question, I'll move to the subject of this
+section: the outlook for rates.
+
+Many of my reasons for believing we're not going back to ultra-low rates are rooted in my thoughts on
+how the Fed should think about the issue. But the Fed could decide to lower rates to stimulate economic
+growth or reduce the cost of servicing the national debt, even if doing so might be deemed imprudent.
+Thus, I have no idea what the Fed will do. But I'm sticking with the thinking that follows.
+
+In my original Sea Change memo, I listed a number of reasons why we weren't likely to go back to ultra-
+low interest rates anytime soon. The most salient are these:
+
+ • Globalization has been a strong disinflationary influence, and it's likely on the decline. For this
+ reason - and because the bargaining power of labor seems to be on the rise - I believe inflation
+ may tend to be higher in the near future than it was pre-2021. If true, this will, all else being
+ equal, mean interest rates will be kept higher to prevent inflation from accelerating.
+ • Rather than be in a perpetually stimulative posture, the Fed may want to maintain the neutral rate
+ most of the time. This rate, which is neither stimulative nor restrictive, has most recently been
+ estimated to be 2.5%.
+ • The Fed might want to get out of the business of controlling rates and let supply and demand set
+ the price of money, which hasn't been the case for a quarter century.
+ • Having had a taste of inflation for the first time in decades, the Fed might keep the fed funds rate
+ high enough to avoid encouraging another bout. To control inflation, one would think the rate
+ would need to be kept positive in real terms. If inflation will be, say, 2.5%, the fed funds rate
+ would by definition have to be above that.
+ • Perhaps most importantly, one of the Fed's essential jobs is to enact stimulative monetary
+ policy if the economy falls into recession, largely by cutting rates. It can't do that effectively
+ if the rate is already zero or 1%.
+
+To this list, I would add a few more reasons for not returning to ultra-low interest rates, including the
+tendency of easy money to (a) induce risk taking and "malinvestment"; (b) encourage increased use of
+leverage; (c) produce asset bubbles; and (d) create economic winners and losers. Finally, cutting rates to
+stimulative territory as soon as inflation hits 2% could cause it to reaccelerate. Instead, the plan
+should be to get inflation to 2% and then keep rates at a level that is neither stimulative nor
+restrictive.
+
+After listing the above bulleted arguments against renewed low rates, I went on in Sea Change to say the
+following (despite my strong aversion to predictions):
+
+ These are the reasons why I believe that the base interest rate over the next several
+ years is more likely to average 2-4% (i.e., not far from where it is now) than 0-2%.
+ Of course, there are counterarguments. But, for me, the bottom line is that highly
+ stimulative rates are likely not in the cards for the next several years, barring a serious
+ recession from which we need rescuing . . .
+
+Most people - other than lenders and savers - want low interest rates: people (and businesses) with
+floating-rate mortgages and other debt, consumers in general, homebuilders, car and boat dealers, private
+equity firms and their LPs, investors using leverage, and the people charged with paying the interest on
+
+our national debt. But when you consider the reasons for not keeping rates permanently low, as
+enumerated above, I think the economic merits favor setting rates low only as an emergency
+measure to rescue the economy from prolonged or severe contractions.
+
+When I attended graduate school at the University of Chicago, the leading intellectual light was
+economist Milton Friedman, who argued strenuously that the free market is the best allocator of
+resources. In this same vein, I'm convinced that so-called "natural" interest rates lead to the best overall
+allocation of capital. This is why I so like Chancellor's decision to title his book The Price of Time.
+That's what interest rates are: the price borrowers pay to rent lenders' money for a period of time.
+Natural rates reflect supply and demand for money, and they're found at the intersection of (a) the price
+suppliers of money ask for parting with it temporarily and (b) the price borrowers are willing to pay to use
+it. Like Chancellor, I think it's clearly best when interest rates are naturally occurring.
+
+ A consensus emerged among [17th-century] English practitioners of "political
+ arithmetick" that interest - defined by one writer as "a Reward for forbearing the use of
+ your own Money for a Term of Time agreed upon" - was much like any other price,
+ whose level should be determined by buyers and sellers in the market, rather than
+ government fiat. (TPOT)
+
+ Even though it cannot be known with certainty, it is useful to hold in mind how the world
+ would look if the natural rate held sway; . . . a rate that accurately reflects society's time
+ preference; which ensures that we neither borrow too much nor save too little; which
+ ensures capital is used efficiently, and puts an accurate value on land and other assets; a
+ rate which provides savers with a fair return and is not so low as to subsidize bankers and
+ their financial friends, nor so high as to bite borrowers. (TPOT)
+
+Or as the central bank head of Germany said in 1927, a time when his counterparts in the U.S. and Great
+Britain were arguing for easy money, "Don't give me a low rate, give me a true rate, and then I shall
+know how to keep my house in order." (TPOT)
+
+Natural rates seem to me to be related to but not quite the same thing as "neutral rates," which are rates
+that are neither stimulative nor restrictive. Neutral rates are less likely than administered rates to be
+super-high or super-low, and thus less likely to encourage extreme behavior. As Swedish economist Knut
+Wicksell said in 1936:
+
+ . . . if the rate of interest was too low, credit would expand rapidly, and inflation would
+ appear. On the other hand, if the rate was kept too high, credit would contract and prices
+ would decline. (TPOT)
+
+In my view we haven't had a free market in money since the late 1990s, when I believe the Fed became
+"activist," eager to head off problems real and imagined by injecting liquidity. Given that activism,
+investors have become preoccupied with central bank actions and their consequences. For years, that's all
+investors have talked about.
+
+If I ran the Fed (to be clear, I don't expect to be offered the job), I think I would (a) lower rates to
+stimulate the economy when it's growing too slowly to produce needed jobs; (b) raise rates to cool off the
+economy when it's overheating, to head off rising inflation; and (c) keep my hands off rates the rest of
+time, allowing market forces to determine their level. Under this construct, we certainly wouldn't see
+rates perpetually near zero, as we did much of the time from 2009 to 2021. (I estimate the fed funds rate
+averaged roughly 0.5% over that stretch).
+
+Finally, what will we see moving forward? It now appears that sometime in 2024, the Fed will declare
+victory against inflation and begin to reduce the fed funds rate from today's somewhat restrictive 5.25-
+5.50%. The current "dot plot," which summarizes the views of Fed officials, shows three 25-bps rate cuts
+in 2024, bringing the rate to 4.60%, and then more cuts in 2025, taking it to the mid-3s. However, today's
+consensus thinking among investors seems to be considerably more optimistic than that, anticipating
+more/earlier/bigger rate cuts.
+
+While on the subject of consensus thinking, I'll point out the following:
+
+ • Eighteen months ago, it was near-universally accepted that the Fed's aggressive program of rate
+ increases would result in a recession in 2023. That was wrong.
+ • Twelve months ago, the optimists who launched the current stock market rally were motivated by
+ their belief that the Fed would pivot to dovishness and start cutting rates in 2023. That was
+ wrong.
+ • Six months ago, there was a consensus that there would be one more rate increase in late 2023.
+ That was wrong.
+
+I find it interesting that the current stock market rally began as a result of optimism powered by consensus
+thinking that was generally off target. (See the second bullet point just above.)
+
+At present, I believe the consensus is as follows:
+
+ • Inflation is moving in the right direction and will soon reach the Fed's target of roughly 2%.
+ • As a consequence, additional rate increases won't be necessary.
+ • As a further consequence, we'll have a soft landing marked by a minor recession or none at all.
+ • Thus, the Fed will be able to take rates back down.
+ • This will be good for the economy and the stock market.
+
+Before going further, I want to note that, to me, these five bullet points smack of "Goldilocks thinking":
+the economy won't be hot enough to raise inflation or cold enough to bring on an economic slowdown.
+I've seen Goldilocks thinking in play a few times over the course of my career, and it rarely holds for
+long. Something usually fails to operate as hoped, and the economy moves away from perfection. One
+important effect of Goldilocks thinking is that it creates high expectations among investors and thus
+room for potential disappointment (and losses). FT Unhedged recently expressed a similar view:
+
+ Yesterday's letter suggested that we think the market's current expectation of solid
+ growth and six rate cuts seemed likely to be wrong in one direction or the other: either
+ strong growth will limit the Fed to close to the three rate cuts it currently forecasts, or
+ growth will be weak and there will be as many cuts as the market expects. In this sense,
+ the market does look to be pricing in too much good news. (December 20, 2023)
+
+I don't have an opinion as to whether the consensus described above is correct. However, even
+granting that it is, I'll still stick with my guess that rates will be around 2-4%, not 0-2%, over the
+next few years. Do you want more specificity? My guess - and that's all it is - is that the fed funds rate
+will average between 3.0% and 3.5% over the next 5-10 years. If you think I'm wrong, ask yourself
+whether you'd put your money on a different half-point range. (Before readers protest my
+uncharacteristic descent into forecasting, I'll point out that, at Oaktree, we say it's okay to have opinions
+on the macro; it's just not okay to bet clients' money on them. We invest with an awareness of current
+macro conditions, but our investment decisions are always based on bottom-up analysis of companies and
+securities, not macro forecasts.)
+
+ * * *
+
+The upshot of my sea change thesis is simple:
+
+ 1. The period from 1980 through 2021 was generally one of declining and/or ultra-low interest rates.
+ 2. This had profound ramifications in many areas, including determining which investment
+ strategies would be the winners and losers.
+ 3. That changed in 2022, when the Fed was forced to begin raising interest rates to combat inflation.
+ 4. We're unlikely to go back to such easy money conditions, other than temporarily in response to
+ recessions.
+ 5. Therefore, the investment environment in the coming years will feature higher interest rates
+ than those we saw in 2009-21. Different strategies will outperform in the period ahead, and
+ thus a different asset allocation is called for.
+
+Bullet points one through three above are statements of fact and not controvertible. Consequently,
+the conclusion - number five - depends exclusively on whether number four is correct. The
+question is simple: do you agree with it or don't you? If you agree, we have a host of solutions to
+propose.
+
+
+Memo: The Indispensability of Risk.
+
+Oftentimes, we're best able to understand something we're interested in through analogies that clarify the
+matter by establishing connections between it and other parts of life. That's why I've written a memo
+comparing investing to sports in each of the four decades I've been writing memos and one connecting
+investing and card playing in 2020.
+
+The motivation for this memo comes from an article in The Wall Street Journal of April 12 that my
+partner Bruce Karsh sent me entitled "Chess Teaches the Power of Sacrifice" by Maurice Ashley, a chess
+grandmaster who has been inducted into the U.S. Chess Hall of Fame. Few people know that Bruce is a
+chess player, and I hadn't thought about this fact for years, but the article provided a good reminder and
+moved me to dash off this memo.
+
+As is obvious from the article's title, the piece is mostly about the role of sacrifice. Ashley says, "Many
+positions cannot be won or saved without something of value being given away, from a lowly pawn all
+the way up to the mighty queen." Intentionally losing a piece as part of one's gameplan is the sacrifice
+that Ashley is referencing.
+
+ • He describes some sacrifices as "shams," (a term coined by chess master Rudolf Spielmann in his
+ book The Art of Sacrifice in Chess) where ". . . one can easily see that the piece being given up
+ will return concrete benefits that can be clearly calculated." In other words, I put a piece in clear
+ jeopardy, but I do this so that I'll be able to take one of yours of greater value.
+ • Others are deemed "real" sacrifices, where ". . . giving away a piece offers gains that are neither
+ immediate nor tangible. The return on investment might be controlling more space, creating an
+ assailable weakness in the opponent's position, or having more pieces in the critical sector of
+ attack."
+
+The analogy to investing begins to become clear. Buying a 10-year U.S. Treasury note is a modest or
+"sham" sacrifice. You give up the use of your money for ten years, but that's only an opportunity cost,
+and accepting it brings the certainty of interest income. Most other investments involve real sacrifices,
+though, where the risk of loss is borne in pursuit of "gains that are neither immediate nor tangible."
+
+Ashley goes on to speak of sacrifice in risk/return terms that are familiar to investors. He describes his
+mother's decision to leave him (at age two) and his two siblings in Jamaica and travel to the U.S. in
+search of a better life for herself and for them. She reached her goal a decade later and was able to bring
+her kids to the U.S., where they would find success in a variety of fields:
+
+ It did not have to turn out that way. It did because she was willing to stomach the key
+ aspect of making real sacrifices: the willingness to take risks. For a chess player, risk is
+ as much intuited as it is calculated. Due to the inherent complexity of the game, it is
+ virtually impossible to assess with certainty whether a risky move will pay off in the end.
+ It's up to the player to decide if sufficient conditions have been met to take the
+ chance on a risky move. . . .
+
+ What we do know, however, is that the famous saying "No risk, no reward" is true in
+ many cases. A skilled adversary is normally able to handle solid, conservative play and
+ therefore able to rob us of opportunities that may be inherent in our position. As [five-
+ time world chess champion] Magnus Carlsen put it, "Not being willing to take risks is an
+ extremely risky strategy." (Emphasis added)
+
+And there you have it: the indispensability of risk.
+
+The Risk of Not Taking Risk
+
+Because the future is inherently uncertain, we usually have to choose between (a) avoiding risk and
+having little or no return, (b) taking a modest risk and settling for a commensurately modest return, or (c)
+taking on a high degree of uncertainty in pursuit of substantial gain but accepting the possibility of
+substantial permanent loss. Everyone would love a shot at earning big gains with little risk, but the
+"efficiency" of the market - meaning the fact that the other participants in the market aren't dummies -
+usually precludes this possibility.
+
+Most investors are capable of accomplishing "a" and most of "b." The challenge in investing lies in the
+pursuit of some version of "c." Earning high returns - in absolute terms or relative to other
+investors in a market - requires that you bear meaningful risk - either the possibility of loss in the
+pursuit of absolute gain or the possibility of underperformance in the pursuit of outperformance.
+In each case, the two are inseparable. As Ashley says, no risk, no reward. No pain, no gain.
+
+The risk inherent in not taking enough risk is very real. Individual investors who eschew risk may end up
+with a return that is insufficient to support their cost of living. And professional investors who take too
+little risk may fail to keep up with their clients' expectations or their benchmarks.
+
+Like chess (and most card games), backgammon requires the calculation of when to take risk and when to
+avoid it. In backgammon, two players move their checkers around the board based on throws of a pair of
+dice. One player moves clockwise and the other counterclockwise. When players' checkers come near
+each other, the player who's moving often has a choice between (a) landing on one of the other player's
+checkers, sending it back to the start (but at the risk of leaving the moving checker in a vulnerable
+position), and (b) avoiding doing so to play it safe. No one wants to be exposed and get hit. But most
+beginners play it too safe, and because they put so much emphasis on avoiding getting hit, they rarely
+win.
+
+Relevant lessons from sports (included in past memos) are easily accessed and also very helpful:
+
+ • "You miss 100% of the shots you don't take." - Wayne Gretzky, NHL Hall of Famer
+ • "You have to give yourself a chance to fail." - Kenny "The Jet" Smith, two-time NBA champion
+
+I'll sum up with a paragraph from my memo of last September, Fewer Losers, or More Winners?
+The final sentence says a great deal about sacrifice and risk:
+ . . . not having any losers isn't a useful goal. The only sure way to achieve that is by not
+ such a thing as the risk of taking too little risk. Most people understand this
+ intellectually, but human nature makes it hard for many to accept the idea that the
+ willingness to live with some losses is an essential ingredient in investment success.
+
+How to Think About Risk-Taking
+
+The paradox of risk-taking is inescapable. You have to take it to be successful in competitive, high-
+aspiration arenas. But taking it doesn't mean you'll be successful; that's why they call it risk.
+
+Equally paradoxical, earning a high rate of return over a long time period doesn't have to - and usually
+doesn't - connote a record of consistent success. More often it results from having made a lot of well-
+reasoned investments, some subset of which worked out well. Here's how I described the basis for the
+success of Berkshire Hathaway in Fewer Losers, or More Winners?:
+ I believe the ingredients of Warren [Buffett]'s and Charlie [Munger]'s great performance
+ are simple: (a) a lot of investments in which they did decently, (b) a relatively small
+ number of big winners that they invested in heavily and held for decades, and (c)
+ relatively few big losers. No one should expect to have - or expect their money
+ managers to have - all big winners and no losers.
+Investors must accept that success is likely to stem from making a large number of investments, all
+of which you make because you expect them to succeed, but some portion of which you know won't.
+You have to put it all out there. You have to take a shot. Not every effort will be rewarded with high
+returns, but hopefully enough will do so to produce success over the long term. That success will
+ultimately be a function of the ratio of winners to losers, and of the magnitude of the losses relative to the
+gains. But refusal to take risk in this process is unlikely to get you where you want to go.
+
+I'll conclude with another good paragraph from Ashley:
+
+ Taking a chance doesn't mean there will be a successful outcome, nor does it require it.
+ If the reasons are sound, the risk should be taken almost reflexively. The more often we
+ trust our judgment, the more confidence we gain in our decision-making capacity. The
+ courage to take risks becomes a worthwhile end in itself.
+
+The bottom line on the quest for superior investment returns is clear: You shouldn't expect to make
+money without bearing risk, but you shouldn't expect to make money just for taking risk. You
+have to sacrifice certainty, but it has to be done skillfully and intelligently, and with emotion under
+control.
+
+
+Memo: The Impact of Debt.
+
+My partner Bruce Karsh recently supplied me with a newspaper article about chess that inspired me to
+write a brief memo called The Indispensability of Risk. The response to the memo was favorable,
+hopefully because people found the content valuable, but quite possibly because it was only three pages
+long versus the usual ten to twelve. Thus encouraged, I'm following up with another short memo.
+
+One of my more interesting sources for readings on practical philosophy - including investment
+philosophy - is the blog from the Collaborative Fund to which Morgan Housel, a fund partner, is a
+regular contributor. As I read Housel's musings, I often find myself saying, "that's right in line with what
+I think." And at other times, I say, as I hope others say after reading my memos, "I never thought of it
+that way."
+
+I found Housel's April 30 article, entitled "How I Think About Debt," particularly interesting. The
+subject is the impact of debt on longevity, and it really boils down to a discussion of risk, one of my
+favorite topics.
+
+Housel starts by discussing the 140 businesses in Japan that are still operating more than 500 years after
+they were founded and the few that are purportedly more than 1,000 years old.
+
+ It's astounding to think what these businesses have endured - dozens of wars, emperors,
+ catastrophic earthquakes, tsunamis, depressions, on and on, endlessly. And yet they keep
+ selling, generation after generation.
+
+ These ultra-durable businesses are called "shinise," and studies of them show they tend to
+ share a common characteristic: they hold tons of cash, and no debt. That's part of how
+ they endure centuries of constant calamities.
+
+Clearly, all else being equal, people and companies that are indebted are more likely to run into trouble
+than those that aren't. And it goes without saying that a home or car that hasn't been used as collateral for
+a loan can't be foreclosed on or repossessed. It's the presence of debt that creates the possibility of
+default, foreclosure, and bankruptcy.
+
+Does that mean debt is a bad thing and should be avoided? Absolutely not. Rather, it's a matter of
+whether the amount of debt is appropriate relative to (a) the size of the overall enterprise and (b) the
+potential for fluctuations in the enterprise's profitability and asset value.
+
+Housel frames the issue by introducing the idea of potential volatility over one's lifetime: "Not just
+market volatility, but . . . world and life volatility: recessions, wars, divorces, illness, moves, floods,
+changes of heart, etc." With no debt, he postulates, we're likely to survive all but the most infrequent,
+most volatile events. But in a succession of illustrations, Housel shows that as the level of one's
+indebtedness increases, the range of volatility one can withstand narrows, until at a very high level of
+debt, only the tamest of environments are survivable. As Housel puts it, "as debt increases, you narrow
+the range of outcomes you can endure in life."
+
+Housel's approach to thinking about debt - and especially his illustrations - reminded me of my
+December 2008 memo, Volatility + Leverage = Dynamite. (Unless otherwise indicated, this memo is the
+source of the quotations that follow; in all cases, emphasis is in the original.) In that memo, I used a
+series of simple graphics to show that the lower a company's debt load is, the greater the decline in
+fortune it could survive. And I made the following observation about the root cause of the Global
+Financial Crisis, which was in full force at the time of the memo:
+
+ . . . the amount of borrowed money - leverage - that it's prudent to use is purely a
+ function of the riskiness and volatility of the assets it's used to purchase. The more
+ stable the assets, the more leverage it's safe to use. Riskier assets, less leverage. It's that
+ simple.
+
+ One of the main reasons for the problem today at financial institutions is that they
+ underestimated the risk inherent in assets such as home mortgages and, as a result,
+ bought too much mortgage-backed paper with too much borrowed money.
+
+Portfolios, Leverage, and Volatility
+
+The reason for taking on debt - i.e., using what investors call "leverage" - is simple: to increase so-called
+capital efficiency. Debt capital is usually cheap relative to the expected returns that motivate equity
+investments and thus relative to the imputed cost of equity capital. Thus, it's efficient to use it in lieu of
+equity. In casinos, I've heard the pit boss say, "The more you bet, the more you win when you win."
+Likewise, for a given amount of equity capital, (a) the more debt capital you use, the more assets
+you can own and (b) the more assets you own, the greater your profits will be . . . when things go
+well.
+
+But few people talk about the downside. The pit boss never says, ". . . and the more you lose when you
+lose." Likewise, when your assets decline in value, the more leverage you've employed, the more equity
+loss you'll suffer.
+
+The magnification of gains and losses stemming from leverage is typically symmetrical: a given amount
+of leverage amplifies gains and losses similarly. But levered portfolios face a downside risk to which
+there isn't a corresponding upside: the risk of ruin. The most important adage regarding leverage
+reminds us to "never forget the six-foot-tall person who drowned crossing the stream that was five
+feet deep on average." To survive, you have to get through the low points, and the more leverage you
+carry (everything else being equal), the less likely you are to do so.
+
+ . . . it's important to recognize the role of volatility. Even if losses aren't permanent, a
+ downward fluctuation can bring risk of ruin if a portfolio is highly leveraged and (a) the
+ lenders can cut off credit, (b) investors can be frightened into withdrawing their equity, or
+ (c) the violation of regulatory or contractual standards can trigger forced selling.
+
+Obviously, the greatest leverage-related losses occur when the potential for downward fluctuations has
+been underestimated for a meaningful period of time and thus the use of leverage has become excessive.
+Generally speaking, "normal levels of volatility" - those seen on a regular basis and documented through
+historical statistics - are used in investors' calculations and reflected in the amounts of leverage they
+employ. It's the isolated "tail events" that saddle levered investors with the greatest losses:
+
+ The problem is that extreme volatility and loss surface only infrequently. And as
+ time passes without that happening, it appears more and more likely that it'll never
+ happen - that assumptions regarding risk were too conservative. Thus, it becomes
+ tempting to relax rules and increase leverage. And often this is done just before the risk
+ finally rears its head. As Nassim Nicholas Taleb wrote in Fooled by Randomness:
+
+ Reality is far more vicious than Russian roulette. First, it delivers the fatal
+ bullet rather infrequently, like a revolver that would have hundreds, even
+ thousands of chambers instead of six. After a few dozen tries, one forgets
+ about the existence of a bullet, under a numbing false sense of security . . .
+ Second, unlike a well-defined precise game like Russian roulette, where the
+ risks are visible to anyone capable of multiplying and dividing by six, one does
+ not observe the barrel of reality. . . . One is thus capable of unwittingly playing
+ Russian roulette - and calling it by some alternative "low risk" name.
+
+ . . . In all aspects of our lives, we base our decisions on what we think probably will
+ happen. And, in turn, we base that to a great extent on what usually happened in
+ the past. We expect results to be close to the norm most of the time, but we know it's
+ not unusual to see outcomes that are better or worse. Although we should bear in mind
+ that, once in a while, a result will be outside the usual range, we tend to forget about the
+ potential for outliers. And importantly, as illustrated by recent events, we rarely consider
+ outcomes that have happened only once a century . . . or never.
+
+Cycles in the Use of Leverage
+
+In my second book, Mastering the Market Cycle: Getting the Odds on Your Side, one of the longest
+chapters, and probably the most important, is one I hadn't planned when I first sat down to write: "The
+Cycle in Attitudes Toward Risk." Investor psychology has a dominant influence on the market in the
+short run, and the attitudes that motivate investment decisions are often cyclical in nature, driving markets
+to irrational extremes and then correcting in the opposite direction . . . to the opposite extreme.
+
+Attitudes that govern the use of debt capital are examples of this cyclical process. When things have been
+going well for a while - asset prices have been rising, investment returns have been positive, and the use
+of leverage has paid off in the form of higher returns - investors view leverage as benign. As a result:
+
+ • the favorable aspects of leverage become well-recognized,
+ • the negative potential is overlooked,
+ • investors become interested in employing more,
+ • lenders become willing to provide more, and
+ • regulations and mores governing the use of leverage tend to become more permissive.
+
+But when events turn negative, this process goes into reverse. Leverage is penalized, not rewarded.
+Thus, its use declines. And importantly, lenders provide less and try to demand repayment of outstanding
+leverage if they can, leading to negative consequences for borrowers. In this way, as we so frequently
+see, psychology often strays from the "happy medium" and moves toward extreme highs that presage
+painful losses when extreme lows are reached.
+
+The source of losses from excessive use of leverage might be best understood through an adaptation of
+my favorite new quote, from Edward Chancellor's book The Price of Time, which I cited in this past
+
+January's memo Easy Money:
+
+ The Manchester Banker John Mills commented perceptively [in 1865] that "as a rule,
+ panics do not destroy capital; they merely reveal the extent to which it has previously
+ been destroyed by [the taking on of excessive leverage in good times]."
+
+Using Debt Prudently
+
+As with so many aspects of investing, determining the proper amount of leverage has to be a
+function of optimizing, not maximizing. Given that leverage magnifies gains when there are gains and
+that investors only invest when they expect there to be gains, it can be tempting to think the right amount
+of leverage is "all you can get." But if you bear in mind (a) leverage's potential to magnify losses when
+there are losses and (b) the risk of ruin under extreme negative circumstances, investors should usually
+use less than the maximum available. Successful investments, perhaps enhanced by the moderate use of
+leverage, should usually provide a good-enough return - something few people think about in good times.
+
+Here's how I summed it up in Volatility + Leverage = Dynamite:
+
+ Clearly, it's difficult to always use the right amount of leverage, because it's difficult to
+ be sure you're allowing sufficiently for risk. Leverage should only be used on the basis
+ of demonstrably cautious assumptions. And it should be noted that if you're doing
+ something novel, unproven, risky, volatile, or potentially life-threatening, you
+ shouldn't seek to maximize returns. Instead, err on the side of caution. The key to
+ survival lies in what Warren Buffett constantly harps on: margin of safety. Using
+ 100% of the leverage one's assets might justify is often incompatible with assuring
+ survival when adverse outcomes materialize. . . .
+
+ The riskier the underlying assets, the less leverage should be used to buy them.
+ Conservative assumptions on this subject will keep you from maximizing gains but
+ possibly save your financial life in bad times.
+
+The right way to think about debt may be best captured by one of the oldest maxims: "There are old
+investors, and there are bold investors, but there aren't many old bold investors." Using a moderate
+amount of borrowed capital balances the desire for enhanced gains against the awareness of the potential
+negative consequences. It's only in this way that one can hope to attain the longevity of Morgan Housel's
+500-year-old success stories.
+
+
+Memo: The Folly of Certainty.
+
+The impetus for my memos can come from a wide variety of sources. This one was inspired by an article
+in The New York Times on Tuesday, July 9. What caught my eye were a few words in the sub-headline:
+"She doesn't have any doubt." The speaker was Ron Klain, a former Biden chief of staff. The subject
+was whether President Biden should continue to run for reelection. And the "she" was Jen O'Malley
+Dillon, Biden's campaign chair. The article went on to quote her as having said, "Joe Biden is going to
+win, period," in the days just before his June 27 debate against former President Donald Trump.
+
+And, with that, I had the subject of this memo: not whether Biden will continue campaigning or
+drop out - or whether he'll win if he continues - but rather how anyone can be without doubt. It'll
+be another of my "shortie" memos given the uncertain shelf life of the Biden candidacy.
+
+This choice of subject calls to mind another time I heard a highly credentialed person express absolute
+certainty. In that case, an acknowledged expert in foreign affairs told a group I was part of there was "a
+100% probability that the Israelis would 'take out' Iran's nuclear capability before year-end." He seemed
+like a genuine insider, and I had no reason to doubt his word. Yet, that was 2015 or '16, and I'm still
+waiting for "before year-end" to come around (in his defense, he didn't say which year).
+
+As I indicated in my memo The Illusion of Knowledge (September 2022), there's no way a macro-
+forecaster can produce a forecast that correctly incorporates all the many variables that we know will
+affect the future as well as the random influences about which little or nothing can be known. It's for this
+reason, as I've written in the past, that investors and others who are subject to the vagaries of the macro-
+future should avoid using terms such as "will," "won't," "has to," "can't," "always," and "never."
+
+Politics
+
+When the 2016 presidential election rolled around, there were two things about which almost everyone
+was certain: (a) Hillary Clinton would win but (b) if by some quirk of fate Donald Trump were to win, the
+stock market would collapse. The least certain pundits said Clinton was 80% likely to win, and the
+estimates of her probability of victory ranged upward from there.
+
+And yet, Trump won, and the stock market rose more than 30% over the next 14 months. The response of
+most forecasters was to tweak their models and promise to do better next time. Mine was to say, "if that's
+not enough to convince you that (a) we don't know what's going to happen and (b) we don't know how
+the markets will react to what actually does happen, I don't know what is."
+
+Even before the much-discussed presidential debate of three weeks ago, no one I know expressed much
+confidence regarding the outcome of the coming election. Today, Ms. O'Malley Dillon would likely
+soften her position regarding the certainty of a Biden victory, explaining that she was blindsided by the
+debate result. But that's the point! We don't know what's going to happen. Randomness exists.
+
+Sometimes things go as people expected, and they conclude that they knew what was going to
+happen. And sometimes events diverge from people's expectations, and they say they would have
+
+been right if only some unexpected event hadn't transpired. But, in either case, the chance for the
+unexpected - and thus for forecasting error - was present. In the latter instance, the unexpected
+materialized, and in the former, it didn't. But that doesn't say anything about the likelihood of the
+unexpected taking place.
+
+Macro Economics
+
+In 2021, the U.S. Federal Reserve held the view that the bout of inflation then underway would prove
+"transitory," which it has subsequently defined as meaning temporary, not entrenched, and likely to self-
+correct. I think the Fed might have been proved right, given enough time. Inflation might have retreated
+of its own accord in three or four years, after (a) the Covid-19 relief funds that caused the surge in
+consumer spending were spent down and (b) the global supply chain returned to its normal operations.
+(However, not slowing the economy would have brought the risk that inflationary psychology might take
+hold in those 3-4 years, necessitating even stronger action.) But because the Fed's view wasn't borne out
+in 2021 and waiting longer was untenable, the Fed was forced to embark on one of the fastest programs of
+interest rate increases in history, with profound implications.
+
+In mid-2022, there was near certainty that the Fed's rate increases would precipitate a recession. It made
+sense that the dramatic increase in interest rates would shock the economy. Further, history clearly
+showed that major central bank tightening has almost always led to economic contraction rather than a
+"soft landing." And yet, no recession has materialized.
+
+Instead, late in 2022, the consensus among market observers shifted to the view that (a) inflation was
+easing, and this would permit the Fed to start cutting interest rates, and (b) rate cuts would enable the
+economy to avoid recession or ensure that any contraction would be mild and short-lived. This optimism
+ignited a stock market rally in late 2022 that persists today.
+
+And yet, the anticipated rate reductions in 2023 that undergirded the rally didn't transpire. Then, in
+December 2023, when the "dot plot" of Fed officials' views called for three interest rate cuts in 2024, the
+optimists driving the market doubled down, pricing in an expectation of six. Inflation's stubbornness has
+precluded any rate cuts thus far, with 2024 more than half over. Now the consensus has coalesced around
+the idea of a first cut in September. And the stock market keeps hitting new highs.
+
+The optimists today would likely say, "We were right. Look at those gains!" But, regarding interest rate
+cuts, they were simply wrong. For me, all this does is serve as another reminder that we don't know
+what's going to happen or how markets will react to what does happen.
+
+Conrad DeQuadros of Brean Capital, my favorite economist (how's that for an oxymoron?), has supplied
+an interesting tidbit for this memo on the subject of economists' conclusions:
+
+ I use the Philly Fed's Anxious Index (the probability of a decline in real GDP in the
+ upcoming quarter) as an indicator that a recession has ended. By the time more than
+ 50% of the economists in the survey project a decline in real GDP in the coming
+ quarter, the recession is over or close to being over. (Emphasis added)
+
+In other words, the only thing worthy of certainty is the conclusion that economists shouldn't be
+expressing any of it.
+
+Markets
+
+The rare person who in October 2022 correctly predicted that the Fed wouldn't cut interest rates over the
+next 20 months was absolutely right . . . and if that prediction kept them out of the market, they've missed
+out on a gain of roughly 50% in the Standard & Poor's 500 index. The rate-cut optimist, on the other
+hand, was absolutely wrong about rates but is likely much richer today. So, yes, market behavior is very
+tough to gauge correctly. But I'm not going to take time here to catalog the errors of market savants.
+
+Instead, I'd like to focus on why so many market forecasts fail. The performance of economies and
+companies might tend toward predictability given that the forces governing them are somewhat . . . shall I
+say . . . mechanical. In these areas, one might say "if A, then B" with some degree of confidence.
+Predictions here might, therefore, have some chance of being correct, albeit that's mostly the case when
+trends continue unabated and extrapolation works.
+
+But markets swing more than economies and companies. Why? Because of the importance and
+unpredictability of market participants' psyches or emotions. Thanks to further help from Conrad
+DeQuadros, I can illustrate the greater variability of markets, as follows:
+
+ 40-Year Standard Deviation of Annual Percentage Changes
+
+Why is it that stock prices rise and fall so much more than the economies and companies that underlie
+them? And why is it that market behavior is so hard to predict and often seems unconnected to economic
+events and company fundamentals? The financial "sciences" - economics and finance - assume that
+each market participant is a homo economicus: someone who makes rational decisions designed to
+maximize their financial self-interest. But the crucial role played by psychology and emotion often
+causes this assumption to be mistaken. Investor sentiment swings a great deal, swamping the short-run
+influence of fundamentals. It's for this reason that relatively few market forecasts prove correct, and
+fewer still are "right for the right reason."
+
+ * * *
+
+Today, pundits are making all sorts of predictions about the upcoming presidential election. Many of their
+conclusions seem well-reasoned and even persuasive. We hear and read statements from those who
+believe Biden should and shouldn't drop out; those who think he will and won't; those who think he can
+win if he stays in the race; and those who think he's sure to lose. Obviously, intelligence, education,
+access to data, and powers of analysis can't be sufficient to produce correct forecasts. Many of
+these commentators possess these attributes, but clearly, they won't all be right.
+
+Over the years, I've often cited the wisdom of John Kenneth Galbraith. It's he who said, "There are two
+kinds of forecasters: those who don't know, and those who don't know they don't know." I find myself
+using this quote all the time. Another of my favorite Galbraith quotes is from his book A Short History of
+Financial Euphoria. In describing the reasons for "speculative euphoria and programmed collapse," he
+discusses two factors "little noted in our time or in past times. One is the extreme brevity of the financial
+memory." I often cite this factor, too.
+
+But I don't remember ever writing about his second factor, which Galbraith says is "the specious
+association of money and intelligence." When people get rich, others take that to mean they're smart.
+And when investors succeed, it's often assumed their intelligence can lead to similarly good results in
+other fields. Further, successful investors often come to believe in the strength of their own intellect and
+opine about fields with no connection to investing.
+
+But investors' success can be the result of a string of lucky breaks or a propitious environment, rather than
+any special talents. They may or may not be intelligent, but often they don't know any more than most
+others about subjects outside of investing. Nevertheless, many are unsparing with their opinions, and
+those opinions often are highly valued by the general populace. That's the specious part. And today we
+find some of them speaking with conviction on all sides of the issues related to the election.
+
+A lot has been said about those who express certainty. We all know people we'd describe as "often wrong
+but never in doubt." This reminds me of another of my favorite quotes, one that's attributed (perhaps
+tenuously) to Mark Twain: "It ain't what you don't know that gets you into trouble. It's what you know
+for sure that just ain't so."
+
+Back in mid-2020, when the pandemic seemed to have become a more or less understood phenomenon, I
+slowed the pace of my memo writing from the one-a-week pattern of March and April. In May, I took
+the opportunity for two non-Covid-related memos titled Uncertainty and Uncertainty II, in which I
+devoted a significant amount of space to the subject of intellectual humility. While these memos were
+on one of my favorite topics, they generated little response. So, I'll quote a bit from Uncertainty and
+hopefully give you reason to look back at them.
+
+ Here's part of the article that first brought the subject of intellectual humility to my
+ attention:
+
+ As defined by the authors, intellectual humility is the opposite of intellectual
+ arrogance or conceit. In common parlance, it resembles open-mindedness.
+ Intellectually humble people can have strong beliefs, but recognize their
+ fallibility and are willing to be proven wrong on matters large and small.
+ (Alison Jones, Duke Today, March 17, 2017)
+
+ . . . To put it simply, intellectual humility means saying "I'm not sure," "The other
+ person could be right," or even "I might be wrong." I think it's an essential trait for
+ investors; I know it is in the people I like to associate with. . . .
+
+ No statement that starts with "I don't know but . . ." or "I could be wrong but . . ." ever
+ got anyone into big trouble. If we admit to uncertainty, we'll investigate before we
+ invest, double-check our conclusions and proceed with caution. We may sub-optimize
+ when times are good, but we're unlikely to flame out or melt down. On the other hand,
+ people who are sure may dispense with those things, and if they're sure and wrong,
+ as the Twain quote suggests, the outcome can be catastrophic. . . .
+
+ . . . maybe Voltaire said it best 250 years ago: Doubt is not a pleasant condition, but
+ certainty is absurd.
+
+There simply is no place for certainty in fields that are influenced by psychological fluctuations,
+irrationality, and randomness. Politics and economics are two such fields, and investing is another. No
+one can predict reliably what the future holds in these fields, but many people overrate their ability and
+
+attempt to do so nevertheless. Eschewing certainty can keep you out of trouble. I strongly
+recommend doing so.
+
+P.S.: Last summer's Grand Slam tennis tournaments provided the inspiration for my memo Fewer
+Losers, or More Winners? Similarly, this past Saturday's women's final match at Wimbledon has
+provided a snippet for this memo. Barbora Krejcikova prevailed over Jasmine Paolini to win the
+women's
+title. Before the tournament, bettors considered Krejcikova a 125-to-1 shot. In other words, they were
+sure she wouldn't win. The bettors may have been right to doubt her potential, but it seems they
+shouldn't have been quite so certain in making their predictions.
+
+And speaking of the unpredictable, I can't fail to mention the recent attempt on Donald Trump's life, an
+event that could well have had a more grave and impactful result. Even now that it has happened and
+President Trump has escaped serious injury, no one can state with certainty how it will impact the
+election (though at present it appears to bolster Trump's prospects) or the markets. So, if anything, it
+reinforces my bottom line: making predictions is largely a loser's game.
+
+
+Memo: Mr. Market Miscalculates.
+
+In his book The Intelligent Investor, first published in 1949, Benjamin Graham, who was Warren Buffett's
+teacher at Columbia Business School, introduced a fellow he called Mr. Market:
+
+ Imagine that in some private business you own a small share that cost you $1,000. One
+ of your partners, named Mr. Market, is very obliging indeed. Every day he tells you what
+ he thinks your interest is worth and furthermore offers either to buy you out or to sell you
+ an additional interest on that basis. Sometimes his idea of value appears plausible and
+ justified by business developments and prospects as you know them. Often, on the other
+ hand, Mr. Market lets his enthusiasm or his fears run away with him, and the value he
+ proposes seems to you a little short of silly.
+
+Of course, Graham intended Mr. Market as a metaphor for the market as a whole. Given Mr. Market's
+inconsistent behavior, the prices he assigns to stocks each day can diverge - sometimes wildly - from
+their fair value. When he's overenthusiastic, you can sell to him at prices that are intrinsically too high.
+And when he's overly fearful, you can buy from him at prices that are fundamentally too low. Thus, his
+miscalculations provide profit opportunities to investors interested in taking advantage of them.
+
+ * * *
+
+There's a great deal to be said about investors' foibles, and I've shared much of it over the years. But the
+rapid market decline we saw in the first week of August - along with the rapid rebound - compels me to
+pull together what I've said previously on the subject, along with some priceless investing cartoons from
+my collection, and add a few new observations.
+
+To set the scene, let's review recent events. As a result of the Covid-19 pandemic, soaring inflation, and
+the U.S. Federal Reserve's rapid interest rate increases, 2022 was one of the worst years ever for the
+combination of stocks and bonds. Sentiment reached its low around the middle of 2022, with investors
+depressed by the universally negative outlook: "We have inflation, and that's bad. And the rate increases
+to fight it are sure to bring on a recession, and that's bad." Investors could think of few positives.
+
+Then the mood lightened and, late in 2022, investors coalesced around a positive narrative: the slow
+economic growth would cause inflation to decline, and that would permit the Fed to start lowering rates in
+2023, leading to economic vigor and market gains. A significant stock market rally began and continued
+nearly uninterrupted until this month. Although the rate cuts anticipated in 2022 and 2023 still haven't
+materialized, optimism has been in the ascendency in the stock market. The S&P 500 stock index rose by
+54% (not counting dividends) in the 21 months which ended on July 31, 2024. That day, Fed Chair
+Jerome Powell confirmed that the Fed was moving closer to a rate cut, and things appeared to be on track
+for economic growth and further stock market appreciation.
+
+But that same day, the Bank of Japan announced its biggest increase in its short-term interest rate in over
+17 years (to a whopping 0.25%!). This shocked the Japanese stock market, to which people had been
+
+warming for over a year. In addition, and importantly, the announcement played havoc with investors
+who had engaged in "the carry trade." For years, Japan's infinitesimal - and often negative - interest
+rates have meant that people could borrow cheaply in Japan and invest the borrowed funds in any number
+of assets, there and elsewhere, that promised to return more, for a "positive carry" (aka "free money").
+This led to the establishment of highly levered positions. It seems odd that a quarter-point increase in
+interest rates could require some of these positions to be unwound. But it did, leading to motivated
+selling in a variety of asset classes as those who had engaged in the practice moved to cut their leverage.
+
+Starting the next day, the U.S. announced mixed economic news. On August 1, we learned that the
+Manufacturing Purchasing Managers' Index had dipped and initial jobless claims had risen. On the other
+hand, corporate profit margins continued to look good, and gains in productivity surprised to the upside.
+A day later, we learned that employment gains had moderated, with hiring rising less than had been
+expected. The unemployment rate stood at 4.3% at the end of July, up from a low of 3.4% in April 2023.
+This was still very low by historical standards, but, according to the suddenly popular "Sahm Rule" (don't
+complain to me; I'd never heard of it either), since 1970, an increase in the three-month average
+unemployment rate of 0.5 percentage points or more from the low of the prior 12 months has never
+occurred without the economy already being in recession. Around the same time, Warren Buffett's
+Berkshire Hathaway announced that it had sold off a good part of its massive holding of Apple shares.
+
+In all, this news constituted a triple whammy. The resulting flip-flop from optimism to pessimism set off
+a significant stock market rout. The S&P 500 fell on three consecutive trading days - August 1, 2, and 5
+- by a total of 6.1%. The replay of the mistakes I've witnessed for decades was so obvious that I can't
+resist cataloging them below.
+
+What's Behind the Market's Volatility?
+
+On the first two days of August, I was in Brazil, where people often asked me to explain the sudden
+collapse. I referred them to my 2016 memo On the Couch. Its key observation was that in the real
+world, things fluctuate between 'pretty good' and 'not so hot,' but in investing, perception often
+swings from 'flawless' to 'hopeless.' That says about 80% of what you need to know on the subject.
+
+If reality changes so little, why do estimates of value (that's what security prices are supposed to be)
+change so much? The answer has a lot to do with changes in mood. I wrote over 33 years ago, in only
+my second memo:
+
+ The mood swings of the securities markets resemble the movement of a pendulum. . . .
+ between euphoria and depression, between celebrating positive developments and
+ obsessing over negatives, and thus between overpriced and underpriced. This oscillation
+ is one of the most dependable features of the investment world, and investor
+ psychology seems to spend much more time at the extremes than it does at a "happy
+ medium." (First Quarter Performance, April 1991)
+
+Mood swings do a lot to alter investors' perception of events, causing prices to fluctuate madly. When
+prices collapse as they did at the start of this month, it's not because conditions have suddenly become
+bad. Rather, they become perceived as bad. Several factors contribute to this process:
+
+ • heightened awareness of things on one side of the emotional ledger,
+ • a tendency to overlook things on the other side, and
+ • similarly, a tendency to interpret things in a way that fits the prevailing narrative.
+
+What this means is that in good times, investors obsess about the positives, ignore the negatives, and
+interpret things favorably. Then, when the pendulum swings, they do the opposite, with dramatic
+effects.
+
+One important idea underpinning economics is the theory of rational expectations, described by
+Investopedia as follows:
+
+ The rational expectations theory . . . posits that individuals base their decisions on three
+ primary factors: their human rationality, the information available to them, and their past
+ experiences.
+
+If security prices were really the result of the rational, dispassionate evaluation of data, presumably one
+piece of negative information would move the market down a little, and the next such piece would move
+it down a bit more, and so forth. But instead, we see that an optimistic market is capable of ignoring
+individual pieces of bad news until a critical mass of bad news builds up, at which time a tipping point is
+reached, the optimists surrender, and a rout begins. Rudiger Dornbush's great quote about economics is
+highly applicable here: ". . . things take longer to happen than you think they will, and then they happen
+faster than you thought they could." Or as my partner Sheldon Stone says, "The air goes out of the
+balloon much faster than it went in."
+
+The non-linear nature of this process suggests something very different from rationality is at work. In
+particular, as in many other aspects of life, cognitive dissonance plays a big part in investors' psyches.
+The human brain is wired to ignore or reject incoming data that is at odds with prior beliefs, and
+investors are particularly good at this.
+
+While we're on the subject of irrationality, I've been waiting for an opportunity to share the following
+screenshot from June 13, 2022:
+
+This was a tough day in the markets: interest rates were rising thanks to the actions of the Fed and other
+central banks, and asset prices were under significant pressure as a result. But take a look at the table.
+Every country's equity index was down significantly. Every currency was down relative to the dollar.
+Every commodity was down. Only one thing was up: bond yields . . . meaning bond prices were down,
+too. Wasn't there one asset or country whose value didn't decline that day? What about gold, which is
+supposed to do well in difficult times? My point here is that, during big market moves, no one performs
+rational analysis or makes distinctions. They just throw out the baby with the bathwater, primarily
+because of psychological swings. As the old saying goes, "in times of crisis, all correlations go to 1."
+
+Further, the data in the table exhibit an additional phenomenon that's often present during extreme moves:
+contagion. Something goes wrong in the U.S. market. European investors take that as a sign of trouble,
+so they sell. Asian investors detect that something negative is afoot, so they sell overnight. And when
+U.S. investors come in the next morning, they're spooked by the negative developments in Asia, which
+confirm their pessimistic inclinations, so they sell. This is a lot like the game of telephone we played
+when I was little: the message may be miscommunicated as it's passed down the chain, but it still
+encourages ill-founded actions.
+
+When psychology is swinging radically, meaningless statements can be given weight. Thus, during the
+three-day decline earlier this month, it was observed that foreigners sold more Japanese stocks than they
+bought, and investors reacted as if this meant something. But if foreigners sold on balance, Japanese
+investors must have bought on balance. Should either of these phenomena be treated as more significant
+than the other? If so, which one?
+
+Further complicating things in terms of rational analysis is the fact that most developments in the
+investment world can be interpreted both positively and negatively, depending on the prevailing
+mood.
+
+Another classic cartoon sums up this ambiguity in fewer words. It's highly applicable to the market
+tremor that inspired this memo.
+
+One more source of miscalculation is investors' tendency toward optimism and wishful thinking.
+Investors in general - and equity investors in particular - must, by definition, be optimists. Who other
+than people with positive expectations (and/or a strong desire for increased wealth) would be willing to
+part with money today based on the possibility of getting back more in the future?
+
+Charlie Munger, Warren Buffett's late partner, routinely quoted the ancient Greek statesman
+Demosthenes, who said, "Nothing is easier than self-deceit. For what each man wishes, that he also
+believes to be true." One great example is "Goldilocks thinking": the belief that the economy will be
+neither strong enough to bring on inflation nor weak enough to lapse into recession. Things sometimes
+work out that way - as may be the case right now - but not nearly as often as investors posit.
+Expectations that incline toward the positive encourage aggressive behavior on the part of investors. And
+if this behavior is rewarded in good times, still more aggressiveness usually ensues. Rarely do investors
+realize that (a) there can be a limit to the run of good news or (b) an upswing can be so strong as to
+be excessive, rendering a downswing inevitable.
+
+For years, I quoted Buffett as having warned investors to temper their enthusiasm: "When investors lose
+track of the fact that corporate profits grow at 7% on average, they tend to get into trouble." In other
+words, if corporate profit growth averages 7%, shouldn't investors begin to worry if stocks appreciate by
+20% a year for a while (as they did throughout the 1990s)? I thought it was such a good quote that I
+asked Buffett when he said it. Unfortunately, he answered that he hadn't. But I still think it's an
+important warning.
+
+That inaccurate recollection reminds me of John Kenneth Galbraith's trenchant reference to one of the
+most important causes of financial euphoria: "the extreme brevity of the financial memory." It's this trait
+that allows optimistic investors to engage in aggressive behavior, untroubled by knowledge of what such
+behavior led to in the past. Further, it makes it easy for investors to forget past errors and invest blithely
+on the basis of the newest miraculous development.
+
+Finally, the investment world might be less unstable if there were immutable rules - like the one
+governing gravity - that could be counted on to always produce the same results. But there are no such
+rules, since markets aren't built on natural laws, but rather the shifting sands of investor
+psychology.
+
+For example, there's a long-running adage that says we should "buy on rumor and sell on news." That is,
+the introduction of favorable expectations is a buy signal, because expectations often continue to rise.
+That ends when the news arrives, however, because the impetus for gains has been realized and no further
+good news remains to take the market higher. But in the carefree environment of a month ago, I told my
+partner Bruce Karsh that maybe the prevailing attitude had become "buy on rumor and buy on news." In
+other words, investors were acting as though it was always a good time to buy. Rationally, one shouldn't
+price in the possibility of a favorable event twice: both when the possibility of the event is introduced and
+when the event occurs. But euphoria can get the better of people.
+
+Another example of the absence of meaningful guidelines can be seen in this excerpt from one of the
+oldest clippings in my file:
+
+ A continuing pattern of consolidation and group rotation suggests that increasing
+ emphasis should be placed on buying stocks on relative weakness and selling them on
+ relative strength. This would be a marked contrast to some earlier periods where
+ emphasizing relative strength proved to be effective. (Loeb, Rhoades & Co., 1976)
+
+In short, sometimes the things that have gone up the most should be expected to continue to go up
+the most, and sometimes the things that have gone up the least should be expected to go up the
+most. To which many of you might respond "duh." Bottom line: there are few effective rules for
+investors to follow. Superior investing always comes down to skillful analysis and superior insight, not
+adherence to formulas and guidelines.
+
+ * * *
+
+Volatile psychology, skewed perception, overreaction, cognitive dissonance, rapid-fire contagion,
+irrationality, wishful thinking, forgetfulness, and the lack of dependable principles. That's quite a
+laundry list of ills. Together, they constitute the main cause of extreme market highs and lows and are
+responsible for the volatile swings between them. Ben Graham said that, in the long run, the market is a
+weighing machine that assesses the merit of each asset and assigns an appropriate price. But in the short
+term, it's merely a voting machine, and the investor sentiment that moves it swings wildly, incorporating
+little rationality and assigning daily prices that often reflect little in terms of intelligence.
+
+Rather than try to reinvent the wheel, I'll repeat some of what I've said in two past memos:
+
+ Especially during downdrafts, many investors impute intelligence to the market and look
+ to it to tell them what's going on and what to do about it. This is one of the biggest
+ mistakes you can make. As Ben Graham pointed out, the day-to-day market isn't a
+ fundamental analyst; it's a barometer of investor sentiment. You just can't take it
+ too seriously. Market participants have limited insight into what's really happening in
+ terms of fundamentals, and any intelligence that could be behind their buys and sells is
+ obscured by their emotional swings. It would be wrong to interpret the recent
+ worldwide drop as meaning the market "knows" tough times lay ahead. (It's Not Easy,
+ September 2015)
+
+ My bottom line is that markets don't assess intrinsic value from day to day, and certainly
+ they don't do a good job during crises. Thus, market price movements don't say much
+ about fundamentals. Even in the best of times, when investors are driven by
+ fundamentals rather than psychology, markets show what the participants think
+ value is, rather than what value really is. Value is something the market doesn't know
+ any more about than the average investor. And advice from the average investor
+ obviously can't help you be an above average investor.
+
+ Fundamentals - the outlook for an economy, company or asset - don't change much from
+ day to day. As a result, daily price changes are mostly about (a) changes in market
+ psychology and thus (b) changes in who wants to own something or un-own
+ something. These two statements become increasingly valid the more daily prices
+ fluctuate. Big fluctuations show that psychology is changing radically. (What Does
+ the Market Know?, January 2016)
+
+The market fluctuates at the whim of its most volatile participants: those who are willing (a) to buy
+at a big premium to the former price when the news is good and enthusiasm is riding high and (b)
+to sell at a big discount from the former price when the news is bad and pessimism is rampant.
+Thus, as I wrote in On the Couch, every once in a while, the market needs a trip to the shrink.
+
+It's important to note that, as my partner John Frank points out, in comparison to the total number who
+own each company, it takes relatively few people to drive prices up during bubbles or down during
+crashes. When shares in a company that was worth $10 billion a month ago trade at prices implying a
+valuation of $12 billion or $8 billion, it doesn't mean the whole company would change hands at these
+prices; just a tiny sliver. Regardless, a few emotional investors can move prices much more than
+should be the case.
+
+The worst thing you can do is join in when other investors go off on these irrational jags. It's far better to
+watch with bemusement from the sidelines, buttressed by an understanding of how markets work. But
+better still to see Mr. Market's overreactions for what they are and accommodate him, selling to
+him when he's eager to buy regardless of how high the price is, and buying from him when he
+desperately wants out. Here's how Ben Graham followed the introduction of Mr. Market that I included
+on page 1:
+
+ If you are a prudent investor or a sensible businessman will you let Mr. Market's daily
+ communication determine your view of the value of your $1,000 interest in the
+ enterprise? Only in case you agree with him, or in case you want to trade with him. You
+ may be happy to sell out to him when he quotes you a ridiculously high price, and equally
+ happy to buy from him when his price is low. But the rest of the time you will be wiser
+ to form your own ideas of the value of your holdings, based on full reports from the
+ company about its operations and financial position.
+
+In other words, it's the primary job of the investor to take note when prices stray from intrinsic value and
+figure out how to act in response. Emotion? No. Analysis? Yes.
+
+
+Memo: Shall We Repeal the Laws of Economics?.
+
+For months, I've been saving up clippings for a memo on the above topic, but favorite subjects such as
+risk, debt, and uncertainty repeatedly jumped the queue, delaying my intended memo until the U.S.
+election season got into full swing, making it compelling.
+
+Like me, you've undoubtedly noticed that politicians ranging from former President Trump and Vice
+President Harris to down-ballot candidates are back to making promises that ignore economic reality.
+Trump's call for tariffs and Harris's attack on grocery profiteering are merely two examples of proposals
+that would impose costs the candidate ignores (in Trump's case) or that fail to reflect a meaningful
+understanding of the problem (in Harris's case). My purpose, of course, is not to promote or dismiss
+either candidate, but rather to illustrate that there is no "free lunch" in economics, despite candidates'
+assertions to the contrary.
+
+The Background
+
+In 2016, with an unusually clamorous presidential election in full swing, I published two memos
+that strayed from investing into the world at large, called Economic Reality and Political Reality.
+The first explained that economics is largely the study of how we make choices - how people
+allocate finite resources among the available options. The second stated that in politics - and especially
+in the land of campaign promises - there's no such thing as finiteness. As I wrote in Political Reality:
+
+ I've always gotten a kick out of oxymorons - phrases that are internally contradictory -
+ such as "jumbo shrimp" and "common sense." I'll add "political reality" to the list. The
+ world of politics has its own, altered reality, in which economic reality often seems not to
+ impinge. No choices need be made: candidates can promise it all. And there are no
+ consequences. If something might have negative consequences in the real world,
+ politicians seem to feel free to ignore them.
+
+I followed those two memos with one in 2019 entitled Political Reality Meets Economic Reality. Its
+main thrust was that politicians can promise whatever they want regarding the economy, but they
+won't be able to deliver if their promises fly in the face of economic reality because, ultimately, the
+laws of economics are incontrovertible. Free economies are driven by self-interested decisions made
+by millions of producers and consumers, employers and employees, and savers and investors.
+Governments can pass laws designed to encourage or even compel behavior, but in general they
+can't mandate economic outcomes. There are so many moving pieces and second-order
+consequences that governments generally can't engineer both prosperity and the specific economic
+outcomes that policymakers may seek.
+
+History is littered with command economies that didn't succeed. There's proof for this that includes the
+"control group" required by the scientific method. Eighty years ago, Korea was a single country. Then,
+following World War II, it was split in two, obviously with similar people, geography and resources:
+South Korea (under U.S. influence), and North Korea (under Soviet influence). Since then, South Korea
+has operated as a capitalist democracy and North Korea as a communist dictatorship. There's little
+
+reliable economic data regarding North Korea, but according to the CIA's Worldbook, its GDP in
+purchasing power terms is estimated at $2,000 per person versus $50,000 in South Korea. North Korea's
+citizens are described as impoverished, but at least it doesn't have a border problem, since nobody's
+trying to sneak in. There are political differences (democracy versus dictatorship) in addition to the
+economic ones, but I think it's fair to say capitalism has won.
+
+In discussions of economic systems, I usually ask people what they think has been responsible for the
+economic preeminence the U.S. has enjoyed since the end of World War I, and thus for its citizens' higher
+average standard of living. Are Americans smarter? Harder working? More deserving? None of the
+above. I'm confident it's because of our historical embrace of the free-market system and capitalism.
+
+The incentives provided by free markets efficiently direct capital and other resources where they'll
+be most productive. They prompt producers to make the goods people want most and workers to
+take the jobs where they'll be most productive in terms of the value of their output. And they
+encourage hard work and risk taking. The result is a higher standard of living for society in general,
+but certainly not everyone benefits to the same degree. Thanks to the way incentives interact with
+people's different abilities, some people do considerably better than others. Some also prosper thanks to
+good luck and/or inherited advantage, rather than innate ability. The free-market system doesn't
+necessarily produce "fair" outcomes in all circumstances, but economic systems designed to do so
+generally don't provide the incentives needed to encourage economic productivity for the collective
+good. That's what accounts for their record of failure.
+
+On August 15, the media reported that the next day, Vice President Harris would announce her economic
+policies. The bulk of the attention went to her promise to ban price gouging in the grocery industry.
+special initiatives at the Roosevelt Institute, a left-leaning think tank" (The Washington Post, August 15),
+and many voters say inflation is their greatest concern. For this combination of reasons, Harris's targeting
+of grocery prices is entirely predictable. (Ironically, August 15 was also the day U.S. inflation was
+reported to have fallen below 3% for the first time since March 2021.) I'm certain, however, that this
+falls under the heading of simplistic economic solutions that are designed to appeal to voters but are
+unsoundly based and likely to fail.
+
+What Is Price Gouging?
+
+Price gouging is generally defined as sellers taking advantage of market power or temporary
+supply/demand imbalances to raise prices to levels that otherwise wouldn't prevail. And food prices
+did rise significantly in 2021 and 2022, leading to suspicion of food retailers. But might there be reasons
+for the price increases other than a malevolent decision to gouge on the part of sellers? Here are a few
+possibilities:
+
+ • When the pandemic began in March 2020, most people stayed home and cooked their own meals,
+ significantly increasing the demand for groceries and depleting inventories.
+ • The production system was disrupted, with inputs in short supply or in the wrong places relative
+ to the needs. This led to the much-discussed "supply-chain problems." Too few goods - when
+ coupled with too much money chasing them - constitute the classic reason for inflation.
+ • The federal government sent taxpayers massive amounts of Covid-19 relief. Many more people
+ received benefits than had been hurt financially by the pandemic. Those people came out ahead,
+ capturing trillions of dollars for future spending.
+
+ • When the Delta variant of Covid popped up in mid-2021, people again stayed home and shrunk
+ from contact with others, spending more on goods and less on services than they otherwise might
+ have. Demand for goods was strong as a result, outstripping the limited supplies and causing
+ prices to rise.
+
+Profit margins in the supermarket industry are low - about 1% to 2% of sales - and that changed only a
+little in 2021-22. So, was there gouging? And if gouging is the explanation for the price increases, why
+did it occur in those years, rather than sooner? Again, might today's high prices be explained by
+something other than gouging? The New York Times, rarely a defender of capitalism, wrote the following
+on August 15:
+
+ Researchers from the Federal Reserve Bank of Kansas City reported last year that rapid
+ job growth in the U.S. economy, and the wage increases that came with it, were major
+ contributors to rising grocery prices.
+
+A number of factors contributed to the increase in food prices, many of them linked to the macro
+economy. But the bottom line is that conditions allowed food sellers to raise prices, and they did so.
+
+Is Raising Prices Wrong?
+
+The above is the key question. Definitions of price gouging invariably include words like "unfair,"
+"excessive," and "exorbitant." These are subjective terms that are open to judgment and debate.
+The propriety of behavior with regard to these words is usually in the eye of the beholder. The seller's
+highly reasonable price increase is the customer's gouging. The difficulty of defining gouging reminds
+me of those who say, "we're not out to soak the rich; we just want to make them pay their fair share in
+taxes." I'm far from saying the rich shouldn't pay their "fair share," but what's the standard for a fair
+share, and who gets to set it? In the same way, who determines whether prices are fair, and how?
+
+When a supermarket raises the price of a necessity like bread, is that gouging? The answer is that it's
+complicated, and that's what makes it hard to regulate prices fairly.
+
+ • If the farmer pays more for fertilizer and labor and then charges the baker more for wheat, can the
+ baker fairly pass that on to the supermarket in the form of a higher price for bread?
+ • If the baker raises the price he charges the supermarket for bread, is it wrong for the supermarket
+ to pass on the increase to the consumer?
+ • If the supermarket's employees demand higher pay, can it offset the increase by raising the prices
+ of the things it sells?
+ • If demand increases because a hit TV show popularizes sandwiches, is it wrong for people in the
+ supply chain to take advantage and charge more for bread?
+
+In a free market, prices are determined by supply and demand. Is it wrong per se for providers of goods
+and services to raise prices in response to reduced supply or increased demand? A few examples should
+make clear the complex nature of this question.
+
+ • Uber applies "surge pricing" during rush hour, when more people want rides. Is that an unfair
+ practice? If the government says Uber mustn't do so, that will make rides available at prices
+ below what some people would pay and deprive drivers of the full fare they could otherwise
+ collect. And the rate the drivers would then receive might not be high enough to justify the time
+
+ they'd spend stuck in traffic, meaning fewer drivers would be available to handle the peak
+ demand and people needing rides would remain unserved. Is that preferable?
+ • If 1,000 tickets for a Taylor Swift concert are put on sale at $100 and 3,000 people line up to buy
+ them, what's the message? Simple: they're too cheap! Would it be unfair for the concert
+ promoter to raise the price until there are just 1,000 people in line? Few people would say so.
+ But if instead the price remains at $100 and the first 1,000 people buy them all, that leaves unmet
+ demand, in which case those who bought the tickets would be able to resell them for more than
+ $100. The profit would go to the resellers, who got their tickets at a price that was too low. Is
+ that fair? Wouldn't it be fairer if the ticket prices were raised and the increment went to Tay
+ Tay, reflecting the full value her fans put on her labor?
+ • In 2021, when people wanted to leave their city apartments, and homes and building materials
+ were in short supply, home prices shot upward. If you owned a home worth $400,000 in 2019
+ and asked $500,000 for it in the post-pandemic environment, was your behavior immoral?
+ Should the government prosecute people who asked more for their homes?
+ • Lastly, when the economy sprung back to life in 2021 and there were multiple job openings per
+ unemployed worker, making higher salaries attainable, workers were able to tell the boss, "I can
+ get a higher salary down the road. If you don't give me a raise, I'm leaving." Should the
+ government limit wage increases at a time when employees have an edge in negotiations? In the
+ fall of 2023, the United Auto Workers union took advantage of the bargaining power caused by
+ the tight labor conditions to extract from Ford "an 11% wage increase in the first year, and total
+ 25% increase in wages over the 4.5 year contract, a $5,000 ratification bonus and a cost-of-living
+ adjustment." (Wikipedia) This was a huge package. Did it represent gouging?
+
+Each of these examples shows one party taking advantage of supply/demand conditions to charge
+more for the thing they have to offer. But certainly, their actions aren't illegitimate. They're simply
+examples of how markets work.
+
+The alternative would be to have the government decide who should prevail in each case. Should it be the
+Uber driver or the passenger; the concertgoer or the performer; the homeowner or the homebuyer; the
+worker or the employer? Many have a knee-jerk tendency to sympathize with the passenger, concertgoer,
+homebuyer, and worker, as it's easy to care less about the person who's profiting: the driver, popstar,
+homeowner, and employer. But if the government puts its thumb on the scale in favor of one party or
+the other, it distorts the workings of the free market and keeps it from functioning efficiently on
+behalf of society overall. More on this later.
+
+There are forms of seller behavior that are clearly wrong. These include collusion, price fixing, and
+predatory pricing designed to drive competitors out of the market. But laws prohibiting these behaviors
+are already on the books. Additional laws designed to prohibit and punish price increases that someone
+views as unfair, excessive or exorbitant - as opposed to being the result of improper conduct - are sure to
+prove difficult to enforce and counter-productive.
+
+Would a Law Against Price Gouging Work?
+
+Just as history is full of failed command economies, it also shows the ineffectiveness of attempts to
+regulate prices. In 1974, when the OPEC oil embargo set off inflation that made life difficult for millions,
+the U.S. government countered by distributing "WIN" buttons, standing for Whip Inflation Now. I still
+have mine, but neither it nor the voluntary consumer actions that were supposed to follow were enough to
+keep inflation from reaching 13.5% in 1980. The buttons were derided, with some skeptics wearing them
+upside down, according to Wikipedia. "Worn that way, 'NIM' stood for 'No Immediate Miracles,'
+'Nonstop Inflation Merry-go-round,' or 'Need Immediate Money.' ''
+
+There's more recent experience with price controls, in Venezuela. Here's what I said about it in Economic
+Reality:
+
+ A case in point is the price controls, which have expanded to apply to more and
+ more goods: food and vital medicines, yes, but also car batteries, essential
+ medical services, deodorant, diapers, and, of course, toilet paper. The
+ ostensible goal was to check inflation and keep goods affordable for the
+ poor, but anyone with a basic grasp of economics could have foreseen the
+ consequences: When prices are set below production costs, sellers can't afford
+ to keep the shelves stocked. Official prices are low, but it's a mirage: The
+ products have disappeared. (Atlantic Monthly, May 12, 2016, emphasis added)
+
+ Here's a shocker: you can set prices for goods, but you can't make people produce
+ them. That sounds a lot like economic reality.
+
+This is an example of the fact that officials may believe they can control economic developments with a
+stroke of the pen, but they'll be thwarted by second-order consequences that complicate the effort.
+
+There's nothing wrong with trying to bring down the cost of necessities. However, the best way to do this
+is to encourage additions to supply. Another way is to not overstimulate demand by injecting excessive
+liquidity into the economy. Mandating lower prices is generally the least effective way to get them.
+
+This is a good time for me to cite the economist's adage that "the best solution for high prices is
+high prices." This isn't a joke; far from it. In general, high prices mean demand is strong relative to
+supply. Eventually, those high prices will encourage producers to produce more and consumers to
+consume less, and the depressant impact on prices from both directions is obvious. We see this all the
+time in the oil market, for just one example.
+
+A government bureaucracy set up to regulate the price of food is very unlikely to succeed and almost
+certainly would have adverse effects. So, are there no benefits we can count on from price controls? I
+can think of one: thousands of new (albeit unproductive) jobs in that new bureaucracy. As Jason Furman,
+a relatively liberal economist, said of Harris's anti-gouging efforts, "This is not sensible policy, and I
+think the biggest hope is that it ends up being a lot of rhetoric and no reality."
+
+Another Case in Point: Rent Control
+
+The issue that first suggested this memo several months ago was rent control, something I've had
+personal experience with, having lived in an apartment that rented for $92 a month in 1956, when I was
+ten.
+
+The federal government implemented rent control during World War II so that, with few new apartment
+buildings being built and breadwinners away fighting the war rather than earning their normal wages,
+families wouldn't be priced out of their apartments. Rents on New York City apartments were frozen at
+1943 levels. This was probably a good idea under the unusual circumstances of wartime, but the program
+wasn't dismantled afterwards, and it still governs some apartments that were built more than 80 years ago.
+And rent regulation still plays havoc with the supply and demand for New York City apartments.
+
+In general, New York City rent control limits rent increases on apartments so long as they're occupied by
+people who were tenants in 1971 or relatives who lived with them. The law was enacted to protect the
+occupants at the time, but apartments have been passed down at controlled rents to people who didn't
+
+necessarily live in them in 1971. Fewer and fewer people are still around who satisfy the above criterion,
+so this form of rent regulation is winding down.
+
+Newer regulations continue in force under the rubric of "rent stabilization." One example is Mandatory
+Inclusionary Housing, which has been explained to me as follows: if you want to build an apartment
+building and need some zoning relief - and virtually all projects do - you must agree as follows:
+
+ • A percentage of the apartments will be "affordable."
+ • Tenants for affordable apartments must earn incomes well below the average in the area.
+ • The maximum allowable rent will be set based on a percentage of tenants' income.
+ • Rent increases upon lease renewal will be regulated, usually at a few percent per year.
+
+Most would agree that it's laudable to encourage the creation of new affordable apartments, but this
+particular method of doing so has the related effect of increasing the cost of apartment construction.
+Probably everyone would be better off if there were simply more new apartments built every year.
+
+The bottom line is that rents for the majority of New York City apartments remain subject to one form of
+control or another and are unlikely to ever become fully deregulated. As a result, the incentives to build
+new apartments are limited, and between 2002 and 2017, for example, the growth in the number of rental
+apartments in New York City was only 0.3%, per year.
+
+Improvements in regulated apartments are also regulated. Expenditures on improvements are limited to a
+very small amount in any 15-year period, and the investment can be recouped only through an increase in
+the monthly rent equal to a tiny percentage of the cost of the improvements. Thus, making improvements
+is generally uneconomic:
+
+ Many landlords do not fill their vacant rent stabilized units, as the operational and
+ renovation costs may exceed the legal maximum rent. As of 2022, there are roughly
+ 20,000 vacant rent stabilized apartments in New York City. (Wikipedia)
+
+Might there be something wrong with a system where (a) there's strong demand for apartments but (b) it's
+more profitable to keep apartments vacant than rent them out? Apartments aren't much different from
+bread or toilet paper. Officials can limit the price people have to pay, which is popular with
+consumers, but other than in the most dictatorial jurisdictions, they can't force suppliers to
+produce goods for sale at the regulated prices.
+
+As I've tried this year to keep up with articles about New York's apartment situation, I've noticed that the
+following factors are usually listed as discouraging apartment creation: (a) a lack of tax incentives and
+subsidies, (b) resistance to construction of affordable apartment buildings in the suburbs, and (c) high
+interest rates (albeit the last one can't be used to explain the low level of apartment construction in the
+2010s). What struck me most was the absence of any mention of the impact of rent regulations.
+
+A February 9 article in The New York Times particularly piqued my interest. The article reported that the
+percentage of New York City rental apartments that were "vacant and available" had fallen to 1.4%, the
+lowest since 1968. It went on to say, "Housing experts consider a healthy vacancy rate to be somewhere
+around 5 to 8 percent." So why are so few apartments vacant? It comes down to supply and demand:
+
+ a) As in the example of Taylor Swift tickets, they're simply too cheap. That means demand is
+ strong and apartments don't sit vacant.
+
+ b) Also, because rents are kept too low, would-be builders can't achieve attractive returns,
+ meaning there are few additions to supply. (I also imagine that if apartment builders could earn
+ an acceptable return on investment, they'd have to worry about new regulations expropriating it.)
+
+As mentioned earlier with regard to prices in general, if demand for apartments is strong and
+supply is restricted, the result should be rents that rise, encouraging landlords to add to supply.
+But market forces aren't allowed to freely function in New York City; the laws of economics have
+been blunted by regulation. The February 9 article included the following statements (and this is from
+The New York Times, again usually not the capitalist's friend):
+
+ The answer is that developers generally can't make returns for building apartments that are
+ competitive with the returns on other forms of investment. . . .
+
+ Housing experts estimate that the number of homes the city needs to build is in the
+ hundreds of thousands.
+
+ So far, however, the city and state have not made moves that could accelerate enough
+ housing development to solve the crisis. . . .
+
+ [Governor Kathy] Hochul said in a statement that the survey was "the latest reminder that
+ we can only build our way out of this crisis."
+
+But it's interesting to note that the "moves" that are described as having the potential to lead to
+"building our way out of this crisis" always emphasize government-provided subsidies and
+incentives, never allowing the free market to set rents.
+
+A person in favor of this arrangement would argue that it maintains affordability and diversity. What it
+means in purely economic terms is that some people who couldn't afford to live in New York City if
+rents were set by free-market forces are able to live there if they're lucky enough to secure an
+apartment with regulated rent. But other people who would like to live in New York City and can
+afford higher rents can't do so because there are no apartments for them. And lastly, landlords that
+have apartments that are somehow unregulated can command higher rents than would be the case if
+additions to the supply of apartments weren't being discouraged. It's a matter of personal philosophy
+whether this is good or bad. But clearly, the laws of economics and the actions of free markets aren't at
+work in New York City. Someone in government is making the decisions.
+
+I'll end this discussion with a comment Jason Furman made about grocery prices:
+
+ Mr. Furman . . . said . . . if prices do not rise in response to strong demand, new
+ companies may not have as much inclination to jump into the market to ramp up supply.
+ (The New York Times, August 15)
+
+By the way, as part of her August 16 economic package, Harris said she would prohibit landlords who
+own more than 50 apartments from raising rents by more than 5% for two years. That may or may not be
+a good idea, but it's certainly not going to encourage increased investment in apartments.
+
+Regulatory Miscellany
+
+There are so many examples of governmental attempts to ignore or override the laws of economics that
+it's daunting to think of cataloging them, but I must discuss a few here, and their shortcomings:
+
+ • Another component of Harris's economic program is a plan to give first-time homebuyers
+ $25,000 to help with down payments. Certainly, it's hard these days for young people to come
+ up with the cash needed to become homeowners. The problem here is that giving a million
+ would-be buyers $25,000 each, or $25 billion in all, would almost certainly result in an
+ immediate increase in home prices, eliminating much of the hoped-for benefit from the program.
+ Easy: that can be prevented by passing a law that prohibits current sellers from raising home
+ prices in response to enactment of the program. But what about homes that will come onto the
+ market in the future? Simple: enact another law that says you can't ask more for your home than
+ you would have if the program didn't exist. Try enforcing that one.
+
+ • When he was president, Donald Trump enacted tariffs on goods from China to counter trade
+ practices he considered unfair. Now, he promises a 10% across-the-board tariff on imports.
+ Those tariffs might discourage imports, stimulate domestic production, and reduce the U.S.'s
+ chronic trade deficit. But they'd likely be paid by consumers of imported goods, as
+ manufacturers and exporters are unlikely to absorb a tariff if they can pass it on. For many years
+ low-cost imports have held down inflation in the U.S. and enabled Americans to enjoy an
+ attractive standard of living. Broad new tariffs are likely to be the equivalent of price increases
+ for American consumers. And the tariffs - and those imposed by other nations in retaliation -
+ would hamper globalization, which benefits the global economy by letting people in each nation
+ do for the world what they're best at.
+
+ • Trump's policy proposals also include extension of his expiring 2017 tax cuts and a panoply of
+ new ones. There's something for everyone, with tax cuts for corporations and individuals,
+ including ending the taxation of tips, Social Security benefits, and overtime pay. The Penn
+ Wharton Budget Model estimates that in 2026, the plan would reduce taxes by $320 for the
+ average person in the bottom income quintile and $47,220 for those in the top percentile. Even
+ without factoring in the latest proposals, like exempting overtime pay, these actions are projected
+ to increase the national deficit by $5.8 trillion over the next decade, or $4.1 trillion after
+ incorporating their potential stimulative impact on the overall economy (so-called "trickle-down
+ effects"). Other than that possibility, there's no suggestion the cuts would be paid for.
+
+ • California is a Petri dish for so-called "progressive" economic ideas. In 2022, the state legislature
+ passed a bill creating a council comprised of industry representatives and restaurant workers to
+ set wages in the fast-food industry. Faced with a threatened industry-financed referendum to
+ repeal the law, legislators modified it to mandate a minimum hourly wage of $20 for fast food
+ chains of more than 60 restaurants. The new law only took effect in April, so it's too early to
+ assess its impact. Press accounts, however, are replete with accounts of restaurants closing,
+ employees being laid off or having their hours reduced, employers investing in labor-saving
+ technologies, and substantial price increases for the consumer. Although "mom and pop"
+ restaurants are not required to pay the new minimum wage, predictably many have been forced to
+ match the mandated rate to retain their employees, meaning the protection legislators intended for
+ small restaurants may be illusory. That's how the laws of economics work.
+
+ • Similarly, California passed a law mandating a $25-an-hour minimum wage for workers in the
+ healthcare industry. But more recently, according to The Wall Street Journal of May 27,
+ officials realized that it "would cost the state $4 billion more a year owing to higher Medicaid
+ costs and compensation for workers at state-owned facilities" and so they delayed the benefit of
+ the law with respect to those workers. Shocking here is the idea that you can't give money to
+ someone without getting it from someone else, and California taxpayers might not enjoy the state
+ directing more of it to healthcare workers, especially given the current budget deficit.
+
+ • If there's one thing both parties agree on, it's "hands off Social Security!" Retirees present and
+ future want their monthly payments, and they want the rules left as they are. The leaders of both
+ parties have agreed to this. It's just that it can't work. Social security is a contributory program
+ analogous to insurance, and it works through a trust fund. Workers pay in via taxes and retirees
+ get checks. But the number of retirees drawing benefits has been growing relative to the number
+ of active workers paying in, and, if nothing is changed, the fund is sure to become insolvent
+ through an inexorable mathematical process. There are many levers that could be pulled to
+ restore Social Security to health, but nobody wants to pull them, since doing so would displease
+ someone (that is, displease some voters). The options include (a) raising the Social Security tax
+ rate, (b) raising the ceiling on the earnings on which tax is paid, (c) reducing benefits, (d) limiting
+ cost-of-living adjustments, (e) raising the retirement age, (f) limiting the number of years for
+ which retirees can collect, and (g) means testing would-be recipients. None of these is considered
+ acceptable. Everyone just wants their checks as promised.
+
+ It doesn't take a degree in economics to know what happens when people spend more than they
+ bring in. (Only in political reality might someone expect a different outcome.) However, we
+ don't hear a word from politicians or elected officials about making the changes that are
+ necessary to keep the Social Security trust fund from insolvency. The government can switch
+ Social Security from a self-funded program to a government-funded benefit, of course, and at first
+ glance, the change appears to be mainly semantic. But depleting the trust fund and paying
+ benefits from the Treasury would add further to the already-troublesome deficit, the national debt,
+ and the annual debt service, which would feed back to further increase the deficit and debt.
+
+That leads me to a topic I'm asked about all around the world: the U.S. government's deficit and debt. I
+answer that they're an embarrassment. Oaktree is privileged to manage money for several countries that
+have sovereign wealth funds, not national debt. Some countries put windfalls into a lockbox, like
+Norway's oil revenues or the proceeds from the privatization of Australia's telephone company. And
+many other countries live within their means simply because they have to - they don't have the luxury of
+printing unlimited amounts of money without precipitating a devaluation. But the U.S. habitually runs
+deficits, spending more than it takes in. Our last surplus came in 2000, at the end of the Clinton
+administration. Today, for the first time, simply the annual interest on our national debt exceeds the
+Defense Department budget. Yet neither party is willing to address the deficit or stand for balanced
+budgets. Our congress rarely submits a budget at all, no less a balanced one. This is irresponsible
+behavior we wouldn't tolerate in our own organizations.
+
+The U.S. acts as if it has a credit card with no limit on the balance and no requirement to pay it
+down. It does so because it's been able to get away with it thus far, and our governing officials lack
+the will to spend less than they can. We don't hear much these days about Modern Monetary Theory,
+the view popularized in 2020 that "for countries in control of their currencies, deficits and debts don't
+matter." Nevertheless, our government still acts as if this theory is valid.
+
+In the 1930s, John Maynard Keynes posited that when an economy is growing too slowly to produce the
+needed jobs, the government should increase spending to stimulate demand, even if that means running a
+deficit and covering it by borrowing. And then, when prosperity resumes and the jobs are there, it should
+spend less than it takes in, running a surplus and using it to repay the debt. All good, except for that last
+bit: the part about surpluses and debt repayment has been forgotten.
+
+The truth is, deficits encourage the economic growth that most people enjoy, and spending more than the
+government takes in permits officials to give away "free stuff," thereby gaining votes. But doing this
+
+perpetually requires ignoring the laws of economics, running up debts in the apparent belief that
+they'll never have to be paid. Can it go on without end? We'll see, but I would think not.
+
+What Are the Common Threads?
+
+The actions and proposed actions described above, like the questions beginning at the bottom of page
+three, all have certain elements in common.
+
+• The goals usually seem commendable on the surface: cheaper goods and services, and more equal
+ outcomes. But, given the way things work in economics, they usually have second-order
+ consequences that are uncontrollable and unhelpful.
+• At their core, they're all questions of "who gets what?" There's no possibility of money appearing
+ from out of the ether; there are just choices regarding who pays in and who gets something out. It's a
+ zero-sum game.
+• The goals are often populist, with legislators and regulators picking winners and losers. They usually
+ fashion their actions as protecting the downtrodden little guy from the rapacious big guy. Most anti-
+ free-market regulations incorporate size criteria, meaning they only apply to supermarkets, not corner
+ grocery stores; landlords with a lot of apartments; medical facilities of a certain size; and restaurant
+ chains, not independents. In this context, we should note what President Biden said at the Democratic
+ National Convention in August: "I'm proud to have been the first president to walk a picket line
+ and be labeled the most pro-union president in history." Are employees per se more deserving of
+ protection than employers? Without employers, where would people get jobs? Regardless, they do
+ serve as convenient targets for politicians.
+• The rhetoric surrounding these matters is often alarmingly classist and divisive. Here's part of a
+ typical note I received from a candidate last month: "Even with inflation lowering [sic], food prices
+ still seem sky-high. It's another sign of corporate greed hurting . . . consumers. CEOs shouldn't be
+ lining their pockets with record profits while families struggle to put food on the table or pay for
+ medications." In this kind of environment, "profit" is a dirty word, and "greedy corporations" are
+ ripe for suspicion and regulation.
+• Finally, elected officials have a habit of exempting themselves from impact. Thus, it's interesting to
+ observe that California's minimum fast-food wage doesn't apply to restaurants in government
+ facilities. What official wants to suffer the wrath of an employee forced to pay more for lunch?
+
+One of the most important characteristics of the laws of economics is that they apply to everyone. On the
+other hand, attempts to negate those laws are usually designed to affect some parties differently from
+others. Whenever this is the case, those in charge are picking would-be winners and losers. Not a great
+idea in a "free society."
+
+Fundamentally, government subsidies and economic regulations amount to encouraging actions
+that people wouldn't take on their own. In other words, these actions wouldn't happen in a free
+market. Mandates like these should be examined critically. Some may stem from officials' Solomonic
+decisions and desire for a fair society. Others are probably the result of a philosophic bias in favor of
+redistribution. And still others are just a matter of currying favor with voters.
+
+For many career politicians, the first order of business is getting elected and reelected. Elected officials'
+tinkering with the economy is often designed to appeal to voters. Then there's the added benefit of
+getting officials off the hook, since they can redirect blame for politically undesirable developments to
+"bad actors," such as powerful corporations and greedy landlords. Finally, economic regulations can
+
+provide temporarily palliative outcomes, with the negative side effects coming only in later years, when
+the officials who enacted them have left the political stage.
+
+Free Markets or Controlled Markets? That Is the Question
+
+Governments don't make a product, create value over and above the cost of the inputs they employ
+or - other than through their spending - contribute to GDP. They collect (or print) money with one
+hand and distribute money and services with the other. They collect taxes from taxpayers and incur debts
+in the name of future taxpayers. Then they pay out money for benefit programs, salaries, capital
+expenditures, and subsidies. Policymaking is about who will pay in and who will receive the benefits.
+
+Governments don't strive for profits, meaning the people who run governments get a free pass on
+efficiency. Corporate management teams that fail to produce a product worth more than the inputs - aka
+make a profit - won't last long. But governments aren't expected to do so, and as a result, there's no easy
+yardstick for quantifying a government's effectiveness, like profits do for a business.
+
+Governments do play essential roles that may have nothing to do with profits or value added.
+
+ • They provide things people can't provide for themselves, such as defense, healthcare, police and
+ fire services, education, infrastructure, and response to emergencies, both physical (floods,
+ tornados, and pandemics) and economic (recessions and hyperinflation).
+ • They also provide safety nets for those who would otherwise suffer. There are extensive
+ differences of opinion over how much of this governments should do, and those differences
+ underly one of the biggest disagreements between the U.S. political parties.
+
+Beyond necessities, how far should a government go to even out its citizens' incomes and quality of life?
+Doing so is one of the reasons why governments take from some to give to others as described above.
+But it must be acknowledged that each step in this direction - as opposed to requiring people to
+fend for themselves - is a step in contravention of free-market forces, with consequences.
+
+ • Darwin described the way species are strengthened through what is known as "survival of the
+ fittest." It works, and species evolve upward. But this is, by definition, a cold-blooded process
+ through which the strong thrive and the weak perish. Good for the whole of the species, but not
+ for every member.
+ • Likewise, the collective economic welfare of a society is maximized by the operation of the free
+ market. In the process, some people do better than others - preferably, but certainly not always,
+ the most talented, hardest working, and most deserving. Only in the most rose-colored (and ill-
+ fated) systems is it not accepted that some people will do better than others. But the differential
+ has expanded a great deal of late, and there is a growing debate as to "how much better" is fair
+ and acceptable.
+
+The choice is clear based on the evidence provided by history: (a) efficient free market economies
+with their incentives and uneven outcomes or (b) command economies with their uniform outcomes
+and sub-par performance. On page two, I wrote the following:
+
+ The incentives provided by free markets direct capital and other resources where they'll
+ be most productive. They prompt producers to make the goods people want most and
+ workers to take jobs where they'll be most productive in terms of the value of their
+ output. And they encourage hard work and risk taking.
+
+In contrast, if markets are made less free - that is, if they're forced to follow government edicts rather
+than the laws of economics:
+
+ • capital and raw materials will be directed to places other than where they'll be most productive;
+ • producers will fail to make the things people want most, and instead will make things the
+ government thinks people should have;
+ • workers will be assigned to work where they'll produce less than they otherwise might; and
+ • hard work and risk taking won't take place as much, since the rewards for doing those things will
+ be capped and, in some cases, redirected to people who didn't do the work or take the risk but
+ whom those in control deem deserving.
+
+Incentives and free markets are essential for a high-functioning economy, but their existence
+assures that some members of the economy will do better than others. You can't have one without
+the other.
+
+China
+
+At this point you might ask, "But what about China? The Chinese economy isn't free to operate pursuant
+to the laws of economics, but it's doing well." We think of China as a "communist country," replete with
+state-owned enterprises, industrial policy, and five-year plans. And yet, China's GDP has grown at nearly
+9% per annum for the last 45 years, and in 2010 it became the world's second-largest economy. How
+could that be?
+
+As it turns out, much of China's economic success is attributable to a vibrant private sector. I've been
+visiting China for nearly 20 years and, especially during my early visits, I struggled to comprehend the
+logic that permits the coexistence of the collective ideology with private enterprise. Certainly, those are
+"strange bedfellows." A visit to Xiamen, China earlier this month for the China International Fair for
+Investment & Trade reminded me of this conundrum. Regardless of the explanation, the fact is that
+China's economy relies heavily on the dynamic private sector. In the summer of 2022, Edward
+Cunningham of the Harvard Kennedy School used a popular formulation to describe it:
+
+ China's private sector is often summed up with a combination of four numbers:
+ 60/70/80/90. Private firms contribute 60% of China's GDP, 70% of its innovative
+ capacity, 80% of its urban employment and 90% of new jobs.
+
+And the government recognizes this. On March 13, 2023, CNN reported on a statement from Chinese
+Premier Li Qiang:
+
+ "For a period of time last year, there were some incorrect discussions and comments in
+ the society, which made some private entrepreneurs feel worried," Li said Monday.
+ "From a new starting point, we will create a market-oriented, legalized and
+ internationalized business environment, treat enterprises of all types of ownership
+ equally, protect the property rights of enterprises and the rights and interests of
+ entrepreneurs."
+
+Certainly, this represents a triumph of pragmatism over ideological purity. It's a clear example of
+accommodating to economic reality rather than trying to override it.
+
+ * * *
+
+My first step toward understanding the workings of the various economic systems came in junior high
+school in the late 1950s, when I read George Orwell's Animal Farm. Orwell wrote it in 1945 as a thinly
+veiled critique of Russia and communism/socialism. That book taught me most of what I needed to know
+about free markets versus command economies. If you haven't read it, or if you read it so long ago that
+you can't remember what it says, I suggest you pick it up.
+
+In the allegory of Animal Farm, the animals took over the running of the farm. For me, the key lesson
+emanates from the motto they painted on the barn wall, borrowed from Karl Marx: "From each according
+to his ability; to each according to his needs."
+
+What an idealistic statement! It would be great if everyone produced all they could, with the more able
+members of society producing more. And it would be great if everyone got what they need, with needier
+individuals getting more. But, as the animals on the farm soon learned, if workers only get to keep what
+they need, there's no incentive for the more able among them to put in the additional effort required to
+produce a surplus from which to fill the needs of the less able. The great challenge, of course, is to
+strike the proper balance: to take enough from the successful in the form of taxes to fund services,
+government programs, and wealth transfers without eroding their incentive to work or encouraging
+them to seek out low-tax jurisdictions.
+
+What I discuss above are the economic facts of life, and some of their ramifications may be less than
+ideal. But idealists' wishes don't govern economies; these realities do. Foremost among them are
+the power of incentives and the influence of supply and demand. The rules must be respected; they
+can't be ignored, wished away, or overridden without consequences.
+
+Anyone who thinks it's better to live in a centrally planned economy that prefers evenly distributed
+benefits over free markets hasn't studied history (or read Animal Farm). It may sound good in theory, but
+it has never worked. The laws of economics will always win out eventually. Nations can respect them
+and reap the associated benefits, or they can try to contravene them and pay the price in terms of
+underperformance. In the world of politics, there can be limitless benefits and something for
+everyone. But in economics, there are only tradeoffs.
+
+
+Memo: Ruminating on Asset Allocation.
+
+When I travel to see clients and spend entire days discussing investing and the markets, memo ideas often
+pop up. Last month's visit with clients in Australia is a case in point. We talked about the "sea change" I
+believe is taking place in interest rates and about the role of credit in portfolios, and in a few cases, this
+led to the general topic of asset allocation. The result wasn't a lot of new ideas on the subject, but rather a
+new way to combine old ideas into a unified theory.
+
+Before I proceed, I want to mention that, from time to time in this memo, I'll say "generally," "usually,"
+or "everything else being equal." These caveats are likely applicable to many more sentences and ideas
+herein, but for the sake of readability, I'm not going to repeat them ad nauseum. In addition, I'm going to
+use a lot of graphics, as I truly believe one picture is worth a thousand words. Please bear in mind that
+these representations are intended to be notional, not technically correct.
+
+Asset Classes
+
+From my vantage point, "asset allocation" is a relatively new thing. No one used that phrase when I
+joined the industry 55 years ago. Structuring portfolios was a pretty simple matter, generally following
+the classic "60/40" split. Most U.S. investors limited themselves to investing in U.S. stocks and bonds,
+and there was a time-honored notion that something like 60% equities and 40% bonds represented
+reasonable diversification.
+
+Today, investors are presented with so many choices - and there's so much emphasis on getting the
+decision right - that the term "asset allocation" is very prominent, and there are individuals and whole
+departments dedicated to doing just that. It's their job to decide how to weight the asset classes to be held
+in a portfolio, meaning asset allocators spend their time on decisions like these:
+
+ • How much in equities and how much in debt?
+ • How much in stocks and bonds and how much in "alternatives"?
+ • How much in public securities and how much in private assets?
+ • How much in one's home country and how much abroad?
+ • How much of the latter in the developed world and how much in emerging markets?
+ • How much in high quality assets and how much in low quality?
+ • How much in more volatile "high beta" assets and how much in steadier ones?
+ • How much in levered strategies and how much unlevered?
+ • How much in "real assets"?
+ • How much in derivatives?
+
+It's enough to make your head spin. Many investors use computer models to help with these decisions,
+but the models require inputs regarding expected return, risk, and correlation, and most of these are based
+on history and thus of questionable relevance to the future. Correlation between asset classes is
+particularly difficult to predict. It's often a case of garbage in, garbage out (but with the added comfort
+that comes from using mathematical models).
+
+Ever since coming up with my sea change thesis regarding interest rates two years ago, I've been talking
+about the increased utility of credit investments. And the more I've done so, the more I've thought about
+the difference between credit investments and equities. Thus, the first thing I want to mention about
+my "Australian epiphany" is the unconventional idea that, at bottom, there are only two asset
+classes: ownership and debt. If someone wants to participate financially in a business, the essential
+choice is between (a) owning part of it and (b) making a loan to it.
+
+When I moved from Citibank's equity research department to its bond department in 1978, I learned
+firsthand that this is a matter of night and day. On my new desk, I found a machine called a Monroe
+360/65 Bond Trader. If you typed in a bond's interest rate, maturity date, and market price, it would tell
+you the yield to maturity . . . in other words, what your return would be if you bought the bond at that
+price and held it to maturity (and it paid). This was revolutionary to me. On the equity side I'd come
+from, there was no place you could look to find out what your return would be.
+
+This highlighted for me something I've always felt most investors don't grasp viscerally: the essential
+difference between stocks and bonds . . . that is, between ownership and lending. Investors seem to think
+of stocks and bonds as two things that fall under the same heading. But the difference is enormous. In
+fact, ownership and lending have nothing in common:
+
+ • Owners put their money at risk with no promise of a return. They acquire a piece of a business or
+ other asset and are entitled to their proportional share of any residual that remains after the
+ necessary payments have been made to employees, providers of raw materials, landlords, tax
+ authorities, and, of course, lenders. If there's something left over, it's called profit or cash flow,
+ and the owners have the right to share in whatever part of it is paid out. And if there's profit or
+ cash flow (or the potential for it in the future), the business will have "enterprise value," in which
+ the owners also share.
+ • Lenders typically provide funds to help owners purchase or operate businesses or other assets
+ and, in exchange, are promised periodic interest and the repayment of principal at the end. The
+ relationship between borrower and lender is contractual, and the resulting return is known in
+ advance as described above, again assuming the borrower makes the promised payments when
+ due. That's why this kind of investing is called "fixed income" - the income is fixed. For the
+ purposes of this memo, however, it might help to think of it as "fixed outcome" investing.
+
+This isn't a difference in degree; it's a difference in kind. Ownership assets (things like common
+stocks, whole companies, real estate, private equity, and real assets) and debt (bonds, loans, mortgage
+backed securities, and other streams of promised payments) should be thought of as entirely different, not
+variations on a theme. They have different characteristics and potential, and the choice between them is
+one of the most basic things investors must decide.
+
+The Essential Choice
+
+At the outset of this memo, I listed some of the decisions that comprise the asset allocation process. But
+how can those decisions be approached? What's the framework for making them?
+
+The next piece that clicked into place in my thinking "down under" was with regard to the basic
+characteristics of a portfolio. In my opinion, one decision matters more than - and should set the
+basis for - all the other decisions in the portfolio management process. It's the selection of a
+targeted "risk posture," or the desired balance between aggressiveness and defensiveness. The
+essential decision in investing is how much emphasis one should put on preserving capital and how much
+on growing it. These two things are mostly mutually exclusive:
+
+ • Insistence on preserving capital - or, secondarily, on limiting the portfolio's volatility - calls for
+ an emphasis on defense, which precludes pursuing maximum growth.
+ • Correspondingly, a decision to strive to maximize growth requires an emphasis on offense,
+ meaning preservation of capital and steadiness must be sacrificed to some degree.
+
+It's one or the other. You can't simultaneously emphasize both preservation of capital and
+maximization of growth, or defense and offense. This is the fundamental, inescapable truth in
+investing. The questions listed on page one are just details, the options available for reaching your
+targeted risk posture.
+
+If you think about portfolio construction in this sense - looking for the right balance between offense and
+defense - it becomes clear that the goal should be optimization, not maximization. To my mind, it
+shouldn't be "wealth," but "wealth pursued in an appropriate way, taking into account the investor's
+wants and needs."
+
+Many people think the proper goal in investing is achieving the highest return. More sophisticated
+thinkers understand - either intellectually or intuitively - that the goal should be to achieve the best
+relationship between return and risk. If you follow that latter mandate, it'll hopefully lead you to
+assets whose expected return is more than sufficient to compensate for their risk, and thus to a portfolio
+with the potential for an attractive risk-adjusted return. But that's not enough.
+
+The absolute level of risk in a portfolio shouldn't be an unwitting consequence of the asset
+allocation process described above, or of the search for superior risk-adjusted returns. The
+absolute risk level must be consciously targeted. In fact, in my view, it's the most important thing.
+For an investment program to be successful, the level of risk in the portfolio must be well
+compensated and fall within the desired range . . . neither too much nor too little.
+
+The Shape of the Curves
+
+In the last few months, I've been drawing probability distributions to illustrate the fundamental difference
+between the potential returns from ownership assets and debt (or "fixed income," "credit," or whatever
+you want to call it). Here's the general shape of the curve describing the potential return on a portfolio of
+ownership assets (Figure 1):
+
+And following on page four is the shape of the curve describing the potential return on a portfolio of debt
+(Figure 2):
+
+Ownership assets typically have a higher expected return, greater upside potential, and greater
+downside risk. Everything else being equal, the expected returns from debt are lower but likely to
+fall within a much tighter range. There's generally no upside on debt - no one should buy an 8% bond
+expecting to make more than 8% per year over the long term. But there's also relatively little downside -
+you'll get your 8% if the borrower pays, and relatively few fail to pay. For this reason, offense is usually
+better played through ownership assets, and defense is usually better played through debt. (I hasten to
+add that investing isn't a matter of either/or. The two can be combined, meaning the operative question
+surrounds the right mix.)
+
+In the low-interest-rate environment that prevailed from 2009 through 2021, the expected return from
+debt was extremely low in the absolute and far below the historical return on equities, rendering debt
+relatively unattractive (Figure 3).
+
+But today, it's considerably higher than it was and closer to that of equities (Figure 4). That's why I've
+been urging increased investment in credit.
+
+Obviously, the relationship between the two curves at a point in time has a very direct bearing on the
+appropriate asset allocation at that time.
+
+Which of the two is "better," ownership or debt? We can't say. In a market with any degree of
+efficiency - that is, rationality - it's just a tradeoff. A higher expected return with further upside
+potential, at the cost of greater uncertainty, volatility, and downside risk? Or a more dependable
+but lower expected return, entailing less upside and less downside? The choice between the two is
+subjective, largely a function of the investor's circumstances and attitude toward bearing risk. That
+means the answer will be different for different investors.
+
+Choosing the Offense/Defense Balance
+
+I've previously expressed my view that, as a starting point, every investor or their investment manager
+should identify their appropriate normal risk posture or offense/defense balance. For each individual or
+institution, this decision should be informed by the investor's investment horizon, financial condition,
+income, needs, aspirations, responsibilities, and, crucially, intestinal fortitude, or their ability to stomach
+ups and downs.
+
+Once investors have specified the normal risk posture that's right for them, they face a choice: they can
+maintain that posture all the time, or they can opt to depart from it on occasion in response to the
+movements of the market and thus changes in the attractiveness of the offerings it provides, increasing
+their emphasis on offense when the market is beaten down and on defense when it's riding high.
+
+Regardless of whether one's risk posture is fixed or variable, however, the next question is how one gets
+there. This question led me to think about another old idea: the relationship between risk and return. I've
+described a million times the way this was taught at the University of Chicago, beginning when I was
+there in the 1960s. It's a graphical presentation we've all seen ever since, in which, as we move from left
+to right, increasing the expected risk, the expected return also increases (Figure 5):
+
+As readers know, I always felt this representation was highly inadequate, since the linearity of the
+relationship in the graph makes it appear too certain that increased risk will lead to increased
+return. This obviously belies the nature of risk. So, in a memo in 2006, I took the same line and
+superimposed on it some bell-shaped curves representing probability distributions turned on their side. I
+did this to indicate the uncertain nature of returns from riskier assets (Figure 6):
+
+Now, we see that as the thing called "risk" increases (that is, as we move from left to right on the
+graph), not only does the expected return increase, but the range of possible outcomes becomes
+wider and the bad outcomes become worse. That's risk! (I hope this way of presenting risk will be
+considered a lasting contribution to the investment industry when I'm gone.)
+
+Doodling one day, I took the black and green curves describing ownership asset returns and debt returns
+from Figure 4 and added some intermediate positions in blue and red to indicate various combinations of
+the two. Thus, the blue curve is 2/3 debt and 1/3 ownership, and the red is 1/3 debt and 2/3 ownership
+(Figure 7):
+
+In Australia, as I was showing this diagram, it struck me that Figure 7 is just another way to represent the
+idea presented in Figure 6. Again, as we move from left to right (more ownership assets, less debt), the
+expected return increases and the expected risk increases (that is, just as in Figure 6, the range of possible
+outcomes grows wider and the left-hand tail stretches further into undesirable territory). This way of
+presenting the options might be more intuitively clear.
+
+Someone who believes in "more risk, more return" as portrayed in Figure 5 should logically adopt a high-
+risk posture. But if they understand the real implications of increased risk, as suggested by Figures 6 and
+7, then they might opt for something more moderate.
+
+The Role of Alpha and Beta
+
+All the foregoing assumes markets are efficient:
+
+ • As risk increases in an efficient market, expected return increases proportionally. Or maybe that's
+ better stated the other way around: as expected return increases, so does the accompanying risk
+ (the uncertainty surrounding the outcome and the likelihood of a bad one). Thus, no position on
+ the risk continuum (for example, in Figure 6) is "better" than any other. It's all just a matter of
+ where you want to come out in terms of absolute riskiness, or what absolute level of return you
+
+ want to aim for. The ratio of return to risk is similar at all points on the continuum - less of
+ both toward the left, and more of both toward the right. Said another way, there's no free lunch.
+ • Also, looking at each position on the risk continuum, the symmetricalness of the vertical
+ distribution of possible returns around the expected return is similar from one position to
+ the next. That means the ratio of upside potential to downside risk at one position on the
+ continuum isn't markedly better than it is at other positions - again no free lunch.
+ • Finally, if you want to move further out on the risk continuum, you can do so by either (a)
+ investing in riskier assets or (b) applying leverage to the same assets (magnifying both the
+ expected return and risk). Again, in a fully efficient market, neither tactic is preferable to the
+ other.
+
+The above three statements capture some of the important implications of supposed market efficiency.
+
+Looked at this way, the only thing that matters is getting to the right risk position for you; under an
+assumption of market efficiency, there's nothing to be gained in terms of return at a given level of
+risk. All ways of getting to a certain risk level will produce the same expected return.
+
+The reason for this is the academic view that, in an efficient market, (a) all assets are priced fairly relative
+to each other, such that there are no bargains or over-pricings to take advantage of and (b) there's no such
+thing as alpha, which I define as "gains resulting from superior individual skill." As a result, there's
+nothing to be gained from active decision making: no asset class, strategy, security or manager is
+"better" than any other. They merely vary in terms of risk and resulting return.
+
+Also in the academic view, since there's no such thing as alpha, the only thing that differentiates assets is
+their beta, or their relative volatility, the extent to which they reflect market movements. In the theory, it's
+beta that expected returns are proportional to.
+
+Now it's time for me to assert strenuously that, in reality, markets are not efficient in the academic
+sense of always being "right." Markets may do an efficient job of (a) rapidly incorporating new
+information and (b) accurately reflecting the resulting consensus opinion concerning the right price for
+each asset given the totality of information, but that opinion can be far from correct. For that reason,
+gains can be achieved by choosing skillfully among the options:
+
+ • some assets, markets or strategies can offer a better risk/return bargain than others, and
+ • some managers can operate within a market or strategy to produce superior risk-adjusted returns.
+
+This last idea raises one of the key questions in asset allocation: should you consider departing from your
+"sweet spot" in terms of risk level in order to invest in a riskier asset class with a manager believed to
+possess alpha? There's no easy answer to this question, especially given that many managers who are
+believed to possess alpha turn out not to.
+
+To conclude, I'll recap the key points:
+
+ • Fundamentally speaking, the only asset classes are ownership and debt.
+ • They differ enormously in terms of their fundamental nature.
+ • Ownership assets and debt assets should be combined to get your portfolio to the position on the
+ risk/return continuum that's right for you. This is the most important decision in portfolio
+ management or asset allocation.
+ • The other decisions are merely a matter of implementation.
+
+ • Of course, your asset allocation process will be informed by how you rate your ability to identify
+ and access superior strategies and superior managers, recognizing that doing so isn't easy.
+
+ * * *
+
+Moving on to the real world, I want to make some important observations regarding one of Oaktree's key
+sectors, non-investment grade credit (defined as performing non-government debt):
+
+ • The prospective returns in this area today are much higher than they were in the 2009-21 period.
+ • These returns, starting at roughly 7% on public credit and 10% on private credit, are competitive
+ with the historical returns on equities and capable of helping many investors toward their overall
+ return targets.
+ • Because of their contractual nature, the returns from credit are likely to prove much more
+ dependable than ownership returns.
+
+In my view, the thought process set forth in this memo leads to the conclusion that investors
+should increase their allocations in this area if they are (a) attracted by returns of 7-10% or so, (b)
+desirous of limiting uncertainty and volatility, and (c) willing to forgo upside potential beyond today's
+yields to do so. For me, that should include a lot of investors, even if not everyone.
+
+My recommendation at this time is that investors do the research required to increase their allocation to
+credit, establish a "program" for doing so, and take a partial step to implement it. While today's potential
+returns are attractive in the absolute, higher returns were available on credit a year or two ago, and we
+could see them again if markets come to be less ruled by optimism. I believe there will be such a time.
+
+Thank you for indulging me in this foray into investment philosophy. I hope you've found it of value.

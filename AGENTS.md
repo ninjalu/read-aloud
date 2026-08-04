@@ -54,57 +54,57 @@ python3 -m venv .venv
 ## Project info (auto-detected)
 
 **Stack:** Python, Shell, Swift
-**Files:** ~39
+**Files:** ~200
 
 **Entry points:**
 - `./build.sh`
 
 **Structure:**
 ```
-ReadAloud/
-  Resources/
-    AppIcon.icns
-    Readability.js
-  Sources/
-    ArticleExtractor.swift
-    ContentView.swift
-    KokoroReader.swift
-    ReadAloudApp.swift
-AGENTS.md
-build.sh
-export
-icon_master.png
-make_cover.py
-make_cover_neon.py
-make_cover_v3.py
-make_cover_v4.py
-make_icon.py
-make_icon.sh
-podcast-sync
-podcast-sync-watch.launchd.log
-podcast-sync-watch.log
-podcast-sync-watch.sh
-podcast.py
-podcast_config.json
-readaloud-export.py
-README.md
-requirements.txt
-sample_af_heart.wav
-sample_am_michael.wav
-sample_bf_emma.wav
-sample_bf_isabella.wav
-sample_bm_george.wav
-sample_bm_lewis.wav
-sample_british.py
-sample_tts.py
-SETUP_PODCAST.md
-stop-engine.sh
-test_extract.swift
-tts_core.py
+berkshire/
+  audio/
+    cover.jpg
+    episodes.json
+    feed.xml
+  raw/
+    1977.html
+    1978.html
+    1979.html
+    1980.html
+    1981.html
+    1982.html
+    1983.html
+    1984.html
+    1985.html
+    1986.html
+    1987.html
+    1988.html
+    1989.html
+    1990.html
+    1991.html
+    1992.html
+    1993.html
+    1994.html
+    1995.html
+    1996.html
+    1997.html
+    1998.html
+    1998.pdf
+    1999.html
+    1999.pdf
+    2000.html
+    2000.pdf
+    2001.html
+    2001.pdf
+    2002.html
+    2002.pdf
+    2003.html
+    2003.pdf
+    2004.pdf
 ... (truncated)
 ```
 
-**Git:** branch: `main` | last commit: 2026-08-03 | 1 uncommitted | remote: https://github.com/ninjalu/read-aloud.git
+**Git:** branch: `main` | last commit: 2026-08-04 | 10 uncommitted | remote: https://github.com/ninjalu/read-aloud.git
 
 ## AI-agent bridge (Codex / open-source)
 

@@ -1,0 +1,2546 @@
+Memo: Learning From Enron.
+
+The investigation was not completed until June . . . The testimony had brought to
+ light a shocking corruption, . . . a widespread repudiation of widespread standards
+ of honesty and fair dealing . . . and a merciless exploitation of the vicious
+ possibilities of intricate corporate chicanery. The public had been deeply aroused
+ by the spectacle of cynical disregard of fiduciary duty . . .
+
+ Part of a draft post-mortem for Enron? Could be, but it's not. It's a passage from one of
+ my favorite books, "Wall Street Under Oath." The book was written in 1939 by
+ Ferdinand Pecora, who served as Counsel for the Senate Committee on Banking and
+ Currency investigating the Crash of '29 and went on to become a Justice of the Supreme
+ Court of New York. It recounts the outrageous 1920s conduct of commercial/investment
+ bankers that inspired the creation of the Securities and Exchange Commission and the
+ enactment of securities laws that govern our industry to this day. The bankers' conduct
+ was rife with self-dealing, conflicts of interest and gross dishonesty.
+
+ In other words, reviewing the 1920s reminds us of history's tendency to repeat.
+
+ U What Can We Learn From Enron?
+
+ An article about Enron in the December 5 Wall Street Journal made a big impression on
+ me. Headlined "Behind Enron's Fall, a Culture of Operating Outside the Public's View,"
+ it read in part as follows:
+
+ It was vintage Enron: minimal disclosure of financial information that, in
+ retrospect, was central to understanding the complex company . . . . virtually
+ unseen until the end was an Enron culture that contained the seeds of its collapse,
+ a culture of highly questionable financial engineering, misstated earnings and
+ persistent efforts to keep investors in the dark.
+
+ Senior Enron executives flouted elementary conflict-of-interest standards. The
+ company hired legions of lawyers and accountants to help it meet the letter of
+ Federal securities laws while trampling on the intent of those laws. It became
+ adept at giving technically correct answers rather than simply honest ones.
+
+ The article, and particularly the last sentence quoted above, prompted me to write a year-
+ end memo to Oaktree' s staff stressing the importance of taking "the high road" and
+ describing Enron as "a pretty good example of what Oaktree doesn't want to be."
+
+ What we knew about Enron in December was a fraction of what we know today. It's now
+ clear that there are many lessons to be learned from it.
+
+ Questionable Transactions - Form Over Substance
+ U
+
+ As little as six months ago, Enron was considered an exemplar of corporate growth and
+ ingenuity. Little did we know, however, that its inventiveness had been directed not at
+ developing highly profitable businesses, but rather transactions that could be used to paint
+ an inaccurate picture of Enron and still squeak by under Generally Accepted Accounting
+ Principles. Some of these transactions were breathtaking in their duplicity and chutzpah.
+
+ The most notorious examples relate to the creation of off-balance sheet partnerships.
+ These "special-purpose entities" were used to hide debt and pump profits. As our analysts
+ studied Enron, they couldn't believe the lengths to which its management had gone.
+
+ When Enron wanted to increase its debt to an extent that would have jeopardized the
+ credit rating that was so essential to its business, it formed partnerships to do the
+ borrowing away from Enron's balance sheet. Off-balance sheet partnerships are common,
+ but for their debt not to be consolidated with that of the parent, outsiders must provide at
+ least 3% of their equity capital. The self-interest of the providers of this risk capital, it is
+ thought, will serve to keep the entities independent.
+
+ But Enron had a problem. It wanted to avoid consolidation with its own financial
+ statements, but it feared that vigilance on the part of outside investors would prevent
+ Enron from doing all it wanted in the partnerships. Investors with capital at risk would
+ care about how much debt was taken on, what the partnerships bought with the borrowed
+ money, and at what prices. They might even worry about having Enron executives
+ running the partnerships, which did business with Enron. So outside equity capital had to
+ be attracted to satisfy GAAP, but truly self-interested investors had to be avoided if Enron
+ was to maintain its flexibility.
+
+ How could outsiders be enticed to invest capital without caring? Simple: guarantee the
+ results. The key was for Enron, not the investors, to absorb the risk. This is
+ accomplished by promising a full return of capital, and returns up to 30% a year in some
+ cases, and backing the promise with Enron stock. Certainly the security provided by this
+ investment-grade company's soaring stock would be solid. Enron also guaranteed some
+ of the loans to these entities.
+
+ So with the "outside" investors' risk covered by Enron and the "independent" partnerships
+ squarely under its control, they could be used any way Enron chose. When assets
+ declined in value, the partnerships would buy them at Enron's cost, hiding the losses.
+ When profits seemed likely to disappoint in a quarter, assets could be sold to the
+ partnerships at inflated prices, covering the shortfall. And with investors insulated from
+ the impact, there was no one to question the prices at which these trades took place and
+
+ supply the "arms-length" aspect that would be present in dealings with a truly
+ independent entity.
+
+ Less often discussed, but equally questionable, were the transactions that gave Enron
+ mark-to-market profits. For example, Enron Energy Services was a highly-touted
+ division that contracted to deliver electricity, gas and energy management services to
+ commercial customers, sometimes for periods of up to a decade. Under mark-to-market
+ accounting, anticipated profits from those contracts were reflected immediately.
+
+ Mark-to-market accounting is based on the view that because contracts signed today can
+ greatly influence a company's value, the future profits or losses they imply should be
+ recognized. Based on the terms of the contracts and the likely cost of fulfilling them,
+ management projects the profit that will arise and runs it through the income statement.
+ Obviously, the appropriateness of these profit projections depends on the reasonableness
+ of the cost estimates. If I have agreed to supply gasoline six months from now at $2 per
+ gallon, you can probably depend on the profits I say I'll make. But the accuracy of profit
+ figures for supplying electricity in 2010 is another story.
+
+ Although that technique is standard in commodities trading, problems emerge
+ when there is no liquid market that can establish with a degree of certainty what
+ future market values will be. (Los Angeles Times, February 12, 2002)
+
+ At Enron, we're told, the "reliable source" for documenting the future value of contracts -
+ and thus their contribution to the current year's profits - was the company's own models.
+ That's the equivalent of letting ballplayers call the game and keep their own scores.
+
+ The last type of transaction I'll discuss are derivative trades that made loans look like
+ sales. Again, the amounts of money Enron needed to fund its perpetual motion machine
+ exceeded the amounts that could be borrowed without causing its credit to be downgraded
+ and bringing the motion to a halt. So Enron found a way to enter into "swap" transactions
+ using derivative contracts that in effect were loans but could be accounted for in other
+ ways.
+
+ In a normal swap transaction, party A pays party B a premium to exchange one flow of
+ funds for another. For example, if party A holds a floating-rate loan but doesn't want to
+ bear interest rate uncertainty, he might offer party B a fee plus the stream of payments on
+ that loan in exchange for the payments on a hypothetical fixed-rate loan of the same
+ amount and maturity.
+
+ In Enron's transactions, a financial institution agreed to accept one stream of payments in
+ exchange for another and then paid Enron the estimated present value of the stream it had
+ U U
+
+ agreed to pay over time. Trades like these are called "prepaid swaps," because the
+ financial institution agrees to pay immediately for the stream of future payments to which
+ it becomes entitled. Thus Enron got a lump sum from the financial institution in
+ exchange for the promise of payments in the future.
+
+ That sounds like a loan to me. However, Enron's balance sheet told a different story.
+ Because the derivatives related to commodities, the receipts usually were shown as
+ "assets from price risk management" and the payments that it was obliged to make as
+ "liabilities from price risk management." No loan transaction; just money in Enron's till
+ and an obligation to make payments that amounted to interest and principal.
+
+ There's nothing wrong per se with off-balance sheet partnerships, mark-to-market
+ accounting or swap transactions, or with the standard methods of accounting for them.
+ They're engaged in many times a day, and almost always benignly. The problem arises
+ when these transactions are entered into and accounted for so as to fool, misrepresent and
+ obscure.
+
+ Among the common threads running through Enron's financial practices is the fact
+ that (1) they had been designed for uses other than those to which Enron put them,
+ and (2) Enron's accounting for them provided a distorted picture of what was
+ actually going on.
+
+ U What Was Wrong With Enron's Accounting?
+
+ The principal problem was that the transactions represented an effort to use accounting as
+ a weapon against investors, rating agencies, counterparties and regulators.
+
+ Although the opponents of gun control like to say that "guns don't kill people; people kill
+ people," I think it's people misusing guns who kill people. By the same token, it's not
+ accounting that creates abuses, but people misusing accounting.
+
+ Like most things, transactions like those described above can be abused and misused. At
+ their best they allow companies to accomplish legitimate goals and communicate them
+ clearly. At their worst they can be used to circumvent their normal purposes and avoid
+ apprehension (certainly as in "understanding," but perhaps as in "arrest" as well).
+
+ It seems clear that Enron's executives didn't say "What transaction is in the best
+ interest of Enron and its shareholders, and what's the clearest way to account for
+ it?" Rather, they tried to come up with a form of transaction that could be described so
+ as to convey the desired impression - even if the transaction served no valid business
+ purpose for Enron and the accounting for it was misleading.
+
+ While failings on the part of its executives, directors and outside auditors certainly
+ contributed, Enron was able to do this in large part because the accounting profession had
+ set out numerical rules that could serve as a roadmap for duplicity, rather than principles
+ that would set standards for the intent and effect of financial reporting. The Wall Street
+ Journal of February 12 explained the distinction:
+
+ Auditors who issue clean bills of health are required to certify that a company's
+ financial statements fairly represent the client company's financial performance.
+
+ But critics of the accounting profession today say that over the past three decades
+ the standard setters have moved away from establishing broad accounting
+ principles aimed at insuring that companies' financial statements are fairly
+ presented.
+
+ Instead, they have moved toward drafting voluminous rules that may shield
+ auditors and companies from legal liability if technically followed in check-box
+ fashion. That can result in companies creating complex structures that technically
+ comply with GAAP but hide billions of dollars of debt or other corporate
+ obligations.
+
+ As the Wall Street Journal wrote on February 1 and 8,
+
+ . . . sometimes persnickety rules can become a license for larger dishonesty.
+
+ This new environment's two highest values are tolerance and proceduralism. That
+ doesn't encourage good judgment; it suppresses it.
+
+ So the lessons regarding accounting are simple:
+
+ We need accounting standards that are set and enforced in terms of
+ principles, not just technical rules.
+ Accounting is like any other tool; the results will depend on whose hands it's
+ in.
+
+ The Origins of Corporate Corruption
+ U
+
+ For those seeking an explanation for fortuitous outcomes, luck has been described as
+ "what happens when preparation meets opportunity." I think Enron inspires a similar
+ explanation for corruption: it's what happens when exigency meets moral weakness.
+
+ If Oaktree got into a bind, I hope we would admit that performance wasn't measuring up
+ to expectations, that things weren't going our way, or that we simply had made mistakes.
+ I hope we would accept the consequences and try to remedy the situation.
+
+ Unfortunately, however, not everyone works that way. Some people are less eager to
+ face the music. If the high road doesn't work out and doing the right thing isn't of great
+ concern, there are people who will cut a few corners or look for a "creative" way out.
+
+ I have no reason to believe Enron was formed in 1985 to be the Potemkin village it
+ became, with the intention of misrepresenting results and profiting executives rather than
+ shareholders. And I doubt if anyone said, "Who cares if we hire executives that are
+ morally soft?" I think Ken Lay once had a dream that truly included new ways to profit
+ in a changing energy industry. But when things didn't go according to plan and
+
+ maintaining a lofty stock price became a challenging obsession, the people who mattered
+ most either engaged in corrupt practices or failed to blow the whistle on them.
+
+ Corporate Rot Can Spread From the Executive Suite
+ U
+
+ In fact, Enron's culture in recent years seems to have encouraged doing the wrong thing.
+ Certainly, the jury is still out regarding Ken Lay. Was he the oblivious dreamer who
+ couldn't understand the details, trusted the wrong people and was duped? Or was he the
+ manipulative master criminal we've heard vilified in Congress?
+
+ Whichever was the case, right now we only know the results. It certainly appears that
+ Enron was a company where:
+
+ hubris was encouraged,
+ schemers rose to the top,
+ people were rewarded for ends, not means, and
+ no one ever asked "but is it right?"
+
+ Whistleblower Sherron Watkins has said that questioning CEO Jeff Skilling about the
+ propriety of the partnerships would have been "job suicide." CFO Andrew Fastow is said
+ to have cursed at the Enron representatives who negotiated against the partnerships he ran
+ and to have tried to get one fired. Lawyers will argue the specifics, and judges and juries
+ will decide, but it seems clear that there were bad guys at Enron, and that nothing in the
+ climate there encouraged doing the right thing.
+
+ And encouraging moral behavior, perhaps above all else, is the responsibility of top
+ management. One thing I'm convinced of is that you can't have a great organization
+ without someone at the top setting the tone. The Chairman and CEO can't know
+ everything that goes on in a company, can't be conversant with the details and merits of
+ every transaction, and can't participate in any but the most senior hires. But they can
+ create a climate where expectations are high and the emphasis is on means, not just
+ ends.
+
+ When I get through telling prospective clients how well my partners manage Oaktree's
+ portfolios, some ask, "Then what do you do?" In addition to communicating with clients
+ U U
+
+ and managing the business, I tell them, I try to provide leadership. You can't see it
+ around the office or quantify its effect on the results, but it's what makes a company what
+ it is.
+
+ That Depends on the Meaning of the Word "True"
+ U
+
+ I've seen organizations where, it seemed to me, the standard for truth was that "if
+ something cannot definitively be proved to be a lie, we can say it's the truth." That
+ standard, at best, appears to be what guided Enron.
+
+ No one in control at Enron seems to ever to have said "Wait a minute! That's not
+ what's really happening here" or "That description is too unclear to be useful."
+ Enron appears to have used a very special dictionary. Its key verbs were "mislead,"
+ "obfuscate," "manipulate" and "disguise." Its adjectives were "opaque," "Byzantine" and
+ "technically correct." And they had no need for "straightforward," "arms-length" or
+ "candid." Much of the disclosure that did take place seems to have been arranged so that,
+ if need be, Enron executives could say "if you looked in the right place and read it the
+ way we intended, you couldn't say it's not there."
+
+ For example, if it was the number of words that counted, this paragraph from a much
+ longer Enron footnote might pass for full disclosure.
+
+ In 2000, Enron entered into transactions with the Related Party to hedge certain merchant
+ investments and other assets. As part of the transactions, Enron (i) contributed to newly-formed
+ entities (the Entities) assets valued at approximately $1.2 billion, including $150 million in Enron
+ notes payable, 3.7 million restricted shares of outstanding Enron common stock and the right to
+ receive up to 18.0 million shares of outstanding Enron common stock in March 2003 (subject to
+ certain conditions) and (ii) transferred to the Entities assets valued at approximately $309 million,
+ including a $50 million note payable and an investment in an entity that indirectly holds warrants
+ convertible into common stock of an Enron equity method investee. In return, Enron received
+ economic interests in the Entities, $309 million in notes receivable, of which $259 million is
+ recorded at Enron's carryover basis of zero, and a special distribution from the Entities in the form
+ of $1.2 billion in notes receivable, subject to changes in the principal for amounts payable by
+ Enron in connection with the execution of additional derivative instruments. Cash in these Entities
+ of $172.6 million is invested in Enron demand notes. In addition, Enron paid $123 million to
+ purchase share-settled options from the Entities on 21.7 million shares of Enron common stock.
+ The Entities paid Enron $10.7 million to terminate the share-settled options on 14.6 million shares
+ of Enron common stock outstanding. In late 2000, Enron entered into share-settled collar
+ arrangements with the Entities on 15.4 million shares of Enron common stock. Such arrangements
+ will be accounted for as equity transactions when settled.
+
+ Could anyone tell what these 260 words meant? There's a lot of ink there, not much
+ information. Disclosure doesn't mean putting facts out there indecipherably, but
+ rather in a way that lets people discern their significance.
+
+ Obviously, Enron's communication was the opposite of truthful and complete. Equally
+ obviously, Enron didn't want people to know what was going on. Truth was scarce at
+ Enron, and something to be toyed with. The examples ranged from ridiculous to
+ extremely serious. We can chuckle at the thought of Enron building a sham trading floor
+ and coaching secretaries on how to sound like traders when analysts walked through. But
+ there's nothing funny about the money people lost because, as the February 4 issue of
+ Business Week reported,
+
+ In September, Lay told employees: "Talk up the stock and talk positively about
+ Enron to your family and friends." The company's upcoming financial report, he
+ said, was "looking great."
+
+ This was a few weeks after Jeffrey Skilling resigned and Lay was told by Sherron Watkins of
+ her concerns, while he was actively selling his stock, and a few weeks before a $1.2 billion
+ downward restatement of Enron' s net worth.
+
+ And it seems old habits die hard. Just a week or so ago, in defending the juxtaposition of
+ negative developments at Enron and Ken Lay's stock sales, a spokesperson pointed out
+ that Lay had bought stock last summer. True as far as it goes, it's my belief that he sold
+ or otherwise disposed of more shares than he bought. It's funny how someone might take
+ "he bought stock" to mean, "he bought stock on balance." To paraphrase a former world
+ leader, it all depends on the meaning of the word "true."
+
+ The acid test for the truth is really quite simple: If everyone got a chance to
+ knowledgeably compare reality against what we say about it, what would they
+ think? Enron wouldn't have done very well under that standard.
+
+ Conflicts of Interest
+ U
+
+ It's an old-fashioned question, but one that seems to have been forgotten at Enron: Whose
+ interests come first?
+
+ Each of us encounters this question daily, having to balance the interests of others against
+ our own. Should I slow down for the driver signaling to change lanes? Can I take the last
+ piece on the platter? The biggest one? If I'm late for a flight, is it okay to push through
+ the security line? Is it fair to just pick out the cashews and almonds, or must I eat my
+ share of filberts and peanuts too? Is it okay to break a date when a better offer comes
+ along?
+
+ These decisions aren't easy. Rabbi Hillel described the dilemma two thousand years ago:
+ "If I am not for myself, who will be? And if I am not for others, what am I?" Despite the
+ difficulty, most of us were taught by our parents to do a decent job of balancing self-
+ interest and the interests of others.
+
+ For people in positions as fiduciaries, the law makes it a lot simpler: the other guy comes
+ first. It's obvious that an executor can't buy assets from the estate at bargain prices.
+ Likewise, company managers and directors owe their first loyalty to shareholders,
+ pension plan beneficiaries and, in insolvency, to creditors.
+
+ Like the test for truth, the test on handling conflicts seems pretty simple: If everything
+ we do ends up in the headlines, will anyone have grounds for complaint? Well, no
+ one seems to have applied that test at Enron. It all made it to the headlines, and Enron
+ flopped.
+
+ The most egregious instance involves executives like Chief Financial Officer Andrew
+ Fastow and Managing Director Michael Kopper who (1) set up off-balance sheet entities
+ that did business with Enron, (2) assumed control of those entities, (3) negotiated on
+
+ behalf of the entities with Enron subordinates whose compensation they determined, and
+ (4) profited fabulously. Fastow is famous for having made $30 million from the entities,
+ and Kopper made at least $10 million. Given that the partnerships are generally not
+ believed to have served valid business purposes, those profits represent a direct transfer
+ from Enron's coffers to those of the employees for which Enron received no legitimate
+ quid pro quo.
+
+ By the way, Enron had an ethics policy, and it probably would have prohibited these
+ things. So the directors voted to waive the policy. But that vote didn't make the actions
+ right.
+
+ Neither was it a good idea for Ken Lay's sister to be Enron's travel agent, or for Enron to
+ contract with and invest in companies owned by Lay and his son. Each of these might
+ have had a valid business purpose. But it's essential to avoid both conflicts and the
+ appearance of conflicts. We all might like to use employer dollars to benefit our
+ relatives, our friends, and even ourselves, but the temptation must be resisted. If top
+ executives engage in transactions that suggest self-dealing, even if they might be capable
+ of tortuous rationalization, it makes a statement that fiduciary duty and moral behavior
+ are dispensable. What could be worse?
+
+ In the business world, potential conflicts of interest arise all the time. We can't
+ avoid them, but our goal must be to deal with them honorably. Clients,
+ shareholders and others who depend on us must come first.
+
+ U Whose Company Is It, Anyway?
+
+ When a public company is involved, an important question is whether management acts
+ like the company belongs to them or to the shareholders.
+
+ As part of my business education I learned that America's commercial progress took a big
+ step forward when management was separated from ownership. About a century ago,
+ companies began to be turned over to hired managers. Because company owners aren't
+ necessarily the best managers, it followed that the emergence of a professional manager
+ class would, on balance, enhance the quality of management.
+
+ This made great sense to me. Certainly this separation is one of the things that made
+ America the world leader in business. But now I think it has gone too far in some cases.
+ Alan Greenspan said recently, "There has been a severance, in my judgment, of the interests
+ of the chief executive officer in many corporations from those of the shareholders, and that
+ should be pulled together." (Los Angeles Times, February 28, 2002)
+
+ Enron's managers didn't act like paid caretakers of other people's company, but
+ rather as if they owned it. Of course, Ken Lay et al. would argue that everything they
+ did was done to create value for the shareholders. But is there any reason to believe they
+ acted the way the shareholders would have wanted them to act? Certainly they can't
+
+ argue that they had the shareholders' blessing, given that they never let on what they were
+ really doing.
+
+ Of course, executives defend their actions by invoking the cloak of shareholder
+ governance: that shareholders elect the directors, and it's the directors who choose and
+ direct the CEO. We've seen hundreds of times, however, how hard it is for the company-
+ proposed slate of directors to lose an election or for a dissident proposal to be passed.
+
+ Acting in the interests of shareholders is just one option for management today, and
+ clearly it wasn't the one chosen at Enron.
+
+ Aligning Interests
+ U
+
+ About a decade ago, Forbes published a special issue on executive compensation. In it, a
+ sage, experienced director said of managers, "I've given up on getting them to do what I
+ tell them to do; they do what I pay them to do." I've never forgotten that statement.
+
+ When individual compensation gets into the tens or even hundreds of millions of dollars
+ per year (including stock and options), managers profit as if they owned the company and
+ took the risk. They appropriate a major share of profits for themselves in the good years,
+ even though they lose nothing (other than perhaps potential or previously-accrued profits)
+ in the bad ones.
+
+ Set up this way, management has lots of incentive to take risk and cut corners. It sure
+ worked that way at Enron. The executives can point out that the board approved the key
+ elements in the compensation program. But once again, I say the board's control over
+ management is limited.
+
+ Options have played a major part in the trend toward outsized compensation. Early on,
+ when their use began, it was felt that options would align the interests of management
+ with those of the shareholders by (1) interesting management in how the stock did, and
+ (2) tying compensation to the company's long-term performance.
+
+ As with so many things, however, the negatives have been found out through experience:
+
+ Options focus attention on short-term performance, not long-term.
+ Options focus attention on the performance of the stock, not the company (and
+ those are two very different things).
+ Options give management a skewed interest in the company. It was thought that
+ they would make managers into stockholders, but this is rarely the case.
+ Employees usually sell very soon after exercising, often simultaneously. This is
+ because they either don't have enough capital to hold or don't want to bear the
+ downside risk. Thus executives profit from share appreciation but rarely hold
+ shares. That's very different from the lot of the company's owners.
+
+ Because the cost of option programs never shows up in the income statement,
+ their cost is considered in a distorted way. Option grants amount to giving a
+ portion of the company to the employees, but no net income effect is ever seen
+ under current GAAP.
+ Stock price declines introduce the unattractive dilemma of option repricing.
+ When a stock falls precipitously, management often proposes a commensurate
+ reduction of the exercise price on options. With shareholders having taken a big
+ loss, it seems unfair to exempt executives from the pain. But it is true that old
+ options that are way out of the money won't serve to retain and motivate
+ employees. And with option grants "free," repricing often is irresistible.
+
+ It seems obvious that the option culture, the stock market bubble and the advent of
+ mega-compensation have combined in the worst of cases to encourage short-term
+ fixes and artful - even fraudulent - accounting. I think it's no coincidence that our
+ high yield bond portfolios encountered two examples of accounting fraud in February
+ 2001 alone, more than in the previous twenty years put together.
+
+ Moving away from the subject of options, the New York Times of March 1 indicated
+ another way in which compensation incentives can be counterproductive. Early in 2001,
+ the Times reported, Enron executives and other employees received hundreds of millions
+ of dollars in bonuses tied to earnings and stock price performance.
+
+ . . . executives received large bonuses . . . with the amount based in large part on
+ the earnings of the company - figures that investigators for a special committee of
+ the Enron board have concluded were inappropriately inflated by company
+ executives . . .
+
+ Legal experts said that the payments could provide strong evidence of a motive
+ for the financial machinations that investigators think distorted the company's
+ reported performance and ultimately led to its demise. Without those efforts, the
+ profits and stock price levels required to obtain the money certainly would not
+ have been reached . . .
+
+ Almost every decision that ultimately led to the company's collapse - including the
+ establishment of a series of partnerships . . . which an investigating committee of
+ the board concluded were used to bolster earnings improperly - was made during
+ the time frame [when the earnings test for bonus purposes was underway] . . .
+
+ [According to a former federal prosecutor,] "The level of compensation that we
+ are talking about here would certainly seem to be a powerful incentive for
+ anyone to do anything." [Emphasis mine]
+
+ Management should be incentivized, but constructively. Excessive, short-term focus
+ on stock price performance is not in shareholders' long-term interest and, in
+ egregious cases like Enron, obviously can bring disastrous results.
+
+ I also want to touch on the issue of stock sales by executives. Perhaps because it's an
+ issue with so much visceral appeal, the headlines are full of "Executives Sold While
+ Company Crumbled; Employees and Small Investors Lost Everything."
+
+ But I don't think there's anything inherently wrong with executives selling stock. They
+ buy it to profit, and they should be expected to reap that profit at some point in time. If
+ the company and the stock do well, appreciation can create a position too large to hold
+ prudently. So selling's okay; the issue is when.
+
+ Clearly, managers mustn't sell when they know things others don't. When that's true is a
+ tough question and often a matter of degree; no shareholder can ever know as much as the
+ CEO does. Selling while saying "the company's doing great" probably isn't a terrific idea
+ - especially if it's not. And the number of shares it's proper to sell probably is a function
+ of the absolute dollar amounts involved and the number of shares retained.
+
+ One last note: I have absolutely no sympathy for managers who are renegades, like
+ Enron's seem to have been, but they're not the only ones at fault here. Every investor
+ who's complaining about the stock sales made by Enron executives could have
+ learned about most of them from government filings and sold alongside. In fact, the
+ onus is on investors who hold or buy while insiders are announcing massive sales.
+ Investors must accept responsibility for their actions; Enron's faulty transactions might
+ have been covert, but most of the stock sales took place in plain sight.
+
+ U Where Does the Buck Stop?
+
+ While we're on the subject of responsibility, who else should accept it in the case of
+ Enron? (So far I haven't seen many hands going up.)
+
+ The little guys are employing the Nuremberg defense: "I only did what I was told." And
+ they're right most of the time. It's true they could have objected to what they saw, but that
+ would be asking a lot. The combination of certitude, principles, career alternatives and/or
+ financial resources needed to create a whistleblower occurs only rarely.
+
+ Sherron Watkins might be the closest thing thus far, and she certainly did raise red flags
+ in her memo of August. She was brave and stepped forward when few others did, but I'm
+ not ready to canonize her yet. Before I do so, I'll have to get over the large number of
+ references in her memo not to what was right or wrong, but to what might be found out.
+ In August she wrote:
+
+ Skilling's abrupt departure will raise suspicions,
+ we will have to pony up Enron stock, and that won't go unnoticed,
+ I am incredibly nervous that we will implode in a wave of accounting scandals,
+ we are under too much scrutiny and there are probably one or two 'redeployed'
+ employees who know enough about the 'funny' accounting to get us into trouble,
+ too many people are looking for a smoking gun,
+
+ we do not have a fact pattern that would look good to the SEC or investors, and
+ best case: clean up quietly if possible.
+
+ These quotations certainly suggest a preoccupation with perception. Did Watkins truly
+ worry about right and wrong and choose her mode of expression to make an impact on
+ Lay and company? Did she write to complain about wrongdoing or just to push for
+ damage control? And are they two different things or the same?
+
+ Unlike the little guys, the top execs are employing what I call the Geneva defense: "I
+ was in Switzerland during the war." Nobody ordered the misdeeds or even knew about
+ them. Either they were out of the room or the lights went off. Control freaks with great
+ memories left things to others or can't remember what happened. And, ultimately, they
+ claim the directors and auditors approved everything.
+
+ The Role of the Auditors
+ U
+
+ Why do companies have auditors? So the owners can be sure that (1) they know what
+ management is doing and (2) the financial statements accurately reflect what's going on.
+ As such, auditors play an absolutely essential role in the corporate governance process.
+
+ In addition to checking the numbers and opining on the reasonableness of the financial
+ statements, it's their job to tell directors, through the audit committee, when something's
+ amiss. Every audit committee meeting should include some time when no management
+ representatives are present. This is the auditors' chance to tell the directors about things
+ they feel are wrong.
+
+ Did Arthur Andersen fulfill its responsibilities at Enron? They say yes and management
+ says no. Surprise!! Certainly, at minimum, the picture is less than ideal.
+
+ First, there's no getting around the fact that Andersen certified financial statements
+ about which no one has a kind word to say. If they had misgivings, they weren't
+ sufficient to make Andersen send up a red flag. We haven't seen any record of
+ Andersen expressing misgiving to the audit committee.
+
+ Andersen received $52 million in fees from Enron in 2000, less than half of which
+ was for auditing. Auditors' compensation can be so great that keeping the job
+ becomes too high a priority.
+
+ Roughly $5 million of the total was for Andersen's help in structuring some of the
+ complained-of transactions. When management says, "we'll pay you to think of a
+ creative solution to our problem," there's a lot of incentive to come up with something
+ that accomplishes the company's objectives in terms of effect and optics. And there's
+ U U
+
+ little likelihood that the same firm will disapprove it on audit. It's kind of like paying
+ your IRS agent to design a tax shelter.
+
+ Finally, Andersen served Enron for nineteen years, and maybe things got too
+ comfortable. While SEC rules require that the audit partner be rotated, they don't
+ limit the tenure of the firm.
+
+ On the other hand, in Andersen's defense:
+
+ It's hard for auditors to know more than management will tell them. (It is their job,
+ however, to tell the audit committee when they don't feel they're getting complete
+ information and to check matters independently where they can.) There's just too
+ much evidence to the contrary for anyone to believe that honest auditors will always
+ sniff out dishonest management.
+
+ All of the details of the financial statements Andersen certified, and of their
+ engagement at Enron, may have met the letter - if not the spirit - of the rules.
+
+ As in any other field, the rotten apple - the dishonest auditor, or even the incompetent
+ one - can do a lot of damage. We don't know yet what the real role of Andersen's
+ David Duncan was in the Enron debacle, but we may find out if he receives immunity
+ as seems to be under discussion.
+
+ Auditors are one of the shareholders' last bastions of protection. The Enron
+ example shows us two things: their essential nature and their fallibility. We still
+ need more help.
+
+ So Who's Left?
+ U
+
+ The shareholders' ultimate protection comes from the board of directors. The
+ directors are the representatives of the shareholders and the bosses of the CEO. They are
+ in position to hire and fire, and to approve and disapprove. Sounds like there's no one for
+ them to pass the buck to.
+
+ But the truth is, the directors don't work at the company, aren't involved in its day-to-day
+ affairs, and know little that they don't learn from management. I'm a corporate director,
+ and I get my information from management and the auditors (who get much of theirs
+ from management). If they're criminal or uninformed, I'm powerless to protect the
+ shareholders. Bottom line: we can't prevent all fraud and misrepresentation. At best we
+ can discourage it, and at worst we can punish it. We usually assume people are telling the
+ truth, and I would hate to work in a place where I can't.
+
+ The contribution of directors can be increased greatly if a few standards are adhered to.
+ The failure to do so may have been one of the major problems at Enron:
+
+ First, independent directors must be independent. That means they should be aware
+ that they work for the shareholders - not the company or the management - and act like
+
+ it. If directors derive unreasonable benefits from the company, they can lose their
+ objectivity, become beholden or grow afraid of losing the job. For just one example in
+ the case of Enron, the chairman of the board's investigating committee testified that all of
+ the directors flew around on company jets. Would they have been willing to give that up
+ to take a stand?
+
+ Second, independent directors have to be hard-working people who will attend
+ meetings diligently, ask tough questions and challenge management. We're in the
+ process of looking for directors for one of our companies. Someone I asked about a
+ prospect said, "He'll be a pain in the ass to management." Within reason, that's what I
+ want to hear. Relaxed attitudes negate the concept of independence. Directors who serve
+ in perpetuity also should be looked at. After enough years, they can conclude their
+ loyalty is to management.
+
+ Third, at least some of the independent directors must be financially astute enough to
+ fully understand what's going on. There are valid reasons to include financial novices
+ for knowledge they may have in areas like technology, law or the environment. But there
+ should be enough financial experts to understand management's actions and question
+ them when necessary.
+
+ Lastly, having friends of management as directors can't help the board's
+ independence. (Although they are the CEO's bosses, directors often get their jobs
+ through the CEO; how's that for a paradox?)
+
+ When, for example, you look down the list of the six directors on Enron's audit committee -
+ probably the most important body in terms of protecting the shareholders - you see that at
+ least five fail to satisfy all of these criteria:
+
+ RJ chaired the audit committee for 15 years.
+ RC missed more than 25% of the board and committee meetings.
+ Enron has given $1.5 million to the cancer center JM headed.
+ JW got an additional $72,000 a year as a consultant.
+ WG's university program received $50,000 in Enron donations.
+
+ Getting highly competent and truly independent directors isn't easy. If the job pays
+ too little, nobody qualified will take it. If it pays too much, independence can be
+ compromised. And if Enron's board is stripped of indemnification and sued, it may
+ become hard for companies to find independent directors at all.
+
+ Ultimately, it must be borne in mind that, under the current system, it's tough for
+ shareholders to get boards other than those proposed by management. But as in many of
+ the issues under discussion here, that doesn't mean they should stop pushing for boards
+ that represent their interests.
+
+ Don't Expect Much Help From the Analysts
+ U
+
+ On February 27, the Senate Governmental Affairs Committee held hearings regarding
+ sell-side analysts who covered Enron. Its data showed that as late as November 8, weeks
+ after the SEC had announced its probe of possible irregularities, 10 out of 15 analysts
+ who covered Enron still rated it as a "buy" or "strong buy." (The stock, then around $9, is
+ now worth roughly zero.) Enron's debt was selling at roughly 60 cents on the dollar at
+ that time. The analysts may have thought the stock was a great buy, but debt investors
+ apparently considered it unlikely that the creditors would be paid - in which case the
+ stock would be worthless.
+
+ The analysts told the Senators their failure was attributable to the inaccuracy of the Enron
+ financial statements on which they had relied. Certainly, analysts' starting point has to be
+ the financial statements, and if they're fraudulent, accurate analysis is rendered very
+ difficult. But still, an insightful analyst can call attention to poor earnings quality and
+ inadequate or unclear reporting. In the case of Enron, none of the prominent sell-side
+ analysts seems to have made a peep.
+
+ Thus Enron represents another instance, like the dot-coms, where (a) most benignly,
+ we'd have to say brokerage house analysts possess little insight and their opinions
+ are of no value, and (b) most cynically, it seems they're not there to help investors as
+ much as their companies' investment banking efforts.
+
+ When I started off as an analyst in the 1960s, per-share commissions were high and it was
+ the job of brokerage house analysts to generate them. They accomplished this by
+ providing superior research. (Outright "sell" recommendations were rare nevertheless,
+ perhaps because "buy" recommendations had a much bigger potential audience.) The
+ process through which commissions were whittled down and analysts became driven by
+ investment banking considerations instead built gradually since then.
+
+ The truth of the matter is that a hard-nosed analyst with a "sell" recommendation is likely
+ to generate little in the way of commissions but certain to become persona non grata and
+ assure that his employer won't get investment banking business from the subject
+ company. Thus, as Sen. Joseph Lieberman said, "These influences compromise an
+ analyst's objectivity and mean that the average investor should take their bottom-line
+ recommendations with at least a grain of salt, if not a whole bucket."
+
+ Lack of objectivity isn't the only reason why analysts aren't much help. First, it's hard to
+ develop superior information; in fact, SEC regulations require companies to give
+ everyone the same data at the same time. Second, analysts often develop a closeness with
+ companies and their executives that clouds their objectivity. And third, of course, any
+ insight analysts may have is distributed widely so as to enter the public domain and
+ quickly be reflected in market prices.
+
+ My bottom line on research (as you know): the average analyst isn't much help, and only
+ a few are far above average - by definition. If you find an astute and independent
+ U U
+
+ analyst, stick with him (or her). Many sophisticated investors have learned to supplement
+ brokerage house analysis with input from independent research organizations.
+
+ U Where Does the Buck Stop?
+
+ Ours is a free market. If undeserving (or crooked) companies get capital they
+ shouldn't, the responsibility ultimately falls to the providers of equity capital. I've
+ read everything I could on Enron, and yet there's almost no mention that shareholders
+ may have been remiss.
+
+ Sure, the shareholders were victims of what appears to have been organized and pervasive
+ fraud. But no one can say there weren't warning signs. Shareholders held and bought
+ Enron stock although they couldn't possibly have thought they understood the financial
+ statements, or where the profits came from. They held while the top executives were
+ selling. And they remained unperturbed when the CEO quit without explanation.
+
+ And I'm not just talking about individual investors. Al Harrison of Alliance, Enron's
+ biggest holder, has been quoted as saying he bought on "faith." He even admits, "The
+ company seemed to be on a deliberate path not to give full information. Shame on me for
+ not doing something about it." (New York Times, March 3, 2002) Good marks for
+ candor; not so good for due diligence.
+
+ I believe many investors underestimate the difficulty of investing, the importance of
+ caution and risk aversion, and the need for their active, skeptical involvement in the
+ process. Caveat emptor. Or as they say on TV, "don't try this at home."
+
+ Recap, Ramifications and Reform
+ U
+
+ As Enron's board committee concluded,
+
+ The tragic consequences of the related-party transactions and accounting errors
+ were the result of failures at many levels and by many people: a flawed idea, self-
+ enrichment by employees, inadequately designed controls, poor implementation,
+ inattentive oversight, simple (and not-so-simple) accounting mistakes, and
+ overreaching in a culture that appears to have encouraged pushing the limits.
+ (New York Times, February 3, 2002)
+
+ These transactions were just one element in the overall Enron picture, but they typify the
+ malfeasance, laxness, and dereliction of duty that were widespread. I have listed some of
+ the failings that have been laid to executives, accountants, auditors, directors and analysts.
+ Fingers also are being pointed at commercial bankers, investment bankers, rating
+ agencies, lawyers, politicians and regulators. Virtually no one has come away unscathed.
+
+ Around the time the Enron disclosures reached their peak, contagion seemed ready to
+ sweep the market. Tyco and other companies with "accounting issues" saw their stocks
+ collapse. Whereas investors generally placed too much faith in companies in the late
+ 1990s, now they have become highly skeptical, perhaps unduly so. As a friend described
+ it, "A few years ago, if management said 'we'll make $5 billion,' investors swallowed it
+ whole. Today if a CFO says 'we have $175 million in cash,' investors ask 'how do we
+ know that's true?'''
+
+ We've read about the risk of a widespread loss of investor confidence. Allusions have
+ been made to the corrupt practices of the 1920s and the fact that the resulting
+ disillusionment had a lot to do with the stock market's doldrums in the following decade.
+ Arthur Levitt, the last SEC Chairman, testified on Enron that, "What has failed is nothing
+ less than the system for overseeing our capital markets." (Newsweek, February 4, 2002)
+
+ As The New York Times wrote on February 10, "The outcome will depend largely on
+ how long the Enron collapse holds the attention of Washington and the public, and on
+ whether once-elevated companies also come to be seen as houses of cards kept standing
+ by financial sleight of hand." The good news is that no epidemic seems to have taken
+ hold. People have been willing thus far to view Enron as an isolated example of
+ management run wild.
+
+ That doesn't mean there won't be a spate of regulation and reform. That's what Pecora's
+ disclosures produced, and there's no reason it won't happen again. The Enron story
+ remains telegenic and political, and that makes it grist for Washington's mill. And I
+ certainly don't mean to suggest that some reform isn't needed.
+
+ Here are just a few of the ideas that have surfaced (their presence here absolutely does not
+ indicate my endorsement of them):
+
+ On the accounting process : regulate "special-purpose entities" and "off-balance sheet
+ U U
+
+ partnerships"; require that option grants be an expense against profits; specify broad
+ principles for disclosure, not just technical rules; let the federal government set
+ accounting standards.
+
+ On auditors : prohibit or limit non-audit work; make auditor hiring, firing and
+ U U
+
+ compensation the province of the board, not management; require increased commentary
+ in auditors' opinion letters; enact term limits for auditing firms; restrict the movement of
+ personnel from audit firm to client; end self-policing by the profession, substituting an
+ outside body; increase "teeth" in disciplinary process regarding auditors; consider
+ restoring civil liability for auditors (and lawyers) who "aided or abetted" a violation of
+ securities law (eliminated by Supreme Court in 1994).
+
+ On banks : revive the Glass-Steagall Act separating commercial banking and investment
+ U U
+
+ banking (ironically, this law was one of the prime outgrowths of Pecora's investigations,
+ and its key provisions were repealed just over two years ago); require disclosure of
+ contingent liabilities and reserves against them (banks that had committed to lend to
+
+ Enron while it was rated investment grade were taken up on their offer when the credit
+ rating collapsed).
+
+ On brokerage house analysts : prohibit compensation tied to investment banking business;
+ U U
+
+ require disclosure of the derivation of analysts' pay, and of all fees received from the
+ subject company; restrict analysts' trading in recommended stocks; require full disclosure
+ of firms' and analysts' holdings and trading in those stocks; separate brokerage and
+ research activities from investment banking.
+
+ On 401 (k) plans : limit investment in company stock; ease restrictions on sales of
+ U U
+
+ company stock; require notice before a moratorium on participants' changes goes into
+ effect; improve reporting and participant counseling.
+
+ On companies, executives and directors : impose penalties for misleading financial
+ U U
+
+ statements; punish carelessness, not just fraud; require increased disclosure, especially
+ regarding transactions with affiliates and insiders; put controls on the use of "creative"
+ accounting concepts such as adjusted pro forma earnings; eliminate personal
+ indemnification in cases of misleading financial statements.
+
+ On the SEC : review disclosure regulations; increase power to suspend or bar unethical
+ U U
+
+ executives or directors from working at public companies; require quicker, perhaps on-
+ line reporting of insider trades (now not required until month-end), including sales back
+ to the company (now not required until the next year); increase the SEC's budget so that it
+ can hire and retain staff and increase enforcement activity.
+
+ On politicians : enact campaign finance reform (it might be on the way); require reporting
+ U U
+
+ of lobbyists' contacts; limit lobbyists' role in drafting legislation.
+
+ This vast laundry list of possible solutions suggests (a) the magnitude of the problem
+ indicated by Enron and (b) the eagerness of government to ride to the rescue. Some
+ changes will be made, but the belief that the problem isn't widespread should limit their
+ scope.
+
+ What's the bottom line, then? The real lessons from Enron, in my opinion, are these:
+
+ As long as there are disclosure rules - and that's forever - there'll be "technically
+ correct" statements that leave investors in the dark. In order to get numbers with
+ integrity, you need people with integrity.
+
+ Rules are just the first building block in creating a safe market. We also need
+ compliance and enforcement, neither of which will ever be 100%. Even though it's
+ the best in the world, our system for corporate oversight is far from perfect. The
+ collective power of directors, auditors and regulators to protect shareholders withers
+ in the face of serious corporate corruption. It's amazing what con men can get away
+ with for a while.
+
+ As Enron's complex, questionable transactions indicate, the people looking for holes
+ in the rules are often highly motivated, well financed and well advised. Those whose
+ job it is to plug the loopholes are often over-matched, and their efforts to do so
+ usually amount to a holding action. The furor over Enron's accounting shows that we
+ need the ability to insist on adherence to general principles and punish those who
+ violate them.
+
+ Security analysis and knowledgeable investing aren't easy. Investors must be alert for
+ fuzzy or incomplete information, and for companies that don't put their interests first.
+ They must invest only when they know what they don't know, and they must insist on
+ sufficient margin for error owing to any shortcomings.
+
+ We all must watch out for unintended consequences, and that's especially true when
+ promulgating regulations. Accounting rules and option programs were created with
+ the best of intentions, but in the extreme they led to Enron's noxious transactions and
+ counterproductive incentives. It'll be no less true the next time around.
+
+ I apologize for the length of this memo, but the Enron matter is so sweeping and multi-
+ faceted that I found it inescapable. It is my aim here to shed light, not to recount events. I
+ hope you'll find it interesting and of use.
+
+
+Memo: The Realist's Creed.
+
+Early this year, I was asked to write an article for "Trusts & Estates" magazine. Here it is,
+ in part cobbled together from things I've written in the past, and slightly changed from the
+ version that was published in April.
+
+ The editors wanted me to recommend a course of investment action for beneficiaries and
+ their fiduciaries. To most people that means deciding how much to put into stocks and
+ bonds (and which ones), and whether private equity and hedge funds should be included.
+ It usually sounds easy: all you have to do is make a few simple judgments about the
+ future. I decided to write a very different article: it's going to tell you how hard investing
+ is, and how you can best equip yourself for the task.
+
+ First , I think investing must be based on a firmly held belief system. What do you
+ U U
+
+ believe in, and what do you reject? Put another way, what are the principles that will
+ guide you?
+
+ For me, the starting point consists of deciding which approach to take in dealing with the
+ future. That decision primarily revolves around choosing between two polar opposites:
+ what I call the "I know" school and the "I don't know" school.
+
+ Most of the investment professionals I've met over my 33 years in the industry fall
+ squarely into the "I know" school. These are people who believe they can discern what
+ the future holds, and in their world investing is a simple matter:
+
+ First you decide what the economy is going to do in the period under consideration.
+ Then you figure out what the impact will be on interest rates.
+ From this you infer how the securities markets will perform.
+ You choose the industries that will do best in that environment.
+ You make judgments about how the industries' companies will fare in terms of profits.
+ Based on all of this information, you pick stocks that are bound to appreciate.
+
+ End of story. Of course, the usefulness of this approach depends entirely on people's
+ ability to make these decisions correctly. What if you're wrong about the economy?
+ What if you're right about the economy but wrong about its impact on a company's
+ profits? Or what if you're right about profits but the valuation parameters contract, and
+ thus the price? The bottom line is that the members of this school think these things are
+ knowable. I know lots of people who are perpetually and constitutionally optimistic
+ about both the long-term future for stocks and their ability to make these judgments
+ U U
+
+ correctly.
+
+ On the other hand, I and most of the investors with whom I feel an affinity belong to the
+ "I don't know" school. In short, (1) we feel it's impossible for anyone to know much
+ about a vast number of things, (2) we consider it especially difficult to outperform by
+ guessing right about the direction of the economy and the markets, (3) we spend our time
+ trying to know more than the next person about specific micro situations, and (4) we think
+ more about what can go wrong than about what can go right. In contrast to the "I know"
+ school, people in this group are more cautious and feel a strong need for downside
+ protection.
+
+ Sticking to this approach requires some solid building blocks. One of those is
+ contrarianism. Basically that means leaning away from the direction chosen by most
+ others. Sell when they're euphoric, and buy when they're afraid. Sell what they love, and
+ buy what they hate. In general, I think you'll find few bargains among the investments
+ that everyone knows about, understands, feels comfortable with, is impressed by and is
+ eager to own. Instead, the best bargains usually lie among the things people aren't aware
+ of, don't fully understand, or consider arcane, unseemly or risky.
+
+ Closely related to contrarianism is skepticism. It's a simple concept, but it has great
+ potential for keeping investors out of trouble: If it sounds too good to be true, it
+ probably is. That phrase is always heard after the losses have piled up - be it in
+ U U
+
+ portfolio insurance, "market neutral" funds, dot-coms, or Enron. My career in money
+ management has been based on the conviction that free lunches do exist, but not for
+ everyone, or where everyone's looking, or without hard work and superior skill.
+ Skepticism needn't make you give up on superior risk-adjusted returns, but it should make
+ you ask tough questions about the ease of accessing them.
+
+ Thus I also advocate modest expectations. To shoot for top-quartile performance every
+ year, you have to hold an idiosyncratic portfolio that exposes you to the risk of being
+ outside the pack and dead wrong. It's behavior like that that leads to managers being
+ carried off the field when things go poorly - and to clients losing lots of money. It's far
+ more reasonable just to try for performance that's consistently a little above average.
+ Even that's not easy to achieve, but if accomplished for a long period it will result in an
+ outstanding track record.
+
+ I think humility is essential, especially concerning the ability to know the future. Before
+ acting on a forecast, we must ask whether there's good reason to think we're more right
+ than the consensus view already embodied in prices. I think it's possible to get a
+ knowledge advantage with regard to under-researched companies and securities, but only
+ through hard work and skill.
+
+ Finally, I'm a strong believer in investing defensively. That means worrying about what
+ one may not know, about what can go wrong, and about losing money. If you're worried,
+ you'll tend to build in greater margin for error. Worriers gain less when everything goes
+ right, but they also lose less - and stay in the game - when things return to earth. All of
+ Oaktree' s activities are guided more by one principle than any other: if we avoid the
+ losers, the winners will take care of themselves. We're much more concerned about
+
+ participating in a loser than we are about letting a winner get away. In my experience,
+ long-term investment success can be built much more reliably on the avoidance of
+ significant losses than it can on the quest for outsized gains. A high batting average, not a
+ swing-for-the-fences style, offers the most dependable route to success.
+
+ Second , I'd advise you to approach the entire subject of forecasts and forecasters
+ U U
+
+ with extreme distrust. Reduced to the absolute minimum, investing consists of just one
+ thing:
+
+ Making judgments about the future. And the future is inherently uncertain. Everyone
+ looks for help in dealing with this uncertainty, and their usual recourse is to put faith in
+ forecasters. How could they not? Most forecasters are highly articulate, represent
+ prestigious institutions, and exude total confidence in their knowledge of the future.
+
+ The problem, however, is that they're not often right, or at least not consistently more
+ right than others. And almost never do they (or anyone else) record and assess their
+ accuracy over time. Here's the way I view the forecasting game.
+
+ There are hundreds, or more likely thousands, of people out there trying to predict the
+ future, but no one has a record much better than anyone else. Given how valuable
+ superior forecasts can be, recipients should wonder why anyone who was capable
+ of consistently making them would distribute them gratis.
+
+ Market prices for assets already incorporate the views of the consensus of forecasters.
+ Thus holding a consensus view, even if it's right, can't help you make above-average
+ returns.
+
+ Non-consensus views can make you a lot of money, but to do so they must be right.
+ Because the consensus reflects the forecasting efforts of a large number of intelligent
+ and informed people, however, it's usually the closest we can get to right. In other
+ words, I doubt there's anyone out there with non-consensus views that are right
+ routinely.
+
+ Most of the time, the consensus forecast extrapolates current observations. Predictions
+ for a given parameter usually bear a strong resemblance to the level of the parameter
+ prevailing at the time they're made. Thus predictions are often close to right when
+ nothing changes radically, which is the case most of the time, but they can't be counted
+ on to foretell the important sea changes. And as my friend Ric Kayne says,
+ "everything important in financial history has taken place outside of two standard
+ deviations." It's in predicting radical change that extraordinary profit potential exists.
+ In other words, it's the surprises that have profound market impact (and thus
+ U U
+
+ profound profit potential), but there's a good reason why they're called surprises:
+ it's hard to see them coming!
+
+ Each time a radical change occurs, there's someone who predicted it, and that person
+ gets to enjoy his fifteen minutes of fame. Usually, however, he wasn't right because
+
+ of a superior ability to see the future, but rather because he regularly holds extreme
+ positions (or perhaps he's a dart thrower) and this time the phenomenon went his way.
+ Rarely if ever is that person right twice in a row.
+
+ So forecasts are unlikely to help us gain an advantage, but that doesn't make people stop
+ putting their faith in them. It's unsettling to realize how much in the dark we investors are
+ concerning future developments. But there's one thing worse: to ignore the limits of our
+ foresight. The late Stanford behaviorist Amos Tversky put it best: "It's frightening to
+ think that you might not know something, but more frightening to think that, by and
+ large, the world is run by people who have faith that they know exactly what's going
+ on."
+
+ Third , I think it's essential to remember that just about everything is cyclical.
+ U U
+
+ There's little I'm certain of, but these things are true: Cycles always prevail eventually.
+ Nothing goes in one direction forever. Trees don't grow to the sky. Few things go to zero.
+ And there's little that's as dangerous for investor health as insistence on
+ extrapolating today's events into the future.
+
+ The economy will not rise forever. Industrial trends won't continue indefinitely. The
+ companies that succeed for a while often will cease to do so. Company profits won't
+ increase without limitation. Investor psychology won't go in one direction forever, and
+ thus neither will security prices. An investment style that does best (or worst) in one
+ period is unlikely to do so again in the next.
+
+ That was really the problem with the technology bubble. Investors were willing to pay
+ prices that assumed success forever. They ignored the economic cycle, the credit cycle
+ and, most importantly, the corporate life cycle. They forgot that profitability would bring
+ imitation and competition, which would cut into - or eliminate - profitability. They
+ overlooked the fact that the same powerful force that made their companies attractive -
+ technological progress - could at some point render them obsolete. And they failed to
+ consider that the investing fads in favor of these technologies, companies and stocks
+ could reverse, with dire consequences.
+
+ Fourth , investors should bear in mind the role played by timeframe. It seems
+ U U
+
+ obvious, but long-term trends need time in order to work out, and time can be limited. Or
+ as John Maynard Keynes put it, "Markets can remain irrational longer than you can
+ remain solvent." Whenever you're tempted to bet heavily on your conviction that a given
+ phenomenon can be depended on in the long run, think about the six-foot tall man who
+ drowned crossing the stream that was five feet deep on average.
+
+ One of the great delusions suffered in the 1990s was that "stocks always outperform." I
+ agree that stocks can be counted on to beat bonds, cash and inflation, as Wharton's Prof.
+ Jeremy Siegel demonstrated, but only with the qualification "in the long run." If you have
+ thirty years, it's reasonable to expect equity returns to be superior to those on bonds. For
+ someone with a thirty-year timeframe, the NASDAQ's decline since 2000 may turn out to
+ be a matter of indifference. But it hasn't felt that way to the people holding the stocks.
+
+ The need for time came into play in another way for the technology and
+ telecommunications entrepreneurs. Many raised the money they needed for a year or two
+ and proceeded to burn it up. They counted on being able to raise more later, but in 2000-02
+ capital has been denied even to worthwhile ideas. Lots of companies never got the chance
+ to reach profitability. They simply ran out of time.
+
+ Fifth , you must never forget the key role played by valuation. Investment success
+ U U
+
+ doesn't come primarily from "buying good things," but rather from "buying things well"
+ (and the difference isn't just grammatical). It's easy for most people to tell the
+ difference between a good company and a bad one, but much harder for them to
+ understand the difference between a cheap stock and an expensive one. Some of the
+ biggest losses occur when people buy the stocks of great companies at too-high prices. In
+ contrast, investing in terrible companies can produce huge profits if it's done at the right
+ price. Over time, investors may shift their focus from dividend yield to p/e ratio, and they
+ may stop looking at book value, but that doesn't mean valuation can be considered
+ irrelevant.
+
+ In the tech bubble, buyers didn't worry about whether a stock was priced too high because
+ they were sure someone else would be willing to pay them more for it. Unfortunately,
+ this "greater fool theory" only works until it doesn't. They also thought the technological
+ developments were so great that the companies' stocks could be bought regardless of
+ price. In the end, though, when newness becomes old, flaws appear and investor ardor
+ cools, the only thing that matters is the stock's price . . . and it's usually much lower.
+
+ Most shortages - whether of commodities or securities - ease when high prices inevitably
+ cause supply to rise and satisfy the demand. And no fad lasts forever. Thus valuation
+ eventually comes into play, and those who are holding the bag when it does are forced to
+ face the music.
+
+ Sixth , beware the quest for the simple solution. Two important forces drive the search
+ U U
+
+ for investment options: the urge to make money and the desire for help in negotiating the
+ uncertain future. When a market, an individual or an investment technique produces
+ impressive returns for a while, it generally attracts excessive (and unquestioning)
+ devotion. I call this solution-du-jour the "silver bullet."
+
+ Investors are always looking for it. Call it the Holy Grail or the free lunch, but everyone
+ wants a ticket to riches without risk. Few people question whether it can exist, or why it
+ should be available to them. At the bottom line, hope springs eternal. Thus investors
+ pursued Nifty-Fifty growth stock investing in the 1970s, portfolio insurance in the '80s, and
+ the technology boom of the '90s. They aligned themselves with "geniuses" they thought
+ would make investing easy - be it Joe Granville, Elaine Garzarelli or Henry Blodgett.
+
+ But the silver bullet doesn't exist. No strategy can produce high rates of return without
+ risk. And nobody has all the answers; we're all just human. Markets are highly
+ dynamic and, among other things, they function over time to take away the
+
+ opportunity for unusual profits. Unskeptical belief that the silver bullet is at hand
+ eventually leads to capital punishment.
+
+ Seventh , you must be aware of what's going on around you in terms of investor
+ U U
+
+ psychology. I don't believe in the ability of forecasters to tell us where prices are going,
+ but an understanding of where we are in terms of investor psychology can give us a hint.
+ When investors are exuberant, as they were in 1999 and early 2000, it's dangerous. When
+ the man on the street thinks stocks are a great idea and sure to produce profits, I'd watch
+ out. When attitudes of this sort make for stock prices that assume the best and
+ incorporate no fear, it's a formula for disaster.
+
+ I find myself using one quote, from Warren Buffett, more often than any other: "The less
+ prudence with which others conduct their affairs, the greater prudence with which
+ we should conduct our own affairs." When others are euphoric, that puts us in danger.
+ When others are frightened and pull back, their behavior makes bargains plentiful. In
+ other words, what others are thinking and doing holds substantial ramifications for you.
+ And that brings us full circle to the importance of contrarianism.
+
+ * * *
+
+ I've cataloged above the "mental arsenal" I feel is needed in the battle for investment
+ success. I'll proceed below to illustrate the application of some of these concepts to two
+ key asset classes: common stocks, the grand-daddy of all active investments, and hedge
+ funds, a much smaller area that is in the process of attracting a lot of attention (and
+ capital).
+
+ Common stocks - Among the mantras that were repeated in the past decade, few
+ U U
+
+ received as much credence as "stocks outperform." Wharton's Professor Jeremy Siegel
+ documented in his book, "Stocks for the Long Run," that equities have beaten bonds, cash
+ and inflation over almost all long periods of time. In fact, his graph of the movements of
+ the stock market since 1800 looks like a straight line rising from lower left to upper right.
+ Evidence like this allowed people to invest heavily in the stock market while continuing
+ to sleep well. Little did they know that the price gains that made them feel so sanguine
+ about their positions were dramatically increasing their risk.
+
+ I am a great believer in common stock investing, but I hold tight to a few caveats:
+
+ Return expectations must be reasonable.
+ The ride won't be without bumps.
+ It's not easy to get above-market returns.
+
+ We live in the world's most productive economy, under a very effective capitalist system,
+ at a wonderful point in time. In general, it's great to own productive assets like
+ companies and their shares. But occasionally, people lose track of the fact that in the
+ long run, shares can't do much better than the companies that issue them. Or to
+
+ paraphrase Warren Buffett, when people forget that corporate profits grow at 8 or 9% per
+ year, they tend to get into trouble.
+
+ It's never clear what base period makes for a relevant comparison, but between 1930 and
+ 1990, annual returns from stocks averaged about 10% year. Periods when they did better
+ were followed by periods when they did worse. The better periods were usually caused
+ by the expansion of p/e ratios, but valuations tended to return from the stratosphere, and
+ in the long run, returns roughly paralleled profit growth.
+
+ There always will be bull markets and bear markets. The bull markets will be welcomed
+ warmly and unskeptically, because people will be making money. These markets will be
+ propelled to great heights, usually by the rationalization that "it's different this time"; that
+ productivity, technology, globalization, lower taxation - something - has permanently
+ elevated the prospective return from stocks.
+
+ The bear markets will come as a shock to the unsuspecting, demonstrating that, most of
+ the time, the world doesn't change that much. For example, when you look at Siegel's
+ 200-year straight-line stock market graph, no hiccup is visible in 1973-74. Try telling
+ that to the average equity investor, who lost half his money.
+
+ The bottom line is that risk of fluctuation always is present. Thus stocks are risky unless
+ your time frame truly allows you to live through the downs while awaiting the ups.
+ Remember what Lord Keynes said about the ability of markets to remain irrational for
+ long periods of time. And remember that it's possible for you to be forced to sell at the
+ bottom - by emotions, competitive pressure or the need for liquidity - turning temporary
+ volatility (the theoretical definition of risk) into very real permanent loss.
+
+ In order to get more out of the ups of stocks and try to lessen the pain of the downs, most
+ people turn to active management via market timing, group rotation, industry emphasis
+ and stock selection. But it's just not that easy. The American Way - earnestly applying
+ elbow grease - doesn't often payoff. For a model, don't think about the diligent
+ paperboy on his route; think about trying to profit from flipping a coin.
+
+ I say that because I believe most markets are relatively "efficient," and that certainly
+ includes the mainstream stock market. Where large numbers of investors are aware of an
+ asset's existence, have roughly equal access to information and are diligently working to
+ evaluate it, the market operates to incorporate their collective interpretation of the
+ information into a market price. While that price is often wrong, very few investors are
+ capable of consistently knowing when it is, and by how much, and in which direction.
+
+ The evidence is clear: most investors underperform the market. They (a) can't see the
+ future, (b) make mistakes that keep them at a disadvantage, (c) accept high risk in their
+ effort to distinguish themselves, and (d) spend money trying (in the form of market
+ impact and transaction costs).
+
+ Of course, there are individuals who beat the market by substantial margins, and
+ they become famous. The mere fact that they attract so much attention proves how
+ rare they are. (That's the meaning of the adage "it's the exception that proves the rule.")
+ Adding to return without adding commensurately to risk requires rare understanding of
+ how money is made and what constitutes value. Far more managers promise it than
+ deliver.
+
+ Most active managers go through times when their biases or their guesses lead them to do
+ things that beat their assigned benchmark, which they attribute to their skill, and times
+ that are the opposite, which they attribute to being blindsided by the unforeseeable (or to
+ some defect in the benchmark). But these are two sides of the same coin, and in the long
+ run the average manager adds little. Usually, active management will not allow you to
+ beat the stock market, or to enjoy the fruits of the market without fully bearing its risk.
+
+ How do I view the outlook for stocks? The period since I started managing money in
+ 1978 has been incredible. There were a few bad days and quarters, but through 1999
+ there wasn't a single year when the S&P 500 lost 5%. From 1978 through 1999, the
+ return on the S&P 500 averaged 17.6% per year. That rose to 20.6% for 1991-99 and
+ 28.3% for 1995-99. I doubt there's ever been a better 22-year run; to ask for more would
+ be just plain piggish. But I don't think it'll be anything like that in the years just ahead,
+ and of course there's been a considerable correction already.
+
+ The observers I most respect foresee single digit average returns for common stocks, and
+ I agree. Equity returns have three components: profit increase, multiple expansion and
+ dividend yield. The last is minimal and the second can't be counted on from here. So that
+ means we're down to the rate of increase in corporate profits, which is likely to be in
+ single digits. Single digit returns would be below the historic average, but after such a
+ great 22-year run, a little less wouldn't be unreasonable.
+
+ Hedge Funds - Perhaps because they were new to the market, many who participated in
+ U U
+
+ the equity boom of the late 1990s were surprised by the suddenness with which their
+ profits evaporated in the subsequent correction. Now they're looking for a new path to
+ profit without risk, and many think they've found it in hedge funds. Their reasons for
+ migrating include the good performance of hedge funds, especially amid the recent chaos,
+ and the modest prospective returns available in the mainstream stock and bond markets.
+
+ First, how about a definition. Generally speaking, a hedge fund is an unregulated, private
+ investment partnership whose manager receives a percentage of the profits. To "hedge" is
+ to intentionally include positions that can be depended on to move counter to each other
+ under most circumstances, and thereby to mitigate exposure to developments in the
+ environment. "Hedge fund" is a misnomer for many of today's funds, however, because
+ unlike the days when the term first arose, hedging has become far from universal.
+
+ The funds I'm interested in do hedge. They're designed to systematically take advantage
+ of market inefficiencies and to capture managers' skill while limiting susceptibility to
+ market fluctuations. Arbitrage, long/short, hedge and market-neutral strategies fall into
+
+ this category. Most strive to earn returns in the teens on a consistent basis, with relative
+ indifference and insensitivity to the performance of the mainstream markets. If they can
+ do it, they're a great idea.
+
+ Today, hedge funds, also sometimes called "absolute return" funds, are being promoted
+ heavily by brokerage firms, mutual fund organizations and investment advisers and
+ popularized by the media. They are in the process of becoming the next investment fad.
+ And there's good reason why they should. Especially given the weak competition I see
+ coming from mainstream investment media like stocks, an appropriate mantra for the
+ coming decade might be "low double digits ain't bad." If you can identify investment
+ managers who possess enough skill to consistently deliver such returns, you should hire
+ them. And there's a better-than-average chance they'll be found in the hedge fund arena,
+ where the managers get to share in the profits.
+
+ However, a few caveats are in order:
+
+ Expectations still must be reasonable. Investors must realize that very few
+ managers are truly capable of earning before-fee returns of 12% or 15% steadily and
+ with low correlation to the mainstream markets. Anything approaching 20% is
+ Herculean.
+
+ Most returns really won't be "absolute." I have seen lots of "hedge funds" and
+ "market neutral funds" drop precipitously. That's because it's unusual for portfolio
+ returns to be entirely divorced from their environment. "Zero correlation" with the
+ market is rarely attainable; "low correlation" may have to suffice.
+
+ Money flows will play a big role. In general, the good records have been built on
+ small amounts of money. And those records will attract large amounts of money.
+ There are several consequences.
+
+ First, records simply may not be capable of extrapolation. To handle more money, a
+ manager may have to invest faster, reduce selectivity, put more dollars into each
+ position, put on a larger number of positions, broaden the fund's range of
+ activities, and/or add new staff members. All of these can have negative
+ implications for returns.
+
+ Second, many of the best managers with skill and discipline are already closed to new
+ U U
+
+ money, or will reach the point when they are. Thus in the extreme, as Groucho Marx
+ would have put it, "I would never invest my money with anyone who'd take it."
+
+ And third, when there's too much money in an area, even funds that are closed can be
+ affected. Long-Term Capital Management found others emulating its trades and
+ eventually lost its opportunity because too much money had piled into its niches.
+
+ The wrong people will get money. The rush to invest in an area gives money to
+ managers who shouldn't get it. When the best are closed, the rest will be funded.
+
+ Second-string managers will split off from established groups and get money based on
+ their old fund's record (regardless of how much of it they were responsible for). Thus,
+ as the amount of money in the area rises, the average quality of the managers may
+ fall.
+
+ Fees can eat up skill. When the demand for funds outstrips supply, fund managers
+ have the ability to raise fees and thereby appropriate for themselves a larger portion of
+ their funds' returns.
+
+ Disappointments will be many. Due to the factors enumerated above, the next few
+ years will see many investors fail to get what they hoped for . . . as usual. One of my
+ favorite sayings is "what the wise man does in the beginning, the fool does in the
+ end." Over the last 20-30 years, a few talented hedge fund managers built successful
+ records with relatively small amounts of capital. I believe the period ahead will see
+ lots of people raise more than they should; thus it will have to be navigated with care.
+
+ All investment trends run a high risk of being carried to extremes. (For a shining
+ example, take a look at venture capital in 2000.) Despite this, I think absolute return
+ investing deserves your attention. But you should commit only after a lot of investigation
+ and with your eyes wide open. Remember, there is no such thing as a silver bullet.
+
+ * * *
+
+ The main thing I've tried to indicate here is that investing isn't easy. Or better put,
+ superior investing isn't easy. It's easy to do average. In fact, there are vehicles - index
+ U U
+
+ funds - that exist for the explicit purpose of delivering average performance at low cost,
+ and they are completely capable of doing so.
+
+ But most people want to do better than the average. They want higher returns, and
+ achieving higher returns without assuming commensurately higher risk is the hard part.
+
+ It's easy to make guesses about the future but hard to be consistently more right in those
+ guesses than your fellow investor, and thus hard to consistently outperform. Doing the
+ same thing others do exposes you to fluctuations that in part are exaggerated by their
+ actions and your own. It's certainly undesirable to be part of the herd when it stampedes
+ off the cliff, but it takes rare skill, insight and discipline to avoid it.
+
+ The thing I'm surest of is that the solution doesn't lie in making guesses about the big-
+ picture future. Rather, it lies with investors who possess skill, insight and discipline.
+ There are times when they'll underperform - times like 1998-99, when aggressiveness
+ was rewarded far more than caution. But if you can find those people, you should stick
+ with them. For me, the laundry list of their desired characteristics is clear:
+
+ adherence to the "I don't know" school of thought
+ contrarianism, skepticism, modest expectations, humility and defensiveness
+ eschewing of macro forecasts
+
+ attention to the cyclical nature of things
+ consciousness of timeframe
+ concentration on valuation
+ disdaining the hunt for the silver bullet
+ awareness of prevailing investor psychology
+
+ You can go with opinions about the future. Everyone's got them, and what they call for in
+ terms of investment behavior usually is obvious. In other words, the "I know" school
+ makes investing sound easy - although in my opinion it's not often right.
+
+ Or you can join me in the "I don't know" school, where you must:
+
+ face up to the uncertainty that surrounds the macro future;
+ concentrate on avoiding pitfalls;
+ invest in a few areas of specialization based on in-depth analysis, conservatively
+ estimated tangible values and modest purchase prices; and
+ be prepared for returns that trail the risk-takers when markets are hot.
+
+ This may be the less common path, and certainly the less rosy, but it's the one I'd
+ much rather count on for success in the long run.
+
+
+Memo: Quo Vadis?.
+
+Leon Uris turned the question "Quo Vadis?" into a book title. Everyone wants to know.
+ Where do we go from here? What's in store for the market?
+
+ . . . for all the drama, yesterday's seesaw trading failed again to give investors the
+ one thing they needed most: a clear picture of where the stock market is headed.
+ Many on Wall Street had been hoping for some kind of resolution yesterday -
+ either a significant drop that would wash out the selling, or a significant recovery.
+ Instead, stocks bounced in both directions, as optimists battled the pessimists.
+ (Wall Street Journal, July 24, 2002)
+
+ I include this paragraph because it communicates a great deal in just a few words. It
+ makes clear how much investors hunger for an indication of what lies ahead. It shows
+ how inconclusive anyone day's evidence can be. And, most importantly, to me it hints at
+ the sheer folly of this quest for an omen. There's no such thing as a conclusive sign,
+ and there never will be. The future will always remain a mystery - and this is even
+ more true for short-term fluctuations than for long-term trends. Nothing in the
+ market's movement one day tells us anything about what it'll do the next. Most of
+ the time people will conclude that they have no idea what lies ahead. And once in a
+ while they'll feel they do (as in 1999) and likely be wrong.
+
+ I know my views on the market's direction aren't worth betting on. But while I can't tell
+ you what lies ahead, perhaps I can be of service in my usual way, by marshalling the
+ arguments on both sides and giving you my take on them.
+
+ Starting Point
+ U
+
+ This attempt to provide insight into the market's future course should be understood in
+ light of a few caveats. The most important are these:
+
+ First, we are living through the most extreme boom-bust episode of my 33-year
+ investment career and, I think, the most extreme since the Roaring Twenties and
+ subsequent market crash. The magnitude and craziness of the bull market and tech-
+ media-telecom bubble of the 1990s dwarfed every up-leg I've seen, and the correction that
+ started 28 months ago already ranks with the greatest down-legs. Thus all bets for
+ "normalcy" are off. A huge decline like we've had doesn't necessarily create bargains if
+ preceded by a huge advance.
+
+ Second, no one knows what the future holds, especially in the short term. The
+ movements of markets are primarily determined not by physical laws, but by the
+ reaction of emotional humans to developments in their environment. These
+ reactions are well beyond accurate prediction. The fraternity of would-be forecasters
+ consists of people who've been right once or twice, giving them credibility, and people
+ who've never been right. None of them has a high probability of being right this time.
+
+ Third, the market's "observable historic patterns" (a) are very inconsistent and (b) have
+ been derived from a small number of observations over a period of just a century or so
+ under widely varying circumstances. Thus these historic patterns are of very limited
+ relevance in predicting this market's next move.
+
+ Last, I want to admit that, as usual, my analysis is likely to overweight the negatives and
+ the rebuttals to the positives. I've been cautious for a long time - in fact, I don't
+ remember ever having written a bullish piece on stocks - and this memo is unlikely to be
+ any different. There are "horses for courses," and I admit it: I'm usually going to cost you
+ money on the upside.
+
+ Taken together these caveats mean that very little trust, if any, should be put in any
+ market prediction - especially mine.
+
+ Positive Arguments
+ U
+
+ One of the strongest arguments for buying now cites the market's departure from one of
+ those historic patterns referred to above. The New York Times stated it clearly on July 21:
+
+ Using history as a guide, the stock market should be higher now than it was a year
+ ago. Since 1948, six months after a recession's trough, stocks have jumped an
+ average of 24 percent from the previous year. But at the end of June, six months
+ from the recession's probable end, stocks were down 18% from last year. That
+ means the market has underperformed its typical post-recessionary move by
+ 40 percentage points. [Emphasis added]
+
+ Supporting this is the widespread and not unreasonable belief that the economy is no
+ longer in decline and a modest recovery is underway. While it is difficult to identify
+ many pockets of great strength in the economy, there is no evidence that the aggregates
+ are still trending down.
+
+ Buttressing the economic outlook are recent movements in currency exchange rates. The
+ dollar has stopped appreciating relative to other currencies and in fact has moved 10%
+ lower. This means, for example, that it now takes fewer euros to buy a dollar and more
+ dollars to buy a euro. Thus, everything being equal, U.S. goods are now cheaper than
+ foreign goods. This should serve to increase U.S. manufacturers' sales to Americans and
+ foreigners alike.
+
+ The improving environment seems to have taken the downward pressure off profits and
+ slowed the flow of earnings disappointments. As reported by the Wall Street Journal on
+ July 22, "Nobody wants to hear it, but companies are beating their numbers again . . . Of
+ the 208 companies from the S&P 500 that have reported [midyear results] so far, 58%, or
+ 120 companies, earned more per share than analysts had estimated . . . Only 14%, or 29
+ companies, have missed estimates." (Bear in mind, however, that "earnings ahead of
+ estimates" is not necessarily the same thing as "earnings ahead of last year." This data
+ could simply mean that the comparisons are against estimates that had become too
+ pessimistic.)
+
+ I see technical indicators that are encouraging. There are a number of signs that optimism
+ is being wrung out of the market and fear is replacing greed. For example, when the Dow
+ fell 390 points on Friday, July 19, the NYSE saw:
+
+ new lows outnumber new highs by almost fourteen to one (386 vs. 28),
+ more than three times as many stocks decline as advance (2,467 vs. 766),
+ all of the 30 Dow Industrial stocks decline, and
+ an all-time record number of shares change hands (2.63 billion shares, only to be
+ exceeded in the rally of July 24).
+
+ In addition, there have been several days this year when 80% or 90% of the trading
+ volume took place on downticks, and cash outflows from equity mutual funds have been
+ substantial.
+
+ Certainly investor behavior has turned bearish. Selling sometimes seems indiscriminate.
+ Every better performing group gets its turn in the barrel. The value stocks that
+ outperformed for the last two years are sharing the pain of the growth stocks. It seems
+ there's no place to hide. Investors complain that they can't take it and have started to
+ throw in the towel. Maximum panic usually coincides with minimum prices. Thus
+ these may be signs that capitulation, the exhaustion of selling, and a bottom are near.
+
+ Negative Arguments
+ U
+
+ On the other hand - as any good politician would say - there are counter-arguments to
+ many of the above, and a large number of additional negatives to be considered.
+
+ In my opinion, just as the strongest positive is seen in the failure of the market to reflect
+ the ending of the recession, I think the counter to that - and the strongest negative - lies
+ in the matter of valuation. In short, the fact that stocks are down since the end of the
+ recession, and down a great deal from their peak, doesn't mean they're cheap. In
+ fact, most rumination on the market's future direction touches on the correction, investor
+ psychology and the economy, but not whether stocks are rich or cheap, always a difficult
+ subject to plumb.
+
+ The impact of a decline must be gauged in light of its starting point. Stocks ended up
+ cheap after the S&P's 1973-74 decline of 48%, but that's because the average P/E ratio
+ started in the high teens and ended in single digits. Thus this correction's 45% decline
+ doesn't necessarily have equal import, given that it started and ended with an average P/E
+ ratio above 20!
+
+ Of course, a case continues to be made that stock valuations are attractive (or, more
+ typically, "are not unattractive") because of the low level of interest rates. Low rates raise
+ the discounted present value of a given stream of future cash flows, and they reduce the
+ competition that stocks face from bonds. As I see it, much of the case for the fairness
+ of valuations today rests on the view that low prospective returns on stocks are
+ reasonable given the low prospective returns on fixed income instruments. Maybe
+ this makes stocks cheap at today's P/E ratios, but I don't consider it much of a
+ positive. Further, in order for interest rates to continue to render stocks attractive, they
+ must stay low. But low rates presuppose low levels of economic growth, demand for
+ capital, and inflation. Are these the arguments on which to build a bullish case?
+
+ There's also a strong counter-argument regarding economic recovery. As stated by Jan
+ Hatzius, the senior economist at Goldman Sachs, it goes as follows:
+
+ Unfortunately, the effect [on the economy] of the stock market's sorry
+ performance has yet to be felt. . . Normally, when you get a big stock market
+ setback, consumers have a harder time getting credit. But there are more
+ alternative sources of credit for consumers now and the Fed is very eager to keep
+ access to credit good. . . Once consumers realize that the stock market will no
+ longer bolster their savings, they will rein in spending and start setting aside more
+ income. That will be a big negative for consumer spending, the only area of the
+ economy that has been strong. (NY Times, July 21, 2002)
+
+ Certainly with about $7 trillion of equity value having been erased since the
+ market's peak in March 2000, investors are sure to be feeling a lot poorer, and thus
+ there is reason to question the longevity of strong consumer spending. Bulls often
+ touted the "wealth effect" in 1998-99, but we hear much less about it these days. Yet
+ concern that consumers will cut spending is one of the reasons there is fear of a double-
+ dip recession.
+
+ And the negative ramifications aren't likely to be limited to consumers. Corporations will
+ feel their share of pain from the market's decline. First, they may have to come up with
+ cash for contributions to pension funds, and there may come a time when they will no
+ longer be able to augment income with "actuarially assumed" investment returns that
+ aren't occurring. Second, lower asset values may shed doubt on the billions of dollars of
+ acquisition goodwill now present on balance sheets. Third, the prevalence of out-of-the-
+ money options - and the negative recent experience with them - may make employees
+ clamor for cash compensation, with negative implications for net income and cash flow.
+ In this environment, corporations may have a lower propensity toward capital spending.
+
+ Governments at all levels also are likely to see their revenues decline. The Federal
+ government will run deficits, (the end of which was one of the factors lifting the market
+ in the late 1990s), and the states and cities will cut back on spending, with a retarding
+ effect on the economy.
+
+ If both individuals and institutions have less cash to invest and less willingness to part
+ with it, our reliance on foreign capital is likely to become clearer. But with foreign
+ investors no longer feeling they can count on the dollar to be worth ever-increasing
+ amounts of yen or euros, inflows of those currencies for dollar investments are less
+ dependable. The implications for security prices and capital formation are obviously
+ negative. And questions about our system's integrity and transparency can't help.
+
+ Beyond the fundamentals of economy and valuation, there are a vast number of
+ psychological factors to be considered:
+
+ Of course, cynicism prompted by corporate misdeeds tops the list. Who'll invest in
+ the face of the corruption at "all these companies"? How many investors realize that
+ the dishonest acts have been limited to a handful of firms? Or that there is a
+ difference between aggressive accounting and fraud? Who'll believe even the
+ simplest of management's statements about cash in the bank or the next quarter's
+ earnings? (By the way, I think the recent exposure itself can be counted on to
+ produce better corporate behavior. Already companies are scrambling to show they're
+ clean in terms of accounting, governance, and executive compensation.)
+
+ Certainly the belief in the inevitability of stock market profits has been dispelled.
+ Who still believes that "stocks can be counted on to beat bonds and cash"? (Okay,
+ nothing has changed regarding the long run, but investors have learned that living
+ through a negative short run isn't that much fun.) And who still believes that the
+ "efficient market" can be relied on to price stocks right? For these reasons, I think
+ millions who were suckered into investing without the necessary expertise or
+ awareness of risk will drop out for a while.
+
+ Likewise, the 1999 mantra of buying on dips has been laid to rest. Those who tried it
+ in the last 28 months have paid a high price for investing on autopilot, and they are
+ unlikely to rise up and counter the bears' selling any time soon. Sure, stocks will rise
+ again, but few of the burned investors are worried about missing the first ten percent.
+
+ The leaders that people counted on to make them rich in 1998-99 are gone from the
+ scene, and no one's likely to win investors' confidence anytime soon. Alan
+ Greenspan's words no longer have the same soothing effect; now he's blamed for
+ fostering too much liquidity, too great a market bubble, and then too-high interest
+ rates. Likewise, investors have learned painfully that bullish statements from analysts
+ and strategists precede up markets and down markets alike. Without "trusted
+ U U
+
+ advisers" they can count on, investors won't be as quick to jump aboard the next
+ bandwagon.
+
+ Macro fears still loom in the background, and they gain more credence when people
+ feel less good about things. The threat of further terrorism, unending violence in the
+ Middle East, nuclear and biological weapons in the hands of rogue states, and even
+ Japanese-style deflation - none of these fears can be put to rest conclusively.
+
+ Of course, like almost everything else, these psychological factors have two sides.
+ They're negatives to the extent they contribute to fear and skepticism and thus
+ discourage buyers. But they're positives if they induce panic selling and take prices
+ low enough to form a bottom.
+
+ Lastly, I think we all should worry about Washington. Where's the political payoff
+ today? It lies in decrying corruption and calling for extreme reforms. The backlash
+ against corporate malfeasance I cited in "Learning From Enron" certainly threatens to
+ become a witch-hunt, raising great risk of tampering with a system that's essentially
+ sound. Regardless of whether properly motivated or not, the government should not be in
+ the business of codifying rules in areas such as accounting and compensation.
+
+ Foreseeing second-order consequences is difficult, and particularly so for politicians and
+ regulators. Not only are they often unknowable, but also they exist in the long term,
+ whereas people in politics are governed by short-term considerations - like getting re-
+ elected. Capping the price of natural gas was popular, but we saw too late that it keeps
+ people from drilling. Controlling rents seemed desirable, but no one foresaw that it
+ would discourage landlords from building housing and renters from moving out. There's
+ little I'm sure of, but I do believe that if the government establishes rules and procedures
+ in areas that should be the province of the market, (a) there will be unintended
+ consequences, and (b) the rules will be much harder to correct than they were to enact.
+
+ * * *
+
+ I believe strongly that things will not get worse forever. We'll muddle through. Given
+ the retarding effects of lobbyists and competing political interests, the government
+ probably won't do anything terribly destructive. The economy will come back. Most
+ companies will be shown to make real profits, and their securities will turn out to have
+ value. In other words, the financial world won't come to an end.
+
+ As for short-term direction, no one knows which way the market's going to go, or
+ whether the declines to date are enough to offset the negatives and make this a
+ bottom. Do the declines to date and the economic recovery that's underway mean we're
+ at the bottom? Or do the abject disillusionment that investors have suffered and the still-
+ high P/E ratios mean it won't be reached for a while? The answer rests on the actions of
+ investors in the coming weeks and months, and that truly defies prediction.
+
+ When I think about whether the brouhaha over corporate misdeeds will soon die down, I
+ worry about the following:
+
+ When the replacement auditors show up at each former Arthur Andersen client, they'll
+ be bringing their fine-tooth combs. They'll have every incentive to find something
+ wrong in the previous accounting and absolutely no incentive to say, "Everything was
+ just fine."
+
+ With or without suggestions from new auditors, every management team will be
+ motivated to amend its accounting. First, they'll want to join the holier-than-thou
+ parade. Second, they know choosing a more aggressive accounting treatment will
+ leave them open to criticism or worse. Last, they are likely to engage in the usual
+ deck clearing to put costs and restatements behind them, prodded, in particular, by the
+ requirement that they certify financial statements starting in mid-August. The sum of
+ this may result in months of additional disclosures and restatements.
+
+ More virtuous accounting practices, including specifics like the expensing of option
+ grants, are sure to mean lower reported profits than otherwise would have been
+ reported. You might say investors will look beyond these numbers and perceive the
+ lower quantity of earnings to be offset by the higher quality. I doubt it. I think the
+ first-year shift to this new regime could make companies seem generally less
+ profitable.
+
+ Politicians will keep battling to show who's less tolerant of corruption. Democrats
+ will pick on Republicans for their closeness to business, and Republicans will strive to
+ show they're just as tough as Democrats. I think this is overwhelmingly likely to last
+ through the November elections.
+
+ The media will throw gasoline on the fire as always, rising up in indignation
+ whenever they detect a sensational story. The stories are too good, the targets are too
+ rich and attractive, and the rewards for resisting sensationalism are few and far
+ between. Reporters who were pro-investment and pro-free market just a few years
+ ago now see the greatest gains in calling for scalps. And I can just hear the talking
+ heads on CNN and MSNBC saying, "I never liked the stock market anyway."
+
+ When I put it all together, I come down, as usual, on the cautious side. I'm not confident
+ that the excesses of the bull market of 1982-1999 and the enormous tech bubble could
+ have been corrected in just 28 months. Stocks' current swoon need not go on without end,
+ but I see fundamental, valuation and psychological problems that will take time to fix.
+ Maybe there'll be some lackluster years rather than a continuous collapse. It's said the
+ investors who were burned in the excesses of the 1920s didn't return to the market until
+ 1955 - or was it their kids?
+
+ I doubt there'll be a massive revival of the popularity of stocks any time soon, and thus I
+ wouldn't count on a quick return to performance in line with history. More than ever, I
+ think non-market-derived, skill-based value added - that is, alpha, not beta - will
+
+ hold the key to investment performance. Because owners of capital may not be able
+ to count on a tailwind like we enjoyed in the 1980s and 1990s, managers with great
+ skill remain the strongest hope. And in this climate, I'd rather bet on risk control
+ than risk bearing as the route to superior results.
+
+
+Memo: Etorre's Wisdom.
+
+My memos evoke a wide variety of reactions. One I hear most often is "where do these
+ ideas come from?" This memo will serve as a good example: it was inspired by a ride I
+ took this summer with my son Andrew. That, in turn, reminded me of a clipping that's
+ been sitting in my files since the early 1970s.
+
+ The newspaper article, entitled "The laws that rule frustrating lives," enumerates a dozen
+ principles that we suspect are at work on our bad days. Here are a few examples:
+
+ Everyone knows the first, Murphy's Law: If anything can go wrong, it will.
+ Fewer people, however, are conversant with O'Toole's Commentary: Murphy was an
+ optimist.
+ There's a lot of truth in The Unspeakable Law: As soon as you mention something, if
+ it's good, it goes away; if it's bad, it happens.
+ Every parent of a toddler has seen The Law of Selective Gravity in action: An object
+ will fall so as to do the most damage.
+ But the one that's least controvertible is Etorre's Observation: The other line moves
+ faster.
+
+ While I was driving with Andrew he asked, as fifteen-year-olds are prone to, "Dad, why
+ do you always have to drive in the slow lane? Why don't you switch to that one; it's
+ moving faster?" As I wound up for a lengthy explanation, I recognized in his comment
+ the greatest imaginable metaphor for investor behavior.
+
+ What is it like to drive on our crowded highways?
+
+ We often sit there, frustrated, watching cars whiz by in the adjacent lane.
+ However, if we change to the faster lane, it slows down just as the one we left speeds
+ up.
+ Sometimes a lane-jumper shoots past us, but we know deep down that drivers who
+ constantly shift from one lane to another are unlikely to reach a given point much
+ before we do.
+
+ I think there are many ways in which the experience of drivers on a crowded highway is
+ similar to that of investors. I'll touch on them below, and on what I see as the reasons
+ (and the lessons).
+
+ Finding Your Way on an Efficient Highway - Some people find it difficult to understand
+ U U
+
+ the concept of efficient markets, and how efficiency makes it hard for investors to
+ outperform. It's really for this that a crowded highway is the perfect metaphor.
+
+ Most drivers share the same goal: we want to get there as quickly as possible, with safety.
+ A few people drive like slowpokes, sacrificing speed for excessive safety, and a few
+ others are maniacs who keep the pedal down without a care. The vast majority of us,
+ however, conduct ourselves reasonably but really would like to cut our travel time.
+
+ As we drive along, we see from time to time that another lane is moving faster than ours.
+ Just as obviously, however, we know that jumping to that lane is unlikely to bring much
+ net improvement.
+
+ And that's where the metaphor comes in. If I could switch to the faster lane while
+ everything remained unchanged, doing so would cut my travel time. But everyone sees
+ which lane is moving fastest, and if everyone switches into that lane, that will make
+ it the slow lane. Thus the collective actions of drivers alter the environment. In fact,
+ they create the environment.
+
+ In April 2001, I wrote the following in "Safety First . . ."
+
+ Over the years, performance has constantly improved in areas like golf. That's
+ because while the participants develop new tools and techniques, the ball never
+ adjusts and the course doesn't fight back. But investing is dynamic, and the
+ playing field is changing all the time. The actions of other investors will affect the
+ return on your strategy. Just as nature abhors a vacuum, markets act to eliminate
+ an excessive return.
+
+ What I meant is that, unless the Greens Committee changes the layout, a golf course is a
+ static environment. The actions of golfers don't change the game. If I try a certain
+ approach to a hole - or even if everyone does - that won't alter the effectiveness of the
+ approach.
+
+ In contrast, highways - like markets - are dynamic environments. What the other
+ participants do on a given day goes a long way toward determining what will and will not
+ work for us. When people flock to the fast lane, they slow it down. And with the lane
+ they left suddenly less crowded, it speeds up. This is how the "efficient market" in
+ U
+
+ travel acts to equalize the speed of the various lanes, and thus to render ineffective
+ most attempts at lane-picking. Efficient securities markets work the same way to
+ eliminate excess returns . U
+
+ Everyone knows what has worked well to date. Just as they know which lane has been
+ moving fastest, they know which securities have been performing best. Most people also
+ understand there is no guarantee that past performance will continue. What is a little less
+ widely understood, however, is that past returns influence investor behavior, which
+ in turn alters future performance.
+
+ While investors have the option of switching into the securities that have been performing
+ best, most know the outperformance isn't likely to last forever. It takes a little more
+
+ insight, however, for them to comprehend that their switching will be, in itself, among the
+ things that change performance. When people switch to the better-performing group,
+ their buying bids up the prices of those securities. That bidding-up prolongs the
+ outperformance somewhat, but it also reduces the prospective return and increases the
+ probability of a correction. (The higher the price you pay, the worse your prospects for
+ profit. This seems like a simple concept, but it's forgotten once in a while - as it was in
+ the tech bubble.)
+
+ At the same time, the switchers will sell worse-performing securities to finance their
+ move into the hot group. That will lower the prices of the laggards, and at some point
+ they'll be so cheap that they become destined to outperform.
+
+ For How Long Will the Fast Lane Go Fast? - The pedal-to-the-metal momentum crowd
+ U U
+
+ saw the tech and telecom stocks moving fastest in 1999 and extrapolated their
+ outperformance to infinity. In essence, they assumed one lane could go faster forever. Of
+ course, they ignored the fact that the stocks were being bid up to prices from which
+ collapse would be inevitable. They also failed to notice that the "slow lane" value stocks
+ they were selling would eventually become primed for acceleration.
+
+ How long can outperformance continue? How long can one lane be the fastest, one
+ strategy be the best? Clearly, there's no rule. The momentum players behind the bubble
+ proved with certainty that fast rising stocks will keep rising until they stop. They also
+ proved, to their surprise, that few people are capable of getting off just as the upward
+ trajectory peaks out.
+
+ As I've said many times, anything can work for a while, but nothing can work forever.
+ Sometimes large cap works, and sometimes small cap works. Sometimes domestic
+ works, and sometimes international works. Sometimes buying leaders works, and
+ sometimes buying laggards works. Wall Street has pushed out some incredible gibberish
+ over the years, but nothing quite like that embodied in another yellowed clipping from
+ 1976 (maybe this is why there's no more Loeb, Rhoades):
+
+ A continuing pattern of consolidation and group rotation suggests that increasing
+ emphasis should be placed on buying stocks on relative weakness and selling
+ them on relative strength. This would be a marked contrast to some earlier
+ periods where emphasizing relative strength proved to be effective.
+
+ I guess that's a fancy way to say that sometimes the stocks that have been doing best
+ continue to do best, and sometimes the stocks that have been doing worst start to do best.
+ (Really, I don't make this stuff up.)
+
+ The Tactics Others Adopt - The fact that crowded highways are efficient allocators of
+ U U
+
+ space doesn't mean people don't try to beat them. How often do we see the guy in the
+ souped-up '67 Mustang careen back and forth just in front of us, changing lanes every
+ minute and cutting off half the cars on the road? But does he get there any faster?
+ Should he expect to?
+
+ Of course, the analogy to investing holds beautifully. Knowing which lane to drive in has
+ nothing to do with which lane has been going fastest. To chart the best course, one must
+ know which one will go fastest. As usual, outperforming comes down to seeing the
+ future better than others, which few drivers on crowded highways can do.
+
+ So half the time the lane-jumper moves into a fast-moving lane that keeps going fast, and
+ half the time into one that's just about to slow down. And the slow lane he leaves is as
+ likely to speed up as it is to stay slow. Thus the "expected value" of his lane changing is
+ close to zero. And he uses extra gas in his veering and accelerating, and he bears a higher
+ risk of getting into an accident. Thus the returns from lane changing appear modest and
+ undependable - even more so in a risk-adjusted sense.
+
+ There are lots of investors in our heavily populated markets who believe (erroneously, in
+ my opinion) they can see the future, and thus that they can get ahead through market
+ timing and short-term trading. Most markets prove to be efficient, however, and most of
+ the time these machinations don't work.
+
+ Still, investors keep guessing at which lane on the investment highway will go fastest.
+ They are encouraged by the successes they recall and the gains they dream of. But their
+ recollection tends to overstate their ability by exaggerating correct moves and ignoring
+ mistakes. Or as Don Meredith once said on Monday Night Football, "they don't make
+ them the way they used to, but then again they never did."
+
+ So most investors go on trying to time markets and pick stocks. When it works, they
+ credit the efficacy of their strategy and their skill in executing it. When it doesn't, they
+ blame exogenous variables and the foolishness of other market participants. And they
+ keep on trying.
+
+ In the ultimate form of capital punishment, the hyper-tactician - on the road or in the
+ market-stands a good chance of repeatedly jumping out of the thing that hasn't worked
+ just as it's about to start working, and into the thing that has been working moments
+ before it stops.
+
+ This is why it's often the case that the performance of investors in a volatile fund is
+ worse than the performance of the fund itself. On its face this seems illogical . . . until
+ you think of the unlucky lane-jumper described just above. People often jump into a hot
+ fund toward the end of a period of good performance, when overvaluation in the market
+ niche (or hubris on the manager's part) has set the stage for a fall, and when the great
+ results have brought in so much money that it's impossible to keep finding enough
+ attractive investments. By the time a hot fund falls, it's usually much larger than it was
+ when it rose, and thus a lot more money is lost on a 10% drop than used to be made on a
+ 10% rise. It's in this way that the collective performance of a fund's investors can be
+ worse than that of the fund.
+
+ There are prominent examples of money managers who started small, made 25% a year
+ for 25 years, got famous and grew huge, and then took a 50% loss on $20 billion. I often
+
+ wonder whether their investors enjoyed any cumulative profit over the funds' entire lives.
+ U U
+
+ Just as lane-jumping is risky on the road, following the hot trend is risky in the
+ investment world.
+
+ Isn't There a Way to Make Good Time? - If crowded highways are truly efficient, and the
+ U U
+
+ fast lane is destined to slow down, is there no way to do better than others?
+
+ My answer is predictable: find the inefficiencies. Go where others won't. Do the things
+ others avoid. We all have our tricks on the road. We'll take the route with the hazards
+ that scare away others - after we've made sure we know the way around them. Or we'll
+ take the little-known back road. We'll go through the industrial area, leaving the
+ beautified route to the masses. Or we'll drive at night, while others prefer the daylight.
+
+ All of these things are analogous to the search for inefficiency in investment markets. At
+ Oaktree we invest in things that others find frightening or unseemly - like junk bonds,
+ bankruptcies and non-performing mortgages. We spend our time in market niches that
+ others ignore - like busted and international convertibles, and distressed debt bought for
+ the purpose of obtaining control over companies. We try to identify opportunities before
+ others do - like European high yield bonds and power infrastructure. And we do things
+ that others find perilous, but we approach them in ways that cut the risk - like investing in
+ emerging markets without making sink-or-swim bets on the direction of individual
+ countries' economies and stock markets.
+
+ I continue to believe there are ways to earn superior returns without commensurate risk,
+ but they're usually found outside the mainstream. A shortcut that everyone knows
+ U
+
+ about is an absolute oxymoron , as is one that's found where the roads are well marked
+ U
+
+ and mapped. The route that's little known, unattractive or out of favor may not be the one
+ that's most popular or least controversial. But it's the one that's most likely to help you
+ come out ahead.
+
+
+Memo: Returns and How They Get That Way.
+
+"Where do babies come from?" When I was a kid, this was the subject of a great many
+ jokes, and the answer was always the same: "The stork brings them." Now it's fifty years
+ later, and no one jokes about the stork any more. Maybe that's because today's kids learn
+ the real answer so much sooner than we did.
+
+ Where do equity returns come from? Fewer people ask this question than asked about
+ the stork fifty years ago, . . . and even fewer have the answer. I'll give you one hint: it's
+ not from the stork.
+
+ The Source of Equity Returns
+
+ In the late 1990s, stock prices exploded upward, along with the number of people buying
+ them. And as long as stock prices rose, the new investors felt they knew all they had to
+ about where equity returns came from: They came from rising prices. And surely you
+ could depend on prices to rise.
+
+ What was it that investors thought would cause a given stock's price to rise?
+
+ It's been performing like a rocket.
+ It's the subject of a brokerage house recommendation, a TV or magazine story, or
+ some chat room hype.
+ Someone (I don't remember who) is recommending it.
+ It's selling below an analyst's target price.
+ Other people can be counted on to buy it, taking it ever higher.
+ In fact, investors have to buy it, because money will keep flowing to stocks and
+ people can't risk omitting this one from their portfolios.
+ Or maybe it'll become part of the S&P 500, and indexers and closet indexers will have
+ to add it to their portfolios.
+
+ As always, however, the post mortem is more thorough than the simplistic thought
+ process that preceded it, and the results are a lot less pleasant. Dreams of ever-rising
+ prices aren't enough. Now we know there has to be a reason why prices should rise.
+
+ Today, cooler heads point out that long-term equity returns are driven by dividends and
+ earnings growth. "Huh?" say the people who entered the market in the late '90s.
+
+ I remember having a spirited discussion on this topic with my father in the late 1960s. I
+ came home from the University of Chicago filled with the notion that the value of a share
+ of stock is the present value of its future dividends. "Baloney," my father said, "no one
+ buys stocks for the dividends; they buy them for appreciation." "But what makes them
+ appreciate?" I asked. We never have reached agreement on this matter.
+
+ I think we were both right and both wrong. Certainly in a real-world sense, people don't
+ buy stocks for dividends. Dividends provided a small portion of the total return on stocks
+ in the 1960s and far less in the 1990s. Yes, most people buy stocks for appreciation. But
+ what causes appreciation? There has to be an underlying process at work. We're in
+ trouble if all we can say is "we buy stocks in the hope they'll go up, and they'll go up
+ if new buyers are willing to pay more than the last price." To explain what'll make
+ the buyers pay more than the last price, we either have to (1) identify what I call an
+ underlying process or (2) fall back on the bromides listed above that led investors off the
+ cliff in the 1990s.
+
+ The "underlying process" has to be related to financial parameters. By that I mean the
+ asset values and/or cash flows must be recognized as being worth more than the last price
+ paid. That's what causes appreciation.
+
+ Because so few stocks are bought today for asset values, we essentially can disregard
+ them. The vast majority of stocks are bought for the stream of earnings the companies
+ produce.
+
+ But how do those earnings affect investors - get through to investors - if not in the form
+ of dividends? That's the question that drove me in the 1960s. It almost verges on
+ metaphysical. If a company has great earnings but those earnings aren't ever paid out in
+ dividends, are they still of value to investors? If it makes a bunch of money but just
+ hoards it, or reinvests it in new products and facilities that generate future earnings that
+ also are not paid out, in what way are its profits of value to investors? That's kind of like
+ the old question, "if a tree falls in the forest but there's no one around to hear it, does it
+ still make noise?"
+
+ There are two possible answers:
+
+ Eventually, earnings must be paid out. Common sense tells us that, sooner or later,
+ every company will run out of good reinvestment opportunities, and the cash will then
+ go to dividends, or to stock buy-backs, which have the same effect but better tax
+ treatment. (Of course, the record suggests that when they run out of good
+ reinvestment opportunities, companies often prefer bad reinvestment opportunities to
+ giving the money to the shareholders.)
+
+ Alternatively, if cash builds up in a company and its stock doesn't rise to reflect the
+ buildup but instead languishes "too cheap," someone will bid the stock up in order to
+ take over the company. This is economics at work: the value of every asset is the
+
+ present value of the cash flows it will produce in the future, and eventually the market
+ will price the asset to reflect that value, because there are ways to reap it.
+
+ So What Makes Stocks Worth More?
+
+ The equation defining the price of a share of stock is a very simple one:
+
+ P = E x P/E
+
+ The price of a share of stock is equal to the earnings per share times the ratio of the stock
+ price to the earnings. On one hand this explains how prices are set, and on the other hand
+ it's just tautological: divide both sides of the equation by E and you get P/E = P/E. Even I
+ can't argue with that one.
+
+ This gives rise to another simple equation:
+
+ ∆P = ∆E + ∆P/E
+
+ Change in price is powered by one or more of the following factors:
+
+ increased earnings eventually are turned into increased dividends,
+ the undistributed earnings are reinvested to power future earnings growth, and/or
+ the likely stream of future earnings comes to be viewed as being worth more than the
+ last price paid, causing an increase in the P/E ratio.
+
+ "Growth investors" pursue companies whose earnings are growing the fastest. As per the
+ equation, if the P/E ratio holds, earnings growth will be translated directly into stock price
+ appreciation. And if there's an increase in investor recognition of the company's growth
+ potential, the P/E ratio can expand as well, producing appreciation at a rate that exceeds
+ the rate of earnings growth.
+
+ "Value investors," on the other hand, invest primarily in companies where (1) earnings,
+ while perhaps lacking rapid trendline growth potential, are temporarily depressed and
+ likely to rebound, and/or (2) the stock's price is unduly low relative to even the low-
+ growth earnings, and thus the P/E ratio can be expected to expand.
+
+ Any way you slice it, the truth is that changes in a stock's price will be determined
+ by changes in the earnings per share and changes in the multiple at which investors
+ value those earnings. So those who want to predict the movement of a stock's price, or
+ of the whole market, have to predict those two things. To get to total return, you simply
+ add the dividend yield to the rate of price appreciation.
+
+ The Outlook for Equity Returns
+
+ Clearly, equity returns primarily come from price appreciation. And the dominant
+ consideration in long-term appreciation is earnings growth. Why do I say "long term
+ appreciation"? Because even though P/E ratios jump around much more in the short run
+ than do earnings, they tend to move within relatively fixed boundaries and, in the long
+ run, their fluctuations should cancel out.
+
+ The simple view - which I tend to take - is that P/E ratios reached ridiculous levels in the
+ 1990s and now, even after significant price declines, still are higher in absolute terms than
+ they were at many previous market tops. Thus, you can assume that P/E ratios will stay
+ where they are, and thus that earnings growth will translate into parallel price
+ appreciation. Or you can assume multiple contraction, in which case appreciation will lag
+ earnings gains. But I doubt that a prudent investor can count on P/E ratio expansion as a
+ source of future stock price appreciation. Thus, any positive returns will be determined
+ primarily by the rate of earnings growth.
+
+ Over the years I've quoted Warren Buffett as saying something like "people get into
+ trouble when they forget that corporate profits tend to grow at 9% a year." In September I
+ had a chance to ask him if he actually said that. "No," he said, "what I said is 'people get
+ into trouble when they forget that in the long run, stocks won't appreciate faster than the
+ growth in corporate profits.'" Other people spend a lot more time than me studying how
+ fast corporate profits have grown and will grow. However, the evidence I'm familiar with
+ suggests a figure somewhere in mid-single digits.
+
+ So with dividends minimal and multiples unlikely to expand (at best), normal historic
+ profit growth seems like a reasonable starting point for equity returns in the long-term
+ future. (Of course, extrapolating historic corporate profit growth implies extrapolating
+ the historic price increases and profit margins. Neither of these is assured, but why go
+ there?) What I'm left with is trendline price appreciation somewhere in mid-single digits.
+ Where in that range, I'll leave to others.
+
+ Adding to Returns Through Active Management
+
+ I have written a great deal on the subject of active management (see especially "Safety
+ First . . . But Where?," April 2001) and have no interest in reiterating. But I will discuss
+ the active management industry.
+
+ An enormous infrastructure has been built up over the last century for the purpose of
+ beating the stock market. Fifty or seventy-five years ago, that sentence would have read,"
+ . . . for the purpose of managing stock market investments." However, the index fund
+ industry has grown up in the last thirty years and made it clear that average performance
+ can be accessed much more cheaply and dependably through passive management than
+ through active management. Thus the raison d'etre of the active managers became
+ beating the market.
+
+ To do so, the investment management industry invests in analysts, portfolio managers and
+ traders, not to mention accountants, salespeople and risk managers - plus wood paneling,
+ oriental rugs and seascapes. All of this costs money, and the management firms want a
+ return on their spending. So they charge healthy fees. The people whose money the
+ firms manage also bear other costs entailed in active management, such as commissions,
+ market impact, and taxes on short-term gains caused by active trading. The question is,
+ "What are they getting for their money?"
+
+ The problem is that there has been no documentation that active equity management
+ consistently provides an edge in the mainstream stock market. Some individuals never
+ beat the market, but even those who do usually see their success limited to brief periods
+ of time. A given strategy works for a while and then stops. It's usually a matter of being
+ patient and waiting until your ship comes in. Very few people are skillful enough to
+ outperform through thick and thin. As I've said before, the attention paid to people like
+ Warren Buffett and Peter Lynch is a tribute to their uniqueness and demonstrates the
+ meaning of the phrase, "it's the exception that proves the rule." The rule is that few
+ people can beat the market for long.
+
+ We've already established that equity returns primarily come from appreciation. When
+ seeking appreciation, you can look for one or more of the following:
+
+ 1 increases in an asset's intrinsic value (earnings or asset values),
+ 2 movement of the asset's price from a discount toward its intrinsic value (that is,
+ from undervaluation to fair value), and/or
+ 3 movement of the price from intrinsic value toward a premium (that is, from fair
+ value to overvaluation).
+
+ In my opinion, superior returns come most dependably from buying things for less
+ than they're worth and benefiting from the movement of price from discount to fair
+ value. Making money this way doesn't require increases in intrinsic value, which
+ are uncertain, or the attainment of prices above intrinsic value, which is irrational.
+
+ The attractiveness of buying something for less than it's worth makes eminent sense.
+ However, doing so requires cooperation from someone who's willing to sell it for less
+ than it's worth. It's the SEC's goal to make sure that everyone has the same corporate
+ information. So how is one to find bargains in efficient markets? You must bring
+ exceptional analytical ability, insight or foresight. But because it's exceptional, few
+ people have it. Once in a while someone will find an undervalued stock or guess right
+ about the direction of the market, but very few people are able to do those things
+ consistently over time.
+
+ So What's To Do?
+
+ You can try harder, but everyone's already trying their hardest. Or you can ratchet up the
+ risk level of your portfolio - counting on the long-run relationship between risk and
+ return - but once in a while that'll get you killed. Or you can look for inefficient markets.
+
+ In inefficient markets, not everyone has the same access to information. I feel bargains
+ are found most consistently among the things that are not widely known, not understood,
+ or considered to be risky, complex, unfashionable, controversial, or unseemly. When you
+ combine unequal access to information, uneven ability to analyze that information, and
+ the effects of negative biases, it's possible for things to sell for less than they're worth. In
+ inefficient markets, it's possible for a superior investor to consistently identify those
+ bargains, and thus to beat the other players consistently. It's also possible to achieve risk-
+ adjusted returns above those available in other market niches. All it takes is hard work
+ and superior skill.
+
+ However, it makes sense to assume that since the greatest reward for active management
+ is found in the inefficient markets (along with incentive fees for the successful managers),
+ that's also where sharp-eyed specialists will focus their efforts. (Think of card counting in
+ blackjack versus betting on the spin of a roulette wheel; where do you think you'll find the
+ Ph.D.s?)
+
+ In addition, it must be borne in mind that few sectors remain so inefficient that they can
+ be counted on to provide a free lunch for long. Over the years, many strategies have been
+ thought to represent a sure thing, but most fizzled out. Computer software stocks, the
+ nifty-fifty, oil stocks, emerging markets, and most recently tech-media-telecom - all of
+ these groups have in turn been deified and decimated. Likewise, a number of investment
+ techniques have had their day in the sun and then been eclipsed: covered call writing,
+ portfolio insurance and "market neutral" funds are just a few. Nothing can be relied on
+ for high risk-adjusted returns just because of what it's called. No investment area
+ has that birthright. It's all a matter of the ability to identify bargain-priced
+ opportunities and implement with skill.
+
+ The bottom line might be that inefficient markets can be the source of superior returns
+ and can be less heavily populated, but the players there are, on average, more competent.
+ Because returns in inefficient markets are more dependent on investors' individual skill
+ (which is highly variable) than they are on the market's overall return, there'll be a greater
+ dispersion of results there. And that means lesser investors should be expected to
+ underperform greater investors by a wide margin.
+
+ Sources of Return for Active Managers
+
+ The best way to look at portfolio return (y) is as follows:
+
+ y = α + βx
+
+ In this simple equation, α is the symbol for alpha, β represents beta, and x is the return of
+ the market. Alpha is best thought of as a portfolio manager's differential skill or value
+ added. It is the ability to generate performance unrelated to movement of the
+ market. Index funds don't aspire to alpha. They're managed by people who know they
+ don't have alpha (actually, most believe no one has any), and they simply strive to reflect
+ the market's movements - no better and no worse. Active managers manage actively
+ because they think they have alpha. They charge for it, and they should be able to
+ demonstrate it. However, many without it seem to have gotten away with charging for it
+ over the years.
+
+ Beta is the extent to which a portfolio reflects the return of the market. A portfolio with a
+ beta of 1 and no alpha will move up and down exactly as does the market. A beta of 2
+ means it will move twice as fast in both directions. A beta of .5 means it'll move half as
+ fast. A beta of zero means a total lack of correlation - the much sought-after "market
+ neutral" fund, where all of the return comes from investor skill. A negative beta means an
+ inverse correlation (a short position on an index fund is the best example).
+
+ I believe the alpha/beta model is an excellent way to assess portfolios, portfolio
+ managers, investment strategies and asset allocation schemes. It's really an organized
+ way to think about the question, "how much of the return comes from what the
+ environment provides, and how much from the manager's value added?" When one
+ considers these things, some relevant inquiries are:
+
+ Where did the return come from in the past?
+ Where is the return expected to come from in the future?
+ How exposed is a given strategy (or my overall portfolio) to market movement or
+ dependence on claims of alpha? How much of my future return am I betting on the
+ direction of the market, and how much on manager skill?
+ What assumptions am I willing to make about the outlook for those two things?
+
+ A lot is written about the tyranny of benchmarks. Excessive benchmarking (and an
+ overemphasis on minimizing tracking error) can force managers to migrate toward
+ benchmark asset weightings in order to reduce their risk of negative performance
+ comparisons. Clearly, if a manager has real skill, this process can suppress it.
+
+ However, there are very valid roles for benchmarking. Perhaps the best is in helping to
+ attribute performance between market impact and the manager's value added. In fact, this
+ can't be done without reference to an effective benchmark.
+
+ It's obvious that this manager doesn't have any skill:
+
+ Period Benchmark Return Portfolio Return
+
+ But neither does this manager (he just moves half as much as the benchmark):
+
+ Period Benchmark Return Portfolio Return
+
+ Or this one (he moves twice as much):
+
+ Period Benchmark Return Portfolio Return
+
+ This one has a little:
+
+ Period Benchmark Return Portfolio Return
+
+ While this one has a lot:
+
+ Period Benchmark Return Portfolio Return
+
+ This one has a ton, if you can live with the volatility.
+
+ Period Benchmark Return Portfolio Return
+
+ Chasing Alpha
+
+ There are people who seem able to make money or beat the market year in and year out.
+ It's not certain, however, that they'll manage portfolios long enough to convince the
+ statisticians that alpha exists and that they have it. They might make so much money that
+ they'll stop managing portfolios for others, and thus their performance will cease to be
+ public. Or they might not live long enough for their records to attain statistical
+ significance. (At the University of Chicago they told me it takes 64 years to be sure
+ someone is good rather than lucky; more on this later.) But I know managers, including
+ those I work with every day, who I'm convinced can add to return without adding
+ commensurately to risk - and in fact while reducing risk.
+
+ How do these "alpha managers" do it? As I described in "The Realist's Creed," the alpha
+ managers I know come from the "I don't know" school. They don't expect to know more
+ than others about the future direction of economies and markets, and thus they eschew
+ market timing and other forms of macro decision-making. They just try to gain an edge
+ by knowing more than others do about micro matters. As contrarians, they prefer to buy
+ things that are out of favor. They invest defensively, thinking more about what they don't
+ know than about what they do, and worrying more about losing money than about
+ missing winners. They build their records on high batting averages and the absence of
+ losers, rather than on occasional homeruns within a hit-or-miss pattern of returns.
+
+ Most of them are hard working and driven. They take their jobs very seriously and think
+ about their portfolios night and day. They tend to talk investments with each other, not
+ football or movies. Many are "early adapters" who use technology to access diverse
+ information sources in order to gain a knowledge advantage. They look for hard asset
+ values or under-appreciated situations. They buy with confidence in their analysis, and if
+ the price of the asset falls, they tend to like it more - and buy rather than sell. Most
+ important is that intangible something - they just "get it" better than others.
+
+ While going over this list of the characteristics I'd look for in a manager, I want to take a
+ moment for an essential caveat. One thing these criteria guarantee is that there'll be times
+ when investors from the "I don't know" school will look terrible. In times of euphoria,
+ qualities like emphasis on value, contrarianism, skepticism and defensiveness are
+ guaranteed to produce performance that sorely lags the hot sectors and the risk takers.
+ This was amply demonstrated in 1998-99, when the best managers I know watched from
+ the sidelines as others got rich . . . temporarily. People who employ alpha managers
+ might feel pangs of regret over what they pass up in boom times, but they should know
+ the route to performance they've chosen is far more reliable.
+
+ Clearly, managers with alpha, once identified, can be depended on to a much greater
+ extent than those whose returns are generated primarily by market movements. Having
+ said that, however, I don't want to appear to underestimate the difficulty of finding
+ managers with alpha. I've been on the receiving end of many presentations from
+ managers pursuing foundation business, and I can certify that it's not easy to distinguish
+
+ those who sound good and are from those who sound good but aren't. (People who don't
+ sound good usually aren't allowed out to make presentations.)
+
+ Certainly the search for alpha managers is a tough one. Not only is it hard to know which
+ managers have it, but:
+
+ The search for them will be littered with mistakes and losses.
+ Good managers are likely to close their funds before their limits are exceeded.
+ Managers talented enough to exploit inefficiencies will be able to appropriate a fair
+ bit of the excess return for themselves in the form of fees.
+ The limited size of inefficient markets and the limited capacity of the managers
+ probably mean very large investment pools can't expect to invest enough with alpha
+ managers to greatly affect their results. And their attempts to pump in large amounts
+ of capital can ruin the opportunity for everyone.
+
+ There certainly are stumbling blocks in the search for alpha managers, but it's worth
+ trying. If you aren't satisfied with doing average in efficient markets, what else is there?
+ Invest with managers who claim they know what the future holds and can otherwise out-
+ invest everyone else in the same mainstream stocks? I doubt that's the way. To
+ paraphrase Professor James Lorie of the University of Chicago (circa 1970), I'd rather
+ "index the core of a portfolio and manage the heck out of the periphery" - hopefully with
+ help from managers with alpha.
+
+ The Role of Luck
+
+ To end this memo on returns, I want to spend a few pages discussing the part played by
+ randomness (or luck or chance). A new book on this subject is being passed around the
+ alpha manager world more than Playboy was passed around when I was in the ninth
+ grade. It's "Fooled By Randomness" by Nassim Taleb, a Ph. D. hedge fund manager and
+ self-described aesthete.
+
+ My "Realist's Creed" list of required ingredients for intelligent investing started with
+ membership in the "I don't know" school; progressed through contrarianism, humility and
+ skepticism; and ended with awareness of prevailing investor psychology. Taleb's book
+ reminded me of one other essential: being conscious of the role of luck.
+
+ This book can be difficult to read. Here are just two examples:
+
+ Popper believed that any idea of Utopia is necessarily closed in the fact that it
+ chokes its own refutations.
+
+ . . . to be technical, these "randomizations" are frequently done during
+ optimization problems, when one needs to perturbate a function.
+
+ Nevertheless, I found its contents profound. In "Investment Miscellany" I discussed an
+ article by Richard Bookstaber of Moore Capital and stated that, "What smart people do is
+ put into logical words the thoughts we may have had but never formulated or expressed."
+ Taleb is such an individual. As I did with Bookstaber's article, I will attempt below to
+ communicate and explain some of his salient points, supported by excerpts from the
+ book.
+
+ Randomness (or luck) plays a huge part in life's results, and outcomes that hinge on
+ random events should be viewed as different from those that do not.
+
+ Thus, when considering whether an investment record is likely to be repeated, it is
+ essential to think about the role of randomness in the manager's results, and whether
+ the performance resulted from skill or simply being lucky.
+
+ $10 million earned through Russian roulette does not have the same value as $10
+ million earned through the diligent and artful practice of dentistry. They are the
+ same, can buy the same goods, except that one's dependence on randomness is
+ greater than the other. To your accountant, though, they would be identical. . . .
+ Yet, deep down, I cannot help but consider them as qualitatively different. (p. 28)
+
+ Every record should be considered in light of the other outcomes - Taleb calls them
+ "alternative histories" - that could have occurred just as easily as the "visible
+ histories" that did.
+
+ Clearly my way of judging matters is probabilistic in nature; it relies on the notion
+ of what could have probably happened. (p.29)
+
+ If we have heard of [history's great generals and inventors], it is simply because
+ they took considerable risks, along with thousands of others, and happened to win.
+ They were intelligent, courageous, noble (at times), had the highest possible
+ obtainable culture in their day - but so did thousands of others who live in the
+ musty footnotes of history. (p. 35)
+
+ Think about the aggressive backgammon player who can't win without a roll of double
+ sixes. He accepts the cube - doubling the stakes - and then gets his "boxcars." It might
+ have been an unwise bet, with its one-in-36 chance of success, but because it succeeded,
+ everybody considers him brilliant. We should think about how probable it was that
+ something other than double sixes would materialize, and thus how lucky the player was
+ to have won. This says a lot about his likelihood of winning again.
+
+ As my friend Bruce Newberg says over our backgammon games, "there are probabilities,
+ and then there are outcomes." The fact that something's improbable doesn't mean it
+ won't happen. And the fact that something happened doesn't mean it wasn't
+ improbable. (I can't stress this essential point enough.) Every once in a while,
+ someone makes a risky bet on an improbable or uncertain outcome and ends up
+
+ looking like a genius. But we should recognize that it happened because of luck and
+ boldness, not skill.
+
+ In the short run, a great deal of investment success can result from just being in the right
+ place at the right time. I always say the keys to profit are aggressiveness, timing and
+ skill, and if you have enough aggressiveness at the right time, you don't need that much
+ skill. My image is of a blindfolded dart thrower. He heaves it wildly just as someone
+ knocks over the target. His dart finds the bulls-eye and he's proclaimed the champ.
+
+ . . . at a given time in the markets, the most profitable traders are likely to be those
+ that are best fit to the latest cycle. This does not happen too often with dentists or
+ pianists - because of the nature of randomness. (p.74)
+
+ The easy way to see this is that in boom times, the highest returns often go to those who
+ take the most risk. That doesn't say anything about their being the best investors.
+
+ Warren Buffett's appendix to the fourth revised edition of "The Intelligent Investor"
+ describes a contest in which each of the 225 million Americans starts with $1 and flips a
+ coin once a day. The people who get it right on day one collect a dollar from those who
+ were wrong and go on to flip again on day two, and so forth. Ten days later, 220,000
+ people have called it right ten times in a row and won $1,000. "They may try to be
+ modest, but at cocktail parties they will occasionally admit to attractive members of the
+ opposite sex what their technique is, and what marvelous insights they bring to the field
+ of flipping." After another ten days, we're down to 215 survivors who've been right 20
+ times in a row and have won $1 million. They write books on "How I Turned a Dollar
+ into a Million in Twenty Days Working Thirty Seconds a Morning" and sell tickets to
+ seminars. Sound familiar?
+
+ Thus randomness contributes to (or wrecks) investment records to a degree that few
+ people appreciate fully. As a result, the dangers that lurk in thus-far-successful
+ strategies often are under-rated.
+
+ Reality is far more vicious than Russian roulette. First, it delivers the fatal bullet
+ rather infrequently, like a revolver that would have hundreds, even thousands of
+ chambers instead of six. After a few dozen tries, one forgets about the existence
+ of a bullet, under a numbing false sense of security. . . . Second, unlike a well-
+ defined precise game like Russian roulette, where the risks are visible to anyone
+ capable of multiplying and dividing by six, one does not observe the barrel of
+ reality. . . . One is thus capable of unwittingly playing Russian roulette - and
+ calling it by some alternative "low risk" name. (p. 28)
+
+ Perhaps a good way to sum up Taleb's views is by excerpting from a table found on page 3
+ of his book. He lists in the first column a number of things that easily can be mistaken for
+ the things in the second column.
+
+ Luck Skill
+
+ Randomness Determinism
+ Probability Certainty
+ Belief, conjecture Knowledge, certitude
+ Theory Reality
+ Anecdote, coincidence Causality, law
+ Survivorship bias Market outperformance
+ Lucky idiot Skilled investor
+
+ The table reminds me of a key difference between the "I know" and "I don't know"
+ schools. "I don't know" investors are acutely conscious of the things in the first column;
+ "I know" investors routinely mistake them for things in the second.
+
+ I think Taleb's dichotomization is sheer brilliance. We all know that when things go
+ right, luck looks like skill. Coincidence looks like causality. A "lucky idiot" looks
+ like a skilled investor. Of course, knowing that randomness can have this effect doesn't
+ make it easy to distinguish between lucky investors and skillful investors. But we must
+ keep trying.
+
+ I find that I agree with essentially all of Taleb's important points.
+
+ Investors are right (and wrong) all the time for the "wrong reason." Someone
+ buys a stock because he expects a certain development; it doesn't occur; the market
+ takes the stock up anyway; he looks good (and invariably accepts credit).
+
+ The correctness of a decision can't be judged from the outcome. Nevertheless,
+ that's how people assess them. A good decision is one that's optimal at the time it's
+ made, when the future is by definition unknown. Thus correct decisions are often
+ unsuccessful, and vice versa.
+
+ Randomness alone can produce just about any outcome in the short run. The
+ effect of random events is analogous to the contribution from beta discussed on page
+ six. In portfolios that are allowed to reflect them fully, market movements can easily
+ swamp the skillfulness of the manager (or lack thereof). But certainly market
+ movements cannot be credited to the manager (unless he's the rare timer who's
+ capable of getting it right repeatedly).
+
+ For these reasons, investors often receive credit they don't deserve. One good
+ coup can be enough to build a reputation, but clearly a coup can arise out of
+ randomness alone. Few of these "geniuses" are right more than once or twice in a
+ row.
+
+ Thus it's essential to have a large number of observations - lots of years of data -
+ before judging a given manager's ability.
+
+ * * *
+
+ The bottom line for me is as follows:
+
+ Equity returns should be expected to average in single digits at best for the next few
+ years. This is because dividends will be moderate and P/E ratio expansion can't be
+ counted on.
+ Most investors are unlikely to find this market return satisfactory, and thus they will
+ continue to try for more through active management. However, because of the great deal
+ of attention paid to them, most mainstream markets are efficient. This means very few
+ investors there will dependably achieve superior risk-adjusted returns or consistently beat
+ the other market participants.
+
+ To be able to earn better risk-adjusted returns and beat the market and the competition,
+ one had better look in less thoroughly explored, inefficient markets. Even there,
+ however, it's essential that one be, or employ, a superior manager possessing "alpha."
+
+ It's hard to separate good managers from not-so-good managers, and to do so it's
+ essential that we identify returns earned through genuine, repeatable skill, not just
+ good fortune. In that regard, records that have been rendered above average by
+ occasional flashes of greatness tell us much less than records that consistently have
+ been even modestly superior over long periods of time, and those that demonstrate a
+ dependable ability to avoid losses in tough markets.

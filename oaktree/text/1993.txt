@@ -1,0 +1,394 @@
+Memo: The Value of Predictions, or Where'd All This Rain Come From?.
+
+Anyone who has been my client for long has heard from me on many occasions with
+ negative comments about market forecasts. Now, I have decided to say at once all of the
+ bad things I can think of about predictions.
+
+ The Expected Value of a Forecast = Value of Correct Forecast x Probability of Being
+ U
+
+ Correct
+
+ The motivation for trying to guess the direction of stocks or bonds is easy to understand.
+ Observers have for years noted the wide price swings, calculated the value of a dollar
+ invested at the bottoms and disinvested at the tops and compared the result against the
+ value of a dollar invested under a "buy-and-hold" strategy. The difference is always
+ P P
+
+ temptingly large.
+
+ The problem, however, comes from the fact that none of the forecaster's attempts to
+ capture the swings have any value unless his or her predictions are right.
+
+ But It's Hard to be Right
+ U
+
+ I agree with John Kenneth Galbraith. He said "We have two classes of forecasters: Those
+ who don't know -- and those who don't know they don't know." If it was easy to predict the
+ future, it would be easier to attain excellent investment results -- then maybe everyone could
+ have above-average performance.
+
+ Being Right With Average Consistency Doesn't Help
+ U
+
+ Let's face it: most of us have roughly the same ability to predict the future. And the trouble
+ is that being right as often as the average forecaster won't produce superior results.
+
+ Every investor wants results which are above average. In the institutional world,
+ relative performance is the Holy Grail. Even elsewhere, the objective is to be the first
+ to see the future -- and take the appropriate route to profit. It obviously doesn't help in
+ these pursuits to be right only as often as others are.
+
+ An Average Forecast Doesn't Help Even If It's Correct
+ U
+
+ Being "right" doesn't lead to superior performance if the consensus forecast is also right.
+ For example, if the consensus forecast for real GNP growth is 5%, then stock prices will
+ come to reflect that expectation. If you then conclude that GNP will grow at 5% and your
+ expectation of rapid growth motivates you to buy stocks, the stocks you buy will be at prices
+ which already anticipate such growth. If actual GNP growth at 5% is subsequently
+ announced, stock prices probably will not jump -- because their reaction to 5% growth took
+ place when the consensus forecast was arrived at. Instead, the best guess is that you will
+ earn the normal risk-adjusted return for equities over your holding period. Bottom line:
+ correct forecasts do not necessarily translate into superior investment results.
+
+ U Above-Average Profits Come From Correctly Forecasting Extreme Events
+
+ At least twenty-five years ago, it was noted that stock price movements were highly
+ correlated with changes in earnings. So people concluded that accurate forecasts of earnings
+ were the key to making money in stocks.
+
+ It has since been realized, however, that it's not earnings changes that cause stock price
+ changes, but earnings changes which come as a surprise. Look in the newspaper. Some
+ days, a company announces a doubling of earnings and its stock price jumps. Other
+ earnings doublings don't even cause a ripple -- or they prompt a decline. The key question
+ is not "What was the change?" but rather "Was it anticipated?" Was the change accurately
+ predicted by the consensus and thus factored into the stock price? If so, the announcement
+ should cause little reaction. If not, the announcement should cause the stock price to rise if
+ the surprise is pleasant or fall if it is not.
+
+ This raises an important Catch 22. Everyone's forecasts are, on average, consensus
+ forecasts. If your prediction is consensus too, it won't produce above-average
+ performance even if it's right. Superior performance comes from accurate non-
+ U
+
+ consensus forecasts. But because most forecasters aren't terrible, the actual results
+ U
+
+ fall near the consensus most of the time -- and non-consensus forecasts are usually
+ wrong. The payoff table in terms of performance looks like this:
+
+ Forecast
+ Consensus Non-Consensus
+ Yes Average Above Average
+ Accurate?
+ No Average Below Average
+
+ The problem is that extraordinary performance comes only from correct non-
+ consensus forecasts, butnon-consensus forecasts are hard to make, hard to make
+ U
+
+ correctly and hard to act on . U
+
+ When interest rates stood at 8% in 1978, most people thought they'd stay there. The interest
+ rate bears predicted 9%, and the bulls predicted 7%. Most of the time, rates would have
+ been in that range, and no one would have made much money.
+
+ The big profits went to those who predicted 15% long bond yields. But where were those
+ people? Extreme predictions are rarely right, but they're the ones that make you big
+ money.
+
+ UMost Forecasts are Extrapolations
+
+ The fact is, most forecasters predict a future quite like the recent past. One reason is that
+ things generally continue as they have been; major changes don't occur very often. Another
+ is that most people don't do "zero-based" forecasting, but start with the current observation
+ or normal range and then add or subtract a bit as they think is appropriate. Lastly, real "sea
+ changes" are extremely difficult to foretell.
+
+ That's why some of the best-remembered forecasts are the ones that extrapolated current
+ conditions or trends but were wrong. Business Week may never live down "The Death of
+ Equities" and "The Death of Bonds." At the mid-1990 lows, the press suggested that no
+ one would ever buy a high yield bond again. In 1989, nobody thought the Cowboys would
+ ever win without Tom Landry, or that the Lakers or 49ers would ever lose. Six years ago,
+ the growth of both coasts' economies was considered assured, and the Rustbelt's suffering
+ was expected to continue forever. Only two years ago, George Bush was a shoe-in.
+
+ And that brings me to my subtitle: Where'd All This Rain Come From? The motivation for
+ this memo came as I considered the extraordinary amount of precipitation the West has
+ experienced this year -- and newspaper articles of a couple of months ago. According to
+ the articles, the rings on old trees suggested that fifty year droughts might be the norm and
+ the five year drought to date just the beginning.
+
+ No one predicted the drought before it began -- when such a forecast might have helped.
+ But just as it may have been about to end, the possibility of its long-term continuation was
+ unveiled.
+
+ Forecasters are Usually Most Wrong at the Extremes
+ U
+
+ It's at just such times --- such inflection points -- when accurate forecasts of change
+ would be the most valuable but are the hardest to make.
+
+ Take high yield bonds, for instance. In 1989 and 1990 they absorbed a continual beating as
+ a series of negative developments came together. There was the recession, the failure of a
+ number of the leveraged buyouts of the 1980s, enactment of excessively stringent
+ regulation and the collapse of Drexel Burnham, Columbia Savings and Executive Life. All
+ of this was tied together -- and accentuated -- by lots of overly negative publicity.
+
+ Each development was another drip of "Chinese water torture." Each one put an end
+ to some investor's ability to remain optimistic. And so each one eliminated a potential
+ buyer, created a seller and moved prices lower.
+
+ And after all, what is a market bottom? It's that moment when the last holder who will
+ become a seller actually does so -- and thus the moment when prices hit levels that will
+ prove to have been the lows. From that point on, with no one left to turn negative, a few
+ pieces of good news or the arrival of a few buyers with belief in values are enough to turn
+ a market.
+
+ So you can see that the crescendo of negativism, the lowest prices and the greatest
+ difficulty in predicting a rise all occur simultaneously. No wonder it's hard to profit
+ from forecasting.
+
+ U Extreme Forecasts are Hard to Believe and Act On
+
+ Let's say the average investor was approached in October 1990 by someone who had
+ enough imagination and courage (because that's what was needed) to make a positive case
+ for high yield bonds. Would the investor have believed and bought? Probably not.
+
+ Potentially-profitable non-consensus forecasts are very hard to believe and act on for the
+ simple reason that they are so far from conventional wisdom. If a forecast was totally
+ logical and easily accepted, then it would be the consensus forecast (and its profit potential
+ would be much less).
+
+ So if someone told you the U.S. auto makers' share of domestic market was going back to
+ 100% in five years, that would be a forecast with enormous implications for profit. But could
+ you possibly believe it? Could you act on it?
+
+ The more a prediction of the future differs from the present, (1) the more likely it is to
+ diverge from the consensus forecast, (2) the greater the profit would be if it's right, and
+ (3) the harder it will be to believe and act on it.
+
+U You Have to Be Right About Timing Too
+
+Not only must a profitable forecast have the event or direction right, but it must be
+correct as too timing as well.
+
+ Let's say you accepted the forecast that the Big Three would come to again own 100% of
+ the U.S. market, and you bought the stocks in response. What if a year later their share was
+ lower (and their stocks too)? Could you continue to hold out for the long term, or would
+ your resolve weaken? What if their shares (and stocks) were unchanged five years later?
+ Wouldn't you give up? And wouldn't that be just in time to see the prediction come true?
+
+ In poker, "scared money never wins." In investing, it's hard to hold fast to an improbable,
+ forecast is off base. As I was told years ago, "being too far ahead of your time is
+ indistinguishable from being wrong."
+
+ Incorrect Forecasts Can Cost You Money
+ U
+
+ As you know, we run our portfolios without reference to what we think the broad markets
+ will do. An observer might think such behavior exposes us unduly to the fluctuations of the
+ markets, and that to protect our clients we should actively go in and out of the markets
+ based on what we think will happen.
+
+ But remember, that will work only if our forecasts are right (and right more often than the
+ consensus is right). I would argue that because forecasting is uncertain, it's safer not to try.
+
+ For example, people hold equities because they find prospective long-term equity returns
+ attractive. The average annual return on equities from 1926 to 1987 was 9.44%. But if you
+ had gone to cash and missed the best 50 of those 744 months, you would have missed all of
+ the return. This tells me that attempts at market timing are a source of risk, not
+ protection.
+
+It would be nice in anticipation of subsequent performance to be able to vary the amount
+invested, but I think it's just too risky to try.
+
+It Costs Money to Make Forecasts
+U
+
+As suggested above, the best thing might just be to settle for average long-term
+performance in markets that are hard to predict.
+
+Efficient marketeers think stock market forecasts are about as good as coin tosses. If you're
+right half the time without bias, your forecasts won't help or hurt versus buy-and-hold. But
+
+ forecasts are implemented through transactions which cost money. If you're right half
+ the time and spend money to try, your performance will fall further below buy-and-
+ hold results the more trading you do.
+
+ Few People Revisit Their Forecasts
+ U
+
+ We always read "I think the stock market's going to go up." We never read "I think the
+ stock market's going to go up, (and 8 out of my last 30 predictions were right)" or "I
+ think the stock market's going to go up (and by the way I said the same thing last year
+ and was wrong)." Can you imagine deciding which baseball players to hire without
+ knowing their batting averages? When did you ever see a market forecaster's track
+ record?
+
+ Most Forecasts Don't Allow for Alternative Outcomes
+ U
+
+ I imagine that for most money managers, the process goes like this: "I predict the
+ economy will do A. If A happens, interest rates should do B. With interest rates of
+ B, the stock market should do C. Under that environment, the best performing sector
+ should be D, and stock E should rise the most." The portfolio expected to do best
+ under that scenario is then assembled.
+
+ But how likely is E anyway? Remember that E is conditioned on A, B, C and D.
+ Being right two-thirds of time would be a great accomplishment in the world of
+ forecasting. But if each of the five predictions has a 67% chance of being right, then
+ there is a 13% probability that all will be correct and the portfolio will perform as
+ expected.
+
+ And what if some other scenario unfolds? How will the portfolio do? How do the
+ forecaster/investors make allowances in their portfolios for the likelihood that their
+ predictions will prove incorrect?
+
+ Lastly, Ask Yourself "Why Me?"
+ U
+
+ By this I mean "if someone has made a potentially valuable forecast with a high
+ probability of being right, why is it being shared with you?"
+
+ Think how profitable a correct market forecast could be. With very little capital, a good
+ forecaster could make many times more in the futures market than in salary from an
+ employer. Okay, let's say he likes to work for other people -- than why does his
+ employer give his forecasts away rather than sell them? Maybe the thing to ask
+ yourself is whether you would write out a check to buy the forecast you're considering
+ acting on.
+
+ Groucho Marx said "I wouldn't join any club that would have me as a member."
+ Another formulation may be "I would never act on any forecast that someone would
+ share with me." I'm not saying that no one has above-average forecasting ability.
+ Rather, 'as one University of Chicago professor wrote in a paper years ago, such
+ forecasters are more likely to be sunning themselves in Saint Tropez than going around
+ entreating people to borrow their forecasts.
+
+ * * *
+
+ There is a bottom line for us on the subject of predictions regarding macro-scale
+ events and widely-followed markets about which information is rather evenly
+ disseminated (so-called efficient markets). In sum, we feel that:
+
+ most forecasters have average ability
+
+ consensus forecasts aren't helpful
+
+ correct non-consensus forecasts are potentially very profitable but are also hard
+ to make consistently and hard to bring yourself to act on
+
+ forecasts cost money to implement and can be a source of risk rather than
+ return
+
+ The implications for us are clear. We will continue to eschew portfolio management
+ based on forecasts of market trends, about which we think neither we nor anyone else
+ knows much.
+
+ Instead, we will continue to try to "know the knowable" -- that is, to work in markets
+ which are the subject of biases, in which non-economic motivations hold sway, and in
+ which it is possible to obtain an advantage through hard work and superior insight. We
+ little bit about everything.
+
+ Convertible securities, high yield bonds and distressed company debt are all markets in
+ which market inefficiencies give rise to unusual opportunities in terms of return and risk.
+ We will continue to exploit these opportunities in a manner which is risk-averse and
+ non-reliant on macro-forecasts.
+
+ . . . [predictions] ought to serve but for winter talks by the fireside.
+ Sir Francis Bacon
+
+ Random Thoughts on the Identification of Investment Opportunities
+ U
+
+ Howard S. Marks -- January 24, 1994
+
+ 1. No group or sector in the investment world enjoys as its birthright the
+ promise of consistent high returns.
+
+ There is no asset class that will do well simply because of what it is. An example
+ of this is real estate. People said, "You should buy real estate because it's a hedge
+ against inflation," and "You should buy real estate because they're not making any
+ more." But done at the wrong time, real estate investing didn't work.
+
+ 2. What matters most is not what you invest in, but when and at what price.
+
+ There is no such thing as a good or bad investment idea per se. For example, the
+ selection of good companies is certainly not enough to assure good results -- see
+ Xerox, Avon, Merck and the rest of the "nifty fifty" in 1974.
+
+ Any investment can be good or bad depending on when it's made and what price
+ is paid. It's been said that "any bond can be triple-A at a price."
+
+ There is no security that is so good that it can't be overpriced, or so bad that it
+ can't be underpriced.
+
+ 3. The discipline which is most important in investing is not accounting or
+ economics, but psychology.
+
+ The key is who likes the investment now and who doesn't. Future prices changes
+ will be determined by whether it comes to be liked by more people or fewer
+ people in the future.
+
+ Investing is a popularity contest, and the most dangerous thing is to buy
+ something at the peak of its popularity. At that point, all favorable facts and
+ opinions are already factored into its price, and no new buyers are left to emerge.
+
+ The safest and most potentially profitable thing is to buy something when no one
+ likes it. Given time its popularity, and thus its price, can only go one way: up.
+
+ Watch which asset classes they're holding conferences for and how many people
+ are attending. Sold-out conferences are a danger sign. You want to participate in
+ auctions where there are only one or two buyers, not hundreds or thousands.
+
+ You want to buy things either before they've been discovered or after there's been
+ a shake-out.
+
+ 4. The bottom line is that it is best to act as a contrarian.
+
+ An investment that "everyone" knows to be undervalued is an oxymoron. If
+ everyone knows it's undervalued, why haven't they bought it and driven up its
+ price? And if they have bought, how can the price still be low?
+
+ Yogi Berra said, "nobody goes to that restaurant; it's too popular." The equally
+ oxy-moronic investment version is "Everybody likes that security because it's so
+ cheap."
+
+ 5. Book the bet that no one else will.
+
+ If everyone likes the favorite in a football game and wants to bet on it, the point
+ spread will grow so wide that the team -- as good as it is -- is unlikely to be able to
+ cover the spread. Take the other side of the bet -- on the underdog.
+
+ Likewise, if everyone is too scared of junk bonds to buy them, it will become
+ possible for you to buy them at a yield spread which not only overcompensates for
+ the actual credit risk, but sets the stage for their being the best performing fixed
+ income sector in the world. That was the case in late 1990.
+
+ The bottom line is that one must try to be on the other side of the question from
+ everyone else. If everyone likes it, sell; if no one likes it, buy.
+
+ 6. As Warren Buffet said, "the less care with which others conduct their affairs,
+ the more care with which you should conduct yours." When others are
+ afraid, you needn't be; when others are unafraid, you'd better be.
+
+ It is usually said that the market runs on fear and greed. I feel at any given point
+ in time it runs on fear or greed.
+ U U
+
+ As 1991 began, everyone was petrified of high yield bonds. Only the very best
+ bonds could be issued, and thus buyers at that time didn't have to do any credit
+ analysis -- the market did it for them. Its collective fear caused high standards to
+ be imposed. But when investors are unafraid, they'll buy anything. Thus the
+ intelligent investor's workload is much increased.
+
+ 7. Gresham's Law says "bad money drives out good." When paper money
+ appeared, gold disappeared. It works in investing too: bad investors drive
+ out good.
+
+ When undemanding investors appear, they'll buy anything. Underwriting
+ standards fall, and it gets hard for demanding investors to find opportunities
+ offering the return and risk balance they require, so they're forced to the sidelines.
+
+ Demanding investors must be willing to be inactive at times.

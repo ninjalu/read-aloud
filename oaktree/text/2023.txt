@@ -1,0 +1,1891 @@
+Memo: Lessons from Silicon Valley Bank.
+
+This isn't going to be another history of the meltdown of Silicon Valley Bank. Dozens of those have
+appeared in my inbox over the past month, as I'm sure they have in yours. Thus, rather than merely
+recount the developments, I'm going to discuss their significance.
+My sense is that the significance of the failure of SVB (and Signature Bank) is less that it portends
+additional bank failures and more that it may amplify preexisting wariness among investors and lenders,
+leading to further credit tightening and additional pain across a range of industries and sectors.
+
+One-off or a Harbinger of Things to Come?
+
+A number of things about SVB made it somewhat of a special case - which means it probably won't turn
+out to be the first of many:
+
+ • The bank's business was heavily concentrated in a single sector - venture capital-backed startups
+ in tech and healthcare - and a single region - Northern California. Many regional banks'
+ businesses are similarly concentrated, but not usually in sectors and regions that are both highly
+ volatile.
+ • The boom in its sector and region caused SVB's business to grow very rapidly.
+ • In recent years, startups were a major destination for investors' cash, a good deal of which they
+ deposited at SVB. This caused SVB's deposits to triple, from $62 billion at the end of 2019 to
+ $189 billion at the end of 2021.
+ • For the same reason, many of SVB's clients had so much capital that they had little need to
+ borrow. As deposits piled up at SVB, there wasn't offsetting demand for loans. Few other banks
+ have customers with similar cash inflows and consequently so little need to borrow money.
+ • Because SVB had few traditional banking uses for the cash that piled up, it instead invested $91
+ billion in Treasury bonds and U.S. government agency mortgage-backed securities between 2020
+ and 2021. This brought SVB's investments to roughly half its total assets. (At the average bank,
+ that figure is about one-quarter.)
+ • Presumably to maximize yield - and thus the bank's earnings - in what was a low-return
+ environment, SVB bought securities with long-dated maturities. SVB designated these securities
+ as "hold to maturity" (HTM) assets, meaning they wouldn't be marked to market on the bank's
+ balance sheet since it had no intention of selling them.
+ • When the Federal Reserve embarked on its program of interest rate increases last year, bond
+ prices fell rapidly, and, of course, the longer the tenor of the bonds, the greater the decline in
+ value. In short order, the market value of SVB's bond holdings was down $21 billion.
+ • Word of the bank's losses caused depositors to start withdrawing their money. To meet the
+ withdrawals, SVB had to sell bonds. Consequently, the bonds could no longer be considered
+ HTM. Instead, they had to be categorized as "available for sale" (AFS), meaning (a) the bonds
+ were marked down on SVB's financial statements and (b) actual sales caused the losses to be
+ crystalized.
+
+ • The recognized losses helped hasten the spread of negative rumors throughout the tight-knit
+ venture capital community, which led to further withdrawals. An unusually large percentage of
+ SVB's deposits - 94% - exceeded $250,000 and thus weren't fully insured by the FDIC. This
+ meant they were more "institutional" than "retail." Additionally, SVB's customers were highly
+ interconnected: They had many backers in common, lived and worked near each other, and could
+ exchange information almost instantaneously through social media.
+
+The sum of the above rendered SVB particularly vulnerable to a bank run if adverse circumstances
+developed - and they did. However, many of the above factors were peculiar to SVB. Thus, I don't think
+SVB's failure suggests problems are widespread in the U.S. banking system.
+
+What Did SVB Have in Common with Other Banks?
+
+I talked above about some things that distinguished SVB from other banks. But it's as important to
+consider the elements they shared:
+
+ • Asset/liability mismatch - Financial mismatches are dangerous, and banks are built on them.
+ Deposits are banks' primary source of funds, and while some have longer terms, most can be
+ withdrawn on any day, without prior notice. On the other hand, making loans represents banks'
+ main use of funds, and most loans have lives ranging from one year (commercial loans) up to 10-
+ 30 years (mortgages). So, while most depositors can demand their money back at any time, (a)
+ no banks keep enough cash on hand to pay back all their depositors, (b) their main assets don't
+ pay down in a short timeframe, and (c) if they need cash, it can take them a long time to sell loans
+ - especially if they want a price close to par. Maintaining solvency requires bank managements
+ to be aware of the riskiness of the assets they acquire, among other things. But liquidity is a more
+ transient quality. By definition, no bank can have enough liquidity to meet its needs if
+ enough depositors ask for their money all at once. Managing these issues is a serious task,
+ since it's a bank's job to borrow short (from its depositors) and lend long.
+
+ This mismatch, like most other mismatches, is encouraged by the upward slope of the typical
+ yield curve. If you want to borrow, you'll find the lowest interest rates at the "short end" of the
+ curve. Thus, you minimize your costs by borrowing for a day or a month . . . but you expose
+ yourself to the risk of rising interest expense, since you haven't fixed your rate for long.
+ Similarly, if you want to lend (or invest in bonds), you maximize your interest income by lending
+ long . . . but that subjects you to the risk of capital losses if interest rates rise. If you follow
+ the yield curve's dictates, you'll always borrow short and lend long, exposing you to the
+ possibility of an SVB-type mismatch.
+
+ • High leverage - Banks operate with skinny returns on assets. They pay depositors (or the Fed) a
+ low rate of interest to borrow the funds they need to operate, and they lend or invest those funds
+ at slightly higher rates, earning a modest spread. But they literally make it up on volume. They
+ employ heavy leverage, meaning they can do a lot of business based on little equity capital,
+ thereby translating a low return on assets into a high return on equity. However, having a high
+ ratio of total assets to equity capital means a modest decline in asset prices can wipe out a bank's
+ equity, rendering it insolvent. There's no source of meltdown - in any sector - as potentially
+ toxic as the combination of high leverage and an asset/liability mismatch. Banks have them
+ both.
+
+ • Reliance on trust - Since depositors put money in banks in pursuit of safety and liquidity and, in
+ exchange, accept a low return, faith in banks' ability to meet withdrawals is obviously paramount.
+ Depositors ostensibly can get liquidity, safekeeping, and low interest from any bank - that is, one
+ bank's offering is essentially undifferentiated from those of others. Thus, most depositors are
+ perfectly willing to change banks if given the slightest reason, and there's no offsetting reason for
+ them to leave their money on deposit if a bank's safety is questioned.
+
+You may be familiar with one of my favorite sayings: "Never forget the six-foot-tall person who drowned
+crossing the stream that was five feet deep on average." Surviving on average is a useless concept; you
+have to be able to survive all the time, including - no, especially - in bad times. Borrowing short to
+invest long powerfully threatens that ability. Being highly levered is another reason why, metaphorically,
+tall people sometimes drown in streams that are shallow on average. And for financial institutions,
+customers' loss of confidence is a third.
+
+The bottom line is that banks are, essentially, highly levered fixed income investors. Any long-term,
+fixed-rate loans or bonds they own (which for most banks aren't a large percentage of total assets) are
+subject to declines in economic value in a rising-interest-rate environment. Banks don't have to recognize
+price declines on assets they intend to hold to maturity, but any bank that is forced to sell those assets to
+meet withdrawals would have to show the declines on its financial statements.
+
+Looked at this way, retaining depositors' trust is an absolutely essential ingredient in a bank's activities,
+and that means assets, liabilities, liquidity, and capital have to be skillfully managed. In SVB's case, its
+equity went up in smoke when rising interest rates reduced the value of a good part of its assets.
+
+In that vein, I'm going to share a personal anecdote. When our son, Andrew, went off to college in 2005,
+Nancy and I concluded it would be great to live outside the United States for a while, something neither
+of us had ever done. We chose to live in the UK for four months of the year, during which I worked in
+Oaktree's London office. To generate income to cover our living expenses, we moved cash to a UK bank
+and asked that it be deposited in CDs at several building societies (what we in the U.S. call savings &
+loans). One of those was Northern Rock. In September 2007, as the financial crisis was brewing,
+Northern Rock had trouble securing the financing it needed in the wholesale funding market on which it
+traditionally had depended. That prompted depositors to queue up to close their accounts.
+
+I called my banker on a Friday afternoon to ask whether I could move my funds elsewhere, and he told
+me there would be a 2% penalty for early withdrawal. It took me about one second to say, "please move
+those funds first thing Monday morning." A 2% penalty sounded like peanuts relative to risking my
+entire principal at Northern Rock. Now imagine the thinking of SVB depositors who could withdraw
+their money without any penalty. (As it happens, the UK government guaranteed Northern Rock's
+deposits over the weekend in question, eliminating the need to move the funds. But that was my closest
+brush with a bank failure.)
+
+Another new trend that has added to banks' precariousness is the emergence of digital communications,
+including social media. Sixteen years ago, it took days for Northern Rock's depositors to become aware
+of its difficulties. And when they decided to move their money, they had to go to their branch during
+banking hours (what a quaint notion), queue up, and submit a withdrawal request. In SVB's case, word
+of the bond losses traveled quickly, through unusually interconnected depositors who had the ability to
+request withdrawals online. As a result, more than one-third of the bank's deposits departed in a single
+day. All banks have to contend with digital communication and online withdrawals these days, but
+SVB's depositors were particularly high flight risks, given the bank's region and the nature of its
+clientele.
+
+About twenty years ago, my partner Sheldon Stone shared an interesting parable: Imagine you're on a
+boat crossing Lake Erie. The captain comes on the loudspeaker and says, "Everyone run to the left side
+of the boat." A minute later he says, "Everyone run to the right side." And a minute after that he says,
+"Run back to the left." It would make for an unusually rocky crossing. Today the internet and social
+media are the loudspeaker, which almost anyone can take over, disseminating any message they choose.
+This "digital herding," as Gillian Tett of The Financial Times has labeled it, can have a huge impact in
+many fields, particularly those that run on information and trust.
+
+Was SVB's Collapse Inevitable?
+
+To close the loop, I'm going to recap the interrelated factors that caused SVB to fail:
+
+ • If the bank had made more loans relative to the size of its deposit base, it wouldn't have bought as
+ many potentially volatile bonds.
+ • If the bonds the bank bought hadn't had such long maturities, it wouldn't have been as exposed to
+ price declines.
+ • If the Fed hadn't raised interest rates as much as it did, the bonds wouldn't have lost so much
+ value.
+ • If the depositors hadn't exited en masse, the bank wouldn't have had to sell bonds and realize the
+ losses.
+
+You wouldn't think a portfolio consisting of bank loans and high-quality Treasury and mortgage-backed
+bonds could be vulnerable to a meltdown that would render a bank insolvent. But the scale of SVB's
+bond investments, the length of the maturities, and the extent of the Fed's interest rate hikes put SVB at
+risk, and the rapidity of the withdrawals caused the problem to run far ahead of the solutions.
+
+When looking at SVB's demise, the decision-making behind its bond purchases stands out as particularly
+flawed and probably the primary cause of the bank's failure. According to public reports, SVB
+management "made a bet" that interest rates would hold steady or fall. While that expectation is implicit
+in its actions, I find it hard to believe it was a conscious, considered decision, as opposed to an example of
+mindlessly chasing yield, perhaps abetted by wishful thinking. The bond purchases took place in 2020
+and 2021. In that two-year period, the yield on the 30-year Treasury ranged between 0.99% and 2.45%.
+How could anyone have thought rates that low were more likely to hold steady or fall than rise?
+Determining how to move forward is always challenging in economics and investing. However, when the
+Fed and Treasury flooded the economy with cash in 2020 and inflation began to rise in 2021, the one
+thing that should have been obvious was that there was no good reason to hold long-dated bonds at
+pitifully low yields, which presented profound risk and miniscule potential for return.
+
+Comparisons to the GFC
+
+SVB's failure - along with the collapse of Signature Bank, the rescue of First Republic Bank, and Credit
+Suisse's forced sale to UBS - roiled markets in March. This resulted from fear of bank failure contagion
+along the lines of what we saw during the Global Financial Crisis of 2007-08, when Bear Stearns, Merrill
+Lynch, Lehman Brothers, Wachovia Bank, Washington Mutual, and AIG either melted down or required
+rescues. There were times in that span, particularly in the last four months of 2008, when investors were
+forced to contemplate the possibility of an unstoppable series of failures that could have endangered the
+entire financial system. Nobody wants to face that again.
+
+While I want to state clearly that I'm not an expert on banks or their regulation, I think the
+similarities between 2008 and 2023 are limited to the mere fact that, in both instances, problems
+existed at a few financial institutions. I find the common elements mostly superficial. What follows
+are the differences.
+
+By far most importantly, the GFC occurred for the simple reason that investors and financial institutions
+experienced temporary insanity with respect to residential mortgages. They:
+
+ • accepted unquestioningly that mortgages' low-default history could be extrapolated;
+ • forced massive amounts of money into the mortgage market;
+ • loaned lots of it to subprime borrowers who couldn't or wouldn't document income or assets;
+ • built tranched and levered mortgage-backed securities using subprime mortgages; and
+ • in many cases, invested their own capital in the riskiest tranches of the RMBS to enable the
+ formation process to be repeated.
+
+These parties ignored the possibility that excessive faith in mortgages - and the resultant lowering of
+lending standards - could precipitate massive numbers of mortgage defaults. Further, they ignored the
+fragility of the structured securities built out of those mortgages. Investors, bankers, and rating agencies
+(which awarded AAA ratings to thousands of RMBS issues) naively trusted that people who were willing
+to pay extra interest to obtain mortgages without disclosing their financial condition would repay those
+mortgages, even if the prices of the homes they bought fell. This led them to conclude that mortgage
+defaults wouldn't be sufficient to jeopardize the mortgage-backed securities' viability. Subprime
+mortgages were totally lacking in substance, yet many of the world's leading financial institutions were
+happy to make those loans and invest in securities built out of them.
+
+Looking at the current situation, I can't think of anything that's highly analogous to the subprime
+mortgages at the heart of the GFC. There are things here or there that have been over-hyped or are
+short on substance - some people will point to SPACs or cryptocurrencies - but they're not as massive in
+scale, perhaps not as lacking in substance, and certainly not held on the balance sheets of America's key
+financial institutions in amounts sufficient to endanger our financial system. Indeed, I think it's safe to
+say the most glaring market excesses were corrected in 2022 and aren't hanging over us now.
+(However, for a caveat, please see this memo's last few paragraphs.)
+
+In addition, whereas the list of institutions that disappeared during the GFC included some that clearly
+were systemically important, I don't think that can be said of SVB. I doubt our financial system was
+highly reliant on promises made by SVB and thus subject to extensive counterparty risk. The GFC
+affected some truly large banks - household names - and most people believed it was on the way to
+jeopardizing even bigger ones before the government stepped in. There's no reason to think the failure of
+SVB poses the same risk.
+
+Finally, it should be borne in mind that even though huge banks appeared to be endangered in 2008, the
+Fed and other economic policymakers were able to come up with rescue plans (for the institutions
+and for the economy), and they worked! In that vein, it's worth noting that the Fed's response to SVB's
+problems included (a) guaranteeing all SVB deposits, (b) making additional liquidity available to banks,
+(c) injecting extensive liquidity into the economy, and (d) letting its balance sheet grow, even though it's
+been in the process of winding it down from its post-pandemic high. Thus, I find it hard to believe that
+SVB or the like can set off a chain reaction sufficient to trigger an irreversible financial crisis.
+
+On the subject of the problem's scale, I want to mention a new pet peeve of mine. Increasingly, we hear
+the media say things like, "this was the best month in the stock market since 2020" or "we saw more new
+
+daily lows today than on any day since October." The media like this kind of dramatic-sounding
+comparison, and the latest is that "SVB is the biggest bank to fail since the GFC." But these comparisons
+don't always mean much. In the case of SVB, it should be noted that, while this is the second-biggest
+bank failure in history, SVB was only two-thirds the size of Washington Mutual, the biggest. Further,
+since the financial sector has expanded meaningfully in the last 15 years, WaMu's $307 billion of assets
+in 2008 were much more significant than SVB's $209 billion today.
+
+A Word on Regulation
+
+In March 2011, in the aftermath of the GFC, I published a memo called On Regulation. Its basic thrust
+was that financial regulation is highly cyclical. Crashes, meltdowns, and widespread misbehavior bring
+on calls for increased regulation. They also make increased regulation palatable to most parties. But
+when the new regulations succeed - and thus appear to make the financial environment safer and better
+functioning - free marketeers and people with vested interests typically start to argue that such strong
+regulation is no longer necessary and that it restricts the financial system's effectiveness. For example, in
+response to the Great Crash of 1929, massive new regulations were enacted between 1930 and 1940 to
+constrain conduct in the wild, wild west of Wall Street. But by the 1990s, the pain of the Crash was long
+forgotten, and belief in the efficacy of the free market was riding high. As a result, multiple regulations
+were dismantled, enabling conduct that contributed to very painful experiences in the GFC.
+
+The GFC, in turn, inspired another round of regulation. One of the governing principles was that
+financial institutions that are too big to fail - and thus will, by necessity, be bailed out if threatened -
+shouldn't be permitted to engage in risky activities, as this creates a situation where "heads, the
+shareholders and management win; tails, the taxpayers lose." That proposition seems reasonable on its
+face and was implemented via the Dodd-Frank Act and its Volcker Rule. In general, bank regulation was
+significantly tightened.
+
+As time passed, the normal pushback against regulation emerged. The aspect that's most relevant here is
+the regulatory threshold. Following the GFC, all banks with assets above $50 billion were subject to the
+strictest standards. But in 2018, regulators were convinced to raise that figure to $250 billion (thanks in
+part to the lobbying of SVB's chief executive officer). As a result, SVB - with assets around $50 billion
+at the time the threshold was raised - faced a looser regulatory regime. This helped it expand massively -
+until it failed in a matter of days.
+
+Nevertheless, thanks to the post-GFC rules, the major U.S. banks today are well capitalized and have
+significant liquidity and healthy balance sheets. This makes it less likely that we'll see a GFC-type round
+of bank failures. I've heard it argued that current regulations and the resultant financial condition of
+banks aren't robust enough, but I believe most banks - and especially the majors - are much stronger than
+they were before and during the GFC and typically much stronger than SVB.
+
+Interestingly, Canada, Australia, and Britain function very well with far fewer banks than the U.S.
+Canada, for example, has $2 trillion of GDP and just 34 domestic banks (17 per $1 trillion of GDP), and it
+seems to get by. In contrast, in 2021, the U.S. had 4,236 FDIC-insured commercial banks for its $20
+trillion of GDP, or 212 banks per $1 trillion. Could regulators do a better job if there were fewer banks to
+monitor? We'll see what happens to the number of U.S. banks if big ones absorb smaller ones and
+deposits become concentrated in the bigger ones. But given the role of private parties and their money in
+our system of government, I don't expect to see a major change.
+
+Moral Hazard
+
+One problem with government solutions of any kind - like the so-called "Greenspan put" - is the
+possibility that they'll generate moral hazard. That is, players will conclude that they'll be rescued if they
+make a mistake. This suggests they can freely engage in high-risk, high-return behavior; if it works,
+they'll get rich, but if it fails, they'll be bailed out. People sometimes refer to this as "privatizing profits
+and socializing losses."
+
+On March 9, when SVB was hanging by a thread while experiencing massive withdrawals, people started
+talking about a possible government guarantee of all deposits. One of the arguments against such a
+bailout was that it would create moral hazard. If people know they'll be protected from losses, they'll
+have no reason to examine the solidity of a bank before depositing money, meaning the diligence function
+won't be performed. Consequently, poorly run, poorly capitalized banks will be permitted to stay in
+business and grow.
+
+But we simply cannot expect depositors to perform that function. Since banks' operations are
+characterized by mismatched assets/liabilities and a dependence on depositors' trust, it's terribly hard to
+assess their financial health from the outside (maybe sometimes from the inside, too, since SVB
+succumbed to what in retrospect seem to have been obvious managerial mistakes). In the 28 years that
+Oaktree has been in business, we've invested in relatively few deposit-taking financial institutions. Other
+than in cases where we've become insiders, we've generally avoided investing in banks because their
+complex, often impenetrable financial disclosures and reliance on trust make them harder to evaluate than
+we like.
+
+Few people are capable of studying banks' financial statements and determining whether they'll remain
+solvent and liquid. Expecting depositors to do so could cause banking to grind to a halt. That's why
+deposit insurance was introduced during the Great Depression. For the same reason, the government's
+decision to fully guarantee SVB's deposits was quite appropriate.
+
+Notably, however, management and shareholders weren't bailed out; rather, in today's parlance, they
+were "bailed in," or left with their losses. We can hope their losses will encourage other investors and
+bank managers to apply greater prudence in their future decision-making.
+
+While not at all related, SVB's failure gives me a chance to discuss another topic involving financial
+institutions that's recently been in the news: Additional Tier 1 bonds, or AT1s. On the heels of the GFC,
+European regulators required banks to raise new equity capital ("tier 1 capital") and delever. However,
+given the risks surrounding the banks, potential providers of capital demanded inducements. With AT1s,
+these came in the form of bond-like yields, a promise of repayment at maturity, and debtholder status. So
+far, so good.
+
+In UBS's recent takeover/rescue of Credit Suisse, FINMA, the Swiss bank regulator, determined that (a)
+shareholders would receive modest compensation and (b) the holders of the $17 billion of AT1s would
+get nothing. There was an immediate outcry, along with threats of litigation.
+
+Although AT1s are clothed as debt securities, it seems FINMA had the power to alter the AT1s' priority
+relative to the shareholders and even eliminate their value. In this case, they chose to put the AT1s
+behind the shareholders, wiping out investors who thought they were creditors. As Bloomberg noted on
+March 23, this shouldn't have come as a surprise:
+
+ A prospectus for the Credit Suisse AT1s highlights from the very first page the possibility
+ of a wipeout when there is what's known as a writedown event. In this scenario, interest
+ on the notes would stop accruing and the full outstanding amount of the bonds would be
+ automatically and permanently written down to zero. Finma has the power to decide that
+ a type of writedown event known as a "viability event" has occurred if a bank's efforts to
+ improve capital adequacy are "inadequate or unfeasible," or if there is "extraordinary
+ public support" to avoid a bankruptcy, insolvency or halt to regular business.
+
+Bloomberg's Matt Levine explained how this worked in Credit Suisse's case:
+
+ If the bank's common equity tier 1 capital ratio - a measure of its regulatory capital -
+ falls below 7%, then the AT1 is written down to zero: It never needs to be paid back; it
+ just goes away completely. . . .
+
+ These securities are, basically, a trick. To investors, they seem like bonds: They pay
+ interest, get paid back in five years, feel pretty safe. To regulators, they seem like equity:
+ If the bank runs into trouble, it can raise capital by zeroing the AT1s. If investors think
+ they are bonds and regulators think they are equity, somebody is wrong. The
+ investors are wrong.
+
+ In particular, investors seem to think that AT1s are senior to equity, and that the common
+ stock needs to go to zero before the AT1s suffer any losses. But this is not quite right.
+ You can tell because the whole point of the AT1s is that they go to zero if the
+ common equity tier 1 capital ratio falls below 7%. (Bloomberg Opinion; Money Stuff,
+ March 20, 2023. Bolding added.)
+
+Were the investors misled? To me, the answer is no. In this regard, let's consider the way the prospectus
+for one such Credit Suisse issuance - "a $2 billion US dollar 7.5% AT1 issued in 2018" - was labeled
+(per Matt Levine): "7.500 per cent. Perpetual Tier 1 Contingent Write-down Capital Notes." There
+shouldn't have been much doubt about their riskiness when "write-down capital notes" was in the title.
+
+I once wrote of Bernie Madoff that you can say you did thorough due diligence or you can say he passed
+the test, but you can't say you did thorough due diligence and he passed the test. Likewise, in the case of
+Credit Suisse's AT1s, you can say you read and understood the prospectus, or you can say you thought
+they were like ordinary debt securities, but you can't say both.
+
+Maybe there's a third path; maybe you could say "I knew the regulators had the power to zero me out, but
+I didn't think they ever would." It seems to me that if people can take value from you legally, and
+especially if doing so isn't unambiguously immoral, you shouldn't be surprised if they do. Holders
+of high yield bonds have for many years dealt with an analogous phenomenon called "event risk," which
+refers to actions undertaken by company management for the purpose of transferring value from
+bondholders to stockholders. In the case of Credit Suisse, the regulators likely gained the cooperation of
+shareholders by paying them a few francs per share while wiping out the AT1s. Under the circumstances,
+that shouldn't have come as a complete surprise. It's all part of protecting banks, which - as noted
+above - are risky by nature.
+
+Psychological Ramifications of the SVB Collapse
+
+As I previously mentioned, I don't view SVB, Signature Bank, First Republic, and Credit Suisse as
+having been connected other than by the fact that they were in the same general line of work. That did
+
+give them one thing in common: Since they're all financial institutions, events involving them can
+broadly impact depositors' and investors' confidence (or lack thereof). People seem to have trouble
+dealing with multiple problems at once, and the near-simultaneous challenges at four banks caused people
+to string them all together like beads, crafting a narrative that included a potential systemic meltdown.
+
+While they don't seem to me to be connected in tangible ways, the four banks' recent crises certainly had
+the power to shake things up. And when participants in the economy or market are shaken up, the
+implications can be serious. As President Franklin D. Roosevelt said in his 1933 inaugural address during
+the Great Depression, "the only thing we have to fear is fear itself." Things don't have to be connected
+physically or even economically. In the markets, a series of scary events can have a very powerful
+impact.
+
+The credit crises during which my partners and I have invested over the last 38 years generally have
+resulted from some combination of (a) negative economic developments, (b) excesses in the markets, (c)
+adverse exogenous events, and (d) rising fear among investors and finance industry professionals. The
+failures of SVB and the other banks likely aren't enough to bring on a credit crisis, but they could
+contribute to one. As a result, it seems inescapable that some financial institutions will reduce the amount
+of credit they make available, causing some borrowers to be left out. In particular, SVB's failure could
+mean the startup world will have a tougher time getting financing in the months ahead. Regional and
+community banks are likely to undergo increased scrutiny and experience deposit flight as cash flows to
+money market funds and larger banks perceived to be safer. Their importance as the main financers of
+real estate makes it likely that the going will get tougher for property owners and developers, just as
+office buildings, brick-and-mortar retail, and perhaps even multifamily are coming under pressure in
+many regions.
+
+Combine developments like these with the reality that (a) interest rates are no longer declining or near
+zero; (b) the Fed can't be as accommodative as it was in the last few crises, because of today's elevated
+inflation; and (c) negative developments are popping up in portfolios, and I think the case made in my
+previous memo, Sea Change (December 2022), has been bolstered. The easy-money environment of the
+last few years has been blamed for - among other things - the difficulties at SVB and its peers. Their
+failure is likely to bring stricter scrutiny to banking, meaning things are unlikely to be as easy in the
+period ahead. And to paraphrase Warren Buffett, now that the tide has gone out a bit, we've caught a
+glimpse of some who were swimming naked near shore. The remaining questions are, how many more
+are out there, and will the tide go out far enough to expose them?
+
+When investors think things are flawless, optimism rides high and good buys can be hard to find.
+But when psychology swings in the direction of hopelessness, it becomes reasonable to believe that
+bargain hunters and providers of capital will be holding the better cards and will have
+opportunities for better returns. We consider the meltdown of SVB an early step in that direction.
+
+ * * *
+
+While I don't foresee widespread contagion - either psychological or financial - arising from the
+SVB failure alone, I can't end a memo on U.S. banks without mentioning one of the biggest worries
+they face today: the possibility of problems stemming from loans against commercial real estate
+("CRE"), especially office buildings.
+
+The following factors are influencing the CRE sector today:
+
+ • Interest rates are up substantially. While some borrowers benefit from having fixed interest rates,
+ roughly 40% of all CRE mortgages will need to be refinanced by the end of 2025, and in the case
+ of fixed-rate loans, presumably at higher rates.
+ • Higher interest rates call for higher demanded capitalization rates (the ratio of a property's net
+ operating income to its price), which will cause most real estate prices to fall.
+ • The possibility of a recession bodes ill for rental rates and occupancy, and thus for landlords'
+ income.
+ • Credit is likely to be generally less available in the coming year or so.
+ • The concept of people occupying desks in office buildings five days a week is in question,
+ threatening landlords' underlying business model. While workers may spend more time in the
+ office in the future, no one knows what occupancy levels lenders will assume in their refinancing
+ calculations.
+
+Total U.S. bank assets exceed $23 trillion. Banks collectively are the biggest real estate lenders, and
+while we only have rough ranges for the data, they're estimated to hold about 40% of the $4.5 trillion of
+CRE mortgages outstanding, or around $1.8 trillion at face value. Based on these estimates, CRE loans
+represent approximately 8-9% of the average bank's assets, a percentage that is significant but not
+overwhelming. (Total exposure to CRE may be higher, however, as any investments in commercial
+mortgage-backed securities have to be considered in addition to banks' holdings of direct CRE loans.)
+
+However, CRE loans aren't spread evenly among banks: Some banks concentrate on parts of the country
+where real estate markets were "hotter" and thus could see bigger percentage declines; some loaned
+against lower-quality properties, which is where the biggest problems are likely to show up; some
+provided mortgages at higher loan-to-value ratios; and some have a higher percentage of their assets in
+CRE loans. To this latter point, a recent report from Bank of America indicates that average CRE loan
+exposure is just 4.5% of total assets at banks with more than $250 billion of assets, while it's 11.4% at
+banks with less than $250 billion of assets.
+
+Since banks are so highly levered, with collective equity capital of just $2.2 trillion (roughly 9% of total
+assets), the estimated amount the average bank has in CRE loans is equal to approximately 100% of its
+capital. Thus, losses on CRE mortgages in the average loan book could wipe out an equivalent
+percentage of the average bank's capital, leaving the bank undercapitalized. As the BofA report notes,
+the average large bank has 50% of its risk-based capital in CRE loans, while for smaller banks that figure
+
+Notable defaults on office building mortgages and other CRE loans are highly likely to occur. Some
+already have. But that doesn't necessarily mean the banks involved will suffer losses. If loans were made
+at reasonable LTV ratios, there could be enough owners' equity beneath each mortgage to absorb losses
+before the banks' loans are jeopardized. Further, mortgage defaults generally don't signal the end of the
+story, but rather the beginning of negotiations between lenders and landlords. In many cases, the result is
+likely to be extension of the loan on restructured terms.
+
+No one knows whether banks will suffer losses on their commercial real estate loans, or what the
+magnitude will be. But we're very likely to see mortgage defaults in the headlines, and at a
+minimum, this may spook lenders, throw sand into the gears of the financing and refinancing
+processes, and further contribute to a sense of heightened risk. Developments along these lines
+certainly have the potential to add to whatever additional distress materializes in the months ahead.
+
+
+Memo: Taking the Temperature.
+
+In preparation for my interview for "Lunch with the FT" last fall, I sent the reporter, Harriet Agnew, five
+memos I had written between 2000 and 2020 that contained market calls. How were they chosen? First, I
+felt the memos accurately conveyed my thinking at the key turning points in that 20-year period. And
+second, my calls turned out to be right.
+
+Five Calls
+
+I've written before about the time in 2017 when I was working on my book Mastering the Market Cycle
+and batting ideas back and forth with my son Andrew. I said, "You know, looking back, I think my
+market calls have been about right." His response was dead on target as usual: "Yeah, Dad, that's
+because you did it five times in 50 years." It struck me like an epiphany: He was 100% correct. In
+those five instances - around the publication of the respective memos - the markets were either crazily
+elevated or massively depressed, and as a result, I was able to recommend becoming more defensive or
+more aggressive with a good chance of being right. (Before I go further, let me make it clear that while
+hindsight shows that the logic behind those calls was correct, that doesn't mean I made them without
+great trepidation.)
+
+To illustrate how one might approach making market calls, I'm going to briefly summarize what led me
+to make those five calls. (I'm not going to go into detail, since the contemporaneous memos I cite in each
+section will supply more than enough for those who're interested.) As you read the description of each
+event, look closely at how the forces that contributed to - and resulted from - each episode led to the next
+one. You'll be able to appreciate why I've long stressed the role of causality in market cycles.
+
+In the fall of 1999, against the backdrop of the massive gains being achieved in tech, media, and telecom
+stocks, I read Edward Chancellor's excellent book Devil Take the Hindmost. I was struck by the
+similarities between the TMT boom and the historical bubbles that are the subject of that book. The lure
+of easy profits, the willingness to leave one's day job to cash in, the ability to invest blithely in money-
+losing companies whose business models one can't explain - all these felt like themes that had rhymed
+over the course of financial history, leading to bubbles and their painful bursting. And all of them were
+visible in investor behavior as 1999 came to an end.
+
+While I wasn't involved directly in equities and Oaktree's investments had little if any exposure to
+technology at the time, I observed many market narratives that I thought were too good to be true. Thus, I
+said so in the memo bubble.com, which was published as 2000 began. The memo described how tech
+investors were buying the stocks of young companies at astronomical prices set in many cases as a
+multiple of current revenues, as the companies often had no profits. In fact, many had no revenues, in
+which case the price was based on little more than a concept and hope. I define a bubble as an irrationally
+
+elevated opinion of an asset or sector, and the TMT craze of the late 1990s exemplified this definition.
+Thus, I wrote as follows:
+
+ In short, I find the evidence of an overheated, speculative market in technology, Internet
+ and telecommunications stocks overwhelming, as are the similarities to past manias. . . .
+
+ To say technology, Internet and telecommunications stocks are too high and about to
+ decline is comparable today to standing in front of a freight train. To say they have
+ benefited from a boom of colossal proportions and should be examined very skeptically
+ is something I feel I owe you.
+
+In my opinion, the TMT bubble burst in early 2000 for no reason other than that stock prices had become
+unsustainably high. The Standard & Poor's 500 Index fell by 46% from its 2000 high to the low in 2002,
+and the tech-heavy NASDAQ Composite declined by 80% during this period. Many tech stocks lost
+much more, and many young companies in fields such as e-commerce ended up becoming worthless.
+And the word "bubble" became part of everyday speech for a new generation of investors.
+
+The aftermath of the TMT bubble led to an environment in the mid-aughts that felt to me like a slow-
+developing trainwreck, with an emphasis on "slow-developing." I started complaining too soon . . . or
+maybe my timing was reasonable but the negative consequences just took longer to develop than they
+should have.
+
+In summary, the Federal Reserve was engaging in accommodative monetary policy - taking the fed funds
+rate to new lows - to battle the potential ramifications of the TMT bubble's bursting. Thus, in my
+memo Risk and Return Today from late 2004, I observed that (a) prospective returns on most asset
+classes were unusually low and (b) risk-seeking on the part of investors looking to improve on those
+low returns had led them to embrace higher-risk and "alternative" investments.
+
+I identified some of these alternatives in the memo There They Go Again (May 2005), spending most of
+my time discussing residential real estate, as that was where investors were embracing the most glaring
+fallacy: the belief that home prices only go up. I also discussed the tendency of investors to (a) ignore
+the lessons of past cycles, (b) fall for new developments, and (c) pile into risky investments, guided by
+time-honored platitudes such as "it's different this time," "higher risk means higher returns," or "if it
+stops working, I'll just get out." Many of these logical errors were being committed by investors in the
+housing market.
+
+The driving force behind Oaktree's behavior in that period wasn't any of the above. Rather, it was the
+fact that my Oaktree co-founder Bruce Karsh and I were spending much of each day trudging to each
+other's offices to complain about the crazy deals - characterized by low returns, high risk for investors,
+and a lot of optionality for issuers - that were easily being brought to market. "If deals like this can get
+done," we agreed, "there's something wrong with the market." Few people, we thought, were
+demonstrating prudence, discipline, value consciousness, or the ability to resist the fear of missing out.
+Investors are supposed to act as disciplinarians, preventing undeserving securities from being issued, but
+in those days, they weren't performing that function. This signaled a worrisome state of affairs.
+
+These observations - along with an awareness of the generally high prices and low prospective returns
+that prevailed at the time - convinced us to dramatically increase our usual emphasis on defensiveness. In
+
+response, we sold off large amounts of assets, liquidated large funds, organized small funds (or none at all
+in certain strategies), and significantly raised the bar against which potential new investments would be
+evaluated.
+
+In July 2007, I published the memo It's All Good, in which I was more emphatic (and had better
+timing):
+ Where do we stand in the cycle? In my opinion, there's little mystery. I see low levels of
+ skepticism, fear and risk aversion. Most people are willing to undertake risky
+ investments, often because the promised returns from traditional, safe investments seem
+ so meager. This is true even though the lack of interest in safe investments and the
+ acceptance of risky investments have rendered the slope of the risk/return line quite flat.
+ Risk premiums are generally the skimpiest I've ever seen, but few people are responding
+ by refusing to accept incremental risk. . . .
+
+Eight months after I wrote It's All Good, Bear Stearns melted down under the weight of funds that had
+invested in subprime mortgages. Then, in mid-September we saw - in rapid succession - the rescue of
+Merrill Lynch by Bank of America, the bankruptcy of Lehman Brothers, and the bailout of AIG. The
+S&P 500 Index fell to a low of 735 in February 2009, down 53% from its high of 1,549 reached in 2007
+(and down 39% from its level around the time I put out the way-too-early Risk and Return Today).
+
+Importantly, Oaktree had essentially no involvement with subprime mortgages or mortgage-backed
+securities. Moreover, those assets were traded in a relatively remote corner of the investment world, and
+we had little appreciation for what was taking place there. In other words, our cautious conclusions
+weren't reached on the basis of subject-matter expertise but rather on an unusually good example
+of what I call "taking the temperature of the market" (see pages 9-10).
+
+The world seemed relatively tranquil as September 2008 began, but then Lehman Brothers' bankruptcy
+filing, mentioned above, took place mid-month. The markets promptly fell apart, based on an apocalyptic
+view that Lehman's failure was part of a logical progression that had started when Bear Stearns ceased to
+exist as an independent entity and could eventually lead to a meltdown of the worldwide financial system.
+Complacency gave way to panic, and the Global Financial Crisis - in capital letters - was upon us.
+
+Anticipating that the reckless behavior we were witnessing (see the previous section) would ultimately
+create significant buying opportunities for our distressed debt strategy, Oaktree organized an $11 billion
+"reserve fund" for distressed debt between January 2007 and March 2008. The fund was created to give
+us capital to invest if things reached crisis proportions, which by mid-2008, they had not. Because its
+predecessor fund had only just become fully invested, we started to slowly invest the reserve fund prior to
+Lehman's bankruptcy. In the market panic that followed Lehman's collapse, our first job was to figure
+out how best to proceed. Should we continue to invest the fund's capital or hold it in reserve? Or should
+we step on the gas? Was this the bottom? How could we determine what lay ahead? There was no
+history of financial sector meltdowns to rely on and no informed way to approach these questions given
+the uniqueness of the circumstances and the many unknowns. With the future unknowable, we applied
+the only analytical framework we could think of (simplistic though it was):
+
+ I think the outlook has to be viewed as binary: will the world end or won't it? If you
+ can't say yes, you have to say no and act accordingly. In particular, saying it will end
+ would lead to inaction, while saying it's not going to will permit us to do the things that
+ always have worked in the past.
+
+ We will invest on the assumption that it will go on, that companies will make money, that
+ they'll have value, and that buying claims on them at low prices will work in the long
+ run. What alternative is there? . . .
+
+ No one seems able to imagine how the current vicious circle will be interrupted. But I
+ think we must assume it will be.
+
+ It must be noted that, just like two years ago, people are accepting as true something that
+ has never held true before. Then, it was the proposition that massively levered balance
+ sheets had been rendered safe by the miracle of financial engineering. Today, it's the
+ non-viability of the essential financial sector and its greatest institutions. . . . (Nobody
+ Knows, September 19, 2008)
+
+The above reasoning led us to conclude that if we invested and the financial world melted down, it
+wouldn't matter what we had done. But if we didn't invest and it didn't melt down, we wouldn't
+have done our job. So, we made the unsupportable assumption that the financial world would continue
+to exist and concluded that this meant we should invest aggressively. Bruce Karsh's team plunged in,
+investing an average of $400 million a week from September 18, 2008 through year-end - a total of $6
+billion in, essentially, a single quarter. Purchases by the rest of Oaktree brought the total invested over
+that period to $7.5 billion.
+
+We ran into very few people outside Oaktree who were putting money to work or willing to grant that we
+might be doing the right thing. I told a reporter friend we were buying, and he said - incredulously -
+"You are!?!"
+
+Around the same time, I met with the CIO of a client institution as part of our efforts to raise equity to
+delever a fund that was perilously close to receiving a margin call, and although I had good responses to
+all the increasingly negative scenarios she posited, we never got to a point where she would grant
+that "it can't be that bad." This demonstration of unbridled pessimism - which appeared to be
+widespread at the time - convinced me that little optimism was embodied in the prices of the assets we
+were buying and thus that there was little chance of losing money. Here's how I put it in a memo I wrote
+that day:
+
+ Skepticism and pessimism aren't synonymous. Skepticism calls for pessimism when
+ optimism is excessive. But it also calls for optimism when pessimism is excessive. . . .
+
+ In the third stage of a bear market . . . everyone agrees things can only get worse. The
+ risk in that - in terms of opportunity costs, or forgone profits - is equally clear. There's
+ no doubt in my mind that the bear market reached the third stage last week. That
+ doesn't mean it can't decline further, or that a bull market's about to start. But it
+ does mean the negatives are on the table, optimism is thoroughly lacking, and the
+ greater long-term risk probably lies in not investing.
+
+ The excesses, mistakes and foolishness of the 2003-2007 upward leg of the cycle were
+ the greatest I've ever witnessed. So has been the resulting panic. The damage that's
+ been done to security prices may be enough to correct for those excesses - or too
+ much or too little. But certainly it's a good time to pick among the rubble. (The Limits
+ to Negativism, October 15, 2008)
+
+Importantly, our confidence in investing the reserve fund's capital was enhanced by the fact that (a) we
+were buying the senior-most debt of high-quality companies that had been the subject of recent buyouts
+and (b) we were buying at prices so low that our debt holdings would do fine even if the companies ended
+up being worth only one-quarter or one-third of what the buyout funds had just paid for them.
+
+Episodes like the visit with the apprehensive CIO told me the post-Lehman temperature of the market was
+too low. There was too much fear and too little greed, too much pessimism and too little optimism, and
+too much risk aversion and too little risk tolerance. Negative possibilities were being accepted as fact.
+When these things are true, it stands to reason that (a) investor expectations are low; (b) asset
+prices probably aren't excessive; (c) there's little possibility of investors being disappointed; and (d)
+thus there's little likelihood of lasting loss and a good chance prices will work their way higher. In
+other words, this was the epitome of a buying opportunity.
+
+After the TMT bubble burst in mid-2000, the S&P 500 dropped in 2000, 2001, and 2002, the first three-
+year stretch of negative returns since 1939. These declines caused many investors to lose interest in
+equities. Just a few years earlier, there had been widespread faith that stocks could never perform poorly
+for a meaningful period. Now, all of a sudden, such a time seemed to be at hand. Stocks delivered
+disillusionment, which can be one of the strongest forces in markets, and investors turned against them.
+
+During the first few years of the aughts, the lack of appetite for equities - and for bonds, given how low
+the Fed had driven yields - caused many investors to conclude they couldn't earn their targeted returns
+through traditional asset classes. This, in turn, caused capital to flow to alternative investments, first
+hedge funds and then private equity. Soon investors were confronted by the Global Financial Crisis and
+the fear of financial-sector meltdown described above, which added to their negativity. These
+developments weighed heavily on investor psychology, and as a result, the S&P 500 was essentially flat
+from 2000 through 2011, returning an average of only 0.55% a year for the 12 years.
+
+This is how things stood in March 2012, when I wrote the memo Déjà Vu All Over Again. My inspiration
+arrived when, sleepless while on a business trip in Chile, I reached into my Oaktree bag for something to
+read and came up with an old article I had wanted to revisit because I was sensing parallels between the
+current environment and the one the article described. It was "The Death of Equities," one of the most
+important magazine articles on investing of all time. It had appeared in Businessweek on August 13,
+1979, following years of raging inflation, dreary economic news, and poor stock market performance.
+
+In short, the article's theme was that no one would ever invest in stocks again because they had done so
+badly for so long. Here are a few of the article's observations:
+
+ Whatever caused it, the institutionalization of inflation - along with structural changes in
+ communications and psychology - have killed the U.S. equity market for millions of
+ investors. . . .
+
+ For investors . . . low stock prices remain a disincentive to buy. . . .
+
+ For better or for worse, then, the U.S. economy probably has to regard the death of
+ equities as a near-permanent condition - reversible some day, but not soon. . . .
+
+ It would take a sustained bull market for a couple of years to attract broad-based investor
+ interest and restore confidence.
+
+In other words, poor performance had led to investor disinterest, and disinterest had perpetuated
+the poor performance, creating one of the supposedly unstoppable vicious cycles we see in the
+markets from time to time. In the author's view, this negative state was likely to prevail for years.
+
+Like many arguments in the world of investing, the assertions in "The Death of Equities" may have
+seemed sensible on the surface. But if you drilled down a bit - and, in particular, if you thought like
+a contrarian - the logical flaws became readily apparent. What if the lows in optimism and
+enthusiasm for equities meant things couldn't get any worse? Wouldn't that mean they could only
+get better? And in that case, wouldn't it be reasonable to assume that low stock prices presaged
+future gains, not continued stagnation?
+
+The above paragraph captures in brief the difference between the thinking of the average investor and
+what I call "second-level thinking." The latter doesn't rely on first impressions; rather, it's deeper, more
+complex, and more nuanced. In particular, second-level thinkers understand that the convictions of the
+masses shape the market, but if those convictions are based on emotion instead of sober analysis, they
+should often be bet against, not backed. Here's how I put it in Déjà Vu All Over Again:
+
+ The negative factors are clear to the average investor. And from there he draws negative
+ conclusions. But the person who applies logic and insight, rather than superficial views
+ and emotion, sees something very different.
+
+Thus, it would not have come as a surprise to the more sophisticated investor that "The Death of
+Equities" - perhaps the most sweepingly dour article ever written about the stock market -
+preceded one of (if not the) most positive periods in market history. In the 21 years from 1979 (when
+the article was written) through 1999 (just before the TMT bubble burst), the S&P 500's average annual
+return was 17.9%. That was nearly double its long-term average and enough to turn $1 in 1979 into $32
+in 1999!! Once more from Déjà Vu All Over Again:
+
+ Importantly, the stage had been set for this rise in 1979 by the accumulation and
+ excessively pessimistic discounting of negatives. . . . The extrapolator threw in the
+ towel on stocks, just as the time was right for the contrarian to turn optimistic. And
+ it will always be so. . . .
+
+ The great irony here is that the extrapolator actually thinks he's being respectful of
+ history: he's assuming continuation of a trend that has been underway. But the history
+ that deserves his attention isn't the recent rise or fall of an asset's price, but rather the fact
+ that most things eventually prove to be cyclical and tend to swing back from the extreme
+ toward the mean.
+
+Rereading "The Death of Equities" in 2012 allowed me to immediately see parallels between the then-
+present day and the environment in which that article was written. Recent events had been highly
+negative, performance had been poor, and investor sentiment was depressed. That was enough to allow
+me - benefiting from the lessons of history - to adopt a positive stance:
+
+ The story [in 2012] isn't as hopeless as it was in 1979, but it is uniformly negative. Thus,
+ while I don't expect an equity rally anything like what followed on the heels of "The
+ Death of Equities," I don't find it hard to conjure up positive scenarios.
+
+The result: From 2012 - the year of Déjà Vu All Over Again - through 2021, the S&P 500 returned 16.5%
+a year. Once again, excessively negative sentiment had resulted in major gains. It's as simple as that.
+
+The last of the five calls - recent enough for readers to recall the context - came in the early days of the
+Covid-19 pandemic. The disease began to enter most people's consciousness in February 2020, and from
+mid-February to mid-March, the S&P 500 fell by approximately one-third.
+
+In Nobody Knows II (March 2020), my first memo during the pandemic, I cited Harvard epidemiologist
+Marc Lipsitch, who said on a podcast that when trying to understand the disease, there were (a) facts, (b)
+informed extrapolations from analogies to other viruses, and (c) opinion or speculation. But it was clear
+to me at the time that there were no "facts" regarding the pandemic's future course and no "history of
+other viruses" of comparable magnitude to extrapolate from. Thus, we were left with "opinion or
+speculation."
+
+The bottom line of the above - simply put - is that we didn't know anything about what the future held.
+But whereas some people think ignorance regarding the future means they mustn't take any action,
+someone who thinks the matter through logically and unemotionally should recognize that
+ignorance doesn't mean the position they're in is necessarily the position they should remain in.
+(This is very much along the lines of Oaktree's post-Lehman thinking.)
+
+Two weeks later, on March 19, 2020, I ended my client-only memo Weekly Update in a similar vein:
+
+ I'll sum up my views simply - since there's nothing sophisticated to say:
+
+ • "The bottom" is the day before the recovery begins. Thus it's absolutely impossible
+ to know when the bottom has been reached . . . ever. Oaktree explicitly rejects the
+ notion of waiting for the bottom; we buy when we can access value cheap.
+ • Even though there's no way to say the bottom is at hand, the conditions that make
+ bargains available certainly are materializing.
+ • Given the price drops and selling we've seen so far, I believe this is a good time to
+ invest, although of course it may prove not to have been the best time.
+ • No one can argue that you should spend all your money today . . . but equally,
+ no one can argue that you shouldn't spend any. (Emphasis added)
+
+Whereas some of the market calls described earlier relied on knowledge of history and/or logical analysis,
+this recommendation was based primarily on acknowledgment of ignorance. All we knew for sure was
+that (a) there was a pandemic underway and (b) the U.S. stock market was down one-third. Doesn't it
+stand to reason, though, that however much money long-term investors had in stocks when the S&P 500
+peaked at 3,386 in February, they should have considered adding to their positions when it hit 2,237
+roughly a month later? That was the essence of my reasoning. Here's how I built up to the conclusion
+cited above:
+
+ It's easy to say that something approaching panic is present in the markets. We've seen
+ record percentage declines several times within the last month (exceeded since 1940 only
+ by Black Monday - October 19, 1987 - when the S&P 500 declined by 20.4% in a day).
+ This week and last included down days as follows: -7.6%, -9.5%, -12.0%, and -5.2%
+ yesterday. These are enormous losses. . . .
+
+ . . . there has been a rush to cash. Both long positions and short positions have been
+ closed out - a sure sign of chaos and uncertainty. Cash in money market funds has
+
+ increased substantially. This doesn't tell us anything about fundamentals, but the outlook
+ for eventual market performance is improved:
+
+ • the more people have sold,
+ • the less they have left to sell, and
+ • the more cash they have with which to buy when they turn less pessimistic. . . .
+
+ [In the words of Justin Quaglia, one of our traders,] after two days of a basically stalled
+ but stressed [bond] market, we "finally had the rubber band snap." Forced sellers
+ (needing to sell for immediate cash flow needs) brought the market lower in a hurry. We
+ opened 3-5 points lower, and the Street was again hesitant to take risk. . . .
+
+ We're never happy to have the events that bring on chaos, and especially not the
+ ones that are underway today. But it's sentiment like Justin describes above that
+ fuels the emotional selling that allows us to access the greatest bargains. (Weekly
+ Update, emphasis added)
+
+While neither a historical foundation nor rigorous quantitative analysis was achievable, the above
+paragraphs indicate that one could still logically determine an appropriate course of action. As I wrote in
+that same memo:
+
+ What do we know? Not much other than the fact that asset prices are well down, asset
+ holders' ability to hold coolly is evaporating, and motivated selling is picking up.
+
+But that was enough. Paralysis wasn't called for, but rather steps that could help us take advantage of
+most investors' panic and the resulting dramatic price declines. Sometimes it's as simple as that. When
+the knee-jerk reaction of most investors is to stand pat or sell, a contrarian decision to buy might well be
+called for. Doing so is never easy, though, and mid-March 2020 was one of the most challenging
+environments I've ever worked through. But the key, as Rudyard Kipling wrote in the poem "If," is to
+"keep your head when all about you are losing theirs. . ."
+
+How Can You Do It?
+
+I spent the preceding pages describing these five calls not for purposes of self-congratulation but rather to
+lay the groundwork for a discussion of how one can make useful observations regarding the status of the
+markets. Hopefully we learn from our experiences as we go through life. But to really learn from
+them, we have to step back on occasion, look at an entire string of events, and figure out the
+following: (a) what happened, (b) is there a pattern that has repeated, and (c) what are the lessons
+to be learned from the pattern?
+
+Once in a while - once or twice a decade, perhaps - markets go so high or so low that the argument for
+action is compelling and the probability of being right is high. As my son helped me to recognize, I had
+identified five of those, and they paid off. But what if I'd tried to make 50 market calls in my 50 years
+. . . or 500? By definition, I would have been making judgments about markets that were closer to the
+middle ground - perhaps a little high or a little low, but not so extreme as to permit dependable
+conclusions. Investors' records of success with calls in markets like these are poor, since even if they're
+right about asset prices being out of line, it's very easy for something that's a little overpriced to go on to
+become demonstrably more so, and then to turn into a raging bubble, and vice versa. In fact, if we could
+rely on small mispricings to always correct promptly, they would never grow into the manias, bubbles,
+and crashes we see from time to time.
+
+So, one key is to avoid making macro calls too often. I wouldn't want to try to make a living predicting
+the outcome of coin tosses or figuring out whether the favorite will cover the point spread in every
+football game over the course of a season. You have to pick your spots - as Warren Buffett puts it, wait
+for a fat pitch. Most of the time, you have nothing to lose by abstaining from trying to adroitly get in and
+out of the markets: you merely participate in their long-term trends, and those have been very favorable.
+
+My readers know I don't think consistently profitable market calls can be manufactured out of
+macroeconomic forecasts. Nor do I believe you can beat the market simply by analyzing company
+reports. On both subjects, as Andrew puts it (see my memo Something of Value, January 2021), "readily
+available quantitative data regarding the past and present" can't hold the secret to superior performance
+since it's available to everyone.
+
+When markets are at extreme highs or lows, the essential requirement for achieving a superior view
+of their future performance lies in understanding what's responsible for the current conditions.
+Everyone can study economics, finance, and accounting and learn how the markets are supposed to work.
+But superior investment results come from exploiting the differences between how things are supposed to
+work and how they actually do work in the real world. To do that, the essential inputs aren't economic
+data or financial statement analysis. The key lies in understanding prevailing investor psychology.
+
+For me, the things one must do fall under the general heading of "taking the temperature of the market."
+I'll itemize the most essential components here:
+
+ • Engage in pattern recognition. Study market history in order to better understand the
+ implications of today's events. Ironically, when viewed over the long term, investor psychology
+ and thus market cycles - which seem flighty and unpredictable - fluctuate in ways that approach
+ dependability (if you're willing to overlook their highly variable causality, timing, and
+ amplitude).
+ • Understand that cycles stem from what I call "excesses and corrections" and that a strong
+ movement in one direction is more likely to be followed - sooner or later - by a correction in the
+ opposite direction than by a trend that "grows to the sky."
+ • Watch for moments when most people are so optimistic that they think things can only get
+ better, an expression that usually serves to justify the dangerous view that "there's no price too
+ high." Likewise, recognize when people are so depressed that they conclude things can only get
+ worse, as this often means they think a sale at any price is a good sale. When the herd's thinking
+ is either Pollyannaish or apocalyptic, the odds increase that the current price level and direction
+ are unsustainable.
+ • Remember that in extreme times, because of the above, the secret to making money lies in
+ contrarianism, not conformity. When emotional investors take an extreme view of an asset's
+ future and, as a result, take the price to unjustified levels, the "easy money" is usually made by
+ doing the opposite. This is, however, very different from simply diverging from the
+ consensus all the time. Indeed, most of the time, the consensus is as close to right as most
+ individuals can get. So to be successful at contrarianism, you have to understand (a) what the
+ herd is doing, (b) why it's doing it, (c) what's wrong with it, and (d) what should be done instead
+ and why.
+ • Bear in mind that much of what happens in economies and markets doesn't result from a
+ mechanical process, but from the to and fro of investors' emotions. Take note of the swings
+ and capitalize whenever possible.
+ • Resist your own emotionality. Stand apart from the crowd and its psychology; don't join in!
+
+ • Be on the lookout for illogical propositions (such as "stocks have fallen so far that no one will
+ be interested in them"). When you come across a widely accepted proposition that doesn't make
+ sense or one you find too good to be true (or too bad to be true), take appropriate action. See
+ something; do something.
+
+Obviously, there's a lot to grapple with when taking the temperature of the market. In my opinion,
+it has more to do with clear-eyed observations and assessments of the implications of what you see
+than with computers, financial data, or calculations.
+
+I'll go into additional depth on a couple of points:
+
+On pattern recognition: You may have noticed that the first of the five calls described above was made
+in 2000, when I had already been working in the investment industry for more than 30 years. Does this
+mean there were no highs and lows to remark on in those earlier years? No, I think it means it took me
+that long to gain the insight and experience needed to detect the market's excesses.
+
+Most notably, whereas I spent two pages above describing the profound error in "The Death of Equities,"
+you may have noticed that I didn't say anything about my having called out the article when it appeared
+in Businessweek in 1979. The reason is simple: I didn't. I had only been in this business for about a
+decade at that point, so (a) I didn't have the experience needed to recognize the article's error and (b) I
+had yet to develop the unemotional stance and contrarian approach needed to depart from the herd and
+rebel against its thesis. The best I can say is that my eventual development of those attributes
+enabled me to catch the same error when it arose again 33 years later. Pattern recognition is an
+important part of what we do, but it seems to require time in the field - and some scars - rather than just
+book learning.
+
+On cycles: In my book Mastering the Market Cycle, I defined cycles not as a series of up and down
+movements, each of which regularly precedes the next - which I believe is the usual definition - but as a
+series of events, each of which causes the next. This causality holds the key to understanding cycles. In
+particular, I think economies, investor psychology, and thus markets eventually go too far in one direction
+or another - they become too positive or too negative - and afterward they eventually swing back toward
+moderation (and then usually toward excess in the opposite direction). Thus, in my opinion, these
+cycles are best understood as stemming from "excesses and corrections." Overlooking the details of
+the individual episodes, it's clear from the descriptions of these five calls that the greatest opportunities
+for bargain purchases result from overly negative prevailing psychology and the greatest opportunities to
+sell at too-high prices arise from excessive optimism.
+
+Macro Calls and the Oaktree Culture
+
+While on the subject of market calls, I want to touch on two questions I've received repeatedly since
+the publication of my memo The Illusion of Knowledge (September 2022), which discussed why I
+believe creating helpful macro forecasts is so challenging. How does making these market calls fit
+within Oaktree's investment approach? And how can we make "micro forecasts" concerning
+companies, industries, and securities without predicting the macro context?
+
+In 1995, when my four Oaktree co-founders and I decided to form a new firm, we'd already been working
+together for nine years on average. To come up with an investment philosophy that would guide the new
+entity, we only had to reflect on what had worked for us up to that point and what we believed in. This
+led us to write down the six tenets that describe how we invest, and we haven't changed a word in 28
+years.
+
+Of the six tenets, two raise questions regarding how macro calls fit within Oaktree's investment approach:
+
+ • Number five: "We don't base our investment decisions on macro forecasts."
+ • Number six: "We're not market timers."
+
+How about the first of those? It's easy to say you don't invest on the basis of macro forecasts, and I've
+been saying this for decades. But the truth is, if you're a bottom-up investor, you make estimates
+regarding future earnings and/or asset values, and those estimates have to be predicated on
+assumptions regarding the macro environment. Certainly, you can't predict a business's results in a
+given period without considering what'll be going on in the economy at that point. So, then, what does
+avoiding macro forecasting mean to us? My answer is as follows:
+
+ • We generally assume the macro environment of the future will resemble past norms.
+ • We then make allowance for the possibility that things will be worse than normal. Ensuring our
+ investments have a generous "margin of safety" makes it more likely they'll do okay even if
+ future macro developments disappoint somewhat.
+ • What we never do is project that the macro environment will be distinctly better than
+ normal in some way, making winners out of particular investments. Doing so can lead to profits
+ if one is right, but it's hard to consistently make such forecasts correctly. Further, investments
+ reliant on favorable macro developments can expose investors to the possibility of
+ disappointment, leading to loss. It's our goal to construct portfolios where the surprises will
+ be on the upside. Relying on optimistic underlying assumptions is rarely part of such a
+ process. We prefer to make assumptions I would describe as "neutral."
+
+So we do base our modeling on macro assumptions - by necessity - but rarely are those
+assumptions boldly idiosyncratic or optimistic. We never base our investment decisions on the
+mistaken belief that we (or anyone else) can predict the future. Thus, we recognize that the above average
+results we seek must arise from our ground-up insights and not from our ability to do a superior job of
+forecasting unusual macro events.
+
+You might ask here, "What about the memo Sea Change and its assertion that we may be seeing a shift
+toward a wholly different environment?" My answer is that I feel good about this memo because (a) it's
+mostly a review of recent history and (b) the important observations surround the unusual nature of the
+2009-21 period, its effect on investment outcomes, and the improbability of it repeating. (I'm particularly
+comfortable saying interest rates aren't going to decline by another 2,000 basis points from here.) While
+it's important to stick to guiding principles, it's also essential to recognize and respond to real change
+when it happens. Thus, I stand by Sea Change (my only expression of an opinion of this kind in my
+entire working life) as an acceptable deviation from my standard practice. For me, the case for a sea
+change has more to do with observing and inferring than it does with predicting.
+
+And what about market timing? As I've written numerous times since developing my risk-posture
+framework a few years ago, every investor should operate most of the time in the context of their normal
+risk posture, by which I mean the balance between aggressiveness and defensiveness that's right for them.
+It makes perfect sense to try to vary that balance when circumstances dictate compellingly that you should
+do so and your judgments have a high probability of being correct, like in the case of the five calls I've
+discussed. But such occasions are rare.
+
+So, we stay in our normal balance - which in Oaktree's case implies a bias toward defensiveness -
+unless compelled to do otherwise. But we are willing to make changes in our balance between
+
+aggressiveness and defensiveness, and we have done so successfully in the past. In fact, I consider one of
+my principal responsibilities to be thinking about the proper balance for Oaktree at any given time.
+
+If we're happy to vary our risk posture, then what does it mean when we say, "we're not market timers"?
+For me, it means the following:
+
+ • We don't sell things we consider attractive long-term holdings to raise cash in expectation
+ of a market decline. We usually sell because (a) a holding has reached our target price, (b) the
+ investment case has deteriorated, or (c) we've found something better. Our open-end portfolios
+ are almost always fully invested; that way we avoid the risk of missing out on positive returns. It
+ also means buying usually necessitates some selling.
+ • We don't say, "It's cheap today, but it'll be cheaper in six months, so we'll wait." If it's
+ cheap, we buy. If it gets cheaper and we conclude the thesis is still intact, we buy more. We're
+ much more afraid of missing a bargain-priced opportunity than we are of starting to buy a good
+ thing too early. No one really knows whether something will get cheaper in the days and weeks
+ ahead - that's a matter of predicting investor psychology, which is somewhere between
+ challenging and impossible. We feel we're much more likely to correctly gauge the value of
+ individual assets.
+
+While on the subject of buying too soon, I want to spend a minute on an interesting question: Which is
+worse, buying at the top or selling at the bottom? For me the answer is easy: the latter. If you buy at
+what later turns out to have been a market top, you'll suffer a downward fluctuation. But that isn't cause
+for concern if the long-term thesis remains intact. And, anyway, the next top is usually higher than the
+last top, meaning you're likely to be ahead eventually. But if you sell at a market bottom, you render that
+downward fluctuation permanent, and, even more importantly, you get off the escalator of a rising
+economy and rising markets that has made so many long-term investors rich. This is why I describe
+selling at the bottom as the cardinal sin in investing.
+
+ * * *
+
+Thinking about the macro environment and how it influences our proper risk posture falls squarely
+within our responsibilities as investment managers. But the bottom line is that, at Oaktree, we
+approach these things with great humility, diverging from our neutral assumptions and normal
+behavior only when circumstances leave us no other choice. "Five times in 50 years" gives you an
+idea about our level of interest in being market timers. The fact is, we do so hesitantly.
+
+
+Memo: Fewer Losers, or More Winners?.
+
+My memos got their start in October 1990, inspired by an interesting juxtaposition between two events.
+One was a dinner in Minneapolis with David VanBenschoten, who was the head of the General Mills
+pension fund. Dave told me that, in his 14 years in the job, the fund's equity return had never ranked
+above the 27th percentile of the pension fund universe or below the 47th percentile. And where did those
+solidly second-quartile annual returns place the fund for the 14 years overall? Fourth percentile! I was
+wowed. It turns out that most investors aiming for top-decile performance eventually shoot themselves in
+the foot, but Dave never did.
+
+Around the same time, a prominent value investing firm reported terrible results, causing its president to
+issue an easy rationalization: "If you want to be in the top 5% of money managers, you have to be willing
+to be in the bottom 5%, too." My reaction was immediate: "My clients don't care whether I'm in the top
+5% in any single year, and they (and I) have absolutely no interest in me ever being in the bottom 5%."
+
+These two events had a strong influence on me and helped define my - and what five years later became
+Oaktree's - investment philosophy, which emphasizes risk control and consistency above all. Here's how
+I put it 33 years ago in that first memo, titled The Route to Performance:
+
+ I feel strongly that attempting to achieve a superior long-term record by stringing
+ together a run of top-decile years is unlikely to succeed. Rather, striving to do a little
+ better than average every year - and through discipline to have highly superior relative
+ results in bad times - is:
+
+ • less likely to produce extreme volatility,
+ • less likely to produce huge losses which can't be recouped and, most
+ importantly,
+ • more likely to work (given the fact that all of us are only human).
+
+ Simply put, what [General Mills's] record tells me is that, in equities, if you can avoid
+ losers (and losing years), the winners will take care of themselves. I believe most
+ strongly that this holds true in my group's opportunistic niches as well - that the best
+ foundation for above-average long-term performance is an absence of disasters.
+
+As you can see, my dinner with Dave was a seminal event; his approach was clearly the one for me.
+(Incidentally, I want to share that after decades of not having been in touch, Dave was among the many
+kind people who wrote in recent months to encourage me vis-à-vis my health issue. This is a great
+example of the many personal dividends my career has paid.)
+
+Putting It in Brief
+
+That first memo, and the bit cited above, include a phrase you've likely heard from Oaktree: If we avoid
+the losers, the winners will take care of themselves. My partners and I considered this phrase so fitting
+
+that we adopted it as our motto when Oaktree was formed in 1995. Our reasoning was simple: If we
+invest in a diversified portfolio of bonds and are able to avoid the ones that default, some of the non-
+defaulters we buy will benefit from positive events, such as upgrades and takeovers. That is, the winners
+will materialize without our having explicitly sought them out.
+
+We thought that phrase was innovative. But in 2005, while working with Seth Klarman to update the
+1940 edition of Benjamin Graham and David Dodd's Security Analysis - the "bible of value investing" -
+I read something that indicated we were late by about 50 years. In the section Seth asked me to edit, I
+came across Graham and Dodd's description of "fixed-value" (or fixed-income) investing as "a negative
+art." What did they mean?
+
+At first, I found their observation cynical, but then I realized what they were saying. Let's assume there
+are one hundred 8% bonds outstanding. Let's further assume that ninety will pay interest and principal as
+promised and ten will default. Since they're all 8% bonds, all the ones that pay will deliver the same 8%
+return - it doesn't matter which ones you bought. The only thing that matters is whether you bought any
+of the ten that defaulted. In other words, bond investors improve their performance not through what they
+buy, but through what they exclude - not by finding winners, but by avoiding losers. There it is: a
+negative art.
+
+One more anecdote concerning the origin of the phrase: I've always been interested in old books. A few
+years ago, while walking through a Las Vegas convention center on the way to meet with a client, I came
+upon a rare book fair. I stopped at the booth of a book dealer I know, and my eye immediately fell on a
+book he had for sale: How to Trade in Stocks, by Jesse Livermore. Here's the quote the dealer had
+highlighted: "Winners take care of themselves; losers never do." You may be tempted to believe
+Livermore borrowed my idea . . . until you realize that, like Graham and Dodd, he published these lines in
+1940. So much for my innovation.
+
+At the time I adopted that saying, my partners and I were primarily high yield bond investors. And since
+non-convertible bonds have little upside potential beyond their promised yield to maturity, it truly was the
+case that our main job was to avoid the non-payers, with the assumption that some subset of the payers
+would likely give us exposure to positive developments that occurred. It was an appropriate way to sum
+up our approach as bond investors.
+
+But fortunately, I joined up with Bruce Karsh in 1987, and in 1988 we organized our first distressed debt
+fund. Now we were investing in bonds that had defaulted or seemed likely to do so. We thought we
+might be able to buy them at bargain prices because of the cloud they were under, giving us the possibility
+of capital appreciation. Bruce has since become well known for his investing acumen, and, certainly, his
+returns since 1988 can't be attributed to the mere avoidance of losses. When you aspire to returns well
+above those available on bonds, it's not enough to avoid losers; you actually have to find (or create)
+winners from time to time. The returns generated by Bruce and his group show that they've done so.
+
+Oaktree now has a number of what I call "aspirational strategies," meaning they need winners. So why
+do we still use the above phrase as our motto, and why is "the primacy of risk control" still the first
+tenet of our investment philosophy? The answer is we want the concept of risk control to always be top
+of mind for our investment professionals. When they review a security, we want them to ask not only
+"How much money can I make if things go well?" but also "What will happen if events don't go as
+planned? How much could I lose if things get bad? And how bad would things have to get?"
+
+Risk control is still number one at Oaktree. Seventy-plus years ago, UCLA football coach Henry
+Russell "Red" Sanders said, "Winning isn't everything, it's the only thing." (The saying is also attributed
+to Vince Lombardi, legendary football coach of the Green Bay Packers.) While I haven't figured out
+
+exactly what that phrase means, I'm firmly convinced that for Oaktree, risk control isn't everything; it
+is the only thing.
+
+Not Risk Avoidance
+
+Understanding the distinction between risk control and risk avoidance is truly essential for
+investors. Risk avoidance basically consists of not doing anything where the outcome is uncertain and
+could be negative. And yet, at its heart, investing consists of bearing uncertainty in the pursuit of
+attractive returns. For this reason, risk avoidance usually equates to return avoidance. You can avoid risk
+by buying Treasury bills or putting your money into government-insured deposits, but there's a reason
+why the returns on these are generally the lowest available in the investment world. Why should you be
+well paid for parting with your money for a while if you're sure to get it back?
+
+Risk control, on the other hand, consists of declining to take risks that (a) exceed the quantum of
+risk you want to live with and/or (b) you wouldn't be well rewarded for bearing. I've written in the
+past about what I call "the intelligent bearing of risk for profit." Here's the backstory:
+
+I got my start managing money in 1978, when Citi asked me to run portfolios of convertibles and high
+yield bonds. The former were mostly non-investment grade securities issued by companies that had no
+alternative when seeking to raise capital, and the latter were, according to the terminology of the day,
+low-rated "junk bonds." Clearly, they both entailed significant credit risk. Around 1980, a reporter from
+one of the first financial news networks asked me a provocative question: "How can you buy high yield
+bonds when you know some of the issuers are going to default?" My response captured the essence of
+intelligent risk bearing: "How can life insurance companies insure people's lives when they know they're
+all going to die?"
+
+The point is simple: These functions can both be performed in an intelligent, risk-controlled way. For
+that to be the case, the risk has to be:
+
+ • risk you're aware of,
+ • risk you can analyze,
+ • risk you can diversify, and
+ • risk you're well paid to assume.
+
+Risks like this needn't be avoided. If you have real insight, such risks can be borne prudently and
+profitably.
+
+I know several investors who take much more risk than Oaktree does and whose bad years are much
+worse than ours. But the few who possess genuine skill - what I call "alpha" (more on that later) -
+produce jumbo returns in their good years, such that their long-term returns are exceptional. Their clients
+are well rewarded . . . assuming they have enough intestinal fortitude to hang in through the bad years.
+Thus, risk-taking isn't unwise per se, and risk avoidance is appropriate only for investors who feel they
+can't survive tough times.
+
+Building a Good Record
+Since (a) all but the most cautious investing entails risk and (b) the presence of risk means results will be
+unpredictable and inconsistent, very few (if any) investors are able to have only good years or to assemble
+
+portfolios that contain only winners. The question isn't whether you're going to have losers, but
+rather how many and how bad relative to your winners.
+
+Warren Buffett - arguably the investor with the best long-term record (and certainly the longest long-term
+record) - is widely described as having had only twelve great winners in his career. His partner Charlie
+Munger told me the vast majority of his own wealth came not from twelve winners, but only four. I
+believe the ingredients of Warren's and Charlie's great performance are simple: (a) a lot of investments in
+which they did decently, (b) a relatively small number of big winners that they invested in heavily and
+held for decades, and (c) relatively few big losers. No one should expect to have - or expect their money
+managers to have - all big winners and no losers.
+
+In fact, not having any losers isn't a useful goal. The only sure way to achieve that is by not taking any
+risk. But, as I said earlier, risk avoidance is likely to result in return avoidance. There's such a thing as
+the risk of taking too little risk. Most people understand this intellectually, but human nature makes
+it hard for many to accept the idea that the willingness to live with some losses is an essential
+ingredient in investment success.
+
+Having watched some great tennis this summer - right through the U.S. Open this past weekend - I'll
+recycle a tennis analogy I first suggested in my memo Dare to Be Great II (April 2014). What if I went
+out to play tennis and said, "Today, I'm not going to commit any service faults"? My serves would have
+to be so meek that my opponent would likely destroy them. Tennis players have to take some risk if
+they hope to succeed (see below). If none of your serves fall outside the service box, you're probably
+serving too cautiously to win. The same is true of investing. As my long-time partner Sheldon Stone puts
+it, "If you don't experience any defaults, you're probably not taking enough credit risk."
+
+Winners' Stats
+
+Looking back, it turns out I devoted an entire memo to analogies between investing and sports once per
+decade in the 1990s, the 2000s, and the 2010s. This time, in my fourth decade of memo-writing, I'm
+going to devote a few more paragraphs to tennis.
+
+As mentioned above, tennis makes for very apt comparisons to investing. Hit safely and get blasted? Or
+try for shots you can't make consistently and beat yourself? Charles D. Ellis's article "The Loser's
+Game" (The Financial Analysts Journal, July/August 1975) was truly seminal in my development as an
+investor. He pointed out that there are two kinds of tennis players . . . actually, two different types of
+tennis games. Professionals play a winner's game: They win by hitting winners (in tennis, that means
+shots the opponent can't return). Since their game is so much within their control, they can usually
+produce the shots they want, the best of which win points. But amateur tennis is a loser's game: The
+winner is usually the person who hits the fewest losers. If you can just keep the ball in play long
+enough, eventually your opponent will hit it off the court or into the net. The amateur doesn't have to hit
+winners to win, and that's a good thing, because he or she generally is incapable of doing so dependably.
+
+A quick look at some statistics from this year's Wimbledon provides a great deal of food for thought. I'll
+look first at the men's quarterfinal match between Daniil Medvedev, the #3 seed in the tournament, and
+unseeded Christopher Eubanks. Eubanks, 6'7" and highly athletic, surprised everyone with his rush to
+the quarterfinals. But, in Medvedev, he was playing someone who's spent years trailing just behind the
+"big three" of men's tennis: Novak Djokovic, Rafael Nadal, and Roger Federer.
+
+As a pronounced underdog, Eubanks probably recognized that he wasn't likely to outlast or out-steady
+Medvedev. Thus, he had to go for winners. If that was Eubanks's plan, he succeeded in executing it. He
+
+achieved 74 winners to Medvedev's 52, and he aggressively rushed the net 67 times (for 44 winners)
+compared to Medvedev's 8 (for 4 winners). These are great offensive stats.
+
+The problem is that - as I've experienced firsthand many times - if you're up against a player who's
+better than you are, you have to attempt shots that aren't firmly within your competence in order to have a
+hope of winning. Thus, along with his 74 winners, Eubanks was guilty of 55 unforced errors (mistakes
+that aren't forced by good shots from one's opponent; the easy way to make an unforced error is to go for
+a winner and miss). In comparison, Medvedev committed only 13 unforced errors.
+
+Bottom line: Eubanks had considerably more winners than Medvedev, but he had three unforced errors
+for every four winners, whereas Medvedev had only one per four. Medvedev won 53% of the points
+played versus Eubanks's 47%, and thus he won the match. The lesson is that it's not enough to have
+more winners. To win - in tennis as in investing - you have to have a favorable relationship between
+winners and losers. You can win by having a few winners but fewer losers or by having a lot of
+losers but more winners. Neither maximizing winners nor minimizing losers is necessarily enough.
+It's all in the balance.
+
+And that leads me to the Wimbledon men's final. This exciting match pitted Djokovic, who had won the
+most Grand Slam championships in history (23 combined at Wimbledon, the U.S. Open, the French
+Open, and the Australian Open), against up-and-coming 20-year-old Carlos Alcaraz, who had a grand
+total of one. Like Eubanks, Alcaraz plays a big, athletic game and goes for a lot of winners. You can see
+that in his serving: Alcaraz had seven double faults, more than twice Djokovic's three. But, again, a
+single statistic tells us very little, since Alcaraz's attempts at big serves gave him nine aces (serves his
+opponent couldn't even get his racquet on), more than four times Djokovic's two. This is an indication of
+the players' respective styles. In the end, Alcaraz won the match with 66 winners, whereas Djokovic had
+only 32.
+
+So, Alcaraz beat Djokovic with a "bigger," high-risk game, while Medvedev beat Eubanks with his
+steadier, risk-controlled style. Neither approach is better than the other per se. Style alone never
+determines outcome; it's a matter of style plus execution. My tennis teacher, Jordi Ballester, explains:
+"Alcaraz plays a more aggressive game. Given his high level of talent, as he showed at Wimbledon, if he
+has a good day, he can beat Djokovic (or any other opponent). If he's off, he may well lose."
+
+It's interesting to note that tennis's big three presided over an incredible era. In the 19 years leading up to
+Wimbledon 2023, they won a combined 65 - or 87% - of the 75 Grand Slam championships. Notably,
+none of them was a "big hitter" in Alcaraz's mold. Their ability to hit at a fabulous level for four or
+five hours without committing many errors was usually enough.
+
+The Need for Winning Stocks
+
+There have been several times over the course of my career when a small number of stocks have
+accounted for a disproportionately large share of the market's gains. In this regard, a lot has been written
+about the so-called "magnificent seven": Apple, Microsoft, Alphabet (owner of Google), Amazon,
+Nvidia, Tesla, and Meta (owner of Facebook). At various points in time this year, these seven stocks
+accounted for most or all of the gains of various equity indices. Here's how the Financial Times put it in
+June:
+
+ Seven of the biggest constituents . . . have ripped higher, gaining between 40 per cent and
+ 180 per cent this year. The remaining 493 companies [in the Standard & Poor's 500
+ stock index] are, in aggregate, flat.
+
+ Big tech companies dominate the index to an unprecedented degree. Just five of those
+ seven stocks represent nearly a quarter of the market capitalisation of the entire index.
+ ("The seven companies driving the US stock market rally," Financial Times, June 14,
+
+The extent of these stocks' outperformance for much of this year may be unique, but the phenomenon is
+not. It was also the case in 2017 that a few stocks were largely responsible for carrying the market
+upward. Then it was the "FAANGs": Facebook, Amazon, Apple, Netflix, and Google/Alphabet. The
+Financial Times highlighted this history as well:
+
+ Top-heaviness, particularly in US markets, is not new. "The big tech stocks in the S&P
+ now are the same situation as oil companies were in the past, or the Nifty 50 in the
+ 1960s," says Frédéric Leroux, head of the cross-asset team at Carmignac in Paris - a nod
+ to the craze that swept shares in a small number of fast-growing companies such as IBM,
+ Kodak and Xerox higher before a heavy decline set in. "It's a problem, but it's a
+ recurring problem." (Ibid.)
+
+For as long as most of us can remember, active investors have had a tough time keeping up with the
+equity indices. For this reason, in recent decades, passive investing has taken a substantial share of equity
+capital invested. Active investing's shortfall has been attributed primarily to the combination of market
+efficiency, management fees, and investor error. I think there's another reason: active investors' need for
+winners.
+
+What if you didn't own the magnificent seven earlier this year? Clearly, you'd be far behind the indices.
+What if you owned them, but in smaller proportions than their weightings in the indices? You'd still lag,
+but by a smaller amount. So, by definition, keeping up with the indices requires having exposure to
+the big winners that is at least equal to their representation in the indices. That much seems clear.
+
+Now, think about that representation. Let's say you started off 20 years ago - in the summer of 2003 -
+with an index-sized helping of Apple at a split-adjusted price of $0.37. The key question is simple:
+Would you have held on as it rose?
+
+As I described in my memo Selling Out (January 2022), most investors subscribe to the conventional
+wisdom of "taking profits," "taking some money off the table," or "topping the trees." After all, as the
+old saying goes, "No one ever went broke taking profits." Investors often sell off some of their winners
+for the simple reason that they're afraid to watch as they give up their gains, which can lead to regret,
+criticism from clients, and/or lost accounts.
+
+Most people would have sold part or all of their Apple holding by the time the price reached $15 in the
+summer of 2013. What would you have done when it hit 40 times your original cost after 10 years?
+
+Today, another 10 years later, Apple is around $180 1 - up 12x since 2013 and up by almost 500x since
+2003. The point is, in the face of these gains, very few investors would still hold all they'd originally
+bought. But if they sold Apple stock when the constructors of the index didn't, they've probably
+failed to keep up with the index. The situation can be summed up as follows:
+
+ This reflects the price as of September 8, 2023.
+
+ • The performance of the equity indices is often dominated by a few stocks or groups of stocks.
+ • The gains of the leaders can make them seem expensive, arguing for profit-taking.
+ • Human nature - especially the desire to avoid regret - adds to the motivation to sell.
+ • By definition, if you reduce your holdings of the winners relative to their representation in the
+ indices and these winners continue to outperform, you'll have a tough time keeping up.
+
+In my memo Liquidity (March 2015), I included an insight from my son Andrew. To paraphrase, he said,
+"If you look at the chart of a stock that's been up for 25 years and say, 'Man, I wish I'd owned that stock,'
+think about all the days you would have had to talk yourself out of selling." I doubt many people watched
+Apple go from $0.37 to $180 without selling any. How many active investors would allow Apple shares
+to constitute nearly 8% of their portfolios, which was its weight in the S&P 500 at the recent peak? But -
+to oversimplify - if they sold Apple, they've lagged.
+
+The bottom line is that winners aren't entirely dispensable. If you hope to at least keep up with the
+indices, you probably have to have an average representation in them. (This isn't entirely inescapable.
+You might also achieve that goal by holding fewer of the losers.)
+
+The Role of Risk Bearing
+
+I'm going to conclude this memo using my favorite graph. When I attended graduate school at the
+University of Chicago 55 (!) years ago, I was taught to view the relationship between risk and return as
+follows:
+
+ Return
+
+ Risk
+
+But the more I thought about it, the more unhappy I was with the way the linear presentation of the
+purported relationship tells investors that they can count on achieving higher returns as a result of taking
+more risk. After all, if that were really the case, risky investments wouldn't be riskier. Thus, in my
+memo Risk (January 2006), I suggested a different way of depicting the relationship by superimposing on
+the line a series of bell-shaped probability distributions turned on their side:
+
+ Return
+
+ Risk
+
+Rather than implying that taking more risk - moving from left to right in the graph - assures higher
+returns, this new way of looking at the relationship suggests that as you take more risk, (a) the expected
+return increases, as per the original version above; (b) the range of possible outcomes becomes wider; and
+(c) the bad possibilities become worse. In other words, riskier investments introduce the potential for
+higher returns, but also the possibility of other less-desirable side effects. That's why they're described as
+being riskier. Since writing that memo, I've concluded that this way of thinking about things has a great
+many applications. Here are a few:
+ Investing
+
+ Return
+
+ Risk
+
+ Bonds Equities Venture
+ Capital
+
+ Fixed Income
+
+ Return
+
+ Risk
+
+ Treasurys Corporates High Yield Bonds
+
+ Equities
+
+ Return
+
+ Risk
+
+ U.S. Non-U.S. Emerging
+ Markets
+
+There are also applications for this way of seeing things outside the investment world. For example:
+
+ Tennis Strategies
+
+ Return
+
+ Risk
+
+ Djokovic's Alcaraz's Eubanks's
+ Game Game Game
+
+And that brings me back to the subject of this memo:
+
+ Investment Styles
+
+ Return
+
+ Risk
+
+ Avoiding Losers Going for Winners
+
+As the above graphs indicate, a high-risk approach introduces the potential for huge returns . . . as
+well as the possibility of loss.
+So, where's the right place to be on this spectrum? Where can one find the best risk/return bargains? The
+short answer is that, according to investment theory - particularly the Efficient Market Hypothesis - there
+are no better (or worse) places to be. The EMH says markets price securities such that (a) their price
+equals their intrinsic value and (b) bearing incremental risk is rewarded fairly. Thus, bargains and
+over-pricings can't exist. This is why, according to the theory, "you can't beat the market."
+
+The theory also suggests that if a market is at "equilibrium," each change in prospective return is fair
+relative to the change in risk borne, such that all positions on the curve are equivalent in attractiveness.
+Move to the left, and you avoid some risk, but your prospective return drops. Move to the right, and your
+prospective return increases, but so does your risk. No position on the spectrum is superior to any other.
+It's like a coin toss (which the EMH suggests active investing is): Neither heads nor tails is the smarter
+call.
+
+What About in Practice?
+
+One of my favorite quotes is attributed to Albert Einstein and Yogi Berra, among others: "In theory, there
+is no difference between theory and practice. In practice, there is." If markets are efficient and securities
+are always priced correctly, there can be no value in active investing. The truth is that many active
+managers, especially in developed market equities, have failed to demonstrate the ability to add value, or
+to add enough value to justify their management fees. This is largely why index funds were created and
+why a significant amount of equity capital has migrated to index and passive investing in recent decades.
+
+And yet, I firmly believe there are times when the markets are overpriced and times when they're
+underpriced. There are also times when particular markets or sectors are overpriced or underpriced
+relative to others. In these instances, some securities can be priced too high or too low, and thus some
+positions on the risk curve can offer better bargains than others.
+
+The theory assumes investors are rational and objective, but psychological excesses violate that
+assumption. Take, for example, the investment environment during the Global Financial Crisis. As I
+described in my July memo Taking the Temperature, in late 2008, investors were so worried about a
+financial sector meltdown that they panicked and sold securities aggressively as their prices collapsed.
+Excessive risk aversion causes the risk/return line to steepen (increasing the return for each incremental
+unit of risk borne) and perhaps even to curve upward (rendering the compensation for making
+investments at the risky end of the spectrum disproportionately generous). Thus, in periods of excessive
+risk aversion, the riskier part of the curve can be the smarter place to be (and in periods when risk bearing
+is too eagerly embraced, the safer part can offer a superior proposition).
+
+The last element I want to touch on is what I call "alpha," or individual investing skill. The reason the
+EMH disdains efforts to beat the market is its conviction that since securities are always priced correctly,
+the ability to identify bargains to buy and over-pricings to avoid can't exist. Theory's assertion that
+there's no such thing as mastery of markets implies that no one has the skill to assemble portfolios that
+outperform. This is why I depict the bell-shaped curves above as symmetrical: In an efficient market,
+investors can only take what the market gives them.
+
+But I'm convinced the potential to improve on that through skill does exist in some markets and some
+people. Investors who possess alpha have the ability to alter the shape of the distributions in the
+graphs above so that they're not symmetrical, in that the portion of the distribution representing
+the less desirable outcomes is smaller than the portion representing the better ones. In fact, that's
+what alpha really means: Investors with alpha can go into a market and, by applying their skill,
+access the upside potential offered in that market without taking on all the downside risk. In my
+memo What Really Matters? (November 2022), I said the key characteristic of superior investing is
+asymmetry - having more upside than downside. Alpha enables exceptional investors to modify the
+probability distributions such that they are biased toward the positive, resulting in superior risk-adjusted
+returns.
+
+If alpha is the ability to earn return without taking fully commensurate risk, investors possessing it
+can do so by either reducing risk while giving up less return or by increasing potential return with
+a less-than-commensurate increase in risk. In other words, skill can enable some investors to
+outperform by emphasizing aggressiveness and some by emphasizing defensiveness. The choice between
+these approaches depends on the type of alpha an investor possesses: Is it the ability to produce stunning
+
+returns with tolerable risk, or the ability to produce good returns with minimal risk? Almost no investors
+possess both forms of alpha, and most possess neither. Investors who lack alpha shouldn't expect to be
+able to produce either version of asymmetry - that is, to be able to generate superior risk-adjusted
+returns. However, most believe they do have it.
+
+The proper choice between the two approaches - fewer losers or more winners - depends on each
+investor's skill, return aspiration, and risk tolerance. As with many of the things I discuss, there's no
+right answer here. Just a choice.
+
+
+Memo: Further Thoughts on Sea Change.
+
+In May, I wrote a follow-up memo to Sea Change (December 2022) that was shared exclusively with
+Oaktree clients. In Further Thoughts on Sea Change, I argued that the trends I had highlighted in the
+original memo collectively represented a sweeping alteration of the investment environment that called
+for significant capital reallocation. This memo was originally sent to Oaktree clients on May 30, 2023.1
+
+This Time It Really Might Be Different
+
+On October 11, 1987, I first came across the saying "this time it's different." According to an article in
+The New York Times by Anise C. Wallace, Sir John Templeton had warned that when investors say times
+are different, it's usually in an effort to rationalize valuations that appear high relative to history - and it's
+usually done to investors' ultimate detriment. In 1987, it was high equity prices in general; the article I
+cite was written just eight days before Black Monday, when the Dow Jones Industrial Average declined
+by 22.6% in a single day. A dozen years later, the new thing people were excited about was the prospect
+that the Internet would change the world. This belief served to justify ultra-high prices (and p/e ratios of
+infinity) for digital and e-commerce stocks, many of which went on to lose more than 90% of their value
+over the next year or so.
+
+Importantly, however, Templeton allowed that things might really be different 20% of the time. On rare
+occasions, something fundamental does change, with significant implications for investing. Given the
+pace of developments these days - especially in technology - I imagine things might genuinely be
+different more often than they were in Templeton's day.
+
+Anyway, that's all preamble. My reason for writing this memo is that, while most people I speak with
+seem to agree with many of my individual observations in Sea Change, few have expressly agreed with
+my overall conclusion and said, "I think you're right: We might be seeing a significant and possibly
+lasting change in the investment environment." This memo's main message is that the changes I
+described in Sea Change aren't just usual cyclical fluctuations; rather, taken together, they
+represent a sweeping alteration of the investment environment, calling for significant capital
+reallocation.
+
+The Backdrop
+
+I'll start off by recapping my basic arguments from Sea Change:
+
+ • In late 2008, the Federal Reserve took the fed funds rate to zero for the first time ever in order to
+ rescue the economy from the effects of the Global Financial Crisis.
+
+ All market data cited in this memo is as of May 30, 2023.
+
+ • Since that didn't cause inflation to rise from its sub-2% level, the Fed felt comfortable
+ maintaining accommodative policies - low interest rates and quantitative easing - for essentially
+ all of the next 13 years.
+ • As a result, we had the longest economic recovery on record - exceeding ten years - and "easy
+ times" for businesses seeking to earn profits and secure financing. Even money-losing businesses
+ had little trouble going public, obtaining loans, and avoiding default and bankruptcy.
+ • The low interest rates that prevailed in 2009-21 made it a great time for asset owners - lower
+ discount rates make future cash flows more valuable - and for borrowers. This in turn made asset
+ owners complacent and potential buyers eager. And FOMO became most people's main concern.
+ The period was correspondingly challenging for bargain hunters and lenders.
+ • The massive Covid-19 relief measures - combined with supply-chain snags - resulted in too
+ much money chasing too few goods, the classic condition for rising inflation.
+ • The higher inflation that arose in 2021 persisted into 2022, forcing the Fed to discontinue its
+ accommodative stance. Thus, the Fed raised interest rates dramatically - its fastest tightening
+ cycle in four decades - and ended QE.
+ • For a number of reasons, ultra-low or declining interest rates are unlikely to be the norm in the
+ decade ahead.
+ • Thus, we're likely to see tougher times for corporate profits, for asset appreciation, for borrowing,
+ and for avoiding default.
+ • Bottom line: If this really is a sea change - meaning the investment environment has been
+ fundamentally altered - you shouldn't assume the investment strategies that have served you best
+ since 2009 will do so in the years ahead.
+
+Having supplied this summary, I'm going to put flesh on these bones and share some additional insights.
+
+A Momentous Development
+
+To promote discussion these days, I often start by asking people, "What do you consider to have been the
+most important event in the financial world in recent decades?" Some suggest the Global Financial Crisis
+and bankruptcy of Lehman Brothers, some the bursting of the tech bubble, and some the Fed/government
+response to the pandemic-related woes. No one cites my candidate: the 2,000-basis-point decline in
+interest rates between 1980 and 2020. And yet, as I wrote in Sea Change, that decline was probably
+responsible for the lion's share of investment profits made over that period. How could it be overlooked?
+
+First, I suggest the metaphor of boiling a frog. It's said that if you put a frog in a pot of boiling water, it'll
+jump out. But if you put it in cool water and turn on the stove, it'll just sit there, oblivious, until it boils to
+death. The frog doesn't detect the danger - just as people fail to perceive the significance of the interest
+rate decline - because of its gradual, long-term nature. It's not an abrupt development, but rather a drawn
+out, highly influential trend.
+
+Second, in Sea Change, I compared the 40-year interest rate decline to the moving walkway at an airport.
+If you stand still on the walkway, you'll move effortlessly; but, if you walk at your normal pace, you'll
+move ahead rapidly - perhaps without being fully conscious of why. In fact, if everyone's walking on the
+moving walkway, doing so can easily go unnoted, and the walkers might conclude that their rapid
+progress is "normal."
+
+Finally, there's what John Kenneth Galbraith called "the extreme brevity of the financial memory."
+Relatively few investors today are old enough to remember a time when interest rates behaved differently.
+Everyone who has come into the business since 1980 - in other words, the vast majority of today's
+
+investors - has, with relatively few exceptions, only seen interest rates that were either declining or
+ultra-low (or both). You have to have been working for more than 43 years, and thus be over 65, to have
+seen a prolonged period that was otherwise. And since market conditions made it tough to find
+employment in our industry in the 1970s, you probably had to get your first job in the 1960s (like me) to
+have seen interest rates that were either higher and stable or rising. I believe the scarcity of veterans from
+the '70s has made it easy for people to conclude that the interest rate trends of 2009-21 were normal.
+
+The Relevance of History
+
+The 13-year period from the beginning of 2009 through the end of 2021 saw two rescues from financial
+crises, a generally favorable macro environment, aggressively accommodative central bank policies, a
+lack of inflation worries, ultra-low and declining interest rates, and generally uninterrupted investment
+gains. The question, of course, is whether investors should expect a continuation of those trends.
+
+ • Recent events have shown that the risk of rising inflation can't be ignored in perpetuity.
+ Moreover, the reawakening of inflationary psychology will probably make central banks less
+ likely to conclude that they can engage in continuous monetary stimulation without
+ consequences.
+ • Thus, interest rates can't be counted on to stay "lower for longer" and produce perpetual
+ prosperity, as many thought was the case in late 2020.
+ • Also in late 2020, Modern Monetary Theory was accepted by some as meaning deficits and
+ national debt could be disregarded in countries "with control of their currencies." (We no longer
+ hear anything about this notion.)
+
+In Sea Change, I listed several reasons why I don't think interest rates are going back to that period's
+lows on a permanent basis, and I still find these arguments compelling. In particular, I find it hard to
+believe the Fed doesn't think it erred by sticking with ultra-low interest rates for so long.
+
+As noted above, to fight the GFC, the Fed took the fed funds rate to roughly zero for the first time in late
+2008. Macro conditions were frightening, as a vicious cycle capable of undermining the entire financial
+system appeared to be underway. For this reason, aggressive action was certainly called for. But I was
+shocked when I looked at the data and saw that the Fed kept the rate near zero for nearly seven years.
+Setting interest rates at zero is an emergency measure, and we certainly didn't have a continuous
+emergency through late 2015. To me, those sustained low rates stand out as a mistake not to be repeated.
+
+Further, by 2017-18, with the fed funds rate around 1%, it had become clear to many that there wasn't
+room for the Fed to reduce rates if necessary to stimulate the economy during a recession. But when the
+Fed attempted to raise rates to create that room, it encountered pushback from investors (see the fourth
+quarter of 2018). I find it hard to believe the Fed would want to reimpose that limitation on its toolkit.
+
+A recurring theme of mine is that, even though many people agree that free markets do the best job of
+allocating resources, we haven't had a free market in money in roughly the last two decades, a period of
+Fed activism. Instead, Fed policy has been accommodative almost the entire time, and interest rates have
+been kept artificially low. Rather than letting economic and market forces determine the rate of interest,
+the Fed has been unusually active in setting interest rates, greatly influencing the economy and the
+markets.
+
+Importantly, this distorts the behavior of economic and market participants. It causes things to be
+built that otherwise wouldn't have been built, investments to be made that otherwise wouldn't have
+
+been made, and risks to be borne that otherwise wouldn't have been accepted. There's no doubt that
+this is true in general, and I'm convinced it accurately describes the period in question.
+
+Many articles about the problems at Silicon Valley Bank and First Republic Bank cite errors that were
+made in the preceding "easy-money" period. Rapid growth, unwise inducements to customers, and lax
+financial management were all encouraged in a climate with accommodative Fed policy, uniformly
+positive expectations, and low levels of risk aversion. This is just one example of a time-worn adage in
+action: "The worst of loans are made in the best of times." I don't think the Fed should return us to an
+environment that has been distorted to encourage universal optimism, belief in the existence of a Fed put,
+and thus a dearth of prudence.
+
+If the declining and/or ultra-low interest rates of the easy-money period aren't going to be the rule
+in the years ahead, numerous consequences seem probable:
+
+ • economic growth may be slower;
+ • profit margins may erode;
+ • default rates may head higher;
+ • asset appreciation may not be as reliable;
+ • the cost of borrowing won't trend downward consistently (though interest rates raised to fight
+ inflation likely will be permitted to recede somewhat once inflation eases);
+ • investor psychology may not be as uniformly positive; and
+ • businesses may not find it as easy to obtain financing.
+
+In other words, after a long period when everything was unusually easy in the world of investing,
+something closer to normalcy is likely to set in.
+
+Please note that I'm not saying interest rates, having declined by 2,000 basis points over the last 40 or so
+years, are going back up to the levels seen in the 1980s. In fact, I see no reason why short-term interest
+rates five years from now should be appreciably higher than they are today. But still, I think the easy
+times - and easy money - are largely over. How can I best communicate what I'm talking about? Try
+this: Five years ago, an investor went to the bank for a loan, and the banker said, "We'll give you
+$800 million at 5%." Now the loan has to be refinanced, and the banker says, "We'll give you $500
+million at 8%." That means the investor's cost of capital is up, his net return on the investment is
+down (or negative), and he has a $300 million hole to fill.
+
+What Strategies Will Work Best?
+
+It seems obvious that if certain strategies were the best performers in a period with a given set of
+characteristics, it must be true that a starkly different environment will produce a dramatically
+altered list of winners.
+
+ • As mentioned above in the recap of Sea Change, the 40 years of low and declining interest rates
+ were hugely beneficial for asset owners. Declining discount rates and the associated reduction in
+ the competitiveness of bond returns led to substantial asset appreciation. Thus, asset ownership -
+ whether related to companies, pieces of companies (equities), or properties - was the place to be.
+ • Falling interest rates brought down the cost of capital for borrowers. As this occurred, any
+ borrowing automatically became more successful than originally contemplated.
+ • And, as I also mentioned in Sea Change, the combined result of the above for investors who
+ bought assets on borrowed money was a double bonanza. Think back to the first of the sea
+
+ changes I mentioned in that memo: the advent of high yield bonds in 1977-78, which brought
+ about the trend toward bearing risk for profit and the emergence of levered investment strategies.
+ It's very notable that almost the entire history of levered investment strategies has been
+ written during a period of declining and/or ultra-low interest rates. For example, I would
+ venture that nearly 100% of capital for private equity investing has been put to work since interest
+ rates began their downward move in 1980. Should it come as a surprise that levered investing
+ thrived in such salutary conditions?
+ • At the same time, declining interest rates rendered lending - or buying debt instruments - less
+ rewarding. Not only were prospective returns on debt low throughout the period, but investors
+ who were eager to get away from the ultra-low yields on safer securities like Treasurys and
+ investment grade corporates competed spiritedly to deploy capital in higher-risk markets, and this
+ caused many to accept lower returns and reduced lender protections.
+ • Finally, conditions in those halcyon days created tough times for bargain hunters. Where do the
+ greatest bargains come from? The answer: the desperation of panicked holders. When times are
+ untroubled, asset owners are complacent, and buyers are eager, no one has any urgency to exit,
+ making it very hard to score significant bargains.
+
+Investors who profited in this period from asset ownership and levered investment strategies may
+overlook the salutary effect of interest rates on asset values and borrowing costs and instead think the
+profits stemmed from the inherent merit of their strategies, perhaps with some help from their own skill
+and wisdom. That is, they may have violated a basic rule in investing: "Never confuse brains and a bull
+market." Given the benefits of being on the "moving walkway" during this period, it seems to me it
+would have required really bad decision-making or really bad luck for a purchase of assets made with
+borrowed money to have been unsuccessful.
+
+Will asset ownership be as profitable in the years ahead as in the 2009-21 period? Will leverage
+add as much to returns if interest rates don't decline over time or if the cost of borrowing isn't
+much below the expected rate of return on the assets purchased? Whatever the intrinsic merits of
+asset ownership and levered investment, one would think the benefits will be reduced in the years
+ahead. And merely riding positive trends by buying and levering may no longer be sufficient to produce
+success. In the new environment, earning exceptional returns will likely once again require skill in
+making bargain purchases and, in control strategies, adding value to the assets owned.
+
+Lending, credit, or fixed income investing should be correspondingly better off. As I mentioned in
+my December memo, the 13 years in question were a difficult, dreary, low-return period for credit
+investors, including Oaktree. Most of the asset classes we operate in were offering the lowest prospective
+returns any of us had ever seen. The options were to (a) hold and accept the new lower returns, (b) reduce
+risk to prepare for the correction that the demand for higher returns would eventually bring, or (c)
+increase risk in pursuit of higher returns. Obviously, all of these had drawbacks. The bottom line was
+that it was quite challenging to safely and dependably pursue high returns in a low-return world like the
+one we were experiencing.
+
+But now, higher prospective returns are here. In early 2022, high yield bonds (for example) yielded in the
+4% range - not a very useful return. Today, they yield more than 8%, meaning these bonds have the
+potential to make a great contribution to portfolio results. The same is generally true across the entire
+spectrum of non-investment grade credit.
+
+Asset Allocation Today
+
+My thinking about the sea change materialized mostly as I was visiting clients last October and
+November. When I got home, I wrote the memo and began to discuss its thesis. And at the December
+meeting of a non-profit investment committee, I said the following:
+
+ Sell off the big stocks, the small stocks, the value stocks, the growth stocks, the U.S.
+ stocks, and the foreign stocks. Sell the private equity along with the public equity, the
+ real estate, the hedge funds, and the venture capital. Sell it all and put the proceeds into
+ high yield bonds at 9%.
+
+This institution needs to earn an annual return of 6% or so on its endowment, and I'm convinced that if it
+holds a competently assembled portfolio of 9% high yield bonds, it would be overwhelmingly likely to
+exceed that 6% target. But mine wasn't a serious suggestion, more a statement designed to evoke
+discussion of the fact that, thanks to the changes over the last year and a half, investors today can get
+equity-like returns from investments in credit.
+
+The Standard & Poor's 500 Index has returned just over 10% per year for almost a century, and
+everyone's very happy (10% a year for 100 years turns $1 into almost $14,000). Nowadays, the ICE
+BofA U.S. High Yield Constrained Index offers a yield of over 8.5%, the CS Leveraged Loan Index
+offers roughly 10.0%, and private loans offer considerably more. In other words, expected pre-tax
+yields from non-investment grade debt investments now approach or exceed the historical returns
+from equity.
+
+And, importantly, these are contractual returns. When I shifted from equities to bonds in 1978, I was
+struck by a major difference. With equities, the bulk of your return in the short or medium term depends
+on the behavior of the market. If Mr. Market's in a good mood, as Ben Graham put it, your return will
+benefit, and vice versa. With credit instruments, on the other hand, your return comes overwhelmingly
+from the contract between you and the borrowers. You give a borrower money up front; they pay you
+interest every six months; and they give you your money back at the end. And, to greatly oversimplify, if
+the borrower doesn't pay you as promised, you and the other creditors get ownership of the company via
+the bankruptcy process, a possibility that gives the borrower a lot of incentive to honor the contract. The
+credit investor isn't dependent on the market for returns; if the market shuts down or becomes illiquid, the
+return for the long-term holder is unaffected. The difference between the sources of return on stocks and
+bonds is profound, something many investors may understand intellectually but not fully appreciate.
+
+It's been years since prospective returns on credit were competitive with those on equities. Now it's the
+case again. Should the non-profit whose board I sit on put all its money into credit instruments? Perhaps
+not. But Charlie Munger exhorts us to "invert," or flip questions like this. To me, this means allocators
+should ask themselves, "What are the arguments for not putting a significant portion of our capital
+into credit today?"
+
+Here I'll mention that, over the years, I've seen institutional investors pay lip service to developments in
+markets and make modest changes in their asset allocation in response. When the early index funds
+outperformed active management in the 1980s, they said, "We've got that covered: We've moved 2% of
+our equities to an index fund." When emerging markets look attractive, the response is often to move
+another 2%. And from time to time, a client tells me they've put 2% in gold. But if the developments I
+describe really constitute a sea change as I believe - fundamental, significant, and potentially long-
+lasting - credit instruments should probably represent a substantial portion of portfolios . . .
+perhaps the majority.
+
+What's the downside? How could this be a mistake?
+
+ • First, individual borrowers can default and fail to pay. It's the main job of the credit manager to
+ weed out the non-payers, and history shows it can be done. Isolated defaults are unlikely to
+ derail a well-selected and well-diversified portfolio. And if you're worried about a wave of
+ defaults hitting your credit portfolio, think about what the implications of that environment
+ would be for equities or other ownership assets.
+ • Second, by their nature, credit instruments don't have much potential for appreciation. Thus, it's
+ entirely possible that equities and levered investment strategies will surprise on the upside and
+ outperform in the years ahead. There's no denying this, but it should be borne in mind that the
+ "downside risk" here consists of the opportunity cost of returns forgone, not failing to achieve
+ the return one sought.
+ • Third, bonds and loans are subject to price fluctuations, meaning having to sell in a weak period
+ could cause losses to be realized. But credit instruments are far from alone in this regard, and the
+ magnitude of the fluctuations on "money-good" bonds and loans is constrained significantly by
+ the magnetic "pull to par" exerted by the promise of repayment upon maturity.
+ • Fourth, the returns I've been talking about are nominal returns. If inflation isn't brought under
+ control, those nominal returns could lose significant value when they're converted into real
+ returns, which are what some investors care about most. Of course, real returns on other
+ investments could suffer as well. Many people think of stocks and real estate as potentially
+ providing inflation protection, but my recollection from the 1970s is that the protection typically
+ takes hold only after prices have declined so as to provide higher prospective returns.
+ • Finally, the sea change could end up being less long-lasting than I expect, meaning the Fed takes
+ the fed funds rate back down to zero or 1% and the yields on credit recede accordingly.
+ Fortunately, by buying multi-year credit instruments, an investor can tie up the promised return
+ for a meaningful period (assuming the investment provides some degree of call protection).
+ Reinvesting will have to be dealt with upon maturity or call, but once you've made the credit
+ investments I'm suggesting, you will at least have secured the promised yield - perhaps minus
+ losses on defaults - for the term of the instruments.
+
+ * * *
+
+The overarching theme of my sea-change thinking is that, largely thanks to highly accommodative
+monetary policy, we went through unusually easy times in a number of important regards over a
+prolonged period, but that time is over. There clearly isn't much room for interest rate declines from
+today's levels, and I don't think short-term interest rates will be as low in the coming years as in the
+recent past. For these and other reasons, I believe the years ahead won't be as easy. But while my
+expectations may prove correct, there's no evidence yet on which I can hang my hat. Why not? My
+answer is that the economy and markets are in the early stages of a transition that's far from complete.
+
+Asset prices are established through a tug-of-war between buyers who think prices will rise and sellers
+who think they'll fall. There's been an active one over the last year or so as sentiment has waxed and
+waned regarding the outlook for inflation, recession, corporate profits, geopolitics, and especially a Fed
+pivot back to accommodation. The tug-of-war is ongoing, and, as a result, the S&P 500 is within a half
+percent of where it was a year ago.
+
+I've been thinking lately about the fact that being an investor requires a person to be somewhat of
+an optimist. Investors have to believe things will work out and that their skill will enable them to wisely
+
+position capital for the future. Equity investors have to be particularly optimistic, as they have to believe
+someone will come along who'll buy their shares for more than they paid. My point here is that
+optimists surrender their optimism only grudgingly, and phenomena such as cognitive dissonance and
+self-delusion permit opinions to be held long after information to the contrary has arrived. This is among
+the reasons why they say of the stock market: "Things can take longer to happen than you thought they
+would, but then they happen faster than you thought they could." Today's sideways or "range-bound"
+market tells me investors possess a good amount of optimism despite the worries that have arisen. In the
+coming months, we'll find out if the optimism was warranted.
+
+The positive forces that shaped the 2009-21 period began to change around 18 months ago. The higher
+inflation turned out not to be transitory. This brought on interest rate increases, concern that a recession
+would result, some resurrection of worry over the possibility of loss, and thus insistence on greater
+compensation for bearing risk. But while most people no longer see an outlook that's flawless, few think
+it's hopeless either. Just as optimism abetted a positive cycle in those 13 years, I believe a lessening
+of optimism will throw some sand into the financial gears in a variety of ways, some of which may
+be unforeseeable.
+
+In this latter regard, it's essential to acknowledge that since we haven't lived through times exactly like
+the years that lie ahead - and since changes in the economic/financial environment limit the applicability
+of history - we're likely to encounter surprises. And if the environment is less favorable, the surprises are
+likely to be on the downside.
+
+Please note, as mentioned earlier, that I'm absolutely not saying interest rates are going back to the high
+levels from which they've come. I have no reason to believe that the recession most people believe lies
+ahead will be severe or long-lasting. And with valuations high, but not terribly so, I don't think a stock
+market collapse can reasonably be predicted. This isn't a call for dramatically increased defensiveness.
+Mostly I'm just talking about a reallocation of capital, away from ownership and leverage and toward
+lending.
+
+This isn't a song I've sung often over the course of my career. This is the first sea change I've remarked
+on and one of the few calls I've made for substantially increasing investment in credit. But the bottom
+line I keep going back to is that credit investors can access returns today that:
+
+ • are highly competitive versus the historical returns on equities,
+ • exceed many investors' required returns or actuarial assumptions, and
+ • are much less uncertain than equity returns.
+
+Unless there are serious holes in my logic, I believe significant reallocation of capital toward credit
+is warranted.

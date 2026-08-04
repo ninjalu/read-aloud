@@ -1,0 +1,2206 @@
+Memo: Hey, Steward!!.
+
+Webster's defines a "steward" as a household manager, union representative, fiscal
+ agent or one who attends passengers while traveling. Some of these concepts have
+ become less relevant in today's world.
+
+ Before World War II, ocean voyage was the main mode of transportation abroad, and
+ the steward was someone passengers depended on for their welfare.
+
+ When plane travel took over from ships, it was the stewardess (and then in the 1980s,
+ the steward again) who played the same essential role. Of course, in the 1990s,
+ political correctness caused "stewardess" and "steward" to disappear in favor of
+ "flight attendant."
+
+ The trade union movement has depended heavily on the work of the shop steward, the
+ union representative closest to the men and women of the rank-and-file.
+
+ And when I started in the investment management business in the 1960s, those who
+ managed money for others thought of themselves - and were thought of - as stewards
+ of their clients' money. They aimed to protect their clients from loss and generate a
+ reasonable - even an attractive - return as long as it could be done with risk in check.
+
+ With the passage of time, I find I hear the word "steward" less and less. But in talking
+ about the mutual fund irregularities that have been exposed in the last few months, I
+ cannot help but borrow a phrase from Jack Bogle that employs it. (I wish I could coin the
+ phrases I use in these memos, but usually I find myself relying on the creativity of others.
+ In this case, I absolutely can't improve on Jack's way of putting it.) On November 8, The
+ Economist quoted him as saying, "Amassing assets under management became the
+ [mutual fund] industry's primary goal, and our focus shifted from stewardship to
+ salesmanship." (Emphasis added)
+
+ That's it. Right there. In a nutshell. Of course some of the late-trading incidents
+ involve individuals who simply took money out of their clients' pockets and put it
+ in their own (metaphorically). But in case after case - involving late trading and
+ other issues - mutual funds companies forgot their duty as stewards of other
+ people's assets, doing things that disadvantaged clients in order to build assets
+ under management for their own benefit.
+
+ Each of us faces the need to balance our own interests against those of others. The
+ salesman stresses the positives and soft-pedals the negatives to increase his
+
+ commissions. The head of a charity draws a salary that reduces the amount left for the
+ organization's good work. The doctor collects for his services, and the more he
+ charges, the fewer the people who can afford them. And we investment managers
+ charge management fees, and sometimes a percentage of the profits, that cut into our
+ clients' net return. We all want to increase our incomes, but it should be possible to
+ stick to the high road while doing so. The tradeoffs present challenges, but they can be
+ overcome.
+
+ I do not argue that mutual fund executives - or investment managers in general - should
+ be expected to serve in an eleemosynary capacity. Certainly Oaktree doesn't run on pure
+ altruism. Vanguard comes close to the ideal, as a non-profit organization owned by its
+ fund owners, but Vanguard's people take compensation, not vows of poverty. The
+ critical question in my mind isn't whether people make money, or even how much,
+ but what methods they employ to do so, how candid they are about those methods,
+ and how the inevitable conflicts of interest are resolved.
+
+ U What's Wrong With a Little Salesmanship?
+
+ My October memo "The Feeling's Mutual" argued that late trading wasn't the worst
+ thing going on in the mutual fund industry. Rather, it pointed to questionable long-term
+ practices relating to governance, marketing and compensation.
+
+ [Before I go further, I want to do something I failed to do in October: make clear that
+ neither my earlier memo nor this one is intended as a universal indictment of the mutual
+ fund industry. While there are questionable aspects to the industry's general practices
+ and some bad apples, there also are clean operators and even shining examples. I
+ apologize to any of the latter that feel I've treated them like the former. The good news
+ is that the money withdrawn from the bad apples is being reinvested in other mutual
+ funds, meaning the good citizens are being rewarded, as they should be.]
+
+ Recent months have brought disclosure of a variety of questionable asset-building
+ practices.
+
+ Revenue sharing - According to the Wall Street Journal of January 9, this is an
+ arrangement through which, in addition to any explicit sales compensation, "fund
+ companies give brokers a cut of their management fees to induce them to sell their
+ products." Many brokerage firms have a list of preferred funds or fund companies,
+ and often the funds pay to be on the list. The Journal reported, for example, that
+ Edward D. Jones & Co. "has selling arrangements with about 100 mutual funds, but
+ 90% to 95% of its fund sales come from the seven preferred companies who engage
+ in revenue sharing." Under revenue sharing, a brokerage firm can get a percentage of
+ the assets invested in the relevant funds or of the management fees (and in some
+ cases, of both).
+
+ Brokerage-for-sales deals - These were described by the Journal (January 13) as
+
+ "arrangements under which fund firms direct trades to . . . brokerages in returns for its
+ (sic) funds staying on their 'preferred list.'" Sometimes funds allocate commissions
+ to brokerage firms in order to pay off the revenue sharing obligations described
+ above.
+
+ Sales incentives - In its article on Jones, the Journal also reported "more than half of
+ the firm's brokers are invited on [Caribbean cruises and African-wildlife tours paid
+ for by fund companies on the preferred list], based on meeting certain overall sales
+ targets." At some brokerage firms, brokers have received higher commission rates
+ for selling funds that generate revenue sharing. Elsewhere, the commissions for
+ selling funds managed by the brokerage's in-house money management arm have
+ been higher than those on third-party-managed funds.
+
+ On January 13 the Securities and Exchange Commission said that 14 out of 15 broker-
+ dealers it examined had received cash payments from mutual fund companies. Is it
+ wrong for brokerage firms and/or their brokers to receive compensation for emphasizing
+ a company's funds? After all, supermarkets accept compensation from food companies
+ for giving them more desirable "shelf space." Isn't that a valid analogy?
+
+ The answer lies in the significant distinction between an ordinary businessman and a
+ trusted adviser. Supermarkets have no fiduciary duty to their customers, and customers
+ don't expect supermarkets to provide objective, professional advice regarding which
+ brands to buy. The opposite is true for stockbrokers.
+
+ Under securities laws, brokers are held to the high standard of trusted financial
+ advisors - not just salespeople - and must either offer objective advice or
+ properly disclose any serious conflicts. . . . "We recognize there is a conflict of
+ interests between the broker and the mutual fund investor," says Robert Plaze,
+ associate director of the SEC's Division of Investment Management. "That client
+ needs to understand the recommendation of their broker is being affected by these
+ payments." (Wall Street Journal, January 9)
+
+ How would you like to learn that the heart surgeon to whom your general practitioner
+ sent you had paid for the referral? That your banker recommended a trust-and-estate
+ lawyer in exchange for a holiday cruise? Or that the broker who suggested you buy a
+ certain fund was paid to do so?
+
+ "The deception is that the broker seems to give objective advice," says Tamar
+ Frankel, a law professor at Boston University who specializes in mutual-fund
+ regulation. "In fact, he is paid more for pushing only certain funds." (Ibid.)
+
+ The Los Angeles Times put it another way on January 18:
+
+ There are two ways to describe such payments, and both smell bad, said Don
+ Phillips, a principal at fund research firm Morningstar, Inc. in Chicago: They're
+ either bribes by mutual fund companies to spur sales, or they're blackmail by the
+
+ brokerages to do the same.
+
+ In the case of mutual funds that direct brokerage commissions to reward fund sales,
+ there's an additional alarming element: Not only is the fund company paying for a
+ recommendation, but it's making these payments with its client's money, not its
+ own. Commissions belong to the client. They should go to pay for things that benefit
+ the client, such as superior research or best execution. When they are used to reward
+ fund sales, their use benefits only the fund company.
+
+ Sunlight as Disinfectant
+ U
+
+ The solution is to inform clients of these practices. Where the interests of client and
+ broker are in conflict, the broker should disclose the conflict. In this case, he should tell
+ clients that he and his firm received special compensation for making the
+ recommendation they've made, or for having sold large amounts of certain funds. Fund
+ companies and brokers would respond that they've done just that.
+
+ The problem is that the SEC agreed that disclosure needn't be made directly by each
+ broker to each client. Instead, general disclosure in mutual fund prospectuses is enough.
+ Unfortunately, "legal disclosure" too often seems to be an oxymoron, guided
+ primarily by the question "how can we say something so as to minimize the likelihood
+ that the reader will understand what we said?" For example, according to the Journal of
+ January 9, " . . . Putnam typically discloses in its prospectuses that it may 'pay
+ concessions to dealers that satisfy certain criteria established from time to time by
+ Putnam Retail Management relating to increasing net sales of shares of Putnam funds
+ over prior periods, and certain other factors.'" Huh?
+
+ How many prospectus readers are capable of extracting the significance from that
+ sentence? How many know the meaning of the word "concession" in this context?
+ How many even read the last dozen "boilerplate" pages of a prospectus?
+
+ First, I think regulators should insist not on disclosure, but on effective disclosure.
+ Things should be expressed in everyday English, such that laymen can grasp their
+ significance. And the things that matter should be separated from the things that don't.
+
+ Second, disclosure of the conflicts between fiduciary and client should be made
+ directly by the fiduciary, and should be made clearly. How about, "The fund's
+ sponsor is paying me extra to recommend this fund to you"?
+
+ The Average Common Denominator
+ U
+
+ As I wrote in "The Feeling's Mutual," I think the most significant failing of the mutual
+ fund industry - and the area where the most sweeping changes hopefully will be seen -
+ relates to the governance responsibilities of fund directors. This can be looked at, for
+
+ example, in terms of the management fees paid by mutual funds.
+
+ I believe most of the mutual funds in a given market sector pay management fees (setting
+ aside administrative expenses and marketing charges) significantly above those paid by
+ institutional accounts of comparable size. While the cash inflows and outflows
+ experienced by mutual funds may cause higher turnover - and thus more work for
+ portfolio managers and back office personnel - the successful funds also see asset
+ growth. So I see no justification for higher fee rates.
+
+ It's the job of fund directors to police fees and ensure that they're justified and fair. Do
+ they do this? Do they actively resist requests for increases or pursue reductions? Who
+ goes to the mat on behalf of the fund holders to keep down the management fees? With
+ fund boards often headed by current or retired management company executives, how
+ vigorous are the efforts to minimize fees?
+
+ Here's what I think is a typical response, from John Hill, independent board chairman
+ for the more than 100 mutual funds operated by Putnam: "We spend a lot of time
+ looking . . . at costs. We've had a rule for years that fund expenses can't be any
+ higher than the median expenses of comparable funds across the industry." (WSJ,
+ January 13, emphasis added.)
+
+ In other words, the directors aren't concerned about whether fees are fair or
+ justified. Or whether they're comparable to institutional account fees. They just
+ look at how their funds' fees stack up against those of other funds. So if the average
+ mutual fund in a given sector pays its management companies a fee well above the
+ institutional rate, they're willing to do so also.
+
+ Suppose you wanted to invest $1 million of your own in high yield bonds. If you learned
+ that a high yield mutual fund charges a .65% management fee while institutional
+ managers charge .50%, you'd probably choose the latter. The knowledge that every high
+ yield mutual fund charges .65% likely wouldn't alter your decision. But mutual fund
+ directors seem to derive great comfort from it.
+
+ Last week I conducted an empirical study by accessing the websites of the first nine high
+ yield mutual funds that came to mind. The management fees on seven of these multi-
+ billion dollar funds exceeded the institutional norm of .50%, ranging from .58% to .75%
+ and averaging .65%. I wonder what those funds' managers charge institutional accounts
+ of similar size.
+
+ I've often heard the rejoinder that the "little guy" with $50,000 to invest can't get into a
+ top institutional manager. And even if he could, he couldn't access the lowest fees. Thus
+ it's reasonable that he pays fees above institutional rates - he can't do any better. But the
+ fund could. Why shouldn't the aggregation of 1,000 little guys, each with $50,000,
+ pay the same fee as an institution investing $50 million?
+
+ In this year's Berkshire Hathaway annual report, Warren Buffett shares his observations
+
+ regarding mutual funds. "Year after year, at literally thousands of funds, . . . the directors
+ had mindlessly approved fees that in many cases far exceeded those that could have been
+ negotiated." In response, he proposes independent fund directors affirm each year that
+ "we have negotiated a fee with our managers comparable to what other clients with
+ equivalent funds would negotiate." We'll see if they do.
+
+ Are fund directors and executives putting their clients' interests first? Are they acting as
+ the stewards of their clients' assets? Is there room for improvement? I feel there'll be a
+ lot of scrutiny on this subject in the months ahead. Hopefully all mutual funds and their
+ directors will end up acting a lot more like stewards.
+
+ The New Math: 4 + (12b-1) = 3
+ U
+
+ Back in 1980, some genius figured out a way for the mutual fund companies to extract
+ more from their funds: use investors' assets to pay the costs of fund distribution. Rule
+ 12b-1 was adopted, permitting charges against fund assets for this purpose. According
+ to a Morningstar report of January 6, "The rule was introduced following a period of
+ substantial outflows for the fund industry and was intended to help funds grow their
+ assets."
+
+ It was felt that asset growth would benefit funds and their investors, and thus it would be
+ proper for investors to bear some of the cost. According to the rule:
+
+ A [mutual fund] company may implement or continue a [12b-1] plan . . . only if
+ the directors who vote to approve such implementation or continuation conclude,
+ in the exercise of reasonable business judgment and in light of their fiduciary
+ duties . . . that there is a reasonable likelihood that the plan will benefit the
+ company [i.e., the fund] and its shareholders.
+
+ As Morningstar puts it, "the latter phrase would seem to require that the fee will result in
+ more assets, and ultimately lower costs - otherwise, there is no benefit to the fund" (or
+ its investors). Of course, fund companies would have a clear conflict: more expense
+ reimbursement for them would translate directly into lower asset values for their
+ investors. The SEC recognized this conflict and stated in the release accompanying the
+ rule that it remained "generally concerned about (1) the conflicts which may exist
+ between the interests of a fund and those of its investment adviser in deciding whether a
+ fund should pay its distribution costs, (2) the likelihood that the fund will benefit from
+ paying such costs, and (3) fairness to existing shareholders."
+
+ Thus the SEC required that 12b-1 fees be approved by majorities of the full board, the
+ disinterested (i.e., independent) directors, and the fund's shares. It went on to state that,
+ "Since rule 12b-1 does not restrict the kinds or amounts of payments which could be
+ made, the role of the disinterested directors in approving such expenditures is
+ crucial." (Emphasis added)
+
+ Based on data contained in Morningstar's excellent report, the results in this regard
+ are not encouraging:
+
+ Of the 15,774 funds tracked by Morningstar, 9,981, or 63%, charge 12b-1 fees.
+ Of 4,556 12b-1 funds for which there is at least five years of data on expense
+ ratios, 66.2% showed an increase in the expense ratio over the last five years.
+ The percentage of funds showing expense ratio increases was roughly the same in
+ 12b-1 funds as in non-12b-1 funds, but the average increase for the 12b-1 funds
+ was slightly greater than for the non-12b-1 funds.
+ When looked at for nine years, the comparison is more negative. 12b-1 funds
+ showed expense ratio increases more often than non-12b-1 funds, and the
+ differential between the increases in the two groups was more unfavorable.
+
+ As Morningstar puts it, "The above data strongly suggest that 12b-1 fees do not help
+ funds materially reduce their expense ratios over time any more than would otherwise be
+ the case, and may, in fact, do the opposite."
+
+ The fund companies have successfully transferred some of the costs of distribution to the
+ funds' investors, using 12b-1 fees primarily to pay brokers in order to increase assets and
+ benefit the fund companies. But there is no evidence - certainly not in the form of
+ decreasing expense ratios - that they benefit investors, as they're supposed to. Despite
+ this, Morningstar says, "Even as funds grow, their 12b-1 fees don't usually decrease or
+ go away."
+
+ Why are 12b-1 fees so widespread and so persistent? And what's the reasoning of
+ the independent directors who approve them? How do the directors feel about the
+ buy-and-hold investor who invests in fund shares and pays distribution fees for the
+ next twenty years? At best, I'm afraid, the director's answer regarding 12b-1 fees
+ can only be the same as it is on management fees: "Our practices are no worse than
+ those of our competitors."
+
+ One gem on which to close: currently, 12b-1 fees are being collected by 227 mutual
+ funds (or classes of multiple-share-class funds) that are closed. How can the
+ directors of funds that aren't trying to attract new investors justify the continuing
+ imposition of fund distribution charges? How can they possibly interpret this as
+ fulfilling their responsibilities to the funds' investors? Who do these directors
+ represent?
+
+ U What Else?
+
+ I want to make it clear that just as I do not universally indict mutual fund executives
+ and directors, I don't think stewardship problems exist only in the mutual fund
+ industry. Most of the shortcomings disclosed in the corporate scandals of 2001-02 -
+ in Enron, WorldCom, Adelphia, HealthSouth and Tyco - stemmed from the failure of
+ executives to act on behalf of the shareholders who own the companies, and from the
+
+ failure of directors to police the executives.
+
+ The examples are endless: excessive compensation, unwarranted expenditures, phony
+ accounting, and transactions intended only to deceive or obfuscate. In general,
+ executives forgot that they run companies for their owners and instead tried to turn them
+ into personal piggybanks. Or they decided to eschew honest reporting in order to hype
+ results and thus their own economics. Directors of these companies haven't been accused
+ of wrongdoing, just underachieving. They were too complacent and obliging, and thus
+ asleep at the switch. As Warren Buffett says, "sadly 'boardroom atmosphere' almost
+ invariably sedates their fiduciary genes."
+
+ The fundamental questions regarding corporate directors and executives are the same as
+ those I proposed earlier regarding mutual funds: How much ends up in the pockets of the
+ company and its owners, and how much in the pockets of the stewards? What means are
+ used to accomplish this "wealth transfer"? How much is disclosed, and how clearly?
+
+ A number of thought-provoking examples were discussed in the Wall Street Journal of
+ December 29, under the headline "Many Companies Report Transactions With Top
+ Officers; 'Related Party' Deals Disclosed By 300 Large Corporations; Potential for
+ Conflict." The article discussed not the headline-grabbing misdeeds of the scandal era,
+ but matters that are routine at America's largest corporations. Often called "related-party
+ transactions," they represent deals through which directors or executives receive benefits
+ beyond their standard compensation. Of course, there's only one possible source for this
+ enrichment: the companies and their shareholders. The Journal and I draw no conclusion
+ about whether these things are proper. But they certainly can serve as fodder for
+ discussing the performance of stewards. Here are a few examples:
+
+ A company employs or has business ties with 17 relatives of senior officials.
+ An executive is reimbursed for making business trips on his airplane.
+ A company buys "financial advisory services" from a director's company.
+ Directors receive hundreds of thousands of dollars in consulting fees, above and
+ beyond their directors' fees. The fees reward the director/consultants for supplying
+ "general information" or "maintaining and enhancing the company's strategic
+ alignment." In the latter case, the recipient happens to be the company's second-
+ biggest shareholder.
+ A lawyer serves on a corporate board, and the company gives legal work to his firm.
+ The son-in-law of a former board chairman runs a real estate joint venture involving
+ the company, to which the company guarantees a minimum level of profitability.
+ A company sells an amusement park to its controlling shareholder, with the buyer
+ paying half the purchase price in the form of passes to the amusement park he just
+ bought.
+
+ The Journal put it succinctly. "All these deals present the risk of conflicts between
+ a company official's two roles: representative of the shareholder and individual
+ seeking to get the best deal for himself." They raise significant questions:
+
+ Are these deals negotiated at arm's length? Are the terms the best the company can
+ get?
+ Who negotiates on behalf of the shareholders? How vehemently?
+ Where a deal is proposed by a shareholder or shareholder/director with a dominant
+ ownership position, who stands up for the minority shareholders?
+ How can we be sure director A won't simply vote for director B's excessive deal in
+ exchange for director B returning the favor?
+ As I mentioned above, there has been no allegation - even in Enron, Tyco and
+ Adelphia - of actual director impropriety. Rather, the questions surround the energy
+ put into governance.
+ After working together for many years, directors develop congenial relationships with
+ each other and with the executives. How strongly will they then fight to resist
+ questionable transactions between the company and their colleagues?
+ Directors' fees can run into the hundreds of thousands, perhaps with stock options
+ and perks in addition. Will a director risk this package to fight for some faceless
+ shareholders?
+ In short, can a director who serves at the pleasure of the chairman police the chairman
+ and his other handpicked directors and executives? How can directors be guaranteed
+ the independence that shareholders need them to have?
+
+ The industrial economy achieved great strides because of a number of advances, one of
+ which was the separation of management from ownership (and the accompanying
+ development of a class of professional managers). The caveat, of course, is that
+ managers and directors must serve diligently as stewards, protecting the interests of
+ the firm's absentee owners. The system only works if the stewards - entrusted with
+ responsibility on behalf of others - are up to the task.
+
+ The Bottom Line
+ U
+
+ As you prepare your estate plan, you count on fiduciaries - lawyers, accountants,
+ executors and trustees - to ensure that your assets will be disposed of as you intend.
+ Would you want one of those fiduciaries to buy assets directly from your estate? Rent
+ office space to your estate? Employ his relatives to serve your estate, for additional fees?
+ Enter into a joint venture with the company you left behind? You'd expect the stewards
+ of your estate to be "purer than Caesar's wife." Even with motivations that are
+ entirely honorable, it would be impossible for your fiduciaries to simultaneously
+ represent themselves and your heirs on opposite sides of a transaction and still
+ maintain both the fact and the appearance of fairness. Thus they must content
+ themselves with the compensation they've been assigned by you or by law. They must
+ resist the temptation to do business with your estate in a way that could benefit them
+ further . . . and to possibly move a little from your heirs' pockets to their own. We must
+ expect no less from the stewards that we and our companies do business with every day.
+
+ In my memos I try to resist citing Oaktree as the paragon of virtue. But when we
+ founded our company, we established an acid test that we routinely rely on to keep us
+
+ on the right track. It was stated in our original brochure in 1995, and it has served us
+ well ever since.
+
+ It is our fundamental operating principle that if all of our practices were to
+ become known, there must be no one with grounds for complaint.
+
+ To put it more simply, we assume everything we do will show up on "page one"
+ some day - that nothing will remain a secret. Will there be a negative reaction?
+ Will anyone object? It's a simple test, but it seems every day that the newspapers
+ describe someone whose actions could only have been premised on the assumption that
+ no one - not media, shareholders, clients, auditors or regulators - would learn the truth.
+
+ Will directors approve of executives' actions? Will shareholders feel that directors did
+ their job correctly? Will clients conclude that fiduciaries have put responsibility to them
+ ahead of their own interests? We think the standards for stewards' behavior are pretty
+ clear cut, which means making these assessments shouldn't be that hard.
+
+
+Memo: Us and Them.
+
+As a kid, I - and probably you - viewed the world in simple terms. There were good guys and
+bad guys. Americans and commies. Cops and robbers. Settlers and redcoats. The Dodgers I
+cheered for and the Yankees who always won. Over time my view of the investment
+community has settled into an equally clear distinction: us and them.
+
+You've heard a lot from me about the difference between the "I know" school and the "I don't
+know" school, concepts I introduced in "What's It All About, Alpha?" (July 2001) and
+elaborated on in "The Realist's Creed" (May 2002). In the last few years it has become clear to
+me that "we" don't differ from "them" just in terms of how much we think we know about the
+future, but in many other ways as well.
+
+Do You Know or Don't You?
+U
+
+Most of the investors I've met over the years have belonged to the "I know" school. This was
+particularly true in 1968-78, when I analyzed equities, and even in 1978-95, when I had
+switched to non-mainstream investments but still worked at equity-centric money management
+firms.
+
+It's easy to identify members of the "I know" school:
+
+ They think knowledge of the future direction of economies, interest rates, markets and
+ widely followed mainstream stocks is essential for investment success.
+ They're confident it can be achieved.
+ They know they can do it.
+ They're aware that lots of other people are trying to do it too, but they figure either (a)
+ everyone can be successful at the same time, or (b) only a few can be, but they're among
+ them.
+ They're comfortable investing based on their opinions regarding the future.
+ They're also glad to share their views with others, even though correct forecasts should be
+ of such great value that no one would give them away gratis.
+ They rarely look back to rigorously assess their record as forecasters.
+
+"Confident" is the key word for describing members of this school. For the "I don't know"
+school, on the other hand, the word - especially when dealing with the macro-future - is
+"guarded." Its adherents generally believe you can't know the future; you don't have to
+know the future; and the proper goal is to do the best possible job of investing in the
+absence of that knowledge.
+
+UThe Benefits of Membership
+
+As a member of the "I know" school, you get to opine on the future (and maybe have people
+take notes). You may be sought out for your opinions and considered a desirable dinner guest
+. . . especially when the stock market's going up.
+
+Join the "I don't know" school and the results are more mixed. You'll soon tire of saying "I
+don't know" to friends and strangers alike. After a while, even relatives will stop asking where
+you think the market's going. You'll never get to enjoy that 1-in-1,000 moment when your
+forecast comes true and the Wall Street Journal runs your picture. On the other hand, you'll be
+spared all those times when forecasts miss the mark, as well as the losses that can result from
+investing based on over-rated knowledge of the future. But how do you think it feels to have
+prospective clients ask about your investment outlook and have to say, "I have no idea"?
+
+For me, the bottom line on which school is best comes from the late Stanford behaviorist, Amos
+Tversky: "It's frightening to think that you might not know something, but more
+frightening to think that, by and large, the world is run by people who have faith that they
+know exactly what's going on."
+
+0BU "A group of related or coincident things, events, actions, etc."
+
+Random House's secondary definition for the word "syndrome," shown above, suggests a set of
+elements that can be viewed separately but take on greater meaning when considered together.
+And the more I think about it, the more I see such a pattern in the contrasting styles of
+investment industry participants.
+
+Investors don't just differ in regard to their views on foreknowledge, but in terms of a large
+number of elements. And the pattern among those elements seems to be consistent - correlated
+- not random. Ask yourself, for example, whether the "I don't know" school is evenly divided
+between bulls and bears. Maybe, but in my experience, members of the "I don't know" school
+tend to trust less in the market than those of the "I know" school. That's an example of the
+pattern, or syndrome, that I think investors tend to demonstrate in many regards.
+
+In my memo "Returns and How They Get That Way" (November 2002), I gave examples from
+a brilliant dichotomization propounded by Nicholas Taleeb. His book, "Fooled By
+Randomness," has as its theme the pervasive role of luck in investing and the tendency of
+people to overlook its effect. He provides a table that shows a number of things in the first
+column that can easily be mistaken for things in the second column.
+
+ Luck Skill
+ Randomness Determinism
+ Probability Certainty
+ Belief, conjecture Knowledge, certitude
+ Theory Reality
+ Anecdote, coincidence Causality, law
+ Survivorship bias Market outperformance
+ Lucky idiot Skilled investor
+
+My point here, and my reason for reproducing part of Taleeb's table, is my belief that there are
+people who see the things on the left, and there are people who see the things on the right,
+but few who see some of each. Some people think their ability to infer causality and analyze
+data makes them skilled investors capable of producing consistent outperformance. Others
+understand that luck plays a big part; that a lot of apparent causality is really coincidence; and
+that the person crowned the most skilled investor in a given year might be nothing more than a
+"lucky idiot." Very few people mix aspects from both columns.
+
+I can think of many qualities that seem to go together to define one of the two main types
+of investor but not the other. I'll discuss them below and attribute them to either the
+"Oaktree-style" investors with whom I tend to associate - "us" - or the other sort of investor -
+"them."
+
+ Personality Type
+
+It would be great to either be middle-of-the-road and dispassionate all the time or, better yet,
+bullish or bearish at just the right time. But few people can achieve either of those ideals. Most
+investors are congenitally either bullish or bearish, and I've never seen anyone capable of
+flipping in an adroit and timely manner from one to the other. For most of us, it's either bullish
+most of the time or bearish most of the time - right or wrong.
+
+For many of the outstanding investors I've come across, it's the latter. And I shouldn't say
+bearish - I've just used that word as shorthand for a number of others. But the "us-style"
+investor tends to be cautious and defensive, while the "they-style" investor tends to be
+optimistic, confident and aggressive.
+
+And the investors I like most are patient. Because they know they can't be right every time,
+their real concern is with the long run. On the other hand, the "I know" investor feels he has a
+good handle on what lies ahead and thus plans to do an above-average job every year - an
+admirable goal, perhaps, but I don't think highly achievable.
+
+ Hunt for Upside or Avoid Downside?
+
+One of the most significant ways in which these differences manifest themselves is in terms of
+attitude toward risk. If you're confident that you know what the future holds, risk isn't
+frightening. But if you're convinced that you don't have that good a handle on the future, it's
+hard to be very cocky.
+
+Our kind of investor is preoccupied by risk, whereas I think the other is often oblivious to it.
+Our kind worries about what can go wrong, while the other revels in what might go right. Ours
+tries to avoid mistakes, and the other concentrates on finding winners. Ours obsesses about
+the losers he might buy or hold, while the other dwells on the opportunities he might miss.
+In short, it's offense versus defense.
+
+ Other Aspects of Investment Style
+
+The optimist tends more often than not to be a growth investor; he's confident that above-
+average growth can be perpetuated and that he can identify the companies that'll do so. The
+more cautious investor looks for value - for tangible attributes that can be counted on for price
+support even if confidence in the company proves to be unwarranted.
+
+Our school of investing puts great emphasis on being a contrarian. If you want to buy
+something of solid value, and you want to buy it for less than it's worth, you'll have a better
+chance if you look among assets, companies and markets that are out of favor. Thus we're
+happiest when we're not part of the herd; we prefer to watch the herd's extreme boom-bust
+behavior and profit from its mistakes. Most other investors seem to be happy when they're part
+of the herd and following the trend.
+
+Our kind of investor likes to average down. He holds a firm view of his securities' value and
+wants to increase his holdings at lower prices. Thus he likes to see prices decline (although he's
+not cocky enough to completely dismiss the possibility that the market's right rather than him).
+The trend follower wants to see appreciation and is disheartened by initial declines. In fact, I
+think he prefers to average up as appreciation validates his thesis.
+
+Certain that his forecasts are right and his portfolio is properly positioned, the "I know" investor
+wants to let his profits ride. The "I don't know" investor is painfully aware of how much he
+doesn't know; how much of his performance is beyond his control; that good fortune may have
+contributed to his results to date; and that events can easily turn against him. Thus he's happy
+taking profits and banking some of his gains. If appreciation occurs beyond his expectations, it
+makes him stop and think . . . and maybe sell, not just celebrate.
+
+The "we" investor is comfortable holding cash when he can't find attractive investments. At the
+present time, a number of the investors I most respect are holding or returning significant
+amounts of cash, or closing their funds. The confident "them" investor is pained by cash - he
+thinks he always should be able to find something worth buying. And he tends to be more
+relative-return oriented, and thus worried that an index or competitor might beat him if he isn't
+fully invested.
+
+I see an extreme dichotomy in the fact that the "us" investor worries about losing money, while
+the other worries about underperforming. (I can't claim to be 100% the former, because I - and
+most of Oaktree's clients - think that in the long run, the best manager is the one who beats the
+others. That's something that's hard to argue with. But my desire for relative performance
+doesn't make me comfortable with losses.)
+
+Lastly, because the "I don't know" investor is highly conscious of his limitations, he is likely to
+aggressively limit his assets under management. Most of the "I know" investors, who tend to
+work in the more liquid mainstream markets, never met a dollar of AUM they didn't like - or
+didn't feel they could achieve great things with.
+
+UAttitudes Toward the Market
+
+The actions of "they" investors are often driven by their views regarding the outlook for the
+market. They invest more aggressively when the outlook's positive than they do when it's
+negative (although, as I said before, they're usually positive). "We" investors tend to invest
+from the bottom up, primarily basing investment decisions on whether attractive individual
+investment opportunities are available.
+
+In fact, I'm often struck by the fact that "they" are preoccupied with studying and assessing the
+behavior of "the market" - which collectively means studying themselves. My favorite
+investors - both inside and outside Oaktree - spend their time almost exclusively looking into
+individual companies and their securities.
+
+One of the greatest dichotomies is that "they" impute intelligence to the market while "we" are
+highly skeptical of it. Trillions of dollars were lost after 1998-99 because the mass of investors
+hadn't sufficiently questioned the valuations of tech stocks. They'd been told, "The market's
+efficient" and assumed that if a stock was selling at a price, that meant the price was justified.
+The investors I respect feel the market's often wrong - either underpricing or overpricing
+securities - and more than anything else, they look for opportunities to profit from those
+errors. In their view, as Dickens said about the law, "the market's an ass."
+
+4BU So Where Do We Stand Today?
+
+The market is a big arena where optimists and pessimists engage in a tug of war. When
+optimism is rising relative to pessimism, meaning more money wants to get put to work than
+wants to exit, prices rise (and vice versa). The market has been going roughly sideways for the
+last few months, meaning the two camps are in rough balance. But that doesn't mean they're
+not both out there.
+
+Everyone had a great year in 2003, and "they" seem to think it's going to continue. They're
+cheered by signs of economic recovery, corporate profit gains and job growth. "We," on the
+other hand, worry about the things that could result in disappointment, like the lackluster
+economic and employment gains, and the trade and budget deficits. We also worry about
+structural issues, such as the US's reliance on foreign capital, the questionable outlook for the
+dollar, and the consumer's high level of indebtedness and low level of savings. Lastly, we feel
+the possibility of domestic terrorism hangs out there like a sword of Damocles.
+
+A particularly striking difference can be seen in current attitudes toward interest rates.
+Rates do a great deal to influence the vitality of the economy and the price and relative
+attractiveness of market sectors. Today's low rates encourage growth and borrowing. They
+also reduce the competition to stocks posed by bonds and money market securities. Finally,
+since interest rates are used in present value calculations to discount future cash flows, lower
+interest rates result in higher valuations for all assets.
+
+Obviously, then, today's record low rates go a long way to explaining what's going on in the
+investment world. With money market securities yielding 1% and Treasury notes at 3-4%,
+yields of 6-8% on high yield bonds look attractive; market-neutral hedge funds look like a
+bonanza at 9-11%; and expectations of 15-20% are enough to attract money to private equity
+
+(rather than the old 25-30%). Just as importantly, low interest rates lower the hurdle return for
+equities and justify p/e ratios in the high 20s.
+
+What sums it up is the line that "stocks aren't overpriced given the current level of
+interest rates." "They" derive comfort from the fact that today's valuations are consistent with
+today's rates, while "we" worry about the impact on valuations that a rise in rates would have.
+
+Rates can't go down all that much, but there's plenty of room for them to go up. (I still
+have the framed notice from 1980 telling me that the rate on my bank loan had reached 221⁄4%!)
+That tells me that p/e ratios can't rationally go up much more but there's plenty of room
+for them to go down. And if we ignore the threat of a rate rise and merely assume that rates
+will hold steady, the resulting return on the average stock would be just in line with normal
+profits growth in mid-single digits.
+
+So the optimist is cheered by the low rates (and their stimulative power), and the pessimist is
+concerned about the risk implicit in a possible rate rise. Or, as it seems to me, "we" worry
+about valuations and "they" feel comfortable on the subject . . . as usual.
+
+ How About an Example
+
+Rather than hold up my Oaktree colleagues as exemplars of astute "us-style" investors (which I
+think they are), I'd like to propose an unnamed investor for your consideration. I'll tick off his
+credentials for inclusion (as I see them) and throw in a few quotes from his recent writings.
+
+ He never bases his investment actions on forecasts for the economy or market. ". . . the
+ cemetery for seers has a huge section set aside for macro forecasters. We have in fact made
+ few macro forecasts . . , and we have seldom seen others make them with sustained
+ success."
+
+ Rather, his actions are strictly determined by the availability of attractive investment
+ opportunities. "Under any market or economic conditions, we will be happy to buy
+ businesses that meet our standards."
+
+ He's a solid investor in value - be it derived from current cash flow, unique market position
+ or special human resources.
+
+ Because of his risk awareness and desire to avoid losers, he always insists on a generous
+ "margin of safety."
+
+ He is absolutely unconcerned if an index or competitor outperforms him for a year or two,
+ but he insists on avoiding losses. Losing less than his competitors is not his definition of
+ success.
+
+ When attractive investment opportunities are few, he's willing to stand at the plate with the
+ bat on his shoulder - something he says he's doing a lot of nowadays. In 2003, that caused
+ his holdings of cash to triple. "Our capital is underutilized now . . . . It's a painful
+ condition to be in - but not as painful as doing something stupid."
+
+ He seems happiest when betting against the herd. For example, on the subject of distressed
+ bonds, he says "yesterday's weeds" (which yielded 30-50% in 2002), are being priced as
+ "today's flowers" (and thus yielding 4-6%). He's written me that he "liked them better
+ when they were weeds."
+
+ Certainly he's a patient long-term investor (and, in fact, not much of a profit taker; he
+ U U
+
+ recently expressed some regret about having not sold during The Great Bubble).
+
+ He is very conscious of the effect of increased capital on investment returns. "When [a
+ manager] tells you that increased funds won't hurt his investment performance, step back:
+ His nose is about to grow."
+
+There are lots of ways to skin the cat, and certainly there are successful investors among
+"them." But the characteristics enumerated above have provided the foundation for
+Warren Buffett's incredible record, and that makes them good enough for me.
+
+ * * *
+
+To help you see the picture I'm suggesting and evaluate the investors you come across, I've
+prepared the quick-and-dirty checklist that appears on the following page. Few people will hit
+every point on the head, but I think you'll recognize in the list on the left a lot of the "they"
+school investors you know, and on the right, hopefully, a few from the "us" school. Each year
+- especially in good times - the headlines will go to those on the left who guess correctly.
+But in the long run I think it's people on the right who'll be celebrated most.
+
+In today's trend toward hedge funds, I see a growing preference - whether conscious or
+unconscious - for "us" investors over "them." Consistent, risk-conscious, non-market-
+based investing is enjoying great popularity right now. I've considered it the ticket for
+almost three decades.
+
+And by the way, I have one last thing to say: vive la difference!! In order for us to be
+ U U
+
+contrarians, there has to be someone to be contrary to. If everyone invested our way, the
+opportunities we prize would be few and far between. The best opportunities for investment
+returns aren't created by companies, exchanges or paper securities; they result from the
+mistakes other investors make. It's Oaktree's job to take advantage of them.
+
+P.s.: As I wrote this memo, one thing pained me, and I want to address it: I found myself
+constantly writing "he," even though I absolutely do not think investing skill is gender-related.
+It's just that I hate the thought of using "he/she" each time. (My son Andrew's school uses
+s/he.) And I find ungrammatical today's popular, gender-neutral formulation that "the top-
+performing investor finds that their gains come from hard work" - a plural pronoun substituting
+for a singular noun. So please bear with me; I'm really an equal opportunity memo writer.
+
+ UTHEM U US
+ U U
+
+"I know" "I don't know"
+Bullish by nature Bearish by nature
+Aggressive Defensive
+Confident Guarded
+Comfortable with risk Obsessed with risk
+What might go right? What might go wrong?
+Worried about winners missed Worried about losers bought
+Trend followers Contrarians
+Attracted to pretty flowers Glad to search among the weeds
+Comfortable when part of the crowd Happy when apart from the crowd
+Growth/momentum investors Value investors
+"Great things cost a lot" Insistent on buying cheap
+Believers Skeptics
+"We're in a new era" "Trees don't grow to the sky"
+Cheered by appreciation Frightened by excessive appreciation
+Enjoy averaging up Enjoy averaging down
+"Let it ride" Eager to take profits
+Relative return-oriented Absolute return-oriented
+Worried about underperforming Worried about losing money
+Pained by cash Comfortable with cash
+Confident in their powers Aware that much is beyond their control
+Convinced that their good returns Highly conscious of the role
+ are fully deserved played by luck
+Impatient Patient
+Short term-fixated Long term-oriented
+Never worried by large amounts Aware that it's possible to have
+ of capital too much capital
+Engrossed in watching the market Devoted to watching companies
+"The market's efficient" "The market's an ass"
+
+Everything's okay:
+U U U Worries abound: U
+
+Economic recovery underway Movement of jobs overseas
+Corporate profit gains Gaping trade deficit
+Increases in productivity Growing budget deficit
+Continuing foreign investment Reliance on foreign capital
+Ability of weak dollar to bolster exports Threat to value of the dollar
+Existence of job growth Halting nature of job growth
+Optimism implied by willingness to borrow Consumers' high debt/low savings
+Strong military capability Risk of terrorism
+Low level of interest rates Risk of interest rate rise
+Today's security prices are justified Today's security prices are reliant
+ by low rates on rates staying low
+
+
+Memo: The Happy Medium.
+
+My second general memo to clients was dated April 11, 1991 and imaginatively titled "First Quarter
+Performance." It primarily discussed the swing of the market pendulum. I may be biased, but I'm
+pleased with what it says and, thirteen years later, wouldn't change a word.
+
+ The mood swings of the securities markets resemble the movement of a pendulum.
+ Although the midpoint of its arc best describes the location of the pendulum "on
+ average," it actually spends very little of its time there. Instead, it is almost always
+ swinging toward or away from the extremes of its arc. But whenever the pendulum
+ is near either extreme, it is inevitable that it will move back toward the midpoint
+ sooner or later. In fact, it is the movement toward the extreme itself that supplies the
+ energy for the swing back.
+
+ Investment markets make the same pendulum-like swing:
+
+ between euphoria and depression,
+ between celebrating positive developments and obsessing over negatives,
+ and thus
+ between overpriced and underpriced.
+
+ This oscillation is one of the most dependable features of the investment world, and
+ investor psychology seems to spend much more time at the extremes than it
+ does at the "happy medium." (Emphasis added)
+
+Although I've learned a great deal in the time since that memo was published, I still think the
+paragraphs excerpted above capture almost the entire essence of market movements.
+
+I continue to believe that cycles are inevitable, often profound, and the most reliable feature of
+the business and investment worlds. In November 2001 I wrote a memo on this subject entitled
+"You Can't Predict. You Can Prepare." (It didn't generate any reader reaction, even though I
+thought its contents were important.) The memo discussed some of the cycles that affect the
+investor:
+
+ The economic cycle evidences moderate fluctuations (although their impact can be profound).
+ Viewed on a long-term graph, it looks like a gentle wave.
+
+ The business cycle responds to developments in the economy with a more pronounced effect,
+ rising and falling as consumers and businesses loosen and tighten their purse strings.
+
+ The profits cycle reflects an exaggerated reaction to changes in the amount of business
+ companies are doing, primarily because of the twin influences of operating leverage (such that
+
+ operating profits change more than revenues) and financial leverage (such that net income
+ changes more than operating profits).
+
+ The credit cycle moves dramatically, usually oscillating between periods when the capital
+ markets are wide open and periods when they're slammed shut.
+
+ The market cycle reacts violently, as investor psychology magnifies all of the above. Security
+ prices yo-yo in what can often be described as extreme over-reaction.
+
+Everyone's aware of these cycles and their influence on the markets, but it's important that their
+essence and origin be thoroughly understood. For me that means delving into human nature and
+emotion. The theme of this memo will be that the cyclical phenomena that so heavily influence
+our investment outcomes aren't caused by the operation of institutions or physical laws.
+Rather, they largely result from people's frailties and excesses. A thorough understanding of
+these things can increase an investor's ability to achieve gains and avoid losses.
+
+ Greed or Fear
+
+When I was a rookie analyst, we heard all the time that "the stock market is driven by greed and
+fear." When the market environment is in healthy balance, a tug-of-war takes place between
+optimists intent on making money and pessimists seeking to avoid losses. The former want to buy
+stocks, even if they have to pay a price a bit above yesterday's close, and the latter want to sell
+them, even if it's on a downtick.
+
+When the market doesn't go anyplace, it's because the sentiment behind this tug-of-war is evenly
+divided, and the people - or feelings - on the two ends of the rope carry roughly equal weight. The
+optimists may prevail for a while, but as securities are bid up they become more highly priced, and
+then the pessimists gain sway and sell them down. The result is a market that rises or falls
+moderately if at all - not unlike the experience so far this year. For example, as The Wall Street
+Journal wrote on May 17,
+
+ The Dow Jones Industrial Average has been down for three weeks in a row, . . .
+ Still, a determined group of optimists has refused to throw in the towel, stepping in
+ to buy what they view as cheap stocks whenever prices began to plummet. On
+ Wednesday, when the Dow Industrials fell as low as 9852.19 during the day, these
+ people began to buy, pushing the blue-chip average back above 10000.
+
+ Two forces continue to compete in the market: those who believe that the current
+ skittishness will end once investors get used to the idea of rising interest rates, and
+ those who think further stock declines are inevitable.
+
+It didn't take long in my early days, however, for me to realize that often the market is driven by
+greed or fear. At the times that really count, large numbers of people leave one end of the rope for
+ U U
+
+the other. Either the greedy or the fearful predominate, and they move the market dramatically.
+When there's only greed and no fear, for example, everyone wants to buy, no one wants to sell,
+and few people can think of reasons why prices shouldn't rise. And so they do - often in leaps
+and bounds and with no apparent governor.
+
+Clearly that's what happened to tech stocks in 1999. Greed was the dominant characteristic of that
+market. Those who weren't participating were forced to watch everyone else get rich. "Prudent
+investors" were rewarded with a feeling of stupidity. The buyers moving that market felt no fear.
+"There's a new paradigm," was the battle cry, "get on board before you miss the boat. And by the
+way, the price I'm buying at can't be excessive, because the market's always efficient." Everyone
+perceived a virtuous cycle in favor of tech stocks to which there could be no end.
+
+But eventually, something changes. Either a stumbling block materializes, or a prominent
+company reports a problem, or an exogenous factor intrudes. Prices can even fall under their
+own weight or based on a downturn in psychology with no obvious cause. Certainly no one I
+know can say exactly what it was that burst the tech stock bubble in 2000. But somehow the greed
+evaporated and fear took over. "Buy before you miss out" was replaced by "Sell before it goes to
+zero."
+
+And thus fear comes into the ascendancy. People don't worry about missing opportunities;
+they worry about losing money. Irrational exuberance is replaced by excessive caution. Whereas
+in 1999 pie-in-the-sky forecasts for a decade out were embraced warmly, in 2002 investors
+chastened by the corporate scandals said, "I'll never trust management again" and "How can I be
+sure any financial statements are accurate?" Thus almost no one wanted to buy the bonds of the
+scandal-plagued companies, for example, and they sunk to giveaway prices. It's from the
+extremes of the cycle of fear and greed that arise the greatest investment profits, as distressed
+debt demonstrated last year.
+
+ Risk Tolerance or Risk Aversion
+
+In my opinion, the greed/fear cycle is caused by changing attitudes toward risk. When
+greed is prevalent, it means investors feel a high level of comfort with risk and the idea
+of bearing it in the interest of profit. Conversely, widespread fear indicates a high level
+of aversion to risk. The academics consider investors' attitude toward risk a constant, but
+certainly it fluctuates greatly.
+
+Finance theory is heavily dependent on the assumption that investors are risk-averse.
+That is, they "disprefer" risk and must be induced - bribed - to bear it. That's the
+reason why the capital market line slopes upward to the right: investors have to be offered
+higher expected returns in order to induce them to make investments entailing higher risk.
+Of course, these higher returns can't be a sure thing, because in that case the investments
+wouldn't actually be riskier. So the higher expected returns have to be accompanied by
+greater uncertainty (a broader dispersion of possible outcomes) or higher actual risk of
+losing money.
+
+But there are times when investors ignore the uncertainty and risk of loss associated
+with higher possible returns and pursue them too avidly. In 1996, I asked a consultant
+why his firm was one of the few that didn't recommend Oaktree's high yield bond
+management. His answer was simple: "We're trying to maximize risk, and we can't do that
+with you." Of course, that answer was shorthand for something that made a little more
+sense: that in theory the way to increase return is to bear more risk, and he thought Oaktree's
+
+portfolios didn't contain enough risk to be top performers. In other words, he was saying,
+"risk is our friend."
+
+It just can't work that way! Dependably high returns from risky investments are an
+oxymoron. But there are times when this caveat is ignored; when people get too
+comfortable with risk; and thus when securities prices incorporate a premium for
+bearing risk that is inadequate to compensate for the risk that's present.
+
+The prevalence of risk-tolerance (or risk-obliviousness) in the late 1990s was clear. I
+personally heard a prominent brokerage house strategist say, "Stocks are overpriced, but not
+enough to keep them from being a buy." And we all heard the man on the street say "I'm up
+so much in my 401(k), it wouldn't bother me if it fell by a third." (Where was that guy two
+or three years later?)
+
+No, those risk-tolerant attitudes will not persist forever. Eventually, something will
+intrude, exposing securities' imperfections and too-high prices. Prices will decline.
+Investors will like them less at $60 than they did at $100. Fear of losing the remaining $60
+will overtake the urge to make back the lost $40. Risk aversion eventually will reassert
+itself (and usually go to excess).
+
+How about some quantification of this cycle? In mid-1998, just before the collapse of Long-
+Term Capital Management brought investors other than techies to their senses, only $12.5
+billion of non-defaulted bonds yielded more than 20% (one possible threshold for the label
+"distressed debt"). Because investors weren't very worried about risk, they demanded ultra-
+high returns from relatively few non-defaulted bonds; the word "blithe" might best describe
+their attitude.
+
+But Long-Term's demise awakened investors to the existence of risk, and a year later, the
+amount of bonds yielding more than 20% had more than tripled to $38.7 billion. By mid-
+2002, when the corporate scandals held the debt market in a grip of terror, the 20% yielders
+had grown to $105.6 billion, eight and a half times the level just four years earlier. Risk
+aversion had come a long way from inadequate and, as later events showed, had become
+excessive. By March 31, 2004, this figure had fallen 85%, to just $16.2 billion; risk
+aversion had subsided (and possibly had become inadequate again). I'm sure that
+fundamentals didn't fluctuate anywhere near the degree reflected in prices, yields and thus
+the distressed debt tally. As usual, reality was greatly exaggerated by swings in psychology.
+
+When investors in general are too risk-tolerant, security prices can embody more risk than they do
+return. When investors are too risk-averse, prices can offer more return than risk. For me, Warren
+Buffett's quote best sums up this phenomenon and the contrarian position that is required as a result:
+"The less prudence with which others conduct their affairs, the greater the prudence with
+which we should conduct our own affairs."
+
+ Full or Empty
+
+One of the most volatile cycles relates to the willingness of investors to interpret events
+positively or negatively. Forget the traditional half measures; investors see their glass
+completely full at some times and totally empty at others.
+
+It isn't nonsensical for assets to be viewed differently at different times. After all, almost everything
+incorporates elements of both good and bad. But there are times when investors seem to look only
+at the positives or only at the negatives. As a result, there are times when there seems to be no
+price so high that investors won't pay it, and these inevitably are followed by times when no
+price is low enough to convince people to buy.
+
+This oscillation - from viewing a security, a company or an investment technique as "flawless" to
+viewing it as "worthless" - has occurred several times during my time in the investment business,
+with the predictable effect on prices.
+
+This "full-or-empty" phenomenon is particularly apparent in media savants' explanations for each
+day's market movement. In "up" times, a strong report on consumer income is interpreted as
+fueling corporate sales and profits, and thus is used to explain rising stock prices. In "down" times,
+on the other hand, the same report may be cited as a cause of inflationary pressure, rising interest
+rates, lower p/e ratios, and thus declining stock prices.
+
+Valuing the Future - Credence or Skepticism
+U
+
+Some investors spend their time working hard to quantify this year's earnings and the growth
+thereafter. Others strive to value real assets, intellectual property and business advantages (and
+predict what others will pay for them). Still others try to deduce the value implications of mergers
+and acquisitions, balance sheet restructurings and private-to-public transactions. In all of these
+ways and many more, it's the job of those in the investment business to predict the future and
+put a value on it.
+
+In 2000-01, our distressed debt funds invested a few hundred million dollars in bankrupt telecom
+companies. In each case, the purchase price implied a value for the company that was a small
+
+fraction of the amounts that had been invested in hard assets such as switching gear or fiber-optic
+cable. If we could resell the equipment for a higher percentage of its cost than we had paid, the
+investment would be profitable.
+
+The first sale went well, and we made a quick 50%. But soon thereafter, people stopped showing up
+to bid on these assets. Whereas the party to whom we had sold the first company thought he had a
+bargain, in later instances the possible buyers shied away from assets that were turning out to be in
+heavy oversupply. And that brings me to my point. In 1999, investors accepted at face value their
+telecom companies' rosy predictions of the future and paid handily for that potential. In 2001, they
+saw the potential as largely empty and wouldn't pay a dime for it, given that the industry's capacity
+vastly exceeded its current needs and no one could imagine the excess being absorbed in their
+lifetime. This cycle in investors' willingness to value the future is one of the most powerful
+that exists.
+
+A simple metaphor relating to real estate helped me to understand this phenomenon: What's an
+empty building worth? An empty building (a) has a replacement value, of course, but it (b) throws
+off no revenues and (c) costs money to own, in the form of taxes, insurance, minimum maintenance,
+interest payments, and opportunity costs. In other words, it's a cash drain. When investors are in a
+pessimistic mood and can't see more than a few years out, they can only think about the negative
+cash flows and are unable to imagine a time when the building will be rented and profitable. But
+when the mood turns up and interest in future potential runs high, investors envision it full of
+tenants, throwing off vast amounts of cash, and thus salable at a fancy price.
+
+Fluctuation in investors' willingness to ascribe value to possible future developments represents a
+variation on the full-or-empty cycle. Its swings are enormously powerful and mustn't be
+underestimated.
+
+Value Investing vs. Growth Investing - (or Value Today vs. Value Tomorrow)
+U
+
+Interest in "value investing" versus "growth investing" is another phenomenon that fluctuates over
+time, with the relative popularity of growth investing based heavily on investors' willingness to
+value the future. It's not just a random fad, but a reflection of a cycle in attitudes.
+
+In my view, all investors try to buy value - that is, to buy something for less than it'll turn out to be
+worth. The difference between the two principal schools of investing can be boiled down to this:
+
+ "Value investors" buy stocks (even those whose intrinsic value may show little
+ growth in the future) out of conviction that the current value is high relative to the
+ current price.
+
+ "Growth investors" buy stocks (even those whose current value is low relative to
+ their current price) because they believe the value will grow fast enough in the future
+ to produce substantial appreciation.
+
+Thus, it seems to me, the choice isn't really between value and growth, but between
+value today and value tomorrow. Growth investing represents a bet on company
+performance that may or may not materialize in the future, while value investing is based
+primarily on analysis of a company's current worth.
+
+Certainly much of the fluctuation in the performance of one school versus the other stems
+from their relative price attractiveness: one group of stocks may be perceived as the cheaper
+of the two and thus begin to be bought more strongly. This buying makes it appreciate
+relative to the other until it gets ahead price-wise, and then it declines (or at least pauses)
+while the other catches up.
+
+But the two schools' relative performance also depends to a great extent on attitudes that
+fluctuate cyclically. Optimistic growth investors with big dreams for the future bid up the
+stocks of companies that they expect to exhibit rapid growth, as they did in 1998-99.
+Eventually their buying power is spent, their hopes are dashed, or their optimism wanes.
+Then value investors with their more limited expectations regarding the future have their day
+in less buoyant times, as they did in 2000-01.
+
+Selling Panic (and Its Less-Recognized Brother)
+U
+
+As the pendulum makes its periodic swing from positive to negative, the resurgence of fear,
+risk aversion, and attention to things missing from the glass combine to bring down prices.
+Most investors see their resolve evaporate, along with all their reasons for holding the things
+in their portfolios. They go from being confident partisans, to worriers, eventually to sellers
+- and sometimes to panic sellers.
+
+In November 2000, I wrote about "A Framework for Understanding Market Crisis," an
+insightful article by Richard Bookstaber, then of Moore Capital Management, that analyzed
+the behavior of panic sellers. Rather than reinvent the wheel, I'll excerpt from my earlier
+memo:
+
+ Most people think security price movements result primarily from the market's discounting of
+ information about corporate, economic or geopolitical events - so-called "fundamentals." If
+ you sit with a trader, however, it's easy to observe that prices are always moving in response to
+ things other than fundamental information.
+
+ Bookstaber says, "the principal reason for intraday price movement is the demand for liquidity .
+ . . . In place of the conventional academic perspective of the role of the market, in which the
+ market is efficient and exists solely for informational purposes, this view is that the role of the
+ market is to provide immediacy for liquidity demanders . . . . By accepting the notion that
+ markets exist to satisfy liquidity demand and liquidity supply, the framework is in place
+ for understanding what causes market crises, which are the times when liquidity and
+ immediacy matter most."
+
+ "Liquidity demanders are demanders of immediacy." I would describe them as holders of assets
+ in due course, such as investors and hedgers, who from time to time have a strong need to adjust
+ their positions. When there's urgency, "the defining characteristic is that time is more important
+ than price . . . . they need to get the trade done immediately and are willing to pay to do so."
+
+ Usually when the price of something falls, fewer people want to sell it and more want to buy it.
+ But in a crisis, "market prices become countereconomic," and the reverse becomes true. "A
+
+ falling price, instead of deterring people from selling, triggers a growing flood of selling,
+ and instead of attracting buyers, a falling price drives potential buyers from the market
+ (or, even worse, turns potential buyers into sellers.)" This phenomenon can occur for
+ reasons ranging from transactional (they receive margin calls) to emotional (they just get
+ scared). The liquidity demanders increase in number, and they become more highly motivated.
+
+ In times of crisis, liquidity suppliers become scarce. Maybe they spent their capital in the first
+ 10% decline and are out of powder. Maybe the market's increased volatility and decreased
+ liquidity have reduced the price they're willing to pay. And maybe they're scared, too.
+ "Information did not cause the dramatic price volatility. It was caused by the crisis-
+ induced demand for liquidity at a time that liquidity suppliers were shrinking from the
+ market."
+
+Speaking of panics, we all recognize the carnage that occurs when the desire to sell far exceeds the
+willingness to buy. But I think Bookstaber's analysis applies equally to the opposite - times when
+the desire to buy outstrips the willingness to sell. It amounts to a "buying panic" and represents no
+less of a crisis, even though - because the immediate result is profit rather than loss - it is discussed
+in different terms. Certainly 1999 was just as much a year of irrational, liquidity-driven crisis
+
+And clearly, both selling panics and buying panics have more to do with extreme swings in
+emotion and urgency than they do with fundamental corporate and economic developments.
+
+The Credit Cycle
+
+I couldn't leave the subject of cycles without touching on one of the most pronounced, the credit
+cycle. From time to time, providers of capital simply turn the spigot on or off - as in so many
+things, to excess. There are times when anyone can get any amount of capital for any purpose, and
+times when even the most deserving borrowers can't access reasonable amounts for worthwhile
+projects. The behavior of the capital markets is a great indicator of where we stand in terms of
+psychology and a great contributor to the supply of investment bargains.
+
+The level of security issuance varies over time in a wave-like pattern, and the swing from high years
+to low years can be great. I don't believe a high level of issuance says much about the desire of
+companies to raise money; usually they'll take all that's available. Rather, a high level of issuance
+indicates a willingness on the part of investors to buy increased amounts of securities, something
+that varies greatly depending on their mood.
+
+But equally important is the trend in the quality of new issue securities. It is my belief that a
+willingness to buy new securities in greater quantity invariably is accompanied by a
+willingness to buy securities of lower quality. Thus lower standards go hand in hand with higher
+amounts of issuance. When investors are chastened and afraid, they'll buy very few new securities,
+and only those of high quality. When they're euphoric and confident, they'll buy greater quantities
+and attend less to matters of quality and downside protection. In the most overheated markets,
+when being underinvested is considered the biggest mistake one can make, buyers compete for
+new issues by paying higher prices and by demanding less in terms of quality and safety.
+
+It's in this way that the swing of the capital market pendulum to one extreme provides the energy
+for the swing back toward the other. For example, with terrified high yield bond investors hugging
+the sidelines in 1990-91, low issuance and a great degree of investor selectivity set the stage for low
+subsequent default rates and excellent portfolio performance. Double-digit returns in 1991-97 (save
+1994) turned investors from cautious to confident and attracted increased capital for investment in
+high yield bonds. These conditions led to the issuance of bonds in greater quantity and lower
+quality in 1997-99. And, of course, that issuance contributed to record default rates in 2001-02, to
+great portfolio losses, and eventually to enormous returns on the rebound. And so the cycle goes on.
+
+From the depths reached in the summer of 2002, the recovery of investor sentiment has been
+dramatic in both its extent and its speed. And with that recovery has come yet another dramatic
+swing of the capital cycle from restrictive to accommodating. Again as seen through the example of
+high yield bonds, the last eighteen months have witnessed a near-record amount of new bond
+issuance, including a large number of CCC-rated bonds, bonds with weak covenants, and bonds
+issued to fund payments to equity holders.
+
+All net debt incurrence adds to a company's riskiness, in that it increases balance sheet leverage.
+But at minimum the proceeds, or assets bought with the proceeds, should stay within the company.
+When debt is raised and the proceeds go out the door without enhancing the value of the company, a
+transaction should be viewed with a particularly critical eye. The fact that a substantial number of
+bonds-for-dividends deals could be done in recent months says a lot about where we stand in the
+credit cycle . . . and about the likelihood that some of these deals will be grist for distressed debt
+investment in the future.
+
+Looking for the cause of a market extreme usually requires rewinding the videotape of the credit
+cycle a few months or years. Most raging bull markets are abetted by an upsurge in the willingness
+to provide capital, usually imprudently. Likewise, most collapses are preceded by a wholesale
+refusal to finance certain companies, industries, or the entire gamut of would-be financers.
+
+The capital market oscillates between wide open and slammed shut. It creates the potential
+for eventual bargain investments when it provides capital to companies that shouldn't get it,
+and it turns that potential into reality when it pulls the rug out from under those companies by
+refusing them further financing. It always has, and it always will.
+
+Just Give Me My 10%
+U
+
+Putting it all together, the fluctuations in attitudes and behavior described above combine to make
+the stock market the ultimate pendulum. In my 34 full calendar years in the investment business,
+starting with 1970, the annual returns on the S&P 500 have swung from plus 37% to minus 26%.
+Averaging out good years and bad years, the long-run return is usually stated as 10% or so.
+Everyone's been happy with that typical performance and would love more of the same.
+
+But remember, a swinging pendulum may be at its midpoint "on average," but it actually
+spends very little time there. The same is true of financial market performance. Here's a fun
+question (and a good illustration): for how many of the 34 years from 1970 through 2003 was
+the annual return on the S&P 500 within plus or minus 2% of "normal" - that is, between 8%
+and 12%?
+
+I expected the answer to be "not that often," but I was surprised to learn that it had happened only
+ U
+
+once ! It also surprised me to learn that the return had been more than 20 percentage points away
+ U
+
+from "normal" - either up more than 30% or down more than 10% - two-thirds of the time: 22 out
+of the last 34 years. So one thing that can be said with conviction about stock market performance
+is that the average certainly isn't the norm. Market fluctuations of this magnitude aren't nearly
+fully explained by the changing fortunes of companies, industries or economies. They're largely
+attributable to the mood swings of investors.
+
+Lastly, the times when return is at the extremes aren't randomly distributed over the years. Rather
+they're clustered, due to the fact that investors' psychological swings tend to persist for a while - to
+paraphrase Herb Stein, they tend to continue until they stop. Not one of those 22 extreme up or
+down years was more than a year away from another year of similarly extreme performance in the
+same direction.
+
+ * * *
+
+So from time to time we see rabid buyers or terrified sellers; urgency to get in or to get out;
+overheated markets or ice-cold markets; and prices unsustainably high or ridiculously low.
+Certainly the markets, and investor attitudes and behavior, spend only a small portion of the
+time at "the happy medium."
+
+What does this say about how we should act? Joining the herd and participating in the extremes of
+these cycles obviously can be dangerous to your financial health. The markets' extreme highs are
+created when avid buyers are in control, pushing prices to levels that may never be seen again.
+The lows are created when panicky sellers predominate, willing to part with assets at prices
+that often turn out to have been grossly inadequate.
+
+"Buy low, sell high" is the time-honored dictum, but investors who are swept up in market
+cycles too often do just the opposite. The proper response lies in contrarian behavior: buy when
+they hate 'em, and sell when they love 'em. "Once-in-a-lifetime" market extremes seem to occur
+just once in a decade or so - not often enough to build an investment career around capitalizing on
+them. But attempting to do so should be an important component of any investor's approach.
+
+Just don't think it'll be easy. You need the ability to detect instances in which prices have diverged
+significantly from intrinsic value. You have to have a strong-enough stomach to defy conventional
+wisdom (one of the greatest oxymorons) and resist the myth that the market's always efficient, and
+thus right. You need experience on which to base this resolute behavior. And you must have the
+support of understanding, patient constituencies. Without enough time to ride out the extremes
+while waiting for reason to prevail, you'll become that most typical of market victims: the six-foot
+tall man who drowned crossing the stream that was five feet deep on average. But if you're alert to
+the pendulum-like swing of the markets, it's possible to recognize the opportunities that
+occasionally are there for the plucking.
+
+
+Memo: Hedge Funds: A Case for Caution.
+
+Once upon a time there was an asset class. It was all over the headlines. Its
+ performance was terrific. Some said "too good to be true," but that didn't stanch the
+ flow of money. After all, what other asset class had ever produced returns like these?
+
+ The performance brought vast amounts of capital to the sector. Demand exceeded
+ supply, even as funds grew larger. The funds with the best records and discipline saw a
+ deluge of money vastly exceeding their ability to accept it. Investors whose capital they
+ turned away invested with managers who were less disciplined with regard to limits or
+ with new funds. This gave rise to large numbers of start-ups and spin-offs from
+ established firms. Lack of experience didn't prevent anyone from hanging out a shingle
+ - or raising money. Some of the leading managers increased fees in order to appropriate
+ more of their returns for themselves, and this enabled second-tier and new managers to
+ charge fees that used to go only for proven performance.
+
+ Everyone agreed there was "too much money chasing too few ideas," but they invested
+ anyway, often based on their managers' supposed skill and the fact that "Everyone's
+ doing it; I can't just stand by and watch while they make money." You could see the end
+ of this tale coming down the track like a locomotive. The perpetual motion machine
+ eventually ground to a halt. The combination of too much money chasing too few
+ ideas dashed the hopes of those who in 1999-2000 looked for the "silver bullet" in
+ venture capital. "Never again," they grumbled.
+
+ Hope Springs Eternal
+ U
+
+ Of course, what they meant was, "Never again until next time." The fact is, investors
+ never cease to dream of the silver bullet: the asset class or investment technique that can
+ be counted on for high returns with low risk. Whenever one would-be silver bullet is
+ discredited, investors give up on that irrational dream . . . and go looking for the next.
+
+ I say over and over that there's no such thing as a "good" asset class. No asset class
+ or investment technique has the birthright of a particular rate of return, and
+ certainly not of a high return with low risk. No asset can be depended on for good
+ performance irrespective of the price at which it's bought. And no area can be
+ successfully invested in without regard for the balance between the supply of
+ investment ideas in the area and the amount of money investors want to deploy in it.
+
+ In fact, if you could ask just one question about a possible investment and be assured of
+
+ one honest answer, I think it should be "what's the relationship between supply and
+ demand?" If there are lots of assets for sale and few takers, those assets can often be
+ bought cheap. If there are few assets offered and many would-be buyers, bargains are
+ usually few and far between.
+
+ While no guarantee of a silver bullet, the former can be the source of
+ some good ammunition. With the latter you're more likely to shoot
+ yourself in the foot.
+
+ The New Solution
+ U
+
+ This memo's about hedge funds. They're the hot topic in the investment world today -
+ the latest would-be silver bullet - largely, I think, because most have yet to disappoint
+ performance-wise and because the big asset classes look unappealing.
+
+ Common stocks were the big-picture silver bullet in the 1990s. Professor Jeremy's
+ Siegel's "Stocks For the Long Run" assured us there had never been a long period in
+ which stocks didn't beat bonds, cash and inflation. The authors of another book, "Dow
+ 36,000," were given space on The Wall Street Journal's op-ed page. Thus when stocks'
+ popularity - and their representation in portfolios - hit a peak in early 2000, they were
+ ready for a fall. A swoon that included the first three consecutive losing years since the
+ Depression took the S&P 500 down 49% and the NASDAQ down 78%. As a result,
+ stocks receive much less attention today than they did five years ago; less is expected
+ from them in terms of return (even given today's lower prices); and they certainly aren't
+ viewed as the place to put additional capital.
+
+ Neither are money market assets (yielding 1%+), Treasury notes and bonds (3-5%)
+ or high-grade corporate bonds (4-6%). Institutional investors find these promised
+ yields unexciting (and far below their portfolio goals of 8%+/-), and the widespread
+ expectation of rising rates makes it seem likely that holding period total returns will
+ be even lower.
+
+ With the two biggest markets holding so little appeal - and given the fact that it has
+ to go someplace - money has been flowing to non-mainstream markets such as high
+ yield bonds, buyouts, real estate, oil, timber . . . and hedge funds.
+
+ The Hedge Fund Movement
+ U
+
+ Hedge funds did great in the 1990s, produced moderate gains during the collapse of
+ stocks in 2000-02, and were in double digits in 2003. I think they also exhibit many of
+ the traits associated with the venture capital boom described on page one of this memo,
+ including widespread investor participation. I don't think hedge funds will bring
+ losses at all comparable to what happened in venture capital at the peak, but I
+ think their popularity is overdone and likely to lead to disappointment. Given the
+
+ magnitude of the hedge fund movement, a memo on the subject has become inevitable.
+
+ First, what are hedge funds? Briefly put, they're unregulated private partnerships that
+ commingle the assets of institutions and wealthy individuals in pursuit of superior
+ investment results. They're evergreen vehicles that offer periodic withdrawal
+ opportunities to their investors, as opposed to closed-end entities such as private equity
+ funds that promise no option to withdraw but begin to liquidate after a certain date and
+ return money as they do.
+
+ Except for one other factor, they can have very little else in common. Hedge funds
+ operate in a great many ways. There are arbitrage funds in fixed income, mergers,
+ convertibles and "stat arb"; long/short funds in stocks in general, tech stocks and
+ emerging markets; macro funds which place bets on currencies and world markets; and
+ funds which make mostly-long bets in specialized market niches such as distressed debt.
+ There are small hedge funds and enormous hedge funds. Some hedge funds hedge - go
+ short or otherwise take offsetting positions designed to reduce risk - and others
+ don't. Thus some aim for steady returns with little volatility and market exposure,
+ and some make massive, unhedged bets in pursuit of massive returns. Some hedge
+ funds can fairly be described as pursuing "absolute return," and in the rest the
+ returns are anything but absolute.
+
+ What's that one remaining thing that hedge funds have in common? It's called "hedge
+ fund pricing," meaning the manager gets an annual management fee of at least 1-2%
+ plus a share - usually 20% - of all profits earned in the portfolio. In a world where the
+ fees paid to long-only managers in traditional asset classes are a fraction of one
+ percent, hedge fund pricing allows managers to make 3-4% or more and represents
+ the raison d'etre for the hedge fund industry. One of the cleverest observations I've
+ read is from Paul Isaac of Cadogan Management: "hedge funds are a compensation
+ system often mistaken for an industry."
+
+ From little or nothing a few years ago, many institutional investors now have 5-10% or
+ more invested in hedge funds today. This has given rise to a massive expansion of the
+ hedge fund community. There are estimated to be 7,000 hedge funds today, up from
+ 1,640 a decade ago. Their current capital is estimated at between $850 billion and $1
+ trillion, up about ten times in ten years and well over 100% since the end of 2000. We
+ read often of pension plans deciding to commit billions of dollars of additional capital to
+ hedge funds. How will it play out?
+
+ Scalability
+ U
+
+ In my opinion, scalability is the most important issue surrounding hedge funds:
+ can a good little idea become a good big idea? Everyone wonders about the
+ scalability of hedge funds, but I think they're yet another area where most people
+ agree on the existence of the potential problems but invest anyway.
+
+ It was in the mid-Seventies that I first began to hear of hedge funds such as Cumberland
+ Partners and Steinhardt, Fine and Berkowitz. At that time the hedge fund industry
+ consisted of a handful of funds trying to earn superior returns with total capital of a
+ billion dollars or so. The funds limited their capital; researched smaller companies in
+ greater depth than the mainstream investors; concentrated their portfolios in a handful of
+ good ideas; and used shorting and hedging (but not leverage) to shape the pattern of their
+ returns. For better or worse, their success over the ensuing 30 years led to fame and
+ widespread emulation. As a result, we now have thousands of funds trying to earn
+ superior returns with roughly a trillion dollars, and with much more on the way.
+ (On September 13 The Bank of New York predicted that U.S. institutional investors
+ alone would plow an additional $250 billion into hedge funds by 2008.) Can it still
+ work?
+
+ I hope you'll permit me one of my tortured analogies. Have you seen the nature film on
+ TV showing big fish eating? One of the big fellows rips a piece from his prey and
+ moves through the water enjoying his dinner. But due to his poor table manners, he
+ spews small crumbs as he goes. It's for this reason that each big fish is trailed by a
+ hundred little fish. They snack on the scraps he drops, enjoying his leavings. He does
+ the hard work, and they get a free lunch.
+
+ Well that's the way I've always thought of the investment world. Mainstream
+ institutional investors emphasize the big asset classes and follow the big companies,
+ creating a relatively efficient market and a context for relative valuation. But their
+ attention wanes as the targets shrink, and their hands are tied by constraints on
+ their behavior.
+
+ Little guys such as hedge funds operate in the interstices. They take advantage of
+ small inefficiencies and misvaluations that the big guys create, permit or ignore.
+ They pursue things that are unseemly, esoteric or highly labor intensive. And they
+ can employ tactics like leverage and shorting - and live with levels of portfolio
+ concentration and illiquidity - that aren't tolerated in the mainstream investment
+ world. In other words they, too, benefit from the big guys' leavings.
+
+ The critical question is obvious: How many little fish can thrive in the shadow of
+ each big fish? A hundred little fish trailing each big one all can do well. But those
+ crumbs won't feed five hundred. Not only will the crumbs be insufficient in number,
+ but the crowd will fight over them in a way that's unhealthy for everyone.
+
+ Tortured enough? Maybe so, but I think the analogy holds. In my time in this
+ business, the institutions have been the big fish of the investment world, and the
+ hedge funds and alternative investment specialists have profited from their biases
+ and limitations. But quintuple the number of "little guys" and maybe they'll no
+ longer exhibit the same brilliance and adroitness.
+
+ How many under-researched stocks are there, and how much can be invested in
+ them?
+
+ How much of a bargain-priced security can be bought without the price being driven
+ up?
+ How big an arbitrage position can be put on without the profit spread shrinking?
+ How many shares of an overvalued stock are available for short-sellers to borrow?
+ How much of something can the hedge funds collectively own without illiquidity
+ closing their exit window?
+
+ When there's an increase in the amount of capital that investors want to put into
+ an area, there's no reason to expect a commensurate increase in the opportunities
+ for good investment. So when the ratio of money to ideas increases, the
+ implications for future performance can't be good.
+
+ Now it should be made clear that the venture capital boom, for one example, was based
+ in a very narrow investment segment and dependent on the creation of new companies
+ for the deployment of capital. Hedge funds, on the other hand, collectively are able to
+ invest in any form of asset or security, in all of the world's markets and employing a
+ wide variety of investment techniques, and through shorting they have to ability to
+ profit from "inefficiencies" in overvalued as well as undervalued assets.
+
+ Thus the potential universe for hedge fund investments is enormous in the absolute. The
+ real question is whether there are enough inefficiencies in this universe for all of the
+ would-be hedge funds to invest in, and whether the presence of a large and growing
+ number of funds has a deleterious effect on the adequacy of the supply.
+
+ Of course, it goes without saying: just as no asset class has the birthright of a given
+ return, giving something the overly broad label of "hedge fund" - and paying its
+ manager "two-plus-twenty" - won't make it a stellar, or even a steady, performer.
+
+ The Hedge Fund Manager's Superior Arsenal
+ U
+
+ A great deal is made of the powerful tools at the hedge fund manager's disposal. The
+ ability to employ leverage - often in unlimited amounts - and the absence of constraints
+ on investment tactics are lauded for their potential to add to results. But no one should
+ forget their potential to do the opposite as well.
+
+ Almost every weapon in the investment arsenal is a two-edged sword. The only
+ exception is genuine, sustainable personal skill. Everything else will make you
+ money when it works but lose you money when it doesn't. Leverage and free rein
+ are no exceptions.
+
+ Being able to leverage a portfolio means being able to invest a multiple of your equity
+ capital. Why should an investor with $1,000 be content making $100 on a price rise of
+ 10%? Why not borrow another $3,000, invest all $4,000 in the same assets, and make
+ $400 on a 10% rise? All you need is access to 3-to-1 leverage . . . oh yes, and the ability
+ to identify assets that appreciate.
+
+ In Vegas they say, "the more you bet, the more you win when you win." Although the
+ logic of this statement is impeccable, it omits the obvious addendum ". . . and the more
+ you lose when you lose." Leverage is not a source of alpha; it's a way of increasing
+ your exposure to a given amount of alpha . . . or lack of alpha. The 3-to-1 leverager
+ described above will lose 40% of his equity if prices go down 10% instead of up. The
+ ability to use leverage - which is high and rising today given the low cost of money and
+ the lure of the "carry trade" - certainly doesn't add asymmetrically to investment
+ results.
+
+ Neither does freedom from constraints. Institutional investors usually spend lots of time
+ negotiating what tactics a mainstream investor will be permitted to apply and crafting
+ contracts to keep him from straying afield. Then they turn over a bunch of money to a
+ hedge fund manager and say, "do as you please." (I exaggerate for effect.) Does that
+ make sense? Only in one case: where the manager possesses great skill and discipline.
+
+ Investment constraints (1) enable clients to know what style of management they'll be
+ getting and (2) hopefully limit managers to what they're good at. Their absence sets
+ the stage for surprises and permits managers to wander into areas where they may have
+ less skill. Thus the results from unrestrained hedge funds are often unforeseeable, and
+ these vehicles should be handled with care.
+
+ I think investors should pay above average fees only for asymmetric value added -
+ that is, for a potential increment to returns that isn't accompanied by a
+ corresponding potential decrement. And I think only genuine skill adds
+ asymmetrically to investment results, not leverage and not the mere ability to use a
+ wide range of investment tactics. The key in hedge fund investing is finding
+ managers who have that skill. It isn't ubiquitous.
+
+ A Few Words on Performance
+ U
+
+ Frankly, I wonder whether the decision to invest in hedge funds today is fully supported
+ by their performance in 2000-04, their period of great popularity.
+
+ I've watched institutions decide to join hedge funds. I think most of them invested for
+ "absolute returns" - which I believe were supposed to be in the high single digits after
+ fees - accompanied by low volatility and limited correlation with the mainstream
+ markets. Now most institutions seem to be satisfied with their hedge fund performance
+ and are signing up for more. But I wonder whether they should be. For the purposes
+ of the analysis below I'll use the CSFB/Tremont Hedge Fund Index.
+
+ With the S&P 500 down 9%, 12% and 22% in the 2000-02 bear market, investors in
+ the CSFB/Tremont Index's average fund were delighted to make money, with the
+ Index returning 4.9%, 4.4% and 3.0% in those years, respectively.
+
+ And fund investors who might have expected much less were thrilled to see 15.4%
+ from the Index in 2003.
+
+ On the surface, all seems well: small gains when the stock market cratered, and a pleasant
+ surprise in the big year of 2003. But is everything really all right?
+
+ Were the results in 2000-02 all they should have been? Because everyone was
+ understandably thrilled to make money while stocks collapsed, I don't hear anyone
+ grumbling about modest returns. But should they be? Institutional Investor magazine
+ made the point in February 2003:
+
+ Hedge funds had a good year in 2002 - relatively speaking, of course. . . The
+ trouble is, hedge funds are not merely supposed to do better than other
+ investments. They're meant to outperform in absolute terms [I think this
+ should be "perform in absolute terms"]. And most did not do that in 2002.
+
+ Many students of the hedge fund area believe returns should be a function of interest
+ rates, for example "LIBOR plus 500." In the early years of this decade, far less was
+ achieved. Do the negative returns in the stock market fully explain the difference?
+
+ With 2003 one of the best years in history in most markets, was 15.4% enough? In 1996,
+ '97 and '99, the Hedge Fund Index captured a very substantial majority of the S&P's
+ return. Why in 2003 did it garner just over half the gain? Obviously the ability of the
+ average hedge fund to beat the booming S&P in 1999 was an outlier, with active flipping
+ of IPOs and other ways to "pick off" feverish retail investors presenting unusual profit
+ opportunities. 1998's negative return was equally aberrant, with the Index return pulled
+ down by a 38% loss on the average emerging market hedge fund. But with these caveats
+ in mind, why was the capture rate in 2003 so tepid?
+
+ CSFB/Tremont Hedge Fund Return as
+ Long/Short Index Percentage of S&P
+
+ • Most recently, the CSFB/Tremont Hedge Fund Index is up just 2.8% in the first eight
+ months of lackluster 2004. Again we must ask whether modest single digit
+ returns are all that can be expected absent a tailwind from a strong stock
+ market. What happened to the absolute return that would be earned with little
+ reference to what went on in the markets? If the low returns are attributable to
+
+ weak underlying markets, doesn't that suggest more correlation to market
+ movements than was implied by the "absolute return" premise?
+
+ In other words, has hedge fund performance since 2000 been good enough? "Single
+ digits in down years and double digits in up years" sounds like a good deal. "Modest
+ returns in bad years and modest participation in good years" is a little less
+ appealing.
+
+ I can think of four possible explanations for any shortfall from expectations: two
+ benign and two unpleasant:
+
+ If recent returns have been below expectations, this may be attributable to the low
+ level of interest rates. Interest rates influence what funds will earn on their idle
+ balances, proceeds from short sales, and arbitrage positions. So maybe hedge fund
+ returns are due to pick up as short-term rates rise.
+
+ And maybe hedge funds' good returns will be earned on average, rather than every
+ year, and this has just been a below average period.
+
+ But maybe more hungry "fish" with more money crowding into a given market are
+ having the predictable depressant effect on returns. Maybe there's a fixed amount
+ of excess return available to be earned in a given year, and when it's spread over
+ a lot more capital, the results become less positive. Or, even worse, maybe the
+ combined efforts of all these people make the markets more efficient, reducing
+ the total excess return available for them to share.
+
+ Perhaps the increase in the number of hedge fund managers has brought a decrease in
+ their average alpha. Why should we believe the last 20,000 managers to join the
+ sector are as smart as the first 1,000? One of the rationales for hedge fund
+ investing, as The Wall Street Journal put it on July 7, is that, "Hedge funds still attract
+ the smartest managers, lured by the rich fees." I may be missing something, but why
+ should the appeal of rich fees be limited to smart managers? Can't they attract the
+ not-so-smart as well?
+
+ It's my personal guess that there's truth in each of these four possible explanations.
+ But if that's the case, the latter two will have a deleterious effect despite the validity of
+ the former.
+
+ Drawbacks and Pitfalls
+ U
+
+ There are enough people out there trumpeting the benefits of hedge funds; you don't need
+ me to repeat them. I'll just play my normal worrier's role by listing some caveats:
+
+ The performance data on which investors are making the decision to commit to hedge
+ funds is highly imperfect. It is unsystematic, unscientific and covers a short and not-
+
+ necessarily-representative period. In addition, it's weakened by post-selection bias
+ (low-return funds are unlikely to volunteer their performance) and survivorship bias
+ (the estimated 25% of funds that go out of business each year are even less apt to do
+ so). Importantly, holdings of illiquid or infrequently marked securities can cause
+ betas and risk to be understated and thus Sharpe ratios to be overstated (Pensions &
+ Investments, August 19, 2002).
+
+ It is obvious that some of the tactics employed by hedge funds entail considerable
+ volatility and illiquidity. And yet, hedge funds give their investors the periodic right
+ to withdraw. Thus, it's possible for a hedge fund to offer more liquidity than
+ does its underlying investment portfolio. This can be a formula for disaster. Given
+ that a lot of the capital now in hedge funds is "hot money" prone to exit given a
+ period of underperformance, it's not hard to envision (and in fact the community has
+ seen) rapid-fire withdrawals that lead to downward spirals and penalize the last
+ investors out the door, who can find themselves owning disproportionate amounts of
+ hard-to-value and hard-to-sell securities.
+
+ In most hedge funds, it's hoped that the managers' actions will neutralize the effect of
+ market fluctuations. In other words, you're betting on the managers' skill, not the
+ market direction. As in any inefficient, alpha-based market niche, the
+ performance gap between superior and inferior managers can be substantial.
+ Thus you'd better find superior managers, and that's not easy. Also, since many
+ of the best and most disciplined managers have closed their funds, you'd better
+ hope the available funds will be able to replicate the returns that attracted you to
+ the area in the first place.
+
+ With thousands of hedge funds all using computers to screen investment
+ opportunities, there's a tendency for lots of them to move in the same direction at the
+ same time. This can shrink purchase opportunities, eat into prospective returns
+ and reduce liquidity. The Wall Street Journal described the situation on June 30:
+ "Increasingly, the growing group of hedge funds pile into the same trades. With so
+ much money chasing similar strategies, good investment returns become more
+ elusive. Moreover, when an attractive idea turns sour, the rush to the exits gets
+ crowded, exacerbating an already tense investment environment."
+
+ We read often about the migration to the hedge fund world of people from elsewhere
+ in the investment industry. This is the same phenomenon as we saw in the dot-coms
+ in 1998-99. When people flood an area because of the easy money to be made there,
+ the results are usually predictable.
+
+ I'm particularly skeptical of the movement of people from traditional portfolio
+ management to hedge funds. Stock picking ability isn't sufficient for success in
+ managing a hedged and/or leveraged portfolio -- risk management is at least as
+ important. The two are not the same, and the traditional buyside professional
+ doesn't have much experience in the latter.
+
+ As has happened in other alternative investment fields, changes in an industry can
+ expose weaknesses in the compensation arrangements. Originally, management fees
+ were intended primarily to cover operating expenses while incentive fees motivated
+ managers to strive for profits. But as funds grow larger, some are at the point where
+ managers can get rich on management fees alone. Recently we've seen investment
+ celebrities start hedge funds with perhaps $3 billion of capital and management fees
+ of 2% or so. $60 million a year is a pretty good start if you can get it. Fees like these
+ can motivate managers to put a higher priority on perpetuating the management fee
+ machine than on pursuing portfolio gains. Although hedge funds and private equity
+ funds carry similar fee arrangements, the latter have hurdle rates that motivate their
+ managers to try for double-digit returns. Hedge fund managers probably figure they
+ can hold onto their capital and earn 2-4% a year for themselves with returns in
+ moderate single digits. I'm not sure that warrants the fees.
+
+ At the other end of the spectrum from managers able to attract billions in capital and
+ massive management fees, the impatient newcomer with access to incentive fee
+ money faces potential temptation that also might trouble investors: It makes perfect
+ sense for him to start a fund and swing for the fences with highly risky securities,
+ leverage and concentration. Hit a homer and he's rich; strike out and he goes back to
+ his old job.
+
+ We know incentive fees can serve to align interests between investors and their
+ managers when profits are in the offing. But what happens when there are losses?
+ When a fund has run up some serious losses and needs to recover to the "high-water
+ mark" before it can generate incentive fees again, its personnel don't stand to share in
+ gains for a while. So what is there to make them stay around to engineer the
+ recovery, rather than move to a new fund where they can profit from dollar one? On
+ July 15 The Wall Street Journal described one such situation: "Rather than try to dig
+ out of the deep hole, while at the same time not getting paid as much as they could
+ earn elsewhere, Mr. James and his team began to contemplate starting out on their
+ own."
+
+ Finally, I'll list a few other topics that may make hedge funds the subject of negative
+ headlines in the future:
+
+ o the risk implicit in the combination of leveraged hedge funds, leveraged funds of
+ funds, and leveraged fund investors;
+ o the absence of registration and regulation;
+ o the lack of transparency;
+ o the potential conflicts that arise when hedge funds are run within an organization
+ that also manages non-hedge fund money in the same markets;
+ o hedge funds' involvement in buyouts (do they have the needed skills? will it
+ reduce their liquidity and ability to value the portfolio for
+ subscriptions/redemptions?);
+ o buyout firms' growing involvement in hedge funds (still more competitors?);
+ o possible improprieties in hedge fund marketing;
+
+ o concern over the impact of hedge fund short selling;
+ o and, of course, the outright fraud that occasionally arises and always is a threat.
+
+ The Outlook for Hedge Fund Investing
+ U
+
+ As I said earlier, despite the troubling factors enumerated above, I do not envision
+ a boom-bust scenario for hedge fund investors. After all, hedge funds spread their
+ investment over almost all asset classes, and most funds are fairly disciplined in sticking
+ to low-priced investments. So there isn't a single asset or group of assets where we
+ have to worry about hedge funds creating bubble-like appreciation and the usual
+ subsequent collapse.
+
+ No, the excesses aren't in the prices of the assets in which hedge funds invest. The
+ excesses are in the trends affecting the industry: too much money coming too fast;
+ too many funds managed by people of uneven skill; and too-high fees relative to the
+ limited excess return the average fund is likely to generate.
+
+ I do not expect a debacle, just a disappointing experience. The sad fact is that, on
+ average, hedge funds may go down as just another former silver bullet.
+
+ The high single digit return for which I think people invested wasn't a figment of
+ anyone's imagination. It was probably reasonable looking back at the period preceding
+ the current hedge fund boom. After all, in a period when stocks consistently returned
+ double digits, Treasury notes paid 6% and high yield bonds yielded 12%, it's eminently
+ logical that a few highly skilled hedge fund managers could earn 8-9% or more after fees
+ on a low-risk basis.
+
+ But that scenario doesn't describe today or tomorrow. There's no reason to expect a
+ near-term repeat of stock and bond returns like those, and certainly the hedge fund arena
+ is far more crowded than it's ever been. So I think the average hedge fund might make
+ 5-6% net of fees in the years just ahead. (That could change after lower prices and
+ higher interest rates re-elevate the prospective returns on stocks and bonds - and after
+ some disappointed capital departs the hedge fund field - but I'm just dealing here with
+ the current environment. And please note that I'm not making a prediction, just a wild
+ guess within a wide range.)
+
+ I'll go with 5-6% for the average hedge fund - considerably more from the best
+ managers, less from the worst and, yes, total loss from the occasional risk-
+ management disaster. Is that terrible? No. But the question is whether it will be
+ entirely satisfactory.
+
+ First, I think it may be less than the hedge fund managers and consultants have
+ predicted.
+ Second, it will put most institutions further behind their overall investment goals.
+ And third, I think it'll look pretty anemic if Treasury note yields return to that range,
+
+ as they may, or if stocks can get anywhere close to their long-term 10% historic
+ average.
+
+ A net return of 5-6% earned with low risk in a low-return world may sound pretty good
+ to lots of people, especially in light of the pain that long-only common stock investors
+ experienced in 2000-02. I believe a great deal of current hedge fund investment is
+ motivated by a desire for mid-single digit returns with safety, and also that a lot of
+ funds have been designed to deliver them. Managers are constraining risk; locking in
+ profits at modest levels; dedicating their efforts to avoiding down months and quarters;
+ and refraining from reaching for the stars. Some of this is good.
+
+ But I think paying fees of 2-4% to earn net returns of 5-6% may start to get old,
+ especially if and when returns on mainstream stock and bonds get back to more
+ attractive levels. That's why I worry about the potential for disappointment. Right
+ now, in a world of 1% money market rates and lackluster returns everywhere, that
+ may be sufficient. But sentiment is inherently unstable, and I'm not sure investors
+ will remain content if they begin to miss out on more elsewhere . . . while paying the
+ highest fees in the investment world to do so.
+
+ To start bringing this memo to a close, I'll cite John Moon and Tim Jensen's apt
+ enumeration of the possible outcomes in our Emerging Markets Fund's second quarter
+ letter:
+
+ We have no idea if the hedge fund boom will peter out after several years of
+ mediocre performance, end in another [Long-Term Capital Management]
+ crescendo, or continue until all money is either indexed or run by hedge funds.
+
+ In testimony to Congress, Alan Greenspan focused on what I think is the most likely
+ result:
+
+ Hedge funds seek out the abnormal rates of profit often found where markets are
+ otherwise inefficient. But these above-normal profits have attracted a large
+ number of new entrants seeking to exploit a possibly narrowing field of
+ inefficiencies. Not surprisingly the rate of return in this activity is reportedly
+ declining. I would not be surprised if, with time, many of the new entrants exited,
+ some presumably following large losses. (The Wall Street Journal, July
+
+ * * *
+
+ In my treasury of investment sayings, there's a special section reserved for what I call
+ "the classics." None is more dependable than this: What the wise man does in the
+ beginning, the fool does in the end. Intrepid pioneering investors get the underpriced
+ gems. Once something has been discovered and the price bid up, the latecomers who
+ come aboard in ever-increasing numbers - lured by past performance - can look forward
+ to less return and more risk.
+
+ I can't imagine an investment area whose attractiveness can survive the onslaught of an
+ investor herd thinking it constitutes the silver bullet. It wouldn't make sense for one to
+ exist, given that it's the job of a smoothly functioning market to eliminate opportunities
+ for unusual profits. "Too much money chasing too few ideas" has been the death
+ knell for investment fad after fad. This will never cease to be so.
+
+ Hedge funds are just like any other investment tool. They are neither a good idea
+ nor a bad idea. They have both plusses and minuses. They're subject to market
+ forces capable of altering their attractiveness. And like any other investment that's
+ in vogue, they should be handled with great care, with eyes wide open.
+
+ The right hedge funds may be just what the doctor ordered for investors who place a high
+ priority on stable returns and are willing to trade away a lot of their upside potential for
+ that stability. The key will be finding managers who possess skill, discipline and
+ integrity. Doing so won't prove easy; there's no reason why finding superior managers
+ should be any easier than finding superior investments. But as in other quarters of the
+ investing universe, the rewards for success can be substantial.
+
+ There's no question that some of the smartest investment managers are gravitating to the
+ hedge fund arena with its out-sized financial rewards. But they're not the only ones
+ being drawn to the money, and some of the rest will turn out to be incompetent or
+ downright unscrupulous. The tools are there for hedge fund managers to use, but all the
+ tools in the world won't produce superior risk-adjusted returns without superior skill.
+ Just as all managers can't be in the top quartile, all hedge fund managers are
+ unlikely to be smart enough to identify the markets' mistakes; undoubtedly some of
+ them will be the ones making those mistakes.
+
+ Finally, my personal bottom line: the most important element in the decision to
+ invest in a hedge fund shouldn't be the sheer profit potential, but your comfort in
+ entrusting its managers with the combination of potent investment tactics, high-
+ octane fees and the absence of a hurdle rate.
+
+
+Memo: Risk and Return Today.
+
+A single word is enough to describe the overall investment world today: lackluster. Stock and
+bond returns thus far in 2004 are quite modest virtually across the board. Candid managers
+almost everywhere admit there's little to buy. In many areas, especially in non-traditional
+investments, everyone agrees there's "too much money chasing too few ideas." How can
+everything be priced to provide low returns? Where does this excess money come from? I'll
+provide my explanation below. Pardon me if I start with some rudimentary building blocks.
+
+ Risk/Return Foundations
+
+The most fundamental assumption underlying investment theory and practice today regards the
+universality of risk aversion. It is assumed that people dislike risk and prefer safety. The proof
+is simple: if a safe investment and risky investment - e.g., a 30-day U.S. Treasury bill and a
+start-up company's 30-year bond - both offer a 5% yield, virtually no one will choose the latter.
+
+Thus, if investors are going to bear risk, they must be induced to do so, with the incentive
+coming in the form of a higher expected return. In short then, the market must set prices such
+that investors will expect riskier investments to deliver higher returns. (I have said many times
+that those higher returns must not be viewed as dependable; if risky investments could be
+counted on to produce higher returns, they wouldn't be risky. Thus their expected returns must
+appear to be higher in order to attract capital, but the higher expected return will always be
+accompanied by a range of possible outcomes that is wider and may include losses.)
+
+Because of the assumed correlation between perceived risk and perceived return potential, the
+following graphic has come into widespread use to depict the market's basic workings:
+
+ Return
+
+ Risk
+
+As the graphic suggests, there is a low return that can be earned on the riskless asset and, from
+there, prospective return will rise with prospective risk. Thus we have a "capital market line"
+that, as the academics say, "is upward sloping to the right." (The "riskless asset" is generally
+felt to be the shortest U.S. Treasury bill, with regard to which investors don't worry about credit
+risk or the risk that inflation will erode the purchasing power of principal before it's repaid upon
+maturity.)
+
+ The Market at Work
+
+I'll use a "typical" market of a few years back to illustrate how this works in real life: The
+interest rate on the 30-day T-bill might have been 4%. So an investor says, "If I'm going to go
+out five years, I want 5%. And to buy the 10-year note I have to get 6%." He demands a higher
+rate to extend maturity because he's concerned about the risk to purchasing power, a risk that is
+assumed to increase with time to maturity. That's why the yield curve, which in reality is a
+portion of the capital market line, normally slopes upward with the increase in asset life.
+
+Now let's factor in credit risk. "If the 10-year Treasury pays 6%, I'm not going to buy a 10-
+year single-A corporate unless I'm promised 7%." This introduces the concept of credit
+spreads. Our hypothetical investor wants 100 basis points to go from a "guvvie" to a
+"corporate." If the consensus of investors feels the same, that's what the spread will be.
+
+What if we depart from investment grade bonds? "I'm not going to touch a high yield bond
+unless I get 600 over a Treasury note of comparable maturity." So high yield bonds are
+required to yield 12%, for a spread of 6 percent over the Treasury note, if they're going to
+attract buyers.
+
+Now let's leave fixed income altogether. Things get tougher, because you can't look anywhere
+to find the prospective return on investments like stocks (that's because, simply put, their
+returns are conjectural, not "fixed"). But investors have a sense for these things. "Historically
+S&P stocks have returned 10%, and I'll only buy them if I think they're going to keep doing
+so." So in theory, the common stock investor determines earnings per share, earnings growth
+rate and dividend payout ratio and inputs them into a valuation model to arrive at the price from
+which S&P stocks will return 10% (although I'm not sure the process is nearly that methodical
+in actuality). "And riskier stocks should return more; I won't buy on the NASDAQ unless I
+think I'm going to get 13%."
+
+From there it's onward and upward. "If I can get 10% from stocks, I need 15% to accept the
+illiquidity and uncertainty associated with real estate. And 25% if I'm going to invest in
+buyouts . . . and 30% to induce me to go for venture capital, with its low success ratio."
+
+That's the way it's supposed to work, and in fact I think it generally does (although the
+requirements aren't the same at all times). The result is a capital market line of the sort that has
+become familiar to many of us, as shown on the next page.
+
+ Ve
+ nt
+ B ur
+ e
+ uy C
+ ap
+ ou ita
+ R ts
+ l(
+ ea %
+ S lE
+ st
+ ) )
+ m
+ al
+ lS
+ H at
+ e
+ S h
+ Yi
+ to
+ ck
+ )
+
+ Return
+ &P el
+ H St d
+ Bo
+ s
+ h
+ o ck nd )
+ ea
+ G
+ ra
+ de
+ s
+ s
+ Mo Ye
+ ar
+ rT
+ re
+ Bo
+ nd
+ ) )
+ ne Tr as s
+ M su y
+ ke %
+ )
+ )
+
+ Risk
+
+ The Market at Work - 2004 Version
+
+A big problem for investment returns today stems from the starting point for this process:
+The riskless rate isn't 4%; it's closer to 1%. Interest rates reached multi-generational lows in
+2004. The Fed kept short rates low for much of the year, although they've been inching up in
+recent months. This was done (a) to stimulate an economy that has been quite sluggish since
+the last recession and (b) to protect the economy against negative effects from exogenous
+shocks, most prominently the corporate scandals of 2001-02 and the terrorist attacks of 9/11
+(and the possibility of more); in fact, the low rates have been described as "emergency rates."
+
+Our typical investor still wants more return if he's going to accept time risk, but with the
+starting point at 1+%, now 4% is the right rate for the 10-year (not 6%). He won't go into
+stocks unless he gets 6-7%. And junk bonds may not be worth it at yields below 7%. Real
+estate has to yield 8% or so. For buyouts to be attractive they have to appear to promise 15%,
+and so on. Thus we now have a capital market line like the one shown below that is (a) at a
+much lower level and (b) much flatter.
+
+ V
+ B e
+
+ Return
+ Ca n t u
+ Re uy pi r e
+ ta
+ Sm al
+ ou
+ ts l(
+
+ H al
+ Es
+ ta
+ )
+ S ig
+ lS
+ to
+ t e
+ )
+ H &P
+ h
+ Yi c ks %
+ )
+ el
+ d
+ -Y Gr ks ) )
+ M -Y
+ rT
+ rT
+ re
+ as
+ ad
+ es
+ %
+ on re .( % )
+ M .( )
+ %
+ )
+
+The lower level of the line is explained by the low interest rates, the starting point for which is
+the low riskless rate. After all, the investment thought process is a chain in which each
+investment sets the requirement for the next. Each investment has to compete with others for
+capital, but this year, due to the low interest rates, the bar for each successively riskier
+investment has been set lower than at any time in my career.
+
+ Why a Flatter Line?
+
+Not only is the capital market line at a low level today in terms of return, but in addition a
+number of factors have conspired to flatten it. First, investors have fallen over themselves in
+their effort to get away from low-risk, low-return investments. When you're especially
+eager not to make safe investment A, it takes less compensation than usual (in terms of
+prospective return) to get you to accept risky investment B. Because people today are so
+motivated to get away from 1% money market investments and 3-4% Treasury notes, they'll
+accept less risk compensation than usual.
+
+Second, risky investments have been very rewarding for more than twenty years and did
+particularly well in 2003. With only occasional, easily forgotten exceptions, we've seen high
+returns from common stocks, low-quality stocks, emerging market stocks, high yield bonds,
+distressed debt, private equity . . . the list goes on. Thus investors are attracted more (or
+repelled less) by risky investments than perhaps might otherwise be the case and require
+less risk compensation to move to them.
+
+Third, investors perceive risk as being quite limited today. Because rising inflation isn't
+seen as a significant risk, bond investors don't require much of a premium to extend maturity.
+And because the combination of a recovering economy and an accommodating capital market
+has brought default rates to record lows, investors are unconcerned about credit risk and thus are
+willing to accept below-average credit spreads. Prospective return exists to compensate for
+perceived risk, and when there isn't much perceived risk, there isn't likely to be much
+prospective return.
+
+In summary, to use the words of the "quants," risk aversion is down. In May 2003 we at
+Oaktree began to worry about investors' indiscriminate behavior (of course, we're usually early
+in worrying about overheated markets). We were struck by the rapidity with which the terrified
+investors of less than a year earlier had become confident and aggressive. "Stressed" bonds that
+we had bought at yields of 30% to 70% in the summer of 2002 now could be sold at yields of
+6% to 9%. Somehow, in that alchemy unique to investor psychology, "I wouldn't touch it at
+any price" had morphed into "looks like a solid investment to me." As a result, money was
+flooding out of low-yielding safe investments and into risky investments that appeared to offer
+higher returns (although we didn't think the returns were high enough).
+
+In response, I wrote a piece called "The Cat, the Tree, the Carrot and the Stick" as part of my
+memo "What's Going On?" published on May 6, 2003. I said I thought the combination of low
+prospective returns on safe investments and recent high returns on risky investments was
+pushing many investors to dangerously high branches of the investment tree. Those branches
+are subject to cracking under all that weight. Therefore, until conditions changed, I suggested
+something closer to the ground.
+
+Money, Money Everywhere
+U
+
+But how can it be that there's too much capital trying to access so many markets at once? We
+can understand investor capital flowing from one market to another, but isn't the total amount of
+investment capital finite? Where does "more money" come from?
+
+I think the amount of investment capital usually is rather fixed, (although many corporations are
+making pension fund contributions to correct under-funding), and in fact I don't think there's
+really "more money everywhere." It's just that no one wants to hold more cash at 1%, high
+grades at 3-5% or stocks at 6-7% (after stocks treated investors so poorly in 2000-02, that's
+what most people think they're now poised to return).
+
+Thus I think the present situation is as follows:
+
+ There's a given amount of money looking for a home.
+
+ Relatively little of it is going into mainstream stocks and bonds, the two biggest markets.
+
+ The redirection of that capital to the smaller non-traditional markets has given rise to a
+ deluge capable of overwhelming those markets: driving up prices, lowering prospective
+ returns and rendering attractive investments scarce as hens' teeth.
+
+So it's not that there's that much more money around. It's that would-be buyers are
+optimistic, unafraid, undemanding in terms of return, and moving en masse to small asset
+classes. Holders of assets, who play a part in setting market prices by deciding where they'll
+sell, also are optimistic. The result is an unappetizing, risk-tolerant, high-priced investment
+landscape. It's for times like this that my favorite Warren Buffett quotation is most appropriate:
+"The less prudence with which others conduct their affairs, the greater the prudence with
+which we must conduct our own affairs."
+
+Implications for Investing
+U
+
+One way to improve investment results - which we try hard to apply at Oaktree - is to think
+about what "today's mistake" might be and try to avoid it. There are times in investing when
+the likely mistake consists of:
+
+ not buying,
+ not buying enough,
+ not making one more bid in an auction,
+ holding too much cash,
+ not using enough leverage, or
+ not taking enough risk.
+
+I don't think that describes today. I've always heard that no one awaiting heart surgery ever
+complained, "I wish I'd gone to the office more." Well, likewise I don't think anyone in the
+next few years is going to look back and say, "I wish I'd invested more in 2004."
+
+Rather, I think this year's mistake is going to turn out to be:
+
+ buying too much,
+ buying too aggressively,
+ making one bid too many,
+ using too much leverage, and
+ taking too much risk in the pursuit of superior returns.
+
+There are times when the investing errors are of omission: the things you should have done but
+didn't. Today I think the errors are probably of commission: the things you shouldn't have done
+but did. There are times for aggressiveness. I think this is a time for caution.
+
+Not every investor has the option of holding a lot of cash. A pension fund has to pursue its
+actuarial return, and too many years spent earning money market rates can ensure it won't be
+achieved. The same can be true for a foundation that has to spend 5% of its assets each year,
+and for an individual living on his or her investment income. But when I look today at the
+smart people I know who have the ability to hold cash, I see large balances. As Warren Buffett
+wrote in his 2003 Annual Report, "Our capital is underutilized now . . . . It's a painful condition
+to be in - but not as painful as doing something stupid."
+
+There are times when big funds are a good thing - when the market power that comes with
+more money is a help. I think this is generally a time for moderation in fund raising - a time
+when the selectivity and agility that come with smallness will prove to be key. Still, some
+managers are raising ever-larger funds and extending into new strategies on the back of recent
+strong results. That doesn't mean it's smart to join the herd of participants.
+
+In my memo "What's Your Game Plan" on investing and sports (September 5, 2003), I
+mentioned the importance of "playing within yourself," or "not trying to do things you're not
+capable of, or things that can't be accomplished within the environment as it exists."
+
+ We simply cannot create investment opportunities when they're not there. In its
+ first year, our newest distressed debt fund produced a 64% net IRR that's eye-
+ popping . . . and impossible to replicate any time soon. So what should we do
+ now? Rather than take profits and distribute the proceeds, should we prolong our
+ holding periods or try to repeat our gains in new positions? And would it be
+ smart to raise a big new fund? None of these, if the prospective returns on our
+ holdings are inadequate and new investment opportunities are limited. The
+ dumbest thing we could do is to insist on perpetuating our high returns - and
+ give back our profits in the process. If it's not there, hoping won't make it so.
+ All we ever can do is take what they give us.
+
+No one wants to throw in the towel with regard to investment returns. No one likes to
+admit that their intelligence and hard work won't be enough to get them to their target.
+But at times when the markets are offering paltry absolute returns and inadequate
+compensation for bearing risk, it's the only thing to do.
+
+What's the alternative? Deny the facts? Take on more risk in pursuit of high returns? Doing so
+won't help when prices are high and too much capital is jostling for admittance. The fact is
+there are times when you have to stress caution, refuse to stretch for return, moderate
+your expectations, and keep your head down. I think this is one of those.
+
+By the way, I'm not saying all investments are priced too high and bound to collapse. I'm
+saying most aren't priced to give high returns or adequate risk compensation. Whether a
+strong price correction is coming in a given market depends on the extent and speed with which
+investors increase their return demands. Remember, there's only one way for prospective
+returns to increase quickly: through a price correction. On the other hand, a slow and gradual
+reassertion of prospective return can be accomplished through several years of price stagnation.
+Neither prospect, however, argues for aggressive investing today.
+
+As for individual asset classes,
+
+ The greatest excesses seem to be centered in some of the alternative investments to
+ which people have fled in search of return. Private equity, distressed debt, hedge funds
+ and others of that ilk are unlikely to prove the "silver bullets" that people are hoping for.
+
+ There's no question that bonds of all stripes are fated to produce low returns - in fact,
+ the lowest long-term bond returns I've ever seen. When you're talking about a 10% 10-
+ year bond, you can argue about whether the return over the next few years will be 15%,
+ 10%, 5% or zero. But when you're talking about a 5% bond, the range by definition has
+ to be significantly lower.
+
+ Finally, stocks are well down from their highs; their valuations have been rendered less
+ excessive by today's generally higher corporate earnings; and they aren't being borne
+ aloft by capital inflows. On the other hand, absolute p/e ratios are still high, supported
+ by the low level of interest rates, and there's the risk of downward valuation when
+ people realize that the long-term return on stocks is likely to be driven by profits growth
+ in mid-single digits.
+
+Taking all of the above into consideration, I feel this is a time when the route to investment
+success may be via the "least bad" course of action. For over a year I've been telling the
+boards on which I serve that I view the solution as "special niches, special people."
+Because the vast majority of asset classes are high priced and crowded, the key is to find
+those that are less so. Similarly, it's important to choose managers with enough talent and
+discipline to make the most of the current situation.
+
+None of my observations is sure to be right, as always, but I want to share my thinking about
+what's going on in the investment markets today.

@@ -1,0 +1,2309 @@
+Memo: Political Reality Meets Economic Reality.
+
+In 2016 I wrote Economic Reality (in May) and Political Reality (in August), two memos covering
+subjects I thought were important and timely. In the latter, I summed up Economic Reality as follows:
+
+ [It] describes the ways in which economics defines and constrains reality in business,
+ investing and everyday life. Economics establishes the rules of the game and the
+ boundaries of the playing field, and these things can't be ignored. They can be altered,
+ but not without consequences.
+
+ The realities of economics are stark and consistent, but also logical. They aren't
+ absolute, like the laws of physics (e.g., gravity), but they reliably establish tendencies and
+ limits.
+
+The point is that the field of economics covers the choices people and organizations face; the costs,
+possible rewards and potential consequences; and how decisions regarding those choices are made.
+These are the bases on which people enter into economic transactions. More than anything else, perhaps,
+economics is the study of choice.
+
+Three months later, in Political Reality, I said:
+
+ I've always gotten a kick out of oxymorons - phrases that are internally contradictory -
+ such as "jumbo shrimp" and "common sense." I'll add "political reality" to the list. The
+ world of politics has its own, altered reality, in which economic reality often seems not to
+ impinge. No choices need be made: candidates can promise it all. And there are no
+ consequences. If something might have negative consequences in the real world,
+ politicians seem to feel free to ignore them. . . .
+
+The purpose of this memo is to describe what happens when political behavior collides with
+economic reality, as illustrated in one area where the government is taking steps - tariffs - and
+another in which debate among politicians is heating up - restrictions on the capitalist system.
+
+Before I move forward, I'd like to state up front, as I did in Economic Reality in 2016, that I'm
+not writing to make political judgments or to make any politician or party look bad. But
+economic pronouncements can't be separated from the people who make them. If you read through to
+the end, you'll see I find something to complain about in the approach of members of both parties.
+
+Tariffs
+
+Tariffs are very much in the news these days, and their complexity renders them ripe for error and thus
+appropriate for discussion here.
+
+Many people - albeit President Trump's supporters more often than economists in general - applaud his
+decision to impose tariffs against China. Whereas the simple story was that he was doing so to (a) reduce
+our trade deficit with China, (b) support U.S. manufacturers and (c) protect U.S. jobs, there's more in
+play. In The Wall Street Journal of October 20, Richard Haass, president of the Council on Foreign
+Relations, an independent, nonpartisan organization, enumerated complaints that have been lodged
+against China in the area of trade:
+
+ . . . higher-than-warranted tariff and non-tariff barriers, forced transfers of technology,
+ theft of intellectual property, government subsidies and currency manipulation designed
+ to make exports cheaper and to reduce the demand for imports.
+
+Everyone knowledgeable tells me these complaints are warranted. While they're not new, past presidents
+don't seem to have done much about them, or at any rate didn't produce any results. Clearly Trump likes
+to take action and doesn't shy away from confrontation. Given that China's economy is much more
+reliant on exports to the U.S. than ours is on exports to China - and given China's need for rapid
+economic growth in order to reach its goals - imposing tariffs represents a possible way for Trump to get
+China to alter its behavior.
+
+Thus rather than criticize Trump's tariffs, I'm going to use them as an example to illustrate the
+central messages of this memo: (a) economic actions have costs and consequences, (b) for that
+reason, it's generally safe to say there are no simple solutions to complex problems, (c) given the
+complexities, few people thoroughly understand economics, and (d) because of that understanding
+deficit, politicians' proposed solutions often fail to receive the scrutiny they should.
+
+First, there's misunderstanding. The U.S. runs chronic trade deficits with most of its trading partners, and
+with China it amounted to $335 billion in 2017. Trump takes these deficits to mean our trading partners
+are winning and we're losing. "We have countries ripping us off for years. . . . We have trade deficits;
+they have surpluses." In particular, he says "China's been killing us," suggesting there's something
+nefarious about trade deficits. But is that the correct inference? The other day I went to the barber for a
+haircut, and when I paid him, I ran a trade deficit. He got my money, and I got a haircut. I didn't feel like
+I had lost. Likewise, Chinese businesses make money from the U.S., and U.S. consumers get the low-
+priced goods they want. Both sound like winners to me.
+
+Trump has said, "If we didn't trade, we'd save a hell of a lot of money." Would we? That would be true
+only if we didn't otherwise buy the things we've been importing, or if we were able to buy them cheaper
+domestically. Would it really save us money to not trade with China?
+
+After all, who pays tariffs? They're a tax paid by exporters and presumably passed on to consumers in
+the countries into which goods are imported. So it's not enough to say "exporters are paying increased
+tariffs." It's also likely that U.S. consumers are paying increased prices for the goods they consume.
+
+If tariffs are paid by consumers in the importing nations, what's to be accomplished by imposing them?
+In short, it's done to raise the cost of foreign goods and thus discourage their consumption. But
+that leads us to the knock-on effects: what else happens?
+
+Let's take the first shot fired in last year's escalation on trade: the imposition of tariffs of 25% on
+imported steel and 10% on imported aluminum. Here are some of the many possible complications,
+ramifications and second-order consequences:
+
+ Tariffs on imported intermediate goods such as steel and aluminum might increase the cost of
+ finished goods manufactured in the U.S., rendering them less competitive if their prices are raised
+ (or less profitable if they're not). According to The New York Times of July 4, 2018:
+
+ The Aluminum Association, which represents the bulk of the American industry,
+ says that 97 percent of American jobs in aluminum are at what are called
+ "downstream" businesses that shape the metal into things like auto parts and other
+ goods. Those companies are hurt by Mr. Trump's tariffs, because they now must
+ pay higher prices for their raw materials.
+
+ To avoid paying tariffs, American manufacturers could reduce their imports of foreign steel and
+ aluminum for use in the finished goods they make, and instead increase their imports of finished
+ goods - which are not subject to the tariffs - made abroad with foreign steel and aluminum.
+
+ Going beyond importing finished goods, American companies could move their manufacturing
+ overseas, cutting domestic jobs. The overseas use of untaxed, low-cost metals could provide a
+ competitive edge when those finished goods are imported into the U.S.
+
+ Non-U.S. companies likewise could gain an advantage over their American competitors. Their
+ use of untaxed, low-cost materials could give them lower selling prices or higher profit margins
+ when exporting finished goods to the U.S.
+
+ Despite the cost increases caused by tariffs, imports might not actually be discouraged and U.S.
+ production encouraged, simply because U.S. capacity doesn't exist:
+
+ "The reality is there's not enough aluminum made here," said Eric Krepps, who runs
+ the North American automotive business at Constellium NV, a Dutch aluminum
+ company. "We could not source everything out of the U.S. even if we wanted to,"
+ . . . since the U.S. produces just 13% of the 5.6 million metric tons of raw aluminum
+ it uses each year. (The Wall Street Journal, July 18, 2018)
+
+ Since tariffs might raise selling prices on imported goods (or goods incorporating imported
+ materials and components), the reduced competitiveness of those imports could enable domestic
+ producers to raise their prices. The result would be higher consumer prices on all brands.
+
+ Countries whose goods are subjected to tariff increases are unlikely to just sit there and take it.
+ Retaliation is always a reasonable expectation. "While tariffs help some companies, they have
+ the potential to hurt thousands of others. Businesses that depend on access to overseas markets
+ are being hit with retaliatory tariffs . . . ." (The New York Times, August 7, 2018)
+
+ Finally, a trade war centered on escalating tariffs makes the global environment less stable,
+ reducing predictability and increasing uncertainty. This isn't good for any economy.
+
+Going beyond steel and aluminum, increased tariffs on imported automobiles and auto components have
+been under discussion for much of the past year. Some of the considerations described above regarding
+steel and aluminum don't apply to cars, since they're finished goods, not intermediate goods. But a
+number of additional elements create exceptional complexity:
+
+ U.S. companies manufacture cars in the U.S. for sale abroad.
+ U.S. companies manufacture cars abroad for import to the U.S.
+ Some of the biggest manufacturers of cars in the U.S. are non-U.S. companies.
+ Many of the cars produced in the U.S. by non-U.S. companies are destined for export.
+ Cars made in the U.S. incorporate a lot of components made elsewhere.
+ Of the cars sold in the U.S. last year, 44% were imported.
+
+On July 20, The New York Times discussed the possibility of increased tariffs on autos as follows:
+
+ If imposed, the tariffs would most likely have deeper and wider-reaching repercussions
+ for the economies than levies on fish or steel. Cars don't come together in one plant,
+ with one work force - they're the final result of hundreds of companies working together
+ in a supply chain that can snake through small American towns and cross oceans.
+
+Thus increased tariffs on automotive imports could bring about:
+
+ an increase in the price of all cars bought by Americans,
+ a resultant decline in the number of cars sold,
+ tougher times for manufacturers, dealers, support businesses and their employees, and
+ thus a general contraction of the economy. (In July the IMF projected that "currently announced
+ tariffs would reduce global economic output by $430 billion, or half a percent, in 2020, if they
+ remained in place and shook consumer confidence." (The New York Times, July 23, 2018))
+
+The bottom line is that tariffs aren't a simple solution or a sure thing. They're a tool or tactic with
+potential benefits, but also costs and risks. They can help some parts of the economy and
+simultaneously harm others. In other words, they're a tradeoff. That's the key word in economics.
+The question is whether they're worth it. In good part, it depends on whom you ask.
+
+ One study of the Obama tire tariffs found in a single year, 2011, Americans spent an
+ extra $1.1 billion on tires as a result of a tariff that preserved, at most, 1,200 jobs. That is
+ almost $1 million per job, for jobs paying an average of about $40,000.
+
+ Steel tariffs imposed in 2002 by President George W. Bush yielded similar results,
+ penalizing not just consumers but companies that use steel to make other products, like
+ construction companies and carmakers. The Dartmouth economist Douglas Irwin
+ estimated 140,000 American workers make steel, while 6.5 million workers make
+ products that include steel.
+
+ "If for some reason you said, 'We just want to help steel producers, shareholders,
+ possibly steel workers,' it makes sense," Mr. Irwin said. "If you care about
+ manufacturing employment or the manufacturing sector, it doesn't make sense." (The
+ New York Times, September 17, 2018)
+
+I'll move to wrap up on the subject of tariffs with a few paragraphs from Economic Reality:
+
+ Have the voters who think it's a great idea to "bring back the jobs" thought about what
+ goods manufactured at U.S. wages - or tariffs designed to bring the cost of Chinese
+ goods up to those levels - would do to their cost of living? I'd guess not. How will the
+ interests of the 3.2 million Americans estimated to have lost their manufacturing
+ jobs to China be balanced against the hundreds of millions who would have to pay
+ considerably more for imported goods? Not an easy question.
+
+ Quotas, tariffs and subsidies are all ways for countries to protect industries that can't hold
+ their own against international competitors without these things. Thus they're a good
+ example of ways in which policy decisions can lead to distortions. Since the industries
+ for which tariffs and subsidies are established are, by definition, industries that
+ can't compete without them, for these things to be enacted, someone has to make a
+ decision that (a) these industries should be kept afloat and (b) consumers of these
+ industries' goods should be prevented from paying the lower prices that would
+ prevail if consumers had easy access to goods from abroad, free of tariffs. . . .
+
+ The bottom line, as with so many of the things I'm discussing here, is that economic laws
+ cannot be ignored or magical solutions willed to appear. While it's far from the entire
+ explanation, the main reason the U.S. has lost manufacturing jobs to foreign countries is
+ that people there are willing to work for much less. In this globalized world, that
+ means Americans can't enjoy both the high-paying manufacturing jobs they used to
+ have and the low-cost goods they've been buying of late. The imposition of tariffs
+ can't solve that conundrum.
+
+On two occasions last summer, while discussing the steel and aluminum tariffs, The Wall Street Journal
+did a good job of summing up the key considerations:
+
+ The fallout, while so far limited, illustrates how efforts to protect some companies can
+ cause unintended pain for others. (June 4, 2018)
+
+ Put into practice, tariffs are a complex economic weapon that can ricochet through an
+ economy in ways even proponents don't expect. (July 17, 2018)
+
+As mentioned earlier, I'm not writing here to criticize tariffs (or administrations that impose them), but
+rather to show (a) it's not easy for government actions to improve the functioning of economies and (b)
+there are ramifications to be considered. Tariffs are typical of economic reality, and economic reality is
+complex, in large part because it consists mainly of dividing resources among participants, not of creating
+more for everyone. As economists like to say, "There's no such thing as a free lunch."
+
+Anti-Capitalism
+
+Something else is going on that I worry about far more than the imposition of tariffs: increasing
+anti-capitalist sentiment.
+
+One of the big trends in politics in recent years has been the rise of populism. While populism is
+somewhat amorphous, here's a definition for the purposes of this memo:
+
+ A political philosophy supporting the rights and power of the people in their struggle
+ against the privileged elite. (The Free Dictionary)
+
+I think it's important to add another word with regard to the adoption of populism as a political strategy: it
+plays on resentment on the part of "the people" toward "the elite."
+
+Populism has been on the rise in Europe for a number of years, generally associated with the political
+right and characterized by resentment toward economic, liberal and urban elites. It has often been
+accompanied by authoritarianism, allowing charismatic strongmen to present themselves as protecting
+"the people" from looming threats like immigration.
+
+A good part of the credit for Donald Trump's election in 2016 has likewise been attributed to populism.
+This instance, also coming from the right, was largely built on resentment from rural, white, older and
+less-educated voters directed at urban, establishment, educated and cultural elites, as well as unhappiness
+with social and demographic trends that are disrupting the status quo.
+
+But as shown in the 2016 presidential Democratic primary contests and since, another wave of populism
+has arisen from the left. I'm most concerned that in this case, the principal targets of popular
+resentment are capitalism and capitalists.
+
+One of the big stories of the 2016 primary season was the success of avowed Democratic Socialist
+Senator Bernie Sanders. Sanders launched a challenge to Hillary Clinton, the heir-apparent to the
+leadership of the Democratic Party and eventually the chosen nominee. He gained a lot of followers and
+gave Clinton a run for her money, in particular by emphasizing economic justice, the corrosive effect of
+money (and especially corporate money) in politics, and the promise of healthcare and education for all.
+
+Following on Sanders's performance, the so-called "progressive" or left wing of the Democratic Party is
+becoming a formidable bloc. I expect progressives to be a force to be reckoned with in the coming
+years. They will show up strongly in the 2020 primaries and influence the debate. In fact, their
+influence is already being seen. And thus this section of my memo.
+
+In a possibly isolated but telling incident, in a Democratic congressional primary last year in Queens,
+New York, Alexandria Ocasio-Cortez came from the far left to beat Joe Crowley, a ten-term, center/left
+congressman. Crowley was #4 in the Democratic leadership in the House of Representatives and
+considered a likely eventual successor to Nancy Pelosi as House Speaker. Instead he was ousted by
+Ocasio-Cortez: 28 years old at the time and sporting a storybook bio featuring a working-class
+upbringing, academic distinction and stints as a bartender and waitress. She had been politically oriented
+but had never held elected office. And yet she became the youngest woman ever elected to Congress.
+She's been very outspoken since and has attracted disproportionate attention for a freshman legislator.
+
+Ocasio-Cortez, like Sanders, is a member of the Democratic Socialists of America, and she willingly
+accepts the label "radical." A New Yorker article titled "Left Wing of the Possible" quotes her as
+follows:
+
+ I do think we are in a crisis of late-stage capitalism, where people are working sixty,
+ eighty hours a week and they can't feed their families. There is a lot that is economically
+ dystopic in this country. So that's why people are open to change. (July 23, 2018)
+
+Julia Salazar, another member of the D.S.A., also ousted a Democratic incumbent last year and won
+election to the New York State Senate with the "ardent support of Ocasio-Cortez." The same article
+included a statement from her that I found chilling:
+
+ . . . a democratic socialist "recognizes the capitalist system as being inherently
+ oppressive, and is actively working to dismantle it and to empower the working class and
+ the marginalized in our society."
+
+Does this group genuinely want to abolish capitalism? Thankfully, the same article went on to reflect
+some moderate sentiment:
+
+ Michael Kazin, a co-editor of Dissent and a D.S.A. member, [said]: "The radical left's
+ major influence in American history is to push liberals, progressives, to the left. And that
+ is going to be the impact. I don't believe we are going to have a socialist transformation
+ of America in my lifetime."
+
+In July, The New York Times explored the Democratic Socialists' agenda as follows:
+
+ "So what are we talking about here?" the host Stephanie Ruhle asked in an MSNBC
+ segment, with background graphics highlighting that democratic socialism is "NOT
+ Socialism" and "NOT Communism" but something more like a fondness for Social
+ Security and Amtrak. The D.S.A. itself both embraces and rejects such friendly
+ definitions, explaining that it "fights for reforms today" but still seeks to overturn "an
+ international economic order sustained by private profit, alienated labor" and other forms
+ of exploitation. . . .
+
+ When today's leftists talk about socialism, they point to places like Sweden and France
+ (home to robust maternity leave and universal health care) or even to lost relics of
+ America's recent past (stable jobs, union power, a collective investment in human
+ welfare). (July 22, 2018)
+
+Ocasio-Cortez and Salazar may not be indicative of a broad movement, as they hail from New York City,
+where a Democratic candidate is a sure thing in a general election and extremism is unlikely to be an
+impediment. But some trends among our citizens are very much worth noting. According to the New
+Yorker article cited above:
+
+ In 2016, the Institute of Politics, at Harvard's Kennedy School, polled people between the
+ ages of eighteen and twenty-nine, and discovered that support for capitalism was
+ surprisingly low. Fifty-one percent of the cohort rejected capitalism; thirty-three percent
+ supported socialism. A later edition of the survey found that fifty-one percent were
+ "fearful about the future," while only twenty percent were hopeful. . . .
+
+ Seventy-eight percent of Americans working full time live paycheck to paycheck; nearly
+ half do not have four hundred dollars at the ready. . . .
+
+ . . .while ninety percent of people born in the nineteen-forties outearned their parents -
+ the traditional American expectation - this number has fallen to fifty percent for people
+ born in the nineteen-eighties. [Of course, they could be too young to have done so yet.]
+
+These are the dystopic trends Ocasio-Cortez cites and the source of the resentment of capitalism that gives
+rise to today's populism from the left.
+
+As I see it, for the 60 years immediately following World War II, much of the world enjoyed a rising tide
+of prosperity that lifted all boats. That made nearly everyone economically content and thus happy with
+capitalism and free-market solutions. Even though some people did better than others, most did quite
+well. Living standards rose and the incidence of poverty declined. Ronald Reagan and Margaret
+Thatcher celebrated the efficacy of free markets, and the world agreed.
+
+Now the rate of economic progress has receded and current trends are less cheering:
+
+ 1. The possibility that economic growth will be slower than that of the post-war period
+ 2. The negative impact of globalism and automation on specific groups
+ 3. The increased importance of advanced education or the ownership of capital
+ 4. As a consequence of numbers 2 and 3 above, increased income inequality
+
+In short, the tide is no longer rising to the same extent, and many fewer people are happy with their
+circumstances and outlook. Their unhappiness crystalizes in populism. And it needs a target. Why
+not capitalism?
+
+My point here is that, as I said above, I expect the rising influence of the left to impact the 2020 election
+cycle. Left-wing Democratic candidates will present challenges to moderates in their party, and the latter
+will have to tailor their messages to compete. And it's starting. In particular, I cite two pieces of
+proposed legislation that emerged recently from prominent Democrats:
+
+ Senator Elizabeth Warren, already an announced 2020 presidential candidate, has introduced her
+ Accountable Capitalism Act. Two of its provisions caught my attention:
+
+ . . . incorporation for large companies would become a federal matter, . . . These
+ federally chartered companies would be mandated to consider the interests of a list
+ of stakeholders, from investors to employees to customers and communities. These
+ groups could then sue if they deemed the company had breached their duties. . . .
+
+ . . . Senator Warren's legislation calls for 40 percent of directors to be elected by
+ employees. (The Financial Times, September 24, 2018)
+
+ Senator Cory Booker of New Jersey, often mentioned as a presidential hopeful, has introduced
+ legislation that I view as related:
+
+ The Worker Dividend Act would mandate that companies buying their own shares
+ must also pay out to their own employees a sum equal to the lesser of either the total
+ value of the buyback or 50 percent of all profits beyond $250 million. (Vox, January
+
+I absolutely am not writing to defend stock buybacks or criticize labor representation on boards.
+What I oppose is (a) the idea of governments deciding how companies will be run and (b) the
+appropriation of corporations' economics for parties other than their owners.
+
+What would be the effects of turning over some of businesses' capital to workers, or requiring that they
+be put on corporate boards? Clearly, to do the former would be comparable to saying to shareholders,
+"That thing you thought you owned - the company - you don't really own that." Stock buybacks are a
+way of returning capital to companies' owners. Why should each one be accompanied by giving an
+equivalent amount to workers? Wouldn't the next step be to say, "Whenever a company pays a dividend,
+it has to distribute an equal amount to its workers"? And wouldn't that be tantamount to saying, "As
+for corporate capital, the workers own half"? Consequences? Ask yourself who would start a
+corporation in the future if it meant the workers would be entitled to half the gains.
+
+What about requiring that workers be put on boards? To date, it has been the job of a corporation's
+directors to represent its shareholders. Requiring that 40% of them be workers would be, in essence,
+another way of saying the shareholders aren't in full control. If workers were put on boards, whose
+interests would they represent: the corporation and its shareholders, or labor? To whom would they work
+to deliver benefits? If an opportunity arose to increase efficiency and profitability by investing in
+automation, for example, how would labor's directors be expected to vote?
+
+And that leads to the matter of requiring corporations to serve multiple interests. Today, directors are
+legally deemed to have done their jobs if they applied "business judgment" for the benefit of the company
+(and thus its shareholders). How would they be expected to simultaneously work for the good of the
+company and its owners as well as its workers, customers and communities? Can you imagine the
+lawsuits that would fly over the issue of whether too much had gone to one group rather than
+another? How could a court decide whether the multiple constituencies had benefitted in the
+appropriate proportions?
+
+What I'd like to do is get some of the progressive politicians and the less-capitalist young people in a
+room and ask them a simple question: To what do you attribute America's preeminence in the world
+over the last hundred years and the generally superior living standards of its people? In short,
+what has been behind the United States' progress to the top of the heap?
+
+What's absolutely clear to me is what it's not: that we're superior people, smarter, better, more
+virtuous or more deserving. Instead, I think it's our democracy, our freedoms, and our less rigid
+social and financial structures. But, extremely importantly, I also think there have been enormous
+contributions from capitalism/free enterprise, the free-market system, economic incentives, private
+ownership of property, individual economic opportunity, and the very limited involvement of
+government in the economy.
+
+Capitalism is an imperfect economic system, because differential performance in the pursuit of economic
+success - as well as luck - results in there being (a) some people who are less successful as well as some
+who are more and (b) a few who are glaringly successful. Obviously I'm someone who has profited from
+capitalism, so my views could be dismissed as hopelessly biased. However, I'm 100% convinced that the
+capitalist system has produced the most aggregate gains for our society, exceptional overall progress, and
+a better life for most. For me, the best assessment of capitalism is the one Winston Churchill applied to
+democracy:
+
+ No one pretends that democracy is perfect or all-wise. Indeed, it has been said that
+ democracy is the worst form of Government except all those other forms that have been
+ tried from time to time.
+
+In the same way, I'm convinced that capitalism is the worst economic system . . . except for all the
+rest. No other economy has accomplished what the U.S. has, accompanied by extensive personal
+freedom, and especially not the ones centrally controlled by government. In particular, no other economy
+has produced inventions and innovations - and distributed life-enhancing products - like the U.S. has.
+
+I'm not arguing in favor of unfettered behavior on the part of corporations. They can't be allowed
+to use just any tactics to get ahead. They mustn't be permitted to compete unfairly against each other,
+behave in anti-social ways, or do damage in pursuit of profit. Thus laws, regulations and active
+supervision on the part of diligent directors are needed to police corporate behavior. I also think the
+leaders of society should encourage companies to operate with a conscience and voluntarily work for the
+betterment of their communities. But this must be done within the framework of the elements that
+made America great - not by subverting them.
+
+Also, I feel it's essential that governments create effective safety nets to assist the less-fortunate
+members of society who end up at the bottom of the income distribution. Capitalism can make
+countries successful through the operation of economic incentives and healthy competition, but I'm
+not in favor of unmitigated "dog eat dog" or "survival of the fittest."
+
+Progressives and Democratic Socialists promise increased equality of income and improvement for
+people below the top. These are worthy goals, and I support them. But trying to achieve them by
+dismantling capitalism would be worse for just about everyone. There is no proof that restrictions on
+capitalism and government involvement in economies can promote equality other than by shrinking the
+pie. Consider what it would be like if the U.S. didn't have the sanctity of private ownership, the
+efficiency of privately run business, and the incentive of personal economic advancement. The hard-
+left thinks government can do things better than free markets and increase wellbeing. Which government
+agencies would you like to see managing our economic engine?
+
+A lot of the left's economic approach is based on closing the income gap, not just by making things better
+for people at the bottom, but also by pulling down people at the top.
+
+ Thus on the TV show 60 Minutes, Ocasio-Cortez expressed fondness for a top federal income tax
+ rate of up to 70% on incomes over $10 million. Combined with the top New York State and City
+ rates, for example, that would give government 83% of the marginal income of people in the top
+ bracket. (That's not terribly far from the suggestion from Jean-Luc Mélenchon, the Communist
+ Party's candidate for president of France in 2017, of a 100% tax rate on incomes above €400,000,
+ or 20 times France's average wage.)
+ Not dissimilarly, in November members of the House considered adjusting its rules to require a
+ 60% super-majority to increase income taxes on the bottom 80% of Americans, but only a simple
+ majority to raise taxes on the top 20%. Is it fair for government to employ different sets of rules
+ when deciding how different groups will be taxed?
+
+ On January 24, just under the wire for inclusion in this memo, Elizabeth Warren took the issue of
+ differential taxation to its ultimate extreme: a wealth tax. I'll let her words on Twitter speak for
+ themselves:
+
+ The rich & powerful run Washington. Here's one benefit they wrote for themselves:
+ After making a killing from the economy they've rigged, they don't pay taxes on
+ that accumulated wealth. It's a system that's rigged for the top if I ever saw one.
+
+ We need structural change. That's why I'm proposing something brand new - an
+ annual tax on the wealth of the richest Americans. I'm calling it the "Ultra-
+ Millionaire Tax" & it applies to that tippy top 0.1% - those with a net worth of over
+
+ Any populist appeal to resentment there?
+
+ And what exactly is the benefit that the "rich & powerful . . . wrote for themselves"? That they
+ get to keep what they earn net of taxes. Senator Warren omits to mention that under the
+ American system, nobody pays tax on accumulated wealth. But she sure makes it sound
+ egregious that the rich don't do so. The rich didn't arrange an exemption for themselves; there
+ is no wealth tax. But why let facts like those get in the way of political rhetoric?
+
+Over the centuries, one thing that has brought successful democracies to an end has been the
+realization on the part of the majority that they can appropriate more for themselves by taxing
+those at the top. This is an example of the so-called "tyranny of the majority." As The New York Times
+said the other day, albeit in direct reference to Brexit:
+
+ During debates over the American Constitution, James Madison warned in one of the
+ essays that became the Federalist Papers that unbridled majoritarianism had made earlier
+ democracies "as short in their lives as they have been violent in their deaths." Only "a
+ republic" of representatives subject to rules and institutions as well as the public, he
+ wrote, "promises the cure for which we are seeking."
+
+ . . . as Mr. Madison warned in the Federalist Papers, a democracy imposed "by the
+ superior force" of an "overbearing majority" may not always remain democratic.
+
+Does the left understand the long-term consequences of the majority imposing confiscatory taxes on the
+rich, and do they really want them? Will reducing the incentive to earn more (or incentivizing successful
+Americans to transfer their citizenship to other nations) really result in the betterment of most people?
+Americans generally accept the concept of progressive tax rates. But they must not be punitive and
+de-motivating. Note in this regard that in 2015, the top 5% of taxpayers (with 37% of all income) paid
+60% of all income taxes, and the top 1% (with 21% of income) paid 39%. To the political left: are those
+proportions of taxes paid "fair"? And would it still be fair if they were much higher?
+
+(I want to make clear that I believe room does exist for increases in tax rates on the biggest earners since
+(a) today's top rate of 37% is one of the lowest in the 106-year history of the U.S. income tax and (b)
+dividends and capital gains are taxed at rates that are far lower still. It could be argued that all forms of
+income should be taxed the same.)
+
+While there are ways in which the system can be improved, I consider it problematic when people
+denounce capitalism without acknowledging its benefits. It's ironic to think of politicians criticizing the
+capitalist system via platforms like Twitter and Facebook (accessed on their iPhones); at rallies reached
+via airlines and cars (perhaps employing ride-sharing services such as Uber); in meetings over a
+Starbucks coffee; and via cable news networks. All of these are innovations that came out of a system
+that encourages people to take significant risks to start companies on the premise that they'll reap the
+rewards of ownership if their businesses succeed.
+
+I'm sure if they thought about it, the list of innovations these people wouldn't want to live without -
+ranging from drugs to consumer products, to services, to technology - would be a long one. Which of
+those would we have today if not for the profit motive and the possibility of ending up with accumulated
+wealth? And in the absence of those expectations, to whom would we look for the innovations of the
+future? How's the record of non-capitalist countries such as the U.S.S.R., Cuba and Venezuela in this
+regard?
+
+A great deal of America's economic progress has resulted from people's aspiration to make more
+and live better. Take that away and what do we have? The people at the bottom won't have as
+many at the top to resent. But without the contributions of those who aim for the top, everyone will
+have less to enjoy (see the appendix for an informative parable). This is why I worry about the rise
+of negative sentiment toward capitalism and antipathy toward those who succeed under it.
+
+ * * *
+
+Politicians, depending on their ideology, can pose simple questions that suggest simple solutions to the
+problems people face, like these:
+
+ Should we impose tariffs on imports to save American jobs?
+ Should workers have a say in how companies are run?
+ Should we enact rent control laws to protect tenants from rent increases?
+ Should the government provide jobs for all?
+
+For many people, it's easy to answer "yes." The benefits from doing these things are obvious. Who
+would oppose them?
+
+But it turns out they aren't such easy questions, since economic reality shows them all to have downsides
+that just might exceed their upsides:
+
+ Should we impose tariffs on imports in order to save American jobs?
+ o Do the potential gains for a limited number of workers warrant the broadly shared
+ increase in costs to all consumers?
+
+ Should workers have a say in how companies are run?
+ o Will they act in the interests of the companies, society as a whole, or only labor?
+
+ Should we enact rent control laws to protect tenants from rent increases?
+ o If rents are regulated, will landlords maintain and expand the stock of rental housing?
+
+ Should the government assure every citizen a job?
+ o What incentive will people have to work hard if they're guaranteed employment?
+
+One of the key elements running through economics is its complexity: there are few decisions that face us
+that aren't multivariate and that are free of second- and third-order consequences. Thus we shouldn't
+take actions - like imposing tariffs - just because they offer potential benefits, without considering
+their costs. And we shouldn't condemn things - like capitalism - solely because they're imperfect,
+without taking into account their benefits.
+
+Because economics is just about dollars and consumption, the belief is encouraged that it can be
+understood intuitively. The truth, however, is that few people are educated regarding economics, and its
+complexity and ramifications render it far less easy to understand than many people may believe. Yet,
+while this stuff is complicated, we can all benefit by applying some common sense. You don't have to be
+an economist to recognize that if you raise the prices of inputs, it increases the cost of goods and reduces
+the quantity sold, and if you reduce the rewards for success, you'll get less effort to create value.
+
+The bottom line is that politicians are able to offer simple economic solutions that have considerable
+appeal but fail to hold up in real life. Since politics is largely about how costs and benefits are
+distributed - rather than about increasing aggregate benefits - politicians' simplistic economic
+prescriptions mustn't be swallowed whole.
+
+P.s.: Just prior to publication (I can hardly keep up with the developments in this area!) I received a mass
+email from a candidate for New York City's Public Advocate, effectively a "public watchdog," stating the
+following:
+
+ . . . we fought for, and won, a $15 minimum wage, though as we all know, $15 just isn't
+ enough to support a family in this city. So we need to keep fighting. . . . A $30
+ minimum wage, adjusted with inflation, for New York City government workers and
+ businesses that employ over 75 New Yorkers would be where we start.
+
+This brings to mind the description Winston Churchill used regarding the folly of a nation trying to tax its
+way to prosperity: "like a man standing in a bucket and trying to lift himself up by the handle."
+
+Appendix: The Tax System Explained in Beer
+
+Suppose that every day, ten men go out for beer, and the bill for all ten comes to $100. If they paid their
+bill the way we pay our taxes (by taxpayer decile), it would go something like this:
+
+The first four men (the poorest) would pay nothing.
+The fifth would pay $1.
+The sixth would pay $3.
+The seventh would pay $7.
+The eighth would pay $12.
+The ninth would pay $18.
+The tenth man (the richest) would pay $59.
+
+So, that's what they decided to do.
+
+The ten men drank in the bar every day and seemed quite happy with the arrangement, until one day, the
+owner threw them a curve ball. "Since you're all such good customers," he said, "I'm going to reduce the
+cost of your daily beer by $20." Drinks for the ten men would now cost just $80.
+
+The group still wanted to pay their bill the way we pay our taxes. So the first four men were unaffected.
+They would still drink for free. But what about the other six? How could they divide up the $20 windfall
+so that everyone would get his fair share?
+
+The bar owner suggested that it would be fair to reduce each man's bill by a higher percentage the poorer
+he was, to follow the principle of the tax system they had been using, and he proceeded to suggest the
+new lower amounts each should now pay.
+
+And so the fifth man, like the first four, now paid nothing (a 100% saving).
+The sixth now paid $2 instead of $3 (a 33% saving).
+The seventh now paid $5 instead of $7 (a 29% saving).
+The eighth now paid $9 instead of $12 (a 25% saving).
+The ninth now paid $14 instead of $18 (a 22% saving).
+The tenth now paid $50 instead of $59 (a 15% saving).
+
+The first four continued to drink for free, and the latter six were all better off than before. But, once
+outside the bar, the men began to compare their savings.
+
+"I only got a dollar out of the $20 saving," declared the fifth man. He pointed to the tenth man, "But he
+got $9!"
+
+"Yeah, that's right," exclaimed the sixth man. "I only saved a dollar, too. It's unfair that he saved nine
+times more than me!"
+
+"That's true!" shouted the seventh man. "Why should he get $9 back, when I got only $2? The wealthy
+get all the breaks!"
+
+"Wait a minute," yelled the first four men in unison, "we didn't get anything at all. This new tax system
+
+exploits the poor!"
+
+The nine men surrounded the tenth and beat him up.
+
+The next day, the tenth man didn't show up, so the other nine sat down and had their beers without him.
+But when it came time to pay the bill, they discovered something important: They didn't have enough
+money between all of them for even half of the bill!
+
+And that is how our tax system works. The people who already pay the highest taxes will naturally get
+the most benefit from a tax reduction. Tax them too much, attack them for being wealthy, and they
+just may not show up anymore. In fact, they might start drinking overseas, where the atmosphere is
+friendlier.
+
+ * * *
+
+I've been waiting a long time for a chance to use this. The numbers may not be exactly right, but the idea
+is. The unarguable bottom line is that everyone's view of the fairness of the tax system - like most
+such matters - depends largely on the angle from which you look at it.
+
+HM
+
+
+Memo: Growing the Pie.
+
+A few weeks ago, we were pleased to announce a partnership with Brookfield Asset Management
+that created an alternative investment manager with one of the broadest slates of strategies and
+greatest asset totals. And what question did I get? "Will there still be memos?" Well, here's your
+answer.
+
+ * * *
+
+One thing I'm not happy being right about is the tenor of the current debate over our economic
+system. Most of my January memo, Political Reality Meets Economic Reality, was devoted to
+fretting over the rise of populism from the left and the resulting anti-capitalist sentiment, and it has
+risen further since.
+
+I mentioned legislation that had been introduced to appropriate some of corporations' cash and
+governance rights for workers, as well as a proposal for a higher income-tax bracket for top earners.
+Since then we've seen additional suggestions covering a wealth tax, higher estate taxes and, in New
+York City, a tax on pieds-à-terre. Clearly companies and wealthy individuals are being viewed by
+some as attractive political targets and good sources of incremental revenue.
+
+One of the main reasons behind populism's ability to stir people is the favorable reception its rhetoric
+receives. "They have too much." "We've been short-changed." "The system's rigged." "They got
+where they are by cheating." "The rich don't pay their fair share." Sound bites like these find
+receptive audiences among people who are unhappy with their lot, whereas detecting the error
+in these statements requires an insight, sense of history and understanding of economics that
+many people lack.
+
+What's Going On?
+
+In the January memo, I set forth my view that in the last 10-20 years, the rising economic tide had
+stopped lifting all boats. In addition, major social and economic trends contributed to increases in
+economic inequality. These developments, I said, were largely behind the rise of populism.
+
+Ray Dalio and Bridgewater actually beat my memo by two days, publishing on January 28 an
+excellent note titled Populism + Weakening Economy + Limited Central Bank Power to Ease +
+Elections = Risky Markets and Risky Economies. I was particularly drawn to the following passage:
+
+ Disparity in wealth, especially when accompanied by disparity in values, leads to
+ increasing conflict and, in the government, that manifests itself in the form of
+
+ populism of the left and populism of the right. As a rule, populists of the right
+ (who are usually capitalists) don't know how to divide the pie well, while
+ populists of the left (who are usually socialists) don't know how to grow the pie.
+ [Emphasis added]
+
+Populism of both the right (behind Donald Trump) and the left (behind Bernie Sanders) played a big
+part in the 2016 presidential election season. It's the latter that's my subject here.
+
+In my January memo, I argued at length that capitalism can be credited with much of what made the
+United States what it is today. In short, to borrow Ray's terminology, the capitalist system
+achieved this by creating the biggest pie: the largest total GDP in the world and one of the
+highest per-capita GDPs. And only capitalism is likely to cause the pie to continue to grow. The
+failure of non-capitalist systems to produce economic growth and prosperity is well documented.
+
+Obviously, however, when the pie is divided up under capitalism, not everyone gets the same-sized
+piece. That's the idea underlying the following line in Winston Churchill's speech in the House of
+Commons on October 22, 1945:
+
+ The inherent vice of capitalism is the unequal sharing of blessings . . .
+
+As with so many things, Churchill said it best. Under capitalism we're likely to see bigger slices of
+the pie go, for example, to those who are smarter, more talented and more hardworking, but also to
+those who are luckier or born into wealth. The first three of these explanations are generally
+considered valid, the fourth is not, and people fight about the last. The gains produced by
+capitalism are inseparable from - actually they derive from - the opportunity for those who are
+smarter, more talented and more hardworking to end up with bigger slices of the pie. On the
+other hand, no one considers it inherently desirable that lucky people do so also. And many think the
+benefits of inheritance should at least be watered down (although generally not the benefactors or
+beneficiaries).
+
+And what do the "populists of the left" want? For the most part, "fairer" and more equal outcomes.
+They say relatively little about expanding the pie but more about fairness in how it's apportioned.
+That's why Churchill went on from the above to add:
+
+ . . . The inherent virtue of Socialism is the equal sharing of miseries.
+
+When we look around the world, we see countries that have stressed equal sharing of the pie and
+others that have cared more about expanding the pie. The equal sharers include Cuba, North Korea,
+Venezuela and the USSR, while the expanders, in addition to the U.S., include South Korea, Hong
+Kong and Singapore. In which group of countries do people generally live better? In which group
+would you rather live?
+
+Today, many people apparently fail to understand the role of capitalism in creating the wealth that
+Americans share. Others may feel the capitalism that got us here may have been fine in its time but
+isn't needed anymore; thus, we should shift our attention to more equal distribution instead. And a
+last cohort may consider equal sharing more important than the creation of more prosperity.
+
+Socialism superimposes socio-political considerations on an economic system, such that equality is
+elevated relative to self-interest and individual motivation. Capitalism omits that emphasis. In this
+
+context, last month Charlie Munger called my attention to China's agricultural history following the
+death of Mao Zedong in 1976. The following excerpts are from a 1986 paper in the Journal of
+International Affairs regarding the then-recent agricultural reforms in China. This'll be a long slog,
+but I think it's worth studying how China transitioned from the "equal sharing of miseries":
+
+ The long-term (1957-1978) growth of cereal output just kept up with the expansion of
+ the population. Over this period, China actually was becoming more dependent on
+ imported grain to feed its population. . . . By 1978, about 30 million urbanites,
+ roughly 40 percent of the population of China's municipalities, were dependent on
+ imported cereals. The performance of most non-grain crops was even less
+ impressive. . . . The slow growth of farm output, not surprisingly, was accompanied
+ by extraordinarily modest growth of peasant income. . . .
+
+ By 1978 an apparent consensus had been reached at the highest levels of the Chinese
+ Communist party that the painfully slow growth of agricultural output was caused . . .
+ by certain inefficiencies of China's collective production structure, the loss of
+ productivity resulting from the promotion of local self-sufficiency, the curtailment of
+ rural marketing and the disincentive of relatively low prices for farm products.
+ Beginning in 1978 the Central Committee endorsed a series of sweeping reforms that
+ addressed each of these problems. Collectivized agriculture . . . was replaced with a
+ system of household farming in which the land was divided among existing
+ households. . . . Decisions on cropping patterns and the quantities of fertilizers and
+ other inputs to be used are now made by each household rather than by team and
+ brigade leaders. . . . Peasants are now encouraged to specialize and produce for the
+ market rather than being forced to be self-sufficient. Comparative advantage
+ cropping has been encouraged by reopening rural markets . . .
+
+ These reforms . . . have led to an unprecedented pace of growth since 1978. Grain
+ output, for example, had grown from 305 to 407 million metric tons, an average
+ annual rate of almost 5 percent, well over twice the historic rate of 2.1 percent
+ achieved between 1957 and 1978. . . .
+
+ The official jettisoning of the policy of local cereals self-reliance, encapsulated in the
+ Maoist slogan "Take grain as the key link," and the reopening of rural markets have
+ stimulated an upsurge of production of non-cereal crops. . . .
+
+ The unprecedented growth of agricultural output also has been accompanied by
+ substantial growth in real farm income. . . . Average per capita farm income in
+ current prices rose from 134 yuan in 1978 to 355 yuan in 1984. . . . The gains derive
+ not only from the growth of farm output . . . but also from the substantial expansion
+ of rural non-farm employment and income. . . .
+
+ Although decollectivization has provided the incentives for improved productivity
+ growth, it has created . . . significant and partially unanticipated adverse
+ consequences. . . . Over the longer run it is not clear how the local labor-intensive
+ maintenance of existing irrigation systems will be sustained. . . . The current system
+ appears almost certain to have an adverse effect on the distribution of income in rural
+ areas and may lead, ultimately, to significant rural unrest. . . . Another seemingly
+
+ unanticipated consequence of the demise of the collective system is the impaired
+ delivery of rural social services. State budgetary funds for rural health-care and
+ primary-school education always have been limited. Most of these programs . . . were
+ financed by collectively accumulated welfare funds. . . . A final unanticipated
+ consequence of the reform is its budgetary impact. While the higher farm quota
+ prices the state introduced along with decollectivization have contributed
+ significantly to greater incentives and productivity for peasant producers, the
+ financial burden to the state of these incentives has mounted far more rapidly than
+ expected. [Nicholas R. Lardy, "Agricultural Reforms in China"]
+
+The Chinese experience described above tells the whole story in eight short years: deregulation and
+decontrol; free enterprise and the profit motive; increased flexibility and choice; the benefits of
+specialization; and the allocation of resources via the free market. The results: vastly increased
+production, but also greater inequality and reduced government services. In other words, you can't
+have it all. Most people lived much better because of the reforms, whereas under the prior
+system everyone had it the same, but most people lived far less well. Which was fairer?
+
+Capitalism doesn't know about or care about fairness in the sense of equal sharing. What it
+considers fair is the proposition that people who have greater ability or work harder should be
+able to earn more. That potential, it says, provides incentives for hard work and rewards those who
+achieve, ultimately resulting in a better life for almost everyone. The story of China - just like that
+of America - shows that it works.
+
+A Case in Point: We Like Our Pie the Way It Is
+
+One of the biggest stories in the business world over the last two years was Amazon's search for a
+location for another headquarters. A total of 238 cities, towns and other entities submitted proposals,
+trumpeting their merits as a possible location for HQ2 and, in many cases, offering financial
+inducements.
+
+The big news came last November, when Long Island City in Queens, New York was chosen for
+Amazon's expansion, as was Northern Virginia. The parameters in Queens included a $2.5 billion
+investment on Amazon's part; approximately 25,000 new Amazon jobs (plus the likelihood of
+thousands more in construction, local infrastructure and support businesses); $27 billion of projected
+incremental state and city tax revenues over the subsequent 25 years; and $3 billion returned to
+Amazon over that period in the form of tax credits and subsidies.
+
+The deal's supporters were elated. But opposition soon began to form, and, on February 14, Amazon
+pulled out.
+
+ The plan fell apart in the face of a backlash over public subsidies, resentment of the
+ covert process in which the city and the state negotiated the deal, and concern about
+ its neighborhood impact. (The New York Times, February 22)
+
+Labor unions that would want to organize Amazon's operation opposed the deal because of
+Amazon's policy of resisting unionization (although, unsurprisingly, the bargain was supported by
+unions for construction workers and others anticipating expanded work opportunities).
+
+Politics reared its head, of course, especially when the State Senate Majority Leader nominated
+Michael Gianaris, who represents Long Island City, to the obscure Public Authorities Control Board,
+which had the power to thwart the project. According to the New York Post, Gianaris opposed the
+subsidies and was "miffed" at not having been consulted by the mayor and governor when the deal
+was negotiated. Some say his nomination, while never effective, was the nail in the deal's coffin.
+
+Finally, populist rhetoric injected resentment into the process, as per an article in The New Yorker
+magazine of November 17:
+
+ Richard Florida, the urban-studies theorist, told [writer Anand Giridharadas] that
+ Amazon's HQ2 competition "captures the zeitgeist of early 21st century American
+ late capitalism." He added, "The very idea that a trillion-dollar company run by the
+ world's richest man could run an American Idol auction on more than two hundred
+ thirty cities across the United States (and Canada and Mexico) to extract data on sites
+ and on incentives, and pick up a handy three billion dollars of taxpayer money in the
+ process, is a sad statement of extreme corporate power in our time" . . .
+
+ Alexandria Ocasio-Cortez, the [then-]representative-elect of New York's Fourteenth
+ Congressional District, which spans parts of the Bronx and Queens, criticized the
+ deal on Twitter. "The idea that [Amazon] will receive hundreds of millions of dollars
+ in tax breaks at a time when our subway is crumbling and our communities need
+ MORE investment, not less, is extremely concerning to residents here," she wrote . . .
+
+ Reached by telephone on Thursday, Ocasio-Cortez called the Amazon deal "dressed-
+ up trickle-down economics." "What we're seeing here is a complete public cost for a
+ private corporate benefit," she told me. "When you give a three-billion-dollar tax
+ break to the richest company in the world, that means that you're giving up our
+ schools. You're giving up our infrastructure. You're giving up our community
+ development." In other words, there is an opportunity cost to luring the world's
+ richest man by letting him free-ride on the public services that other New Yorkers
+ must pay for.
+
+Although the majority of New Yorkers supported the deal in polls, the combined forces in opposition
+were sufficient to turn Amazon away. In a statement, the company said:
+
+ For Amazon, the commitment to build a new headquarters requires positive,
+ collaborative relationships with state and local elected officials who will be
+ supportive over the long term.
+
+That doesn't sound unreasonable.
+
+But Amazon's decision not to go forward was cause for victory celebrations on the left. City
+Councilman Jimmy Von Bramer said:
+
+ Even when we were faced with the richest man in the world and the richest company
+ in the world, we did not buckle. Amazon doesn't need our $3 billion . . . (New York
+ Post, February 15)
+
+And Rep. Ocasio-Cortez tweeted the following:
+
+ Anything is possible: today was the day a group of dedicated, everyday New Yorkers
+ & their neighbors defeated Amazon's corporate greed, its worker exploitation, and
+ the power of the richest man in the world.
+
+In other words, the response from the "progressive" left was that Amazon could take those jobs
+and shove them.
+
+I don't mean to single out Ocasio-Cortez, and I have nothing against her. But she is the most
+prominent spokesperson for the approach that so troubles me, and what she says exemplifies that
+which I want to resist. Here's what The Washington Post (owned by Amazon's Jeff Bezos) said in a
+February 21 article titled "Alexandria Ocasio-Cortez is an economic illiterate - and that's a danger
+to America":
+
+ Case in point: Last week, Ocasio-Cortez celebrated the tanking of the deal negotiated
+ by her fellow Democrats in which Amazon promised to build a new headquarters in
+ Long Island City, New York, right next to her congressional district. Amazon's
+ departure cost the city between 25,000 and 40,000 new jobs. Forget the tech workers
+ whom Amazon would have employed. Gone are all the unionized construction jobs
+ to build the headquarters, as well as thousands of jobs created by all the small
+ businesses - restaurants, bodegas, dry cleaners and food carts - that were preparing
+ to open or expand to serve Amazon employees. They are devastated by Amazon's
+ withdrawal.
+
+ Ocasio-Cortez was not disturbed at all. "We were subsidizing those jobs," she said.
+ "Frankly, if we were willing to give away $3 billion for this deal, we could invest
+ those $3 billion in our district, ourselves, if we wanted to. We could hire out
+ more teachers. We can fix our subways. We can put a lot of people to work for
+ that amount of money if we wanted to." [Emphasis added]
+
+She entirely misses the point. There was no $3 billion sitting in a city bank account, waiting to
+be spent on either subsidies for Amazon or enhanced services for New Yorkers. The $3 billion
+going to Amazon wouldn't have represented a diversion of resources from other potential uses.
+It consisted entirely of contingent future payments: the part that would be kicked back to Amazon
+from the taxes it would pay, the balance of which could be used to support infrastructure or services.
+No Amazon, no $3 billion paid out (and no $24 billion of net taxes received by the city and state).
+Ocasio-Cortez either (a) completely misunderstood the deal she was criticizing or (b) overlooked the
+facts in favor of rhetoric calculated to play on resentment and scare up votes. Which explanation
+would you consider preferable?
+
+A lot of readers enjoyed the story in my January memo about the ten men who drank beer in a bar
+every night, with each paying according to his ability. (It was included as an appendix. Nancy
+missed it the first time through; I hope you didn't.) When the grateful bar owner took 20% off their
+collective tab, the ten disagreed over how the reduction should be divided up, since most of it
+appeared likely to go to the richest man (who'd been paying most of the bill). In their anger, the
+other nine men beat up the tenth. He didn't come back after that, leaving the nine unable to afford
+their daily beer. They sure showed him!
+
+And likewise, New York showed Amazon! They beat Amazon up, and it's not coming back. If
+you look back at the politicians' statements above, you'll see they're all about resentment of
+Amazon's (and Bezos's) wealth and how unwarranted the subsidies were. But there was no mention
+of the lost potential jobs or what's good for New York's economy or, more importantly, for its
+people. New York had a great chance to expand the pie, and the populists of the left found a way to
+scuttle it.
+
+Another example of channeling resentment toward the rich is the pied-à-terre tax that's been
+proposed in New York City. The tax was inspired by a money manager's purchase of a $238 million
+apartment as a second (or possibly third) home. It would impose a levy on houses and apartments
+worth more than $5 million that aren't primary residences, on the grounds that the owners benefit
+from their homes' New York location without paying New York income tax. But is it smart?
+
+Absentee owners pay real estate tax even though they use few city services. And when they come to
+town, their spending contributes to the economy. Do they really abuse the city? And the new tax
+would exacerbate the current glut of high-end homes by turning away some of the potential
+purchasers for whom they were built. The New York Times (March 24) says ". . . the tax is one small
+way to make New York City a little fairer." It also mentions the political palatability of a tax on
+wealthy absentee owners. But given that the obvious effect will be to depress the market for homes
+and diminish employment in a broad range of related industries, does it make economic sense?
+
+The rhetoric of the far left plays on resentments and differences, and it's easily swallowed. But
+the policies are more likely to equalize the sharing of misery than to expand blessings, however
+unequal.
+
+ * * *
+
+About 50 years ago, an older friend described for me what he felt made America great:
+
+ When the worker in Britain sees the boss drive out of the factory in his Rolls Royce,
+ he says, "I'd like to put a bomb under that car." But when the worker in the U.S. sees
+ the boss drive out of the factory in his Cadillac, he says, "Someday I'll own a car like
+ that."
+
+Today, too few Americans feel they might own that Cadillac. Taken to the logical extreme, that has
+the potential to bring the American miracle to an end. Thus, business should do all it can to arrest
+the trend toward stagnant and unequal incomes . . . not just to be fair or generous, but to
+assure perpetuation of the system that got us here.
+
+Capitalism is the most dependable route to prosperity. And it has to be responsible capitalism. The
+solution can't lie in turning away the Amazons of the world, imposing extra taxes on Cadillacs
+or otherwise shrinking the pie.
+
+
+Memo: This Time It’s Different.
+
+I first came across the title of this memo in an article titled "Why This Market Cycle Isn't Different"
+by Anise C. Wallace in The New York Times of October 11, 1987. It went as follows:
+
+ The four most dangerous words in investing are "this time it's different," according
+ to John Templeton, the highly regarded 74-year-old mutual fund manager. At stock
+ market tops and bottoms, investors invariably use this rationale to justify their
+ emotion-driven decisions.
+
+ Over the next year, many investors are likely to repeat these four words as they
+ defend higher stock prices. But they should treat them with the same consideration
+ they give "the check is in the mail. . . ."
+
+ Nevertheless, in the bull market's sixth year, the "this time it's different" chorus is
+ beginning to be heard. Wall Street professionals predict that, before the bull market
+ ends, individual investors, who have mostly stayed on the sidelines, will be swept
+ along in the mania characterizing a market peak.
+
+ They will invest in stocks despite the fact that the Dow Jones Industrial average has
+ more than tripled in the last five years. They will be hearing overwhelmingly
+ compelling reasons why stock prices should go higher, why the bull market should
+ last considerably longer than any other in history, why this boom will not be followed
+ by a 1929-like crash and why "this time it's different."
+
+ Many of these arguments will be tempting because they will have some element of
+ truth to them. Even Mr. Templeton concedes that when people say things are
+ different, 20 percent of the time they are right. But the danger lies in thinking that the
+ different factor - like the recent investment in United States stocks by the Japanese -
+ will be uninterrupted.
+
+Wallace's essential message is that investors must take heed when the four words are in
+widespread use. Why? Look back at the paragraph introducing the above quote: when you first
+read it, did you happen to notice the date of publication? It was just eight days before Black
+Monday (October 19, 1987), the worst day in stock market history. We know how bad it feels
+when the market falls 20% in a year. Try 22% in a day!! Wallace's warning was particularly
+important at the time the article was published, but for me it's always important.
+
+ * * *
+
+Typically in investing, historical norms put limits on asset prices. Thus, for example, bull markets
+can generally go to extremes only if investors discard the notion that the p/e ratio on the S&P 500
+stock index shouldn't go much above its post-World War II average of 15 or 16. If the earnings of
+the S&P's underlying companies grow at 10% a year, by definition the index can rise 20% a year (as
+it did in the 1990s) only if the ratio of price to earnings is viewed as highly expandable. It was such a
+perspective that allowed the index to reach 32 times earnings at the start of this century (with highly
+negative implications for equity returns in 2000-02).
+
+Think of a rocket launched from Cape Canaveral. Gravity has to be overcome in order for it
+to escape the earth's atmosphere. Likewise, the limitations imposed by past norms have to be
+overcome in order for asset prices to slip their historic moorings and blast off into outer space.
+
+Today we're not hearing much about historic valuations being irrelevant, as they're not terribly high.
+Instead, what we're told is different this time is the relevance of restrictions on future economic
+and market performance:
+
+ There doesn't have to be a recession.
+ Continuous quantitative easing can lead to permanent prosperity.
+ Federal deficits can grow substantially larger without becoming problematic.
+ National debt isn't worrisome.
+ We can have economic strength without inflation.
+ Interest rates can remain "lower for longer."
+ The inverted yield curve needn't have negative implications.
+ Companies and stocks can thrive even in the absence of profits.
+ Growth investing can continue to outperform value investing in perpetuity.
+
+I rarely participate in a meeting these days without someone asking about one or more of these
+propositions. The bottom line is that for any of the nine to be true, things really have to be
+different this time. I'll discuss the outlook for each below.
+
+The avoidable recession - The questions I get most often these days are "Is the U.S. heading for a
+recession?" and "When will it start?" My answer to the first is a simple "yes." (At least I can never
+be proved wrong.) We've always had economic cycles, and I believe we always will. Eventually,
+favorable developments will lead people to engage in behavior premised on excessively optimistic
+assumptions, and eventually the over-optimism of those assumptions will be exposed and the
+excesses will correct in a period of negative growth. Moreover, even economies that aren't marked
+by excesses are subject to exogenous shocks.
+
+When people ask about the coming recession, what they mostly mean is "Might it be a long way
+off?" Well, the longest U.S. recovery on record lasted ten years, and the current one is in the twelfth
+month of its tenth year. There's no reason a recovery can't go beyond ten years; no gate will come
+down on June 30, foreclosing further progress. And it's important to note that since this has been the
+most sluggish U.S. recovery since World War II, it hasn't been characterized by excesses to the
+upside, meaning there needn't be a recessionary correction on the usual schedule.
+
+Very soon, the current recovery is bound to become the longest in U.S. history. However, I believe
+the odds are that it's closer to the end than the beginning. (We never know for sure what's going to
+happen in the future. At best we can think in terms of the probabilities. That's the thinking behind
+my latest book's subtitle: Getting the Odds on Your Side.) The recovery is likely to go on longer, but
+perhaps not much longer. Still, I wouldn't place a wager on when it will end.
+
+About a year and a half ago, following the enactment of President Trump's stimulative tax cuts,
+people started to ask me whether the U.S. might emulate Australia, whose last recession was in 1990.
+While not quite the same as asking "might there never be another recession?" the idea of 28 years
+between recessions would represent a radical difference this time.
+
+My answer to the above question is "probably not," since there are significant differences between
+the two countries that probably render Australia's example inapplicable to the U.S.:
+
+ A much bigger part of Australia's GDP is based on exporting natural resources such as iron
+ ore and coal, of which it has so much. Thus in recent decades it has drafted off the unusually
+ strong growth of its much larger neighbor to the north, China.
+ In addition, ". . . having a conservative, domestically focused, highly concentrated banking
+ system meant that Australia wasn't stuck importing other countries' financial contagions
+ when crises hit." (The New York Times, April 7, 2019)
+ In fact, I see in Australia a conservatism and discipline capable of extending financial good
+ times without creating excesses. My favorite example is the Australia Future Fund, which
+ the government formed in 2006 to deal with the country's pension liabilities, with funding
+ that came from fiscal surpluses (!) and the privatization of Telstra, the formerly state-owned
+ telecommunications company. The fund's assets, now standing at A$154 billion, were
+ essentially put into a lockbox until 2020, which now appears likely to extend until at least
+ 2026. What's the likelihood that U.S. politicians would (a) fund government pension
+ obligations up front, rather than deal with them on a pay-as-you-go basis, and (b) keep their
+ hands off the assets for 20 years, rather than use them to pay for constituent-pleasing
+ spending increases or tax cuts?
+
+So no, I don't think the U.S. is about to emulate Australia's 28-years-and-counting recovery. That I
+will bet on.
+
+Perpetual prosperity from quantitative easing - In the aftermath of the Global Financial Crisis, the
+Fed engaged in quantitative easing, a program of purchasing bonds in the open market. The effect of
+the Fed's purchases was to (a) inject bank reserves into the financial system, (b) strengthen the
+demand for bonds, thereby bringing down long-term interest rates (which are unaffected by the Fed's
+normal open market operations related to short-term rates), and (c) with prospective returns on high-
+quality bonds brought down, reignite risk-bearing on the part of investors seeking higher returns,
+thereby causing the credit window to reopen. QE was a success in the U.S., and the economy
+recovered. Thus some people are now proposing that the Fed could engage in QE forever, with
+similarly positive results.
+
+First, I think some part of the impact of QE may be psychological. In other words, QE stimulates the
+economy in part because people accept that QE is stimulative. If the Fed took exactly the same
+actions but did so without making an announcement, would the effect be the same? (I believe there's
+
+a self-fulfilling, placebo-like component to many of the Fed's tactics.) In this regard, I think its first
+round of QE was more effective than its second, and its second round was more effective than its
+third. Accordingly, there could be a diminishing return from permanent QE, as the psychological
+effect abates.
+
+And who knows exactly how QE works? Last week, at a conference I attended, a participant
+suggested that under Modern Monetary Theory (see more below), the Treasury could issue a
+potentially unlimited amount of debt, and if third-party buyers failed to take it up, the Fed could buy
+it under QE. Does this seem reasonable? If the Fed credits banks with reserves, the banks lend a
+multiple of those reserves, and the borrowers use the loan proceeds to make purchases or
+investments, does the process really inject money into the economy, or is it mostly a matter of
+bookkeeping? Or are they one and the same? Of course, this question is relevant to all nations with
+fiat currencies.
+
+Quantitative easing is generally considered to have contributed to the past decade's low prospective
+investment returns, resultant risk-taking, asset inflation, and increasing wealth divide. As with any
+other prescription, shouldn't we worry about possible side effects like these?
+
+Can government actions permanently raise the level of demand in an economy, or do they mostly
+accelerate future demand into the present? If the latter, can QE elevate GDP forever above what it
+otherwise would have been? I doubt it. But if it could, wouldn't that eventually cause what I call an
+"excess," leading to a recession?
+
+Finally, when I hear people talk about the possibility that the Fed will prevent a recession, I
+wonder whether it's even desirable for it to have that goal. Per the above, are recessions really
+avoidable or merely postponable? And if the latter, is it better for them to occur naturally or be
+postponed unnaturally? Might efforts to postpone them create undue faith in the power and
+intentions of the Fed, and thus a return of moral hazard? And if the Fed wards off a series of
+little recessions, mightn't that just mean that, when the ability to keep doing so reaches its
+limit, the one that finally arrives will be a doozy?
+
+Benign federal deficits - Over the years, some in government have pursued balanced federal budgets,
+or at least have paid them lip service. Democrats have generally been described as wanting to "tax
+and spend" in order to do more for citizens. But they've sometimes spent before they've taxed.
+Republicans, on the other hand, have positioned themselves as the party of fiscal restraint. It's often
+been their official position that there could be no increases in spending if not accompanied by
+corresponding increases in funding.
+
+Regardless of the debate, federal budgets are rarely tendered on time or in balance these days. We've
+had deficits in 46 of the last 50 years (with the exception of 1998-2001), and in recent years they've
+risen as a percentage of GDP despite the prosperity we've been enjoying. Often there isn't even a
+pretense of interest in fighting deficits. Democrats have big spending ideas even in the absence of
+ways to fund them. And Republicans cut taxes but not always spending.
+
+Both parties now seem to feel that the way to win elections is to simply ignore deficits. In the
+1930s, John Maynard Keynes said that in periods when private economic activity isn't generating
+enough demand to create full employment, governments should spend more than they take in,
+
+counting on deficit spending to stimulate demand. And then, during the resulting periods of growth,
+they should spend less than they take in, using the surplus to pay down the debt that was taken on to
+fund deficits. But departing from this, at the end of 2017, in the ninth year of a recovery, the
+Republicans enacted sweeping tax-rate cuts capable of ballooning the deficit.
+
+A new entrant in this area is receiving a lot of attention: Modern Monetary Theory ("MMT"). One of
+its components is the belief that government deficits currently are too small, and in any event not a
+bad thing:
+
+ Tax revenues are not what finance the government's expenditures, argues Stephanie
+ Kelton, an economist at Stony Brook University and one of the most influential
+ modern monetary theorists. What actually happens in a country that controls its own
+ currency, she says, is that the government first decides what it's going to spend. In
+ the United States, Congress agrees on a budget. Then government agencies start
+ handing out dollars to the public to pay for those tanks, earth movers and salaries.
+ Afterward, it takes a portion back in the form of taxes. If the government takes back
+ less than it gave out, there will be a deficit. . . .
+
+ Ms. Kelton . . . points out that every dollar the government spends translates into a
+ dollar of income for someone else. So a deficit in the public sector simultaneously
+ produces a surplus outside the government. . . . (The New York Times, April 7, 2019)
+
+Thus, according to MMT, deficits are benign - not a sign of profligacy - and merely an
+indication that the government has put more money into the economy than it has taken out in
+taxes. MMT is modern in that it has moved past the old-fashioned concept of balancing spending
+and revenues, opening the door for bigger deficits.
+
+Does Ms. Kelton think deficits don't matter? No, the Times article goes on:
+
+ Of course they matter, she said. . . . They can be too big, especially if they are not
+ used to increase the nation's productive capacity, or if there is a shortage of labor,
+ raw materials and factories.
+
+In this connection, we should note that Ms. Kelton served as an economic adviser to Bernie Sanders
+in 2016. Thus it may be reasonable to suspect that MMT is largely a rationale for governments to
+give away more free stuff, expanding their deficits. Sometimes it can be hard to separate
+economic opinions from political leanings.
+
+This relaxed view of deficits reminds me of a hypothetical consumer who has a credit card with no
+credit limit. He can spend whatever he wants without having to worry about paying off the balance.
+In theory, this could work (although it's challenging to figure out what's in it for the card issuer).
+But at a minimum it doesn't allow for unforeseen developments. I believe here, as elsewhere, the
+workings of economics are too uncertain for a perpetual motion machine like MMT to be relied
+upon. In other words, Modern Monetary Theory is just that: a theory. What if it's wrong?
+
+ . . . when the University of Chicago's Booth School of Business asked top scholars
+ about a couple of [MMT's] claims, they split between the 28 percent who disagreed
+ and the 72 percent who strongly disagreed. (ibid.)
+
+Disregarded national debt - I recall a heated debate when I was young over whether it's okay for
+nations to permanently be in debt. More recently, any such doubt has been forgotten, and almost all
+nations are debtors. The main issue became whether there can be a level of debt that's too high. But
+now, thanks to MMT, there's a belief that there's no such thing.
+
+Continuing from the Times's description of Modern Monetary Theory:
+
+ "The national debt is nothing more than a historical record of all of the dollars that
+ were spent into the economy and not taxed back, and are currently being saved in the
+ form of Treasury securities," Ms. Kelton said.
+
+In other words, national debt is just a sign of all the government has accomplished.
+
+While I can't prove that Modern Monetary Theory is off the beam, I also can't see making it the
+economic law of the land. Does it have a weakness? I think there may be one hidden in the middle
+of the long quote above, regarding "a country that controls its own currency." I don't know
+exactly what Ms. Kelton meant by this phrase, but it might be a reference to a country that can print
+as much money as it wants without having to worry about its currency depreciating, and thus one that
+is always able to issue and refinance debt without limits.
+
+Today the U.S. dollar is the world's reserve currency, and there aren't any obvious candidates to
+replace it. Further, the U.S. benefits from an unlimited appetite for its debt, since it's the safest of
+any major sovereign. For these reasons, expanding the national debt isn't a problem. And like the
+cardholder described above, since there's no limit to its credit, the U.S. can add the interest that
+accrues to the unpaid balance.
+
+What happens if these conditions change? Could a tipping point be reached at which there's so
+much debt that people question the U.S.'s creditworthiness and ability to repay its borrowings?
+In that case, the demanded interest rate would rise, meaning the debt and interest mightn't be
+repayable without massive money printing that would result in debasement of the dollar. Thus, could
+there come a day when it takes unacceptably more purchasing power to pay off U.S. debt
+denominated in dollars that have depreciated?
+
+I put these questions to my friend Randy Kroszner, former member of the Fed's Board of Governors
+and Deputy Dean at the University of Chicago's Booth School of Business. Here's his response:
+
+ I think the last three decades for Japan and the last decade for the U.S. have shown
+ (and continue to be showing) that countries with credible institutions can "get away
+ with" higher debt levels without a raid by bond vigilantes than most had once
+ thought. That said, it leaves the country vulnerable to a change in sentiment, exactly
+ as you describe. "Getting away with it" for too long erodes the credibility of the
+ institutions over time.
+
+Again, MMT might work, and vastly expanded national debt might prove viable or even
+advantageous. But I wouldn't bet the ranch on it.
+
+Economic strength without inflation - For the last 60 years, there has been widespread (albeit not
+universal) acceptance of the so-called Phillips curve, which posits an inverse relationship between
+the rate of unemployment and the rate of inflation. In other words, as unemployment falls and the
+labor market tightens, workers gain bargaining power and employers have to compete for a declining
+number of available workers. This results in rising wages, which translates into increasing inflation.
+
+The U.S. has seen unusually little unemployment during the Trump presidency, and today it's at a
+50-year low. Nevertheless, there hasn't been much wage inflation until very recently, and there still
+isn't much general inflation.
+
+There are reasons why the relationship underlying the Phillips curve as defined above might be
+different from what it was in the past:
+
+ Since the U.S. labor force participation rate (percentage of adults who are either employed or
+ looking for work) is at its lowest level in more than 40 years, it might be more meaningful to
+ look at the non-employment rate (the percentage of adults who aren't working) rather than
+ the unemployment rate (the percentage of adults looking for work who aren't working). By
+ the former measure, the labor market isn't so tight.
+ Inflation might be structurally lower now and in the future than it was in the past, altering its
+ relationship to conditions in the labor market. Automation, the shift of manufacturing to low-
+ cost countries and the prevalence of free/cheap stuff in the digital age might help explain
+ today's unusually low rate of inflation. For examples of the third of these, think about recent
+ trends in the price of photographs, cellphone calls, messages (texts and emails versus
+ telegrams and faxes) and books.
+ On the other hand, the cheapening of things like those listed just above could halt, and a more
+ traditional relationship between inflation and unemployment could resume.
+
+Excessive inflation creates a number of serious economic and social problems, typically requiring
+central banks to raise interest rates to cool it off, with the effect of dampening economic growth and
+job creation. Likewise, rising inflation can cause investors to demand higher interest rates on bonds
+and loans to compensate for the risk of losing purchasing power. This can make it harder for
+borrowers to service their debt, causing defaults to rise and discouraging investors from taking risk
+and providing financing. (On the other hand, there's a level of inflation that's desired such that,
+among other things, workers will see wage growth, and the U.S. can repay outstanding debt with
+dollars representing a reduced amount of purchasing power. Today that desired rate is about 2%, and
+policymakers worry about the fact that it hasn't materialized despite the low unemployment rate.)
+
+Rising inflation could be seen as a potential contributor to the end of the recovery. So far it hasn't
+shown up despite the tightness of the labor market. Has the Phillips curve relationship been revoked
+for good, or is inflation in the offing? Who knows?
+
+The word I use to describe inflation is "mysterious." It's rarely clear how it gets started, and in
+the 1970s and early '80s, when it reached the mid-teens in the U.S., no one could figure out how to
+stop it until after Paul Volcker became Fed chair. It's mysterious why there's so little inflation
+today, and whether there'll be inflation in the future. But I'm not confident that it'll still be below
+2% a few years from now.
+
+Persistently low interest rates - "Lower for longer" has been another rallying cry of the bull market.
+If interest rates remain low, economic growth is encouraged, defaults are scarce, risk-taking is
+encouraged and financing is easy. So far - against the odds - the strength of the U.S. economy
+hasn't caused interest rates to rise.
+
+The Fed has raised interest rates nine times since the end of 2015, taking the short-term fed funds rate
+from roughly zero to 21⁄4-21⁄2%, and in late 2018 it said it would go further. But in January, in
+response to fears of economic weakness that arose in 4Q2018, the Fed reversed course and declared
+that there would be no more increases for now. Whereas the yield on the 10-year Treasury note
+hitting 31⁄4% early last October coincided with (and probably contributed to) the start of the stock
+market's fourth-quarter swoon, the promise of low rates has played a big part in the rally this year.
+
+In mid-2007, in a real economy that felt to me a lot like this one, the fed funds rate and the yield on
+the 10-year Treasury note both were around 51⁄4%. Today, with the fed funds rate and 10-year
+Treasury yield below 21⁄2% instead, the Fed describes interest rates as "neutral": neither low enough
+to be stimulative nor high enough to be restrictive. (I considered the 2007 rates to be neutral - how
+can that be true of rates at both levels?)
+
+Will the Fed leave rates low? Can it do so if inflation strengthens? Will it leave rates so low
+that there's little room to reduce them in the future should stimulus be needed? If deficits and
+debt grow faster than GDP, won't that put upward pressure on interest rates? Or if the Fed
+cuts rates, as many people now consider likely, will the markets be cheered by the stimulus, or
+will they fall in response to the economic concerns at which the rate cuts are directed?
+Certainly no one can say.
+
+Equanimity regarding the inverted yield curve - Something else we've heard a lot about over the last
+couple of years is how risky it is when the yield curve inverts.
+
+The yield curve is usually upward-sloping, meaning lenders demand higher interest rates when they
+lend for longer periods as compensation for the increased uncertainty (especially with regard to
+possible declines in the purchasing power of the currency between the time the loan is made and
+when it's repaid). But sometimes, long-term rates fall below short-term rates, and the curve is said to
+be "inverted." The curve has been unusually flat in recent months, and today it's actually inverted.
+
+Because most periods of inversion have been associated with recessions, the condition is considered
+worrisome. In that regard, the Financial Times noted on June 1 that "the [yield curve] has 'inverted'
+before every US recession in 50 years." (Note, however, that this is different from saying every
+inversion has been followed by a recession.) What people should be focusing on isn't the usual
+coincidence of inversions and recessions, but rather the reason for this particular inversion.
+Understanding the latter might allow observers to sense whether a recession is implied and avoid a
+"false positive."
+
+The explanation for inversions isn't always clear, since interest rates (like inflation) can be
+mysterious. Today I would say the inversion of the curve may be due to the fact that the Fed has
+brought short rates up at the same time that (a) there's a surplus of capital for investment at the long
+end of the yield curve, putting downward pressure on rates there, and (b) there's less reliance on
+
+capital investment in the information age, so less demand for long-term debt capital. One more thing
+that may be bringing down long-term yields is an increase in general worry among investors, and
+thus a flight to the safety of Treasurys. When demand for bonds rises, sellers are able to require
+buyers to pay higher prices, which translate into lower yields.
+
+I don't fully understand why an inverted yield curve should be a negative, but its fans swear that it is.
+I merely can't prove that it's not. One possible ramification is the threat to bank profitability: an
+inverted yield curve takes away banks' ability to make money simply by borrowing short to lend
+long.
+
+Profitless success - Historically, companies have been considered valuable primarily because they
+produce profits - if not immediately, then at least they were expected to do so in the foreseeable
+future. Then the view arose in the tech-media-telecom bubble of the late 1990s that companies could
+be great (and valuable) even in the absence of profits for years to come. Today, profitless companies
+are back in vogue and sometimes valued in the tens of billions of dollars.
+
+Tech and venture investors have made a lot of money over the last ten years. Thus there's great
+interest in tech companies (including ones like Uber and Lyft that are applying technology to enable
+new business models) and willingness to pay high prices today for the possibility of profits far down
+the road. There's nothing wrong with this, as long as the possibility is real, not over-rated and
+not over-priced. The issue for me is that in a period when profitless-ness isn't an impediment to
+investor affection - when projected tech-company profitability commencing years from now is
+valued as highly as, or higher than, the current profits of more mundane firms - investing in these
+companies can be a big mistake.
+
+Today there are a lot of investors who weren't around to see the 2000 bursting of the TMT bubble, in
+which large numbers of Internet and e-commerce companies were given the benefit of the doubt,
+only to end up worthless. Venture capital funds showed triple-digit annual returns in the late 1990s,
+but the ones started around 2000 performed very poorly (and people began to ask me if venture
+capital was a legitimate asset class).
+
+Today, some tech and venture investments have again produced great results, and the doubts seem to
+be gone. In investing, however, the truth usually lies somewhere between the extremes of
+infinite value and worthlessness. Investor sentiment seems to be closer to the positive end of the
+pendulum's arc these days, but it's unlikely to stay there in perpetuity.
+
+Growth investing preeminence forever - Since future-oriented "growth investing" has been so
+successful for so long, and has so seriously trounced "value investing," people are asking me whether
+this will ever end. In particular, value investing is being likened to the out-of-favor "cigar-butt"
+school of investing, in which people buy assets regardless of their quality just because they're low-
+priced. Critics of value investing argue that, since the technological leadership that's often
+associated with growth stocks is so essential for success in today's world, old-economy companies
+lacking it are unlikely to be top performers in the future.
+
+My answer is simple: low price is very different from good value, and those who pursue low price
+above all else can easily fall into "value traps." And certainly it's true that old-economy companies
+
+are less likely to be the fast growers of the future or benefit as much from the "moats" that protected
+them in the past.
+
+It may also be true that given the ease today of searching the universe of securities, it may be harder
+than it used to be to find "value" companies with current assets or earning power that are broadly
+unrecognized and thus underpriced. Since the best returns come from buying things whose merits
+others aren't aware of, it's certainly possible that easy, widespread access to data is making it harder
+for value investors to excel.
+
+On the other hand, companies that do have better technology, better earnings prospects and
+the ability to be disrupters rather than disrupted still aren't worth infinity. Thus it's possible
+for them to become overpriced and dangerous as investments, even as they succeed as
+businesses (this was often the case with the Nifty-Fifty in 1968-73). And I continue to believe
+that eventually, after the modern winners have been lauded (and bid up) to excess, there will
+come a time when companies lacking the same advantages will be so relatively cheap that they
+can represent better investments (see value versus growth in 2000-02).
+
+Understandably, the stocks of companies with bright futures are likely to be outperformers in times
+of economic growth and optimism, when investors are happy to pay up for potential. But stocks of
+companies with tangible value in the here-and-now are likely to hold up better in less positive times
+because (a) they've previously been disrespected and valued lower and (b) the rationale underlying
+their prices is less a matter of conjecture and faith. Thus a swing in favor of value may have to await
+a period in which the "champions" lose some of their luster, perhaps in a market correction (see
+4Q2018). But it'll come.
+
+ * * *
+
+What do all the theories propounded above have in common? That's easy: they're optimistic.
+Each one provides an explanation of why things should go well in the future, in ways that
+didn't always go well in the past.
+
+In recent years, the U.S. has simultaneously experienced economic growth, low inflation, expanding
+deficits and debt, low interest rates and rising financial markets. It's important to recognize that
+these things are essentially incompatible. They generally haven't co-existed historically, and
+it's not prudent to assume they will do so in the future.
+
+Many of the beliefs discussed above suggest we're in a so-called "Goldilocks" environment: one
+that's not too hot and not too cold.
+
+ Economic growth won't be so strong that it brings on excessively high inflation, or so weak
+ that it ends in recession.
+ Inflation won't be so low that the economy stagnates, or so high that it leads to burdensome
+ increases in the cost of living and requires contractionary interest-rate increases to cool it off.
+
+I've seen times in the past when people believed such an ideal state would continue in perpetuity, but
+it has never worked out that way. Maybe it will this time - no one can prove it won't until it doesn't
+
+- but certainly broad acceptance of such a proposition indicates that optimism prevails in the current
+investment environment.
+
+We keep an eye out for the widespread belief that "this time it's different" because we want to know
+if markets are being lifted by bullishness, optimism, risk tolerance and low levels of skepticism.
+Everything else being equal, these things result in asset prices that are high relative to intrinsic
+values, and their presence exposes us to the risk that they'll abate, taking asset prices down
+with them.
+
+In On the Couch (February 2016) I said:
+
+ That's one of the crazy things: in the real world, things generally fluctuate
+ between "pretty good" and "not so hot." But in the world of investing,
+ perception often swings from "flawless" to "hopeless." The pendulum careens
+ from one extreme to the other, spending almost no time at "the happy medium" and
+ rather little in the range of reasonableness.
+
+Widespread attaching of "the four words" to bullish propositions suggests that the
+environment is being perceived as flawless. When and if that swings to hopeless, the result is
+pain for investors.
+
+Of course, no one can prove that the nine propositions discussed above won't hold. Economics and
+markets aren't governed by immutable laws like the physical sciences, and there's no schematic
+diagram that shows how they work. Thus, I want as usual to make it explicit that these are the
+musings of someone who (a) isn't an economist and (b) doesn't claim to know exactly how economic
+and monetary mechanisms function. But who does?
+
+Now, sometimes things really are different, as Templeton said. (And in areas like technology and
+digital business models, I'd bet things will be different more than the 20% of the time Templeton
+cited.) Certainly the world today is very different from that of the past. As I've written before, 40
+years ago it felt like the world was a stable place that was subject only to limited change in areas like
+scientific progress, fads and politics. Today the idea of an unchanging world is out the window:
+things change every minute, and anyone who doesn't keep up with the changes is fated to miss out.
+Technological prowess can be essential for success, and every company or industry that lacks it is
+susceptible to being disrupted by those who possess it.
+
+I readily admit that, at my stage in life, I may not fully grasp the forces that will determine the future.
+At times like this, when tech stocks are in the middle of a great run, I'm reminded of a classic book
+from my youth, The Money Game (1967). In it, the pseudonymous Adam Smith introduced the Great
+Winfield, a veteran broker who, despite the limitations associated with having reached middle age,
+was minting money in the new tech stocks. When asked about the source of his success, he
+introduced Smith to his traders:
+
+ "My boy," said the Great Winfield over the phone, "Our trouble is that we are too
+ old for this market. The best players in this kind of a market have not passed their
+ twenty-ninth birthdays."
+
+ . . . "My solution to the current market," the Great Winfield said. "Kids. This is a
+ kids' market. This is Billy the Kid, Johnny the Kid, and Sheldon the Kid."
+
+ . . . "See? See?" said the Great Winfield. "The flow of the seasons! Life begins
+ again! It's marvelous! It's like having a son! My boys! My kids!"
+
+Of course, veteran that he was, the Great Winfield knew the truth. Thus he went on:
+
+ . . . "The strength of my kids is that they are too young to remember anything
+ bad, and they are making so much money they feel invincible," said the Great
+ Winfield. "Now you know and I know that one day the orchestra will stop
+ playing and the wind will rattle through the broken window panes . . ."
+ [Emphasis added]
+
+To close, I'll return to a concept I consider indispensable for anyone hoping to succeed at investing -
+the three stages of a bull market:
+
+ the first, when only a few forward-looking people begin to believe things will get better,
+ the second, when most investors realize improvement is actually underway, and
+ the third, when everyone concludes that things can only get better forever.
+
+Clearly the few who buy in the first stage - when optimism is scarce and thus asset prices are low -
+can access great bargains. But those who buy in the last stage - out of a belief that the news will
+always be good - can be making a big mistake. The nine propositions reviewed above all
+represent variations on "things can only get better forever." If they're the ideas guiding
+investors today, that should be considered worrisome.
+
+The best investments often are made in times of fear and desperation. That's rarely possible when
+investors are willing to blithely dismiss the limitations of the past with the words "this time it's
+different." I would remind those investors of a quote usually attributed to Mark Twain: "History
+doesn't repeat itself, but it does rhyme." Of course it's important that investors keep up with
+current developments and those that will shape the future. But it's also essential that they not
+completely unlearn the lessons of the past.
+
+
+Memo: On the Other Hand.
+
+It often happens that just as I'm about to release a memo, I come across something that absolutely
+has to be incorporated. That was the case on June 12, the day "This Time It's Different" was
+published. I was reading a first-quarter report from Ruffer, a London-based money manager, and I
+came across the following question:
+
+ Can the Fed, with its discretions and its firepower, keep a market dislocation at bay,
+ or halt it once it has begun?
+
+That question caused me to think back to remarks made a few days earlier by Federal Reserve
+Chairman Jerome Powell regarding how the Fed would deal with the possibility of a trade war and its
+potential ramifications:
+
+ We are closely monitoring the implications of these developments for the U.S. economic
+ outlook and, as always, we will act as appropriate to sustain the expansion, with a strong
+ labor market and inflation near our symmetric 2% objective. (CNBC, June 4)
+
+Together, these two inputs prompted me to reflect on the role and powers of the Fed. In short, is it
+the Fed's job to sustain expansions and keep market dislocations at bay ad infinitum? I
+concluded that "This Time It's Different" shouldn't ignore this subject and, as a result, reworked the
+end of its section on quantitative easing, adding a new final paragraph:
+
+ Can government actions permanently raise the level of demand in an economy, or do
+ they mostly accelerate future demand into the present? If the latter, can QE elevate
+ GDP forever above what it otherwise would have been? I doubt it. But if it could,
+ wouldn't that eventually cause what I call an "excess," leading to a recession?
+
+ Finally, when I hear people talk about the possibility that the Fed will prevent a
+ recession, I wonder whether it's even desirable for it to have that goal. Per the
+ above, are recessions really avoidable or merely postponable? And if the latter, is it
+ better for them to occur naturally or be postponed unnaturally? Might efforts to
+ postpone them create undue faith in the power and intentions of the Fed, and
+ thus a return of moral hazard? And if the Fed wards off a series of little
+ recessions, mightn't that just mean that, when the ability to keep doing so
+ reaches its limit, the one that finally arrives will be a doozy?
+
+I'm so glad these last-minute inspirations caused me to include the above. I think the topic is very
+important, so much so that I'm now going to devote a memo to the subject of Fed interest-rate
+management.
+
+What Do Fed Actions Tell Us?
+
+Many people look at the operation of an economy and the efforts of a central bank to influence it and
+see things that are logical and straightforward. Others see a complex ecosystem that has financial,
+political and behavioral components, with tendencies that are understandable but certainly subject to
+significant uncertainty and ambiguity. I'm one of the latter. I think of the Fed and its considerations
+as complex, multi-faceted and characterized by a great deal of on-the-one-hand-but-on-the-other-
+hand. I'll explain at length below, right after issuing my usual caveats: I'm not an economist, an
+expert on monetary policy or a Fed watcher - just a casual observer.
+
+Many people take Fed actions at face value. When the Fed cuts interest rates, as the consensus
+expects it to do soon, investors take that as a "buy" signal. Their thought process is simple:
+weak economy → rate cuts → economic stimulus → stronger GDP → higher corporate profits
+→ higher stock prices. For this reason, many people - first-level thinkers that they are - take a
+statement like Powell's above as simplistic and a positive.
+
+But there's much more to the story. Digging deeper, one should ask, "Why is the Fed cutting rates?"
+The answer, of course, is that the Fed anticipates economic weakness (or sees it taking place) and
+wants to ward it off. So the second-level thinker wonders how bad the outlook is, how much worse it
+might have gotten without the rate cut, and whether the cut will be sufficient to avert a slowdown.
+
+In 2006, on the way to the Global Financial Crisis, delinquencies on sub-prime mortgages began to
+rise. The trend became more noticeable in mid-2007, leading to falling prices for mortgage-backed
+securities; margin calls for mortgage-backed-securities funds (from banks that had given them
+leverage); and, eventually, fund meltdowns. Most prominently, on July 31, 2007, two mortgage-
+backed-securities funds managed by Bear Stearns filed for bankruptcy.
+
+Investors wanted help, and the Fed rode to the rescue. On September 18, it cut the fed funds rate by
+50 basis points, from 5.25% to 4.75%, and issued a statement that included the following:
+
+ Today's action is intended to help forestall some of the adverse effects on the broader
+ economy that might otherwise arise from the disruptions in financial markets and to
+ promote moderate growth over time. . . .
+
+ Developments in financial markets since the Committee's last regular meeting have
+ increased the uncertainty surrounding the economic outlook. The Committee will
+ continue to assess the effects of these and other developments on economic prospects
+ and will act as needed to foster price stability and sustainable economic growth.
+
+The rate cut and message were warmly received, with the S&P 500 rising more than 6% over the
+next two weeks. Few people, I think, questioned whether this really was good news.
+
+Shortly after that first cut, I considered the following question: If you went to the doctor for an
+ailment and he pulled out a huge hypodermic needle, would you take that as good news or bad?
+Since the vast majority of Fed actions consist of 25-basis-point interest rate cuts or increases, doesn't
+a cut of 50 basis points mean the Fed finds the outlook particularly worrisome? If a rate cut of 25
+basis points is good news for the markets, is a cut of 50 basis points better or worse?
+
+My point is that a rate cut's implications aren't always as simple a matter as they may appear to be.
+Assuming the Fed is a good diagnostician, a decision to cut rates isn't necessarily good news. You
+can argue that, if there's trouble ahead, we're better off with a rate cut than without one. But that
+still doesn't make it good news. First, it means the Fed thinks trouble is looming. And second,
+it certainly doesn't guarantee the problem will be solved. (It's worth noting that 18 months after
+that first rate cut in September 2007 - during which time ten more cuts followed, eventually taking
+the fed funds rate to nearly zero - the S&P 500 finally bottomed out, down more than 50% from
+where it stood on the day of the first cut.)
+
+Are Low Interest Rates a Good Thing?
+
+The Fed's decision early this year to depart from its announced program of rate increases is widely
+recognized as a main contributor - if not the main contributor - to investors' decision to stop pushing
+down the markets through selling, as well as to the rally indicated by the S&P 500's gain of roughly
+20% so far this year. Since then the rally has been propelled by the expectation of rate cuts, and by
+statements like Powell's on page one.
+
+This is the case because of the widespread general faith in the progression I laid out above: weak
+economy → rate cuts → economic stimulus → stronger GDP → higher corporate profits → higher
+stock prices. But how, exactly, do low rates contribute to wealth creation?
+
+ Low interest rates encourage spending on the part of consumers. Low rates reduce the cost
+ of borrowing, lifting demand for things that are often bought on time or leased, like cars,
+ homes and appliances. Further, low rates translate into lower monthly payments on floating-
+ rate mortgages, leaving consumers more disposable income to spend. Finally, with rates low,
+ spending instead of saving entails little in the way of opportunity costs.
+ Low rates likewise encourage investment on the part of businesses by reducing the cost of
+ capital, and therefore the return hurdle for expenditures.
+ Increased demand for goods and services leads to increased hiring, reduced unemployment
+ and a tighter labor market, and thus to wage inflation. Rising wages encourage consumer
+ spending by putting more money into wage-earners' pockets and improving their mood.
+ By reducing the interest expense on companies' floating-rate debt, low rates enhance
+ companies' profits; make it easier for them to service their debt; and leave them more cash
+ for capital expenditures (which add to GDP), and dividends and stock buy-backs (which put
+ money in investors' pockets).
+ Low rates reduce the discount factor used in calculating the net present value of future
+ cash flows. Thus, all else being equal, there's a direct connection between declining
+ interest rates and rising asset prices. (I consider this to have been the dominant feature
+ of the world of finance over the last ten years.)
+ Low rates on savings and fixed-income investments drive investors to accept increased risk
+ in order to pursue decent returns in a low-return world. This increased risk tolerance makes
+ the financial markets more accommodating, increasing the availability of financing for
+ ventures that otherwise might find capital in short supply.
+ Finally, rate cuts are taken as a predictor of further rate cuts, implying more of all the above.
+ When they're moving in a positive direction, the things described above contribute to
+ the appearance of a virtuous circle.
+
+For these reasons, most market participants (a) would rather have low rates than high rates and (b)
+seem to believe that the lower rates are, the better. At this point in time, the U.S. is led by a great
+cheerleader for low rates. In fact, Powell's 2018 decision to continue his predecessor's rate increases
+and quantitative tightening earned him a place on the list of people experiencing President Trump's
+wrath. Here are a few indications of the esteem in which Trump holds Powell:
+
+ My biggest threat is the Fed. Because the Fed is raising rates too fast, and it's
+ independent, so I don't speak to him, but I'm not happy with what he's doing.
+ (Trump, speaking to Fox Business Network, October 16, 2018)
+
+ "Here's a guy, nobody ever heard of before, and now I made him and he wants to
+ show how tough he is? O.K. Let him show how tough he is," Mr. Trump said on
+ Wednesday. "He's not doing a good job."
+
+ . . . "We should have [European Central Bank head] Draghi, instead of our Fed
+ person," Mr. Trump said. "Draghi, last week, he said lower interest rates and we're
+ going to stimulate the economy. They're going to put money into the economy."
+
+ . . . Those comments came after Mr. Trump on Monday accused the Fed of botching
+ the job. "Now they stick, like a stubborn child, when we need rate cuts and easing, to
+ make up for what other countries are doing against us. Blew it!" Mr. Trump said on
+ Twitter. (The New York Times, June 26)
+
+Why would Trump want lower rates? Here are a few possible explanations:
+
+ He's a real estate guy, and the real estate industry lives on high leverage.
+ Trump has been a substantial borrower for much of his life, so for him low rates are "all
+ good."
+ Right now Trump is tightly focused on getting reelected, and ensuring economic growth and
+ a rising stock market over the next 16 months is one of the best things he can do to make that
+ a reality.
+ Along those lines, if reelection is his main goal, he may be relatively indifferent as to what
+ happens after Election Day 2020, when the scorecard he cares about most will be closed out.
+
+Here's an expression of Trump's position on rates:
+
+ "Our country's doing unbelievably well economically," he told reporters Friday. Yet
+ even as Mr. Trump celebrated the robust hiring numbers, he called again for the
+ Federal Reserve to cut interest rates - a step that would ordinarily suggest worries
+ about the economy's direction. Growth "would be like a rocket ship" if the Fed
+ acted, he declared. (The New York Times, July 6)
+
+On the basis of the above, one might conclude that Trump thinks rates should always be low. But
+there was at least one instance when he thought rates were being held too low:
+
+ In late 2015 then-candidate Donald Trump accused Janet Yellen, chair of the Federal
+ Reserve, of being part of a political conspiracy. Yellen, he insisted, was keeping
+
+ interest rates unjustifiably low in an attempt to help Hillary Clinton win the
+ presidency. (The New York Times, June 20)
+
+Regardless, it's clear that, at this time, Trump thinks low rates are good and there's no reason to
+worry about potential negative ramifications. But that doesn't mean they don't exist.
+
+Is There a Downside to Low Interest Rates?
+
+The truth is, there are ways in which low rates are undesirable and potentially harmful. They include
+these:
+
+ Low rates stimulate the economy, as described above, and most economists and
+ businesspeople believe there's such a thing as the economy becoming too hot. The principal
+ worry is excessive inflation. While some inflation is a good thing, too much isn't. It's
+ generally accepted that too much of the positives described on page three can lead to
+ excessive demand for goods and services; too-tight labor conditions, leading to excessive
+ wage inflation; too much market power in the hands of sellers of goods; and thus rising
+ prices.
+ Too much inflation imposes a hardship on people living on fixed incomes, since their costs
+ increase rapidly while their incomes don't. Also, low-income households typically don't
+ have the means to hedge against inflation that high-income ones do, such as through
+ investments in equities and real assets.
+ When low rates penalize savers by reducing the returns available on safe instruments like
+ cash, money market funds, savings accounts, Treasury securities and high grade bonds,
+ savers' alternative to accepting lower incomes is to assume increased risk in pursuit of the
+ higher returns they used to earn safely.
+ Thus low rates can lead to investment in undeserving companies and shaky securities,
+ encourage the use of excessive leverage, and create asset bubbles that eventually can burst.
+ Ultimately, investors' tendency to reach for yield and assume excessive risk can introduce
+ risk to overall financial stability.
+ Finally, but very importantly, when interest rates are low, central banks don't have at
+ their disposal as much of their best tool for stimulating economies: the ability to cut
+ rates.
+
+The following is from a report from RDQ Economics dated June 27:
+
+ What seems lost in the policy assessment is a careful discussion of the risks of overly
+ accommodative monetary policy. Powell did say this week, "we are also mindful that
+ monetary policy should not overreact to any individual data point or short-term swing
+ in sentiment. Doing so would risk adding even more uncertainty to the outlook."
+ However, our view is that Powell's observation of the downside of a dovish
+ overreaction is an inadequate assessment of the risk from unnecessarily adding
+ monetary accommodation at this time.
+
+ . . . underlying inflation is already close to target and the Fed's past attempts (in the
+ late 1960s/early 1970s) to trade off a little more inflation for sustained lower rates of
+ unemployment turned out very badly. Alternatively, higher labor costs from an
+
+ overheated jobs market might squeeze company profit margins and lead to a pullback
+ in investment and hiring.
+
+A Daunting Task
+
+The juxtaposition of the above lists of positives and negatives shows that low interest rates - just like
+most other aspects of economics - have both pros and cons. A lot depends on how they're viewed.
+This is illustrated by one of the greatest cartoons from my collection:
+
+That cartoon is 38 years old. Here's how The Times put it as recently as a couple of weeks ago:
+
+ The gains this week began after Federal Reserve chair, Jerome Powell, suggested the
+ nation's central bank was worried about the economy. Just days earlier, strong data
+ on the job market had the opposite effect on stocks.
+
+ This counterintuitive reaction to the news is a phenomenon that's explained by
+ expectations for interest rates. The weakening outlook for the economy means, in all
+ likelihood, borrowing costs are coming down - and in the right circumstances, this
+ can be good for stocks. (The New York Times, July 12)
+
+Many people think of an economy as a dependable machine that operates according to diagrams and
+rules, and of central bank actions as levers that can be pulled to adjust the functioning of that
+machine. But, instead, I believe a lot of uncertainty and variability exist regarding the functioning of
+
+economies and central banks. This means the task of managing an economy is difficult, and its goals
+shouldn't be thought of as dependably achievable.
+
+I think a recent article from The Times provides a great picture of how challenging the job is, and
+how many ways there are to be wrong. Here's most of it:
+
+ Heading into their policy decision and news conference Wednesday [June 19], there
+ were a lot of ways Federal Reserve officials could have messed things up.
+
+ One possibility was a repeat of the meeting in December, when markets judged
+ Chairman Jerome Powell and the Fed to be oblivious about negative forces building
+ in the markets and in the global economy, and sold off precipitously over the next
+ days.
+
+ But the opposite risk was present as well - that out of fear of repeating the
+ December episode, Mr. Powell would exhibit too much of a hair-trigger reaction to
+ recent signs of a slowdown in inflation pressures and industrial activity. If those turn
+ out to be false alarms, a rate cut now would be counterproductive by signaling
+ pessimism and making the Fed look jittery and perhaps even overly influenced by
+ President Trump's threats to try to demote Mr. Powell over interest rate policy. . . .
+
+ In effect, Fed officials are indicating they think it's pretty likely they will need to cut
+ rates, but are waiting for more evidence.
+
+ The relatively muted reaction of financial markets suggests that Wall Street viewed
+ the move [i.e., no change in rates on June 19 but foreshadowing likely cuts later in
+ the year] as appropriately balanced. The stock market was up, but only a little, which
+ helps reduce the sense the Fed is just acting to prop up stocks, while bond yields fell
+ further as markets became more confident that rate cuts were on the way.
+
+ So in terms of the narrow goal of getting through Wednesday without either markets
+ falling apart or the Fed's credibility being shredded, it was a good day for Mr.
+ Powell.
+
+ But the flip side of that is that some lingering questions have been put off to another
+ day.
+
+ Deciding to wait for more evidence is a decision, too. Waiting might buy the Fed
+ more time to make sure it's getting the decision right, but at the cost of losing the
+ opportunity to show it is aggressive and willing to get ahead of a potentially serious
+ problem.
+
+ Put differently, if you wait until there is completely compelling evidence of an
+ economic shift before doing something about it, you're probably too late.
+
+ On the other hand, if the Fed later judges that the recent bad news really was just
+ a temporary blip and that rate cuts were actually not needed, they will face the reality
+ of rate cuts even more baked into the prices of Treasury bonds. It would be a doozy
+ of an adjustment to bring them into alignment. If the sharp drop in rates that has
+
+ taken place since November were to reverse quickly, it could cause huge damage to
+ interest-sensitive sectors like housing and automobiles. ("The Fed Threads the
+ Needle, for Now," June 21 - emphasis added)
+
+In other words, there's the risk of being unresponsive or over-responsive, along with the risk of
+doing too much or too little, and of doing it too soon or too late.
+
+The Fed usually acts in response to the overall outlook for the economy: hundreds of millions of
+transactions entered into by Americans each day. But among the "developments" Powell said the
+Fed is monitoring today are some very specific, largely political actions. In particular, the Fed has to
+anticipate and cope with the possibility of a trade war, probably the greatest source of economic
+uncertainty today. It has to make interest rate and quantitative easing decisions based on its
+judgment as to what Trump will do (and its impact). Not to mention the lingering risk that Powell's
+job hangs in the balance if the answer isn't low rates. Certainly little of this can be thought of as
+scientific or reliable.
+
+Further, the Fed has to practice psychology:
+
+ . . . Mr. Powell was asked at the news conference about academic research suggesting
+ that when interest rates are near zero, a central bank actually should be more
+ aggressive, rather than less, about cutting rates in the event of a slump - to
+ maintain credibility that it will not let deflation take hold.
+
+In "This Time It's Different," I expressed my view that one of the reasons interest rate adjustments
+work is that it's commonly accepted that they will work. When a rate cut is announced, people take
+it on faith that it will cause the economy to strengthen and markets to rise. Thus they conclude it's
+appropriate to spend more and invest more, and their resulting behavior produces the desired
+response in the economy and markets. Do the lower rates cause the rise, or is it belief in the efficacy
+of rate cuts? Both, I'd say. But certainly the latter's contribution isn't insignificant. As I asked in
+"This Time," would a rate cut have the same impact if it weren't accompanied by an announcement?
+Clearly, prevailing opinion regarding Fed management matters a great deal in the efficacy of
+its actions.
+
+Not only does the Fed have to figure out what actions it should take to keep the economic machine
+humming, but also whether people will react positively and trust in them to work. In other words,
+psychology, not just economics.
+
+ [Powell] acknowledged the idea behind that [academic] work, saying that "an ounce
+ of prevention is worth a pound of cure," but declined to connect it to what exactly the
+ Fed might do in the current circumstance. "I don't know what that means in terms of
+ the size of a particular rate cut going forward," he said.
+
+ So did the Fed get it right Wednesday with the balanced, nuanced approach Mr.
+ Powell chose? The answer is: Ask in a few months.
+
+ * * *
+
+So what's the bottom line? On one hand, our economy is still expanding. Monetary stimulus via
+rate cuts (just like fiscal stimulus via deficit spending) is in order when the economy is weak and
+failing to create jobs. But stimulus may be somewhere between unneeded and counter-
+productive at times like today, when the economy is growing acceptably, the unemployment
+rate is at a 50-year low, wages are rising, and the recovery has just become the longest in
+history. As I said when the Trump tax cut was enacted in December 2017, doctors don't prescribe
+adrenaline for healthy patients. The economy today is healthy. But the Fed has to worry about
+whether it will remain so, and in particular whether there will be a full-fledged trade war with China.
+
+Thus, on the other hand, people are concerned about the potential for economic weakness.
+Recent market reaction suggests investors are following their usual elementary take: weak economy
+→ rate cuts → economic stimulus → stronger GDP → higher corporate profits → higher stock
+prices. When Powell indicated on July 10 that a rate cut could be more imminent than most had
+thought, the market sat up and saluted, taking the S&P 500 above 3,000 for the first time. It's
+always worth considering whether investors are reacting too positively to the prospect of rate
+cuts and paying too little heed to the economic weakness on which they're predicated (and the
+potential unintended consequences they might bring on).
+
+Thus, on the "third hand," I want to return to the paragraph I included above from "This Time It's
+Different":
+
+ Finally, when I hear people talk about the possibility that the Fed will prevent a
+ recession, I wonder whether it's even desirable for it to have that goal. Per the
+ above, are recessions really avoidable or merely postponable? And if the latter, is it
+ better for them to occur naturally or be postponed unnaturally? Might efforts to
+ postpone them create undue faith in the power and intentions of the Fed, and
+ thus a return of moral hazard? And if the Fed wards off a series of little
+ recessions, mightn't that just mean that, when the ability to keep doing so
+ reaches its limit, the one that finally arrives will be a doozy?
+
+Should we be happy to see the Fed trying to prolong the economic expansion and the bull market
+when they're already the longest in history? Should it try to produce perpetual prosperity and
+permanently ward off a correction? Are there risks in its trying to do so? It all depends on which
+hand is doing the weighing.
+
+
+Memo: Mysterious.
+
+Most of the time, my memos have their origin in something interesting that's happening in the world
+or in a series of events I come across that I think can be interestingly juxtaposed. This one arises
+from a less usual source: a request.
+
+The other day, my colleague Ian Schapiro, the leader of Oaktree's Power Opportunities and
+Infrastructure groups, suggested I write a memo about negative interest rates. My reaction was
+immediate and unequivocal: "I can't. I don't know anything about them." And then I realized
+that's the point. No one does. But Ian thinks I can make a contribution, so I'll try. I've been
+saving up clippings on this subject, as you'll see. Ian's urging set me to work.
+
+ * * *
+
+For a good while now, I've used the term "mysterious" in connection with inflation (and deflation).
+What causes rapid inflation? How can it be stopped? Economists offer explanations and
+prescriptions regarding each occurrence, but they rarely apply the next time.
+
+And that brings us to the subject of negative interest rates. I find them no less mysterious. The fact
+that we know what they are - as we do with inflation and deflation - doesn't alter the fact that we
+don't know for sure why negative rates are prevalent today, how long they'll continue in force,
+what might cause them to turn positive, what their consequences are, or whether they'll reach
+the U.S.
+
+No, I'll Pay You!
+
+Historically - until the European Central Bank took the rate on its credit facility to -0.10% in 2014 -
+borrowers paid interest to the people from whom they borrowed money. But in the recovery from
+the Global Financial Crisis, interest rates went negative for the first time in recent history, meaning
+some lenders paid borrowers for the privilege of lending them money.
+
+I had my first direct brush with negative interest rates in 2014, when I was making an investment in
+Spain. The closing was due to take place on Monday, and I wired funds on the prior Wednesday so
+as to be in position to close. The following conversation ensued with my Spanish lawyer:
+
+ Carlos: The money has arrived. What should I do with it between now and Monday?
+
+ HM: Put it in the bank.
+
+ Carlos: You know that means you'll get less out on Monday than you put in today.
+
+ HM: Okay, then don't put it in the bank.
+
+ Carlos: You have to put it in the bank.
+
+ HM: So put it in the bank.
+
+That's it in a nutshell. Money can't be free-floating in space. It has to be someplace. And you can't
+keep much of it in your wallet or under the mattress. Thus, in general, any substantial sum has to go
+into the bank. And in Europe - then and now - doing so means you'll get out less than you put in.
+
+I have to admit that this didn't come as a shock to me. Oaktree and I had turned very cautious in
+2005-06, and as a result, all of my money that wasn't in Oaktree funds was in a "laddered portfolio"
+of U.S. Treasurys. (In my case, equal amounts of 1, 2, 3, 4, 5 and 6-year maturities. When the
+closest-in note matures, you roll it to the end of the line. It's the most mindless form of investing
+known to man.)
+
+At the time I put that portfolio together, I signed up for a yield in the range of 5-6%. And I was
+thrilled: the greatest safety, total liquidity and a meaningful yield. But then, in 2007, the Fed started
+cutting rates to rescue the economy from the sub-prime mortgage crisis. And one day in late 2008,
+my banker called to say, "The 6% note has matured. You can roll it over at five-eighths." I asked,
+"What-and-five-eighths?" "No, that's it," he said, "just five-eighths."
+
+The world had changed. Up until the Global Financial Crisis, we could store money with the
+government and be well paid to do so. But now my reaction was, "given the level of fear in the
+financial world, maybe one of these days people will end up paying to store their money safely."
+
+In the period 2008-14, Europe experienced the Global Financial Crisis, a European debt crisis (with
+concern over the solvency of "peripheral" nations on Europe's southern tier), and rapidly escalating
+prices for commodity raw materials. In response, the European Central Bank and some non-EU
+countries moved to adopt negative interest rates. Here's how it goes:
+
+ Commercial banks usually earn interest on the extra reserves they keep with central
+ banks, like the Fed or the European Central Bank. Negative policy interest rates
+ force them to pay to keep money in those accounts, a penalty aimed at pushing them
+ to lend more and goose the economy. (The New York Times, September 9)
+
+Central banks determine short-term base rates ("policy rates") as described above. That establishes
+the origin of the yield curve, and rates/yields on other types of short-term debt, as well as longer-term
+instruments, can be expected to respond by moving to a logical relationship with the base rate.
+Eventually, negative interest rates paid on bank deposits should be reflected in negative yields on
+bonds. (Note: for the most part, negative rates are applied today only to large deposits. Small
+depositors have thus far been spared.)
+
+Today, large numbers of bonds - the vast majority being government bonds from Europe and Japan -
+carry negative yields to maturity. They constitute roughly two-thirds of the bonds in Europe and 25-
+30% of all the investment grade debt in the world. A few corporate bonds also offer negative yields,
+however, and there's even a handful of negative-rate high yield bonds (the ultimate oxymoron).
+
+Further, on September 4 Bloomberg pointed out the prevalence of negative real rates:
+
+ While over $17 trillion of the global stock of debt trades at nominal yields below
+ zero, the figure jumps to $35.7 trillion when inflation is taken into account. . . . In the
+ U.S., more than $9 trillion of the nation's government debt carries yields lower than
+ the CPI rate.
+
+With a negative-rate instrument, the price you pay for a bond today exceeds the sum of the face
+amount that will be repaid when it matures plus the interest you'll receive in the interim. That means
+if you buy a negative-yield bond and hold it to maturity, you're guaranteed to lose money. Why,
+then, would anyone want to buy a negative-yield bond? Here are some reasons that make sense:
+
+ Fear regarding the future (relating to recession, market declines, credit crisis or further
+ declines in interest rates, among other factors) that causes investors to engage in a flight to
+ safety, in which they elect to lock in a sure but limited loss.
+ A belief that interest rates will go even more negative, giving holders a profit, as it implies
+ bonds will appreciate in price (as they would with any decline in rates).
+ An expectation of deflation, causing the purchasing power of the repaid principal to rise.
+ Speculation that the currency underlying the bond will appreciate by more than the negative
+ interest rate.
+
+The concept behind negative rates is simple. It's merely the reverse of the traditional norm, in which
+lenders receive interest from borrowers. Generally speaking, interest rates are a function of two
+variables: (a) the time value of money and (b) expected changes in the purchasing power of money
+(i.e., inflationary or deflationary expectations). (Of course, interest rates should also incorporate a
+risk premium to compensate for any credit risk entailed.) If, for example, lenders want a 2% annual
+real return to compensate for the time value of money and expect 2% inflation over the next five
+years, a five-year Treasury note should yield 4%. But if lenders expect deflation at 3% per year, that
+note should theoretically yield negative 1%.
+
+Are today's negative rates in Europe and Japan telling us deflation lies ahead? Or have
+lenders changed their views regarding the time value of money? Or are rates negative simply
+because governments and central banks want them to be?
+
+Reasons for Negative Rates
+
+Here are some of the reasons I've come up with for negative interest rates, some I've read about, and
+some my friends have suggested:
+
+ The obvious one: central banks in Europe and Japan want rates to be negative to
+ stimulate their economies. (They want to supply more stimulus than had been afforded by
+ the reduction of rates to near-zero, since that level of stimulus didn't prove up to the task.)
+ ". . . central banks around the world are racing to cut interest rates in an effort to stay
+ ahead of the Fed and support their economies by weakening their currencies." (The Wall
+ Street Journal, August 12)
+ Ongoing quantitative easing - central banks' bond purchases - is pushing up the price of
+ longer-dated bonds, and thus pushing their yields down into negative territory.
+ Quantitative easing means the central banks flood the financial system with money that needs
+ investing. Since borrowers don't have much demand for long-term capital, they won't pay to
+ use it. Thus holders have to pay a small fee to store that money.
+ Fearful investors have little interest in making investments that represent bets on their
+ countries' economies and companies. They certainly don't want to borrow for that
+ purpose.
+ Current economic weakness reinforces investors' pessimism. Fear of increasing weakness
+ in the future strengthens their desire for safe storage.
+ There's so much money in the system that the excess of supply over demand drives down the
+ price of money - borrowing rates - into negative territory. "In today's global economy,
+ private investment demand is manifestly unable to absorb private savings . . ." (Lawrence
+ Summers, Financial Times, October 12)
+ Unfavorable demographic trends mean central banks can't maintain positive rates without
+ curbing growth.
+ The lack of inflation means investors needn't demand protection against the loss of
+ purchasing power over time. The wonders of technology may continue to make products
+ available cheap or free, capping inflation.
+ Fear of deflation adds further to the willingness to invest without such protection.
+ "The rise of businesses dealing in intangible products has rendered the economy less capital-
+ intensive . . ." said Grant's Interest Rate Observer on July 26. This reduces the demand for
+ long-term borrowings.
+ Certain regulations require financial institutions to invest in home-country sovereign
+ bonds regardless of the yield they offer (and whether it's positive). This artificially lifts
+ the demand for (and thus the prices of) those bonds.
+
+Everyone has favorites from this list. But everyone differs, including the "experts." Some people
+think we have negative rates because central bankers want them, some think it's because the market
+sets them, and some think it's some of each. "Did interest rates fall, or were they pushed?" asks
+Grant's. Given all the above, no one should feel the reasons for negative rates are fully understood.
+
+The Impact of Negative Rates
+
+A quote attributed to Albert Einstein in various forms is relevant to this discussion.
+
+ Compound interest is the 8th wonder of the world. He who understands it, earns it; he
+ who doesn't, pays it. (RateCity)
+
+Under compound interest, by not withdrawing interest as it is earned, not only does an investor
+earn interest on his principal year after year (as with simple interest), but each year he also earns
+interest on the interest that was earned in the preceding years. Thus principal can grow
+powerfully if left invested for a long period. (At 10%, $100 grows to $300 in 20 years under
+simple interest, but to $673 if allowed to compound.) What a wonder!
+
+There's one problem, however. The miracle of compound interest works in reverse if the interest
+rate is negative, making Einstein wrong about its virtue. Who would want to reinvest income at
+negative rates? And where would income come from for that purpose?
+
+It's not just Einstein's observation that may be rendered invalid. Negative rates turn a lot
+of the usual processes upside down. Here are several examples:
+
+ Negative rates make life more difficult in a TINA ("there is no alternative") world. Many
+ investors don't want to knowingly sign on for negative rates. That makes risky
+ investments preferable, even if they promise historically low prospective returns. In
+ this way, risk aversion is discouraged. "I have no choice but to go into risky assets,
+ because I can't accept a negative return on safe ones."
+
+ There is clear evidence that this is happening among institutional investors.
+ The flow of pension fund money into any asset that promises to beat zero-rate
+ bonds has been so dramatic that equities, junk bonds, property, private equity
+ and a host of other more abstruse areas of investment have spiraled in value -
+ and to such an extent that they look highly vulnerable to any shock . . ."
+ (Financial Times, August 5)
+
+ Proof? What about the fact that in early July, a €3 billion offering of Italian sovereign
+ bonds maturing in 2067(!) was almost six times oversubscribed thanks to its lavish
+ 2.877% yield? What a bonanza Italy was at the time, with a 10-year bond out-yielding
+ Germany's 10-year by 215 basis points, 1.78% to -0.37%.
+ There's no longer any reason to pay slowly in order to make money on "float."
+
+ o In the old days, people paid their bills on the last possible day, preferring to keep
+ the money in the bank and earn interest as long as possible. Under negative rates
+ they may prefer to pay sooner.
+ o Many insurers traditionally have made money primarily because they paid claims
+ years after they collected the premiums on the policies they issued. What happens
+ if it costs them money to hold float until claims are paid?
+
+ Likewise, there's no impetus to collect receivables quickly. In the past, wholesale
+ customers were offered discounts for paying bills early. Now the seller might say, "No,
+ you keep it. I'd rather you paid me in six months."
+ Negative rates put pressure on people, such as retirees, who live on the income from their
+ investments.
+
+ Importantly, the pessimistic signals sent by negative rates may mean they have a
+ contractionary rather than stimulative effect.
+
+ Research has suggested that Japan's negative rate policies may have
+ backfired, actually lowering inflation expectations instead of firming them, as
+ hoped. (The New York Times, September 11)
+
+ Last week famously blunt ING boss Ralph Hamers excelled himself, all but
+ calling the ECB idiotic for planning to shift rates further downwards. "The
+ negative rate environment is making consumers so uncertain about their
+ financial environment that they're starting to save more rather than less," he
+ said.
+
+ Mr. Hamers has a point. Rather than encouraging people to borrow and
+ spend, the data suggests nervous eurozone consumers are hoarding. Eurostat
+ reports the eurozone household savings ratio is at a five-year high of nearly
+ 13 per cent. (Financial Times, August 5)
+
+ If interest rates for small savers ever were to go negative, it would give rise to the
+ juxtaposition of income penalties for households with benefits for "the elites" through
+ their ability to profit from rising equity prices. Economic impact aside, the boost to
+ populist politics would likely be dramatic.
+ Negative rates can distort the workings of floating-rate financial products. Lenders and
+ depositors might have been happy in the past receiving interest rates at a spread over the
+ base rate Euribor. With a negative base rate, however, loans and deposits might leave
+ them with less money than they anticipated as time passes.
+ Negative rates on U.S. Treasurys would, for example, harm the Social Security Fund
+ (which can only invest in Treasurys), hastening the day when it runs out of money.
+ Negative rates can warp the calculation of discounted present values. In particular,
+ when the discount rate is negative, the present value of future pension obligations can
+ exceed their future value. The combination of high discounted obligations and low yields
+ on investments can be disastrous for the funded status of pension funds.
+ Ditto for the impact on bank profitability. Negative rates charged to borrowers can
+ sap the returns banks depend on, throwing countries' banking systems into reverse.
+ Already, some banks have seen the need to issue mortgages with negative interest rates.
+ "In a negative rate environment, the bank must pay to hold loans and securities. In other
+ words, banks would be punished for providing credit . . ." (Jim Bianco on Bloomberg,
+ September 3) "Certainly Europe's bankers are squealing, as they feel margins squeezed
+ by low rates on lending and a reluctance to pass on negative rates to depositors."
+ (Financial Times, August 5) Big banks can charge negative rates to corporate and HNW
+ depositors, but as I mentioned earlier, thus far retail banks haven't passed them on to
+ small savers. Doing so could cause those savers to leave the banking system, depriving it
+ of a traditional source of deposits.
+ What about the application of negative interest rates to corporate bonds? How will the
+ markets value businesses that hold cash versus those that are deep in debt? Traditionally,
+
+ markets have penalized heavily levered companies and rewarded those that are cash-rich.
+ But if having negative-yield debt outstanding becomes a source of income, will levered
+ companies be considered more creditworthy? Conversely, how will the market value
+ businesses that hold a lot of cash and thus have to pay banks to keep it on deposit?
+ Financial models and algorithms - which essentially are a matter of looking for and
+ profiting from deviations from historic relationships - may not work as well as they
+ did in the past, since history (all of which has been based on positive interest rates) may
+ be out the window.
+
+ Nobel prizes have been awarded to economists that developed concepts such
+ as the efficient frontier, the Capital Asset Pricing Model and the Black-
+ Scholes option pricing model. But when a negative value is assumed for the
+ risk-free rate in these types of models, fair value results shoot off toward
+ infinity. With trillions of securities and derivatives dependent on these
+ models, valuation is critical. (Jim Bianco, op. cit.)
+
+The one thing we can't be sure of is that negative rates increase economic growth (or produce
+more growth than is generated by low rates). First, this requires "what-if" analysis, which is one
+of the most difficult kinds: are Europe and Japan growing faster today than they would have if
+their rates weren't negative? And second, you surely can't look at their current growth and
+pronounce negative rates a huge success. Are negative rates stimulating demand, or are they a
+matter of "pushing on a string," powerless to convince pessimistic consumers to spend?
+
+In the financial world, most of our actions are based on the assumption that the future will
+be a lot like the past. Positive interest rates and the desirability of compounding have been
+among the most fundamental historical building blocks.
+
+ If negative rates become more widespread across the globe, then the financial
+ system needs to be rebuilt on a new set of assumptions. The problem is that
+ we do not yet know what those should be or how they would work. (Jim
+ Bianco, op. cit.)
+
+At minimum, negative rates mean there's increased uncertainty, and thus we have to
+proceed with more trepidation. Whatever we knew in the past about how things worked, I
+think we know less when rates are negative.
+
+Will the U.S. See Negative Interest Rates?
+
+As stated above, the vast majority of today's negative-yield bonds are in Europe and Japan. One
+of the biggest questions surrounds whether negative rates will reach the U.S.
+
+This question takes me back to my immediate response to Ian's suggestion that I write this
+memo: nobody knows, and certainly not me. When something hasn't happened in the past, it's
+impossible to be sure you know how it'll end up. Different people will express opinions on
+
+this subject with differing degrees of confidence. Yet I remain certain that none of them
+"know."
+
+If I had to take a guess - and that's all it would be - I'd say interest rates won't go negative in
+the U.S. in the current cycle. If we go back to the possible reasons for them listed on page four, I
+think we'll conclude that the factors at play in the U.S. make negative rates less likely:
+
+ Stronger current economic growth
+ Better growth prospects
+ Thus no need for emergency measures
+ Higher inflation expectations (especially given the tightness of the labor supply)
+ Less pessimism
+ Better uses for long-term capital
+
+So I don't think current conditions in the U.S. call for negative rates. But that doesn't rule
+them out. When you express an opinion, the real question is whether you'll bet on it and
+whether you'll give odds. I might put up $60 to win $50 from you if negative rates don't
+materialize. But that's not a sign of much confidence on my part.
+
+In particular, I wonder about monetary stimulus. The U.S. fed funds rate is below 2% as I
+write, thanks to the two recent rate cuts (and there might be another cut on the way soon). Yet
+most stimulus programs have entailed rate cuts totaling several percent. So there's every
+possibility that in the future, the Fed's response to economic weakness could take rates into
+negative territory.
+
+And the current slowdown in U.S. manufacturing - plus the uncertainty brought on by the on-
+again/off-again prospect of an escalating trade war with China - raises the possibility of a
+recession, and thus the need for stimulus through rate-cutting.
+
+Some argue that strong demand for safe assets and negative demographic trends apply in the
+U.S. also, and thus U.S. bond yields can fall below zero.
+
+Finally, negative rates abroad strengthen demand for dollars so foreigners can invest at the
+positive U.S. yields, causing the dollar to appreciate. Thus the Fed may have to lower rates to
+keep the foreign-currency cost of U.S. exports from rising too much, and thus their
+competitiveness from declining and our economy from weakening. How long can the Fed
+maintain rates that are much higher than those in the rest of the world?
+
+Maybe I should reconsider my offer of 6-to-5 in favor of rates staying positive . . .
+
+What, Then, Is There to Do?
+
+I'm convinced that no one should be categorical about how to deal with a mystery like this in
+such unprecedented and confusing circumstances. But the Financial Times of August 5
+advanced one idea that seems perfectly logical:
+
+ For SFr1,000 a year, your typical Swiss private bank will give you a cubic metre
+ of vault storage for your valuables. Thanks to Switzerland's high-value SFr1,000
+ notes, that should be enough space to salt away close to SFr1 billion in hard cash.
+ The fee is a sight cheaper than the SFr7.5 million charge that a 0.75 per cent
+ negative interest rate would imply.
+
+If you don't like that idea, there is one more: move out the risk curve to strive for returns
+above those offered by safe instruments in this low-return (or negative-return) world . . .
+but do so with caution.
+
+What does moving out the risk curve consist of? Essentially it means pursuing greater rewards
+while accepting the reduced certainty that by definition accompanies that pursuit. (If greater
+rewards could be obtained without a corresponding increase in uncertainty, that return increment
+would represent a free lunch, and most of the time they're not available.)
+
+In a world like the one described above, perhaps the most reliable solution lies in buying
+things with durable cash flows. Bonds, loans, stocks, properties and companies with the
+likelihood of producing steady (or hopefully growing) earnings or distributions that reflect a
+substantial yield on cost all seem like reasonable responses in times of negative yields. In my
+view, durability and dependability are highly desirable (rather than hail-Mary attempts at
+a moonshot). They are the Oaktree way.
+
+While all this might be self-evident, the challenge lies in accurately predicting the durability and
+growth of cash flows and making sure the price you pay allows for a good return. In today's market
+environment, assets with predictability are often priced extraordinarily rich, and investors are
+unusually willing to extrapolate growth far into the future. At the same time, with the economy and
+markets operating under rules that are different from those of the past in many ways - some of which
+are reflected above - accurate predictions are apt to prove harder to make than usual. These are
+some of the reasons why, while simple in concept, investing is far from easy . . . especially
+today.

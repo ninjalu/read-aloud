@@ -1,0 +1,11 @@
+{
+  "feed_title": "Howard Marks Memos",
+  "feed_author": "Howard Marks (read by Kokoro)",
+  "feed_description": "Howard Marks's Oaktree Capital memos, 1990 to 2025, read aloud - one episode per year. Charts, tables and headers trimmed so it reads as the essays it is. Private personal feed.",
+  "token": "oakt_o6vghAoPxgPkN2wi7WQG7LScm4kc4ffe67b3bde",
+  "base_url": "https://pub-4199a00419024460b7858651d3c97258.r2.dev",
+  "bucket": "readaloud",
+  "endpoint_url": "https://7a8d87180daf4eeafe76d7994c404cd7.r2.cloudflarestorage.com",
+  "access_key_id": "6ad543acaf7ac1c6a2fe87efa741c4d5",
+  "secret_access_key": "b59f2ac75f717673905b9f4153b0bb99420b875b28c74401887a63db755513cb"
+}

@@ -1,0 +1,1571 @@
+Memo: bubble.com.
+
+The book "Devil Take the Hindmost" by Edward Chancellor does an excellent job of
+ chronicling the history of financial speculation. In doing so, it recounts the story of "the
+ South Sea Bubble" and provides a backdrop against which I'd like to examine some of
+ the events of today.
+
+ The South Sea Company was formed in 1711 to help deleverage the British government
+ by assuming some of the government's debt and paying it off with the proceeds of a
+ stock offering. In exchange for performing this service for the Crown, the company
+ received a monopoly for trading with the Spanish colonies in South America and the
+ exclusive right to sell slaves there. Demand for the company's stock was strong due to
+ the expectation of great profits from these endeavors, although none ever materialized.
+ In 1720, a speculative mania took flight and the stock soared.
+
+ Sir Isaac Newton, who was the Master of the Mint at the time, joined many other
+ wealthy Englishmen in investing in the stock. It rose from £128 in January of l720 to
+ £1,050 in June. Early in this rise, however, Newton realized the speculative nature of
+ the boom and sold his £7,000 worth of stock. When asked about the direction of the
+ market, he is reported to have replied "I can calculate the motions of the heavenly
+ bodies, but not the madness of the people."
+
+ By September 1720, the bubble was punctured and the stock price fell below £200, off
+ 80% from its high three months earlier. It turned out, however, that despite having seen
+ through the bubble earlier, Sir Isaac, like so many investors over the years, couldn't
+ stand the pressure of seeing those around him make vast profits. He bought back the
+ stock at its high and ended up losing £20,000. Not even one of the world's smartest
+ men was immune to this tangible lesson in gravity!
+ * * *
+
+ It's obvious from "Devil Take the Hindmost" that many elements of speculative
+ behavior were present during the South Sea Bubble. I'll cite some of its passages below
+ and point out the parallels to today that I see:
+
+ "The ideology of self-interest had recovered after the battering it received after the
+ pride and luxury - produced public benefits." [Sounds like the "greed is good"
+ rationalization of the 1980s.]
+
+ The success of South Sea spawned talk of any number of speculative schemes,
+ some of which was probably apocryphal. "The most famous of the legendary
+ bubble companies was that 'for carrying on an undertaking of great advantage but
+ no one to know what it is.'" [I can't understand what it does, but that's okay; just
+ tell me the name, II. or maybe the symbol's enough.]
+
+ Despite their lack of profits, companies like South Sea were able to finance their
+ operations by issuing stock at higher and higher prices. "The circularity inherent in
+ the scheme made a rational calculation of the shares' fair value difficult to compute.
+ this Way of Computing, no Person can Purchase at too high a Rate, since his Profit
+ will increase in Proportion to the Price he gives.'" [There's no such thing as too
+ high a price if the concept is right, and the ability to issue stock at rising prices will
+ lead to profitability.]
+
+ "Adam Anderson, a former cashier of the South Sea Company, later claimed that
+ hopeless, since they aimed to get 'rid of them in the crowded alley to others more
+ credulous than themselves.'" [The greater fool theory is nothing new.]
+
+ "As Edward Ward observed in his poem 'A South Sea Ballad':
+
+ Few Men who follow Reason's Rules,
+ Grow fat with South-Sea Diet,
+ Young Rattles and unthinking Fools
+ Are those that flourish by it."
+ [The profits went to those unrestrained by reason or experience.]
+
+ Robert Digby wrote "The South Sea Company is continually a source of
+ wonderment. The sole topic of conversation in England revolves around the shares
+ of the Company, which have produced vast fortunes for many people in such a short
+ space of time. Moreover it is to be noted that trade has completely slowed down,
+ that more than one hundred ships moored along the river Thames are for sale, and
+ that the owners of capital prefer to speculate on shares than to work at their normal
+ business." [The name of the company was on everyone's lips, the fortunes it created
+ were front-page news, and the average Joe was willing to give up his day job to
+ ***
+
+ I will devote the rest of this memo to what certainly seems to me to be another market
+ bubble. Before doing so, however, I must point out a few things: First, as usual, little
+ that I will write will be original; instead, I hope to add value by pulling together ideas
+ from a number of sources. Second, a single word suffices to describe my recent caution
+ regarding the stock market: wrong. Nevertheless, I'll admit my negative bias and
+
+ the fact that I have found the bears convincing and the bulls Pollyanna, and then move on
+ to discuss the effect on the market of technology as we move into a new millennium. In
+ short, I find the evidence of an overheated, speculative market in technology, Internet
+ and telecommunications stocks overwhelming, as are the similarities to past manias.
+
+ Changing the world -- Of course, the entire furor over technology, e-commerce and
+ telecom stocks stems from the companies' potential to change the world. I have
+ absolutely no doubt that these movements are revolutionizing life as we know it,
+ or that they will leave the world almost unrecognizable from what it was only a
+ few years ago. The challenge lies in figuring out who the winners will be, and
+ what a piece of them is really worth today.
+
+ The graph at the left shows the stock price performance of the
+ leading company in an industry that was thought capable of
+ changing the world. For that reason, the stock followed the
+ explosive price pattern that has become typical for technological
+ innovators. The predictions were correct: the industry did change
+ the world, and the company was its big winner.
+
+ The industry was radio. In the 1920s it was expected to change
+ the world, and it did. Its ability to communicate without wires
+ created entertainment in the home, electronic advertising and the
+ live delivery of events. The company was RCA, and as the
+ industry leader its stock rose from $8 in mid-1927 to $114 in
+
+ While part of the stock's appreciation was due to the market
+ boom in which it shared, certainly part was also due to an
+ overvaluation of its potential. After the onset of the Great Crash,
+ RCA's stock fell from that high of $114 to $21⁄2 within three
+ years. The Depression can be blamed for some of this
+ decimation, but it is worth noting that even 25 years after the
+ 1929 peak, when the Depression and World War II were well
+ over and the post-war recovery was underway, RCA's stock had
+ yet to get back to a third of its earlier high. The times, the
+ industries and the companies are certainly different today, but it
+ makes one wonder whether investors aren't again overpaying for
+ the ability to change the world.
+
+ Similarly, a recent article in Fortune reported Warren Buffet's observation that
+ almost all of the manufacturers of both are now gone. Few things have had the
+ impact on the world that aviation did, but from its founding through 1992, the
+ cumulative profit of the airline industry was zero!
+
+ As usual, Buffet puts it as succinctly as anyone could: "The key to investing is not
+ assessing how much an industry is going to affect society, or how much it will
+ grow, but rather determining the competitive advantage of any given company
+ and, above all, the durability of that advantage. The products or services that have
+ wide, sustainable moats around them are the ones that deliver rewards to investors."
+ (Emphasis added) (Three years ago, everyone wanted to be Warren Buffet, or at least
+ read books about him. Now, appearing to have missed out on the technology
+ movement, he and his investment approach are dismissed as passe by the dot-com
+ gang.)
+
+ Altered lives -- During the South Sea bubble, as described above, boats were put up
+ for sale and people with capital shifted from being workers to being investors. In a
+ striking parallel, the Internet-commerce revolution is also changing lives. Of course,
+ we know that thousands of Americans have become on-line traders either full- or
+ part-time. Articles describe people who are trying to "ride the trend" of hot stocks
+ and benefit from their momentum, but there's little indication that they have any idea
+ what makes companies do well or stocks go up (or even what some of their
+ companies do). The Wall Street Journal of December 7 cited an individual who has
+ spent his full time in the prior five months trading the stock of one company, CMGI,
+ which invests in Internet ventures; he doesn't know the CEO's name.
+
+ Also striking is the effect this is having on business education and young careers. A
+ front-page article in the New York Times of November 28 reported that applications
+ at many business schools were flat or down, the number of Americans taking the
+ GMAT exam was down sharply, and not-insignificant numbers of MBA students
+ were dropping out after the first year to join the hot fields. As a professor of
+ entrepreneurship told me, all of the e-commerce claims will be staked out in the next
+ year or two; students can't risk staying in school and seeing someone else act on their
+ ideas. Five years ago, the hot area for new MBAs was investment banking. Now, I
+ hear, investment banks can't get the top students to sign up for interviews and are
+ having trouble meeting their recruiting goals.
+
+ The pressure to move toward the high-change areas is great, and people are
+ succumbing. Everyone in the investment profession knows (or knows of) somebody
+ who has made hundreds of millions (or a billion) this year on a dot-com investment.
+ One can imagine that this makes the buyout specialists who built fortunes over a
+ lifetime feel like underachievers. Private equity firms are getting involved in
+ companies at earlier stages, and with the dot-coms. On November 30, a Wall Street
+ Journal article about defections of buyout specialists to venture capital firms cited a
+ KKR partner who had resigned to do just that.
+
+ Venture capitalists and technologists, in turn, are moving to Internet firms. As a sign
+ that it's even becoming hard for more mature technology firms to hold onto people,
+ the CFO of Microsoft recently quit to join a fiber-optic company. Remember,
+ Microsoft has already been public 17 years; the gold-rush is over at the established
+ firms, and the overnight fortunes have been made. Even investment bankers are in
+ transit; on December 14, a New York Times article on the subject was headlined
+ "Wall St. Is Flush With Cash But Also Green With Envy." A Harvard Business
+
+ School professor aptly mixes his metaphors, likening the rush of executives to
+ Internet-related ventures to "a tsunami of people chasing a pot of gold."
+
+ The lure of venture capital - I recently presented the case for distressed debt to three
+ classes in entrepreneurial finance at the University of Chicago Graduate Business School.
+ The response of half the students was simple: Why settle for 20-25% per year when you
+ can make 100% in venture capital?
+
+ Just as venture capital is attracting young businesspeople, it is also turning heads in the
+ investment community. One university treasurer told me his school's $29,000
+ investment in Yahoo! via a venture fund grew to $54 million (and would be more than
+ twice that today if it hadn't been sold). Why do anything else, indeed?!
+
+ Before we succumb to this reasoning, however, (and run out to start the OCM Venture
+ Capital Fund), we should first review the data concerning venture capital's brief
+ history.
+
+ For funds raised between 1984 and 1989, the median return to Limited Partners
+ ranged from 7.5% to 15.1%. For funds raised between 1990 and 1994, it ranged from
+ 20.4% to 29.7%. These are healthy returns, but certainly the typical v.c. investor
+ enjoyed no bonanza in that period. A quarter or more of the funds raised in almost
+ every year provided returns ranging downward from 10% to negative territory.
+
+ It's only for funds started in the mid-to-late 1990s that the returns have been so eye-
+ popping. For each vintage year beginning in 1994, there has been at least one fund
+ with a return above 200%/year. And yet, the median returns thus far for vintage years
+ between 1994 and 1999 range only from zero to 33.7% (although it can be argued that
+ it's still early).
+
+ While it's hard to settle on a "typical" vintage year for venture capital, 1994 is a
+ reasonable candidate. Its funds are five years old, so there has been time to bring
+ companies to fruition and to market. And certainly, the environment has been
+ positive. In fact, 1994's top fund has returned 235%/year so far, and the average
+ fund has returned 45%/year, an impressive figure. But averages can be deceiving,
+ and this one has certainly been pulled up by the best performers. The median fund is
+ up only 22.5%/year. Half the funds have annual returns below that (by definition),
+ and the returns in the bottom quartile range from 6.4% to minus 13.2%.
+
+ The recent years all show similar patterns (although it's too early for meaningful
+ results to be in): phenomenal for the big winners, good on average, but certainly not
+ universally successful yet.
+
+ Having reviewed the historic data, what can we say about the future? Certainly, the
+ venture capital funds are "where it's at": the toll bridge through which world-changing
+ companies are likely to pass. Does that mean they're a good investment today?
+
+ I feel strongly that no investment opportunity is so good that it can't be screwed up by
+ the wrong relationship between supply and demand. Too much money for too few
+ ideas can mean ruinous terms and purchase prices that are too high. To my mind, the
+ immediate outlook for venture capital is called into question by:
+
+ - the ardor that has been ignited by recent "headline" returns,
+ - thus the huge amount of money looking for a home in ventures,
+ - the expanded amounts that v.c. firms are accepting in their new funds,
+ - the strengthened negotiating position of entrepreneurs relative to venture capitalists,
+ - thus the need among v.c. firms to compete in haste to make investments,
+ - the ease with which junior members can leave v.c. firms to start their own funds,
+ - the strengthened negotiating position of venture capitalists relative to their investors, and
+ - thus the ability of v.c. firms to raise their incentive fee percentage.
+
+ In my experience, the big, low-risk profits have usually come from investments
+ made at those times when recent results have been poor, capital is scarce,
+ investors are reticent and everyone says "no way!" Today, great results in venture
+ capital are in the headlines, money is everywhere, investors are emboldened and
+ the mantra is "of course!"
+
+ In this context, it's very much worth noting that in 1994, someone looking at venture
+ funds formed from 1981 to 1992 would have seen only one vintage year with an average
+ net return above 12%, and nine out of twelve years with single digit average returns.
+ Despite the lukewarm results as of that date, a few forward-looking investors were
+ willing to commit $7.8 billion to venture capital funds, and it is they who are earning the
+ returns we see. In 1998, on the other hand, the 200%+ results on the top funds formed in
+ recent years egged investors on to commit more than three times that amount: $26.1
+ billion. Today one hears only that investors want to put more into venture capital but
+ can't get access to the most desirable funds. I'll leave it to you to deduce the implications
+ for future returns.
+
+ The role of the IPO: A "mania-within-a-mania" has taken flight in the high-tech
+ investment world, and it surrounds Initial Public Offerings. In years past, new
+ issues had to be priced to sell, and companies accessing the public equity market for
+ the first time had to hope they could get investors to pay a fair price. Now, investors
+ are sure that buying stock on a new issue - at the price the founders are willing to
+ sell at - is the ticket to easy money. And to date it has been.
+
+ It is reported that the average new issue of 1999, which on average is probably about six
+ months old, is selling roughly 160% above its issue price (for four times the average gain
+ in the next-best year). For an example, The Wall Street Journal of December 8 described
+ the case of Akamai, which went public on October 29 at a price of $26. It closed that day
+ never have gotten such a reception," The Journal added. "It didn't exist." Akamai's price
+
+ is $328 today, bringing its market capitalization to $29 billion. (By the way, in the first
+ nine months of 1999, Akamai lost $28 million on $1.3 million of sales.)
+
+ The ability to participate in IPOs has become a major perk. Investment banks compete
+ with other money managers by promising wealthy individuals allocations in their IPOs.
+ Technology companies allocate IPO shares to their customers as a way to cement
+ business relationships.
+
+ As usual, I don't think investors are thinking this through. The Akamai IPO was priced at
+ 18% of the first day's closing price. So either (a) the founding entrepreneurs and
+ investors sold it 82% below its fair price (and who would know better than they would?)
+ or (b) the market's wrong. It may well be that issuers intentionally underprice their
+ offerings so that the first day's rise will create the "buzz" that will enable (1) the
+ companies to finance their losses and their expansion through additional stock issuance
+ and (2) the founders to sell their remaining shares. I'm sure some of that is at work here,
+ but how much? If the closing price of $145 was "right," Akamai left almost $1 billion on
+ the table in the IPO by selling eight million shares at $26.
+
+ Further, how much due diligence is being done on each new issue? How experienced are
+ the people doing it? How strict are the valuation parameters they're using? How will the
+ post-deal prices hold up when the lock-up periods end and the founding entrepreneurs
+ and venture capitalists start selling the 80-90% of the stock that they still own? And what
+ will happen when the options used to attract employees - and to pay service providers -
+ begin to be exercised and the shares sold? What price will supply/demand dictate when
+ the supply of stock increases five or ten times?
+
+ Today, it seems companies are formed and start-up financing is raised not through
+ discussions of the companies' profit potential, but with reference to the possible timing
+ and pricing of an IPO. The recent book "The New, New Thing" by Michael Lewis, about
+ the career of venture capitalist Jim Clark (Silicon Graphics, Netscape, Healtheon), makes
+ it clear that in many cases, today's entrepreneur isn't thinking idea/startup/company as
+ might have been the case in the past; rather, it's idea/startup/IPO. Cashing in used to be
+ the result of successful company-building. Now it's often the end in itself. It's the IPO
+ that's "the thing."
+
+ How will the companies make money? -- Many of the new firms have great ideas for
+ making money, but it's appropriate to wonder whether they'll work, how the competition
+ in each "space" (that's the dot-com term for a business niche) will develop, whether
+ profits will materialize, and whether they'll be sufficient to justify today's stock prices.
+
+ I don't think anyone would disagree that it's one thing to innovate and change the world
+ and another thing entirely to make money. Business will be different in the future,
+ meaning that not all of the old rules will hold. On the other hand, profits come from
+ taking in more in revenue than you payout in expense, and I don't think that's going to
+ change. I'll highlight below just three of the areas in which I have questions about
+ profitability.
+
+ First, will the Internet and dot-com companies be able to charge enough for their
+ products to make money? Front page articles in The New York Times (October 14) and
+ The Wall Street Journal (July 28) discussed the fact that many of the Internet's offerings
+ are free. Decades ago, merchants discovered that they could sell more if they cut prices.
+ The Internet firms have taken that one step further: they can move even more
+ merchandise if they give it away. As the CEO of Egreetings Network says, "Charging
+ for [greeting] cards was a small idea. Giving them away is a really big idea." Says a
+ free. And if you don't give it away, some other start-up will."
+
+ Internet firms are giving away faxes, long-distance phone calls, music, web browsers
+ and even Internet service itself. "The marginal cost of adding another user is practically
+ zero," says one venture capitalist. The trouble as I see it is that the marginal revenue is
+ exactly zero. Obviously, these firms are giving their services away in order to build
+ traffic, tie up market share early and/or sell advertising space. It's far from clear that
+ profits will follow.
+
+ As I read the articles mentioned above I was reminded of a great series of jokes my
+ father told when I was young:
+
+ "I lose money on everything I sell."
+ "Then how do you stay in business?"
+ "I make it up on volume."
+
+ "I lose money on everything I sell."
+ "Then how do you stay in business?"
+ "I'm closed Sundays."
+
+ "I sell everything at cost."
+ "Then how do you stay in business?"
+ "I buy below cost."
+
+ The riddle of profitability is very much present in this area. I'm sure some firms will
+ solve it - but far from all of them.
+
+ Second, how practical are the business models of the dot-com firms? It seems like
+ ancient history, but I seem to remember that doing business in cyberspace was going to
+ eliminate the need for conventional advertising, and "virtual inventories" were expected
+ to replace brick-and-mortar warehouses filled with merchandise. Now we read about the
+ huge sums Amazon.com is spending on warehouses, and media advertising is sold out at
+ high prices because the Internet firms are bidding for it so aggressively. EToys will do
+ business without stores and will just own warehouses, but what is a Toys 'R' Us store
+ other than a warehouse with the front prettied up? Webvan Group sell groceries over the
+ Internet, saving on store costs but providing free delivery. According to the December
+ 15 Journal, however, "as of Sept. 30, Webvan's average order size was $72 -too small to
+ absorb the costs of home delivery. For the first nine months of 1999, in fact, Webvan
+
+ had a $95 million loss on revenue of just $4.2 million."
+
+ Lastly, what will be the effect of competition? It will take time, and there will be big
+ cannibalization issues, but eventually the incumbents in each area will move to defend
+ their businesses against the e-commerce firms. Merrill Lynch bit the bullet and decided
+ to enable customers to trade on line as a response to E*Trade. Albertson's and Kroger
+ have announced that they'll mount experimental home delivery systems rather than let
+ firms like Webvan have the grocery business. The December l7 L.A. Times reported that
+ Toys 'R' Us and Walmart had opened online shopping sites in competition with EToys.
+ (EToys' stock is now off 70% from its high three months ago, wiping out $7.1 billion of
+ market value). Dot-com companies will get there early, make inroads and drive up costs
+ for the conventional firms, but they will face determined competition from incumbents
+ fighting for their lives.
+
+ Even among just the dot-coms, competition is bound to delay and limit profitability.
+ Most of today's e-commerce companies can, at best, boast of early entry and leading
+ market share (the so-called "first-mover advantage"). Rarely is there patent protection,
+ meaningful product differentiation or other substantial barriers to entry. The companies
+ can't count on brand loyalty, because it's all just about low price. There'll always be
+ someone waiting in the wings to cut price (perhaps to zero) for market share, and given
+ the ease of gathering information on the Web, consumers will always be able to
+ immediately find the lowest price. Location won't matter, because in cyberspace,
+ everyone is everywhere. I think factors like these are likely to render profitability elusive
+ and transitory.
+
+ What are the companies worth? - Eventually, this is what it comes down to. It's not
+ enough to buy a share in a good idea, or even a good business. You must buy it at a
+ reasonable (or, hopefully, a bargain) price.
+
+ Vast amounts of ink have been devoted to the valuations being put on the new companies.
+ For The New York Times's time capsule, David Letterman compiled a list of The Top 10
+ Things People in the Year 3000 Should Know About Us. As a sign of the times, he
+ included "If you wanted a billion dollars, all you had to do was think of a word and add
+ dot com."
+
+ Priceline.com, which auctions off discount air tickets, (September quarter sales of
+ $152 million, net loss of $102 million) has a market capitalization of $7.5 billion,
+ while United and Continental Airlines ($7.1 billion sales, $469 million earnings) are
+ worth a combined $7.3 billion.
+
+ Webvan Group, which started up in business in 1999, had sales of $3.8 million and a
+ $350,000 profit in the September quarter. The stock market currently values it at
+ $7.3 billion.
+
+ On December 9, VA Linux went public at $30 and soared 698% that day to $239, for
+ a market value of $9.5 billion, half that of Apple. To that date, the company's 1999
+ sales were $17.7 million and it had lost $14.5 million (versus Apple's profit of $600
+ million in the most recent twelve months). (VA Linux broke the record for an
+ opening day rise. It had been held since November 1998 by theglobe.com, whose
+ stock rose 606% on the first day, from $41⁄2 to almost $32. Now it's at $8.)
+
+ Among non-Internet tech companies, Yahoo! is worth $119 billion, more than General
+ Motors and Ford together. At the current stock price of $432, its p/e ratio on 1999
+ estimated earnings is just over 1,000. America Online trades at almost 250 times
+ projected earnings for the June year currently underway, and Cisco trades above 100
+ times. Charles Schwab, the apparent winner among brokers in the new era, trades at 54
+ times estimated 1999 earnings, triple the multiple for Goldman Sachs. According to
+ Barron's, the price/earnings ratio of the Nasdaq crossed 170 in November and may have
+
+ An analysis by Sanford Bernstein shows that on September 30, you could have bought
+ America Online and Microsoft for $625 billion and gotten $25 billion of sales and $7
+ billion of earnings. Alternatively, for $635 billion you could have bought 70 industrial,
+ financial, transportation and utility companies including Bank of America, Chubb,
+ Federated Department Stores, Litton, Philip Morris, Ryder and Whirlpool and gotten
+ $747 billion of sales and $43 billion of earnings. The future certainly looks better for
+ AOL and Microsoft than for those other companies, but does the differential warrant a
+ p/e ratio 6 times as high (89 versus 15)?
+
+ And that's for "established" companies. Because the price/earnings ratios of Internet
+ companies are so outlandish - usually negative - one may be forced to look to the
+ price/sales ratio in order to speak about valuation. Red Hat, for example, sells at about
+ 1,000 times its annualized revenues in the August quarter. Many of the Internet and
+ tech companies are just concepts, and their stocks have truly slipped the valuation
+ moorings.
+
+ Under these unusual circumstances, The Journal wrote on December 10, "stock
+ valuations take on an unusually large importance in gauging a business's performance."
+ In other words, in the absence of other signs, people must look to the share price for an
+ indication of how the company is doing. Isn't that backwards? In the old days, investors
+ figured out how the business was doing and then set the share price.
+
+ In this valuation parameter vacuum, a "lottery ticket mentality" seems to govern the
+ purchase decision. The model for investments in the tech and dot-com companies isn't
+ the likelihood of a 20% or 30% annual return based on projected earnings and p/e ratios,
+ but a shot at a 1,000% gain based on a concept. The pitch might be "We're looking for
+ first-round financing for a company valued at $30 million that we think we can IPO in
+ two years at $2 billion." Or maybe it's "The IPO will be priced at $20. It may end the
+
+ day at $100 and be at $200 in six months." Would you play? Could you stand the risk
+ of saying no and being wrong? The pressure to buy can be immense.
+
+ There have always been ideas, stocks and IPOs that produced great profits. Yet the
+ pressure to participate wasn't as great as it is today because in the past the winners made
+ millions, not billions, and it took years, not months. The upside in the deals that've
+ worked so far has been 100-to-l (give or take a zero). With that kind of potential, (a) the
+ upside becomes irresistible and (b) it doesn't take a very high probability of success to
+ justify the investment. I have said in the past that while the market is usually driven by
+ fear and greed, sometimes the strongest motivator is the fear of missing out. Never was
+ that as true as today. This only intensifies the pressure to join in and crawl further out on
+ that limb of risk.
+
+ With broader relevance than just the dot-com stocks, the relative performance chart
+ below from Barron's of September 27 (already quite outdated) shows two things:
+
+ 1. over the last two decades, technology stocks have had periods of both
+ underperformance and overperformance relative to the large-cap universe, and
+ 2. the recent outperformance is unparalleled even in this bullish period.
+
+ Nothing in this chart suggests that it'll be easy money in technology from here. As
+ Alan Abelson wrote when he ran the graph, "Our reservation here is that (a)
+ technology, like everything else in life, is cyclical; and (b) there's something goofy
+ about the price of a stock discounting as much as a century of earnings for a
+ company in a field where change is the only constant and where the pace of
+ change is constantly quickening." (Emphasis added)
+
+ In September Steve Ballmer, President of Microsoft, said he thought tech stocks were
+ overvalued. The stocks are much higher today, and his own is up more than 20%.
+ Whose opinion matters? Is there a price that's too high?
+
+ Barton Biggs, Chairman of Morgan Stanley Dean Witter Asset Management, is a well-
+ respected observer who has been somewhat cautionary to date (and wrong). His
+ November 29 strategy piece was without equivocation. I'll let him sum up.
+
+ The technology, Internet and telecommunication craze has gone parabolic in
+ manias is that they have almost always been solidly based on revolutionary
+ developments that eventually change the world. Without fail, the bubble stage of
+ professional investors involved in these areas know that what is going on today is
+ madness. However, they argue that the right tactic is to stay invested as long as the
+ price momentum is up. When momentum begins to ebb, they will sell their
+ positions and escape the carnage. Since they have very large positions and since
+ they all follow the same momentum, I suspect they are deluded in thinking they
+ will be able to get out in time, because all other momentum investors will be doing
+ the same thing. (Emphasis added)
+
+ ***
+
+ I am convinced that a few essential lessons are involved here.
+
+ 1. The positives behind stocks can be genuine and still produce losses if you overpay for
+ them.
+
+ 2. Those positives - and the massive profits that seemingly everyone else is enjoying
+ - can eventually cause those who have resisted participating to capitulate.
+
+ 3. A "top" in a stock, group or market occurs when the last holdout who will become a
+ buyer does so. The timing is often unrelated to fundamental developments.
+
+ 4. "Prices are too high" is far from synonymous with "the next move will be
+ become far more so.
+
+ 5. Eventually, though, valuation has to matter.
+
+ To say technology, Internet and telecommunications stocks are too high and about to
+ decline is comparable today to standing in front of a freight train. To say they have
+ benefited from a boom of colossal proportions and should be examined very skeptically is
+ something I feel I owe you.
+
+ P.s.: The apocalyptic view of the current situation states that the world economy is
+ dependent on the prosperity of the United States; the prosperity of the United States is
+ based on the health of its stock market; the performance of the stock market is being
+ driven by gains in a relatively small number of tech, Internet and telecommunications
+ stocks; and therefore, when the inevitable correction comes in those few stocks, the
+ ramifications will be worldwide. No one knows the extent to which this hypothesis
+ will be proved correct. The column below, from The New York Times of January 1,
+ 2000, presents a more benign and enjoyable view.
+
+
+Memo: Irrational Exuberance.
+
+Recent years have witnessed great excesses in the stock market. The postmortems have
+ begun to be written, and I'm determined not to lag. Thus I will attempt below to combine
+ a number of ideas and bits of empirical data I've stored up over recent weeks in a memo
+ which expresses my views and hopefully is of value to you. My ideas are disjointed, but
+ I hope to be able to fashion a common thread.
+
+ Postmortem? Do I mean to say the market's rise is over? You know I don't make
+ predictions of that sort. I am not ringing the bell on stock prices, but hopefully on a
+ style of investing without reason.
+
+ The stock market's record-breaking rise through March 10 was driven by the tech
+ stocks. The tech stocks, in turn, were driven by optimistic, get-rich-quick buying that
+ was totally lacking in skepticism and caution. What I think may (and should) be on the
+ wane is the belief that it is perfectly reasonable:
+
+ to borrow in order to buy stocks that have already risen 500% and are selling at
+ infinite P/E ratios,
+
+ to rely exclusively on advice from friends, CNBC and Internet bulletin boards
+ when investing in companies whose business you know nothing about, and
+
+ for companies valued at billions of dollars to lose tens of millions per year,
+ because investors can be counted on to give them more.
+ These attitudes have certainly signaled irrational exuberance.
+
+ On December 5, 1996, with the Dow at 6,437, Alan Greenspan coined that phrase, of
+ which we're unlikely to have heard the last. Acting in the classic role of a central
+ banker trying to jawbone against trends inimical to economic health, he asked:
+
+ How do we know when irrational exuberance has unduly escalated asset values,
+ which then become subject to unexpected and prolonged contractions?
+ Did Greenspan want to stop people from having fun and making money? No. He
+ wanted to keep stocks from running too far too fast and thus avoid an excessive
+ wealth effect.
+
+ "Wealth effect" is the term used to describe the impact on the economy of major
+ increases in the prices of stocks or other assets. When asset prices rise, people feel richer
+ and spend more. When the resulting demand outstrips supply, inflation heats up.
+ Further, when the upward trend of asset prices inevitably turns down, the wealth effect
+ works in reverse, putting a damper on economic growth (although Greenspan is more
+ likely to have been worried about inflation than economic softness).
+
+ Prior to expressing his concern about exuberance, Greenspan was credited with the
+ power and wisdom needed to keep the economy rising forever. So how did investors
+ react to his remark? In the first half-hour of trading the next day, they took the Dow
+ down by 145 points (which used to be considered a big move). But the exuberance of
+ which he had warned soon reasserted itself, with the Dow closing the year virtually
+ unchanged from its pre-critique level and moving 1000 points higher over the next six
+ months.
+
+ If it was irrational exuberance that had taken the Dow to 6,437 in late 1996, what would
+ describe the rise to 7,437, and eventually to 11,497, in relatively short order? And what
+ accounts for Greenspan's two subsequent years of silence on the subject? My guess is
+ that he was feeling pressure from people - perhaps with a political stake in the continuing
+ rise of the stock market-who castigated him for being a wet blanket.
+ ***
+
+ At any rate, Greenspan's warning receded into memory without meaningfully slowing the
+ market's rise, and his place in the pantheon of popular heroes appeared diminished. After
+ all, a record 49% of Americans now had a stake in the stock market, and their heroes
+ were people who helped them make money, not scolds warning about excess and pushing
+ prices lower. Having voiced concerns and diminished confidence, Greenspan was no
+ longer the day trader's pin-up.
+
+ When Greenspan began to raise rates on June 30, 1999, no one seemed to care. The
+ Nasdaq Composite rose practically unabated from 2,686 at the time of the first of five
+ rate increases to 5,049 just 8% months later. Thus Greenspan joined the roster of those
+ whose genius was downgraded in recent times - almost comically, I think (unless you're
+ one of the people so affected).
+
+ Another prime example is Julian Robertson, who compiled an incredible record through
+ mid-1998, with a return averaging 31.7% a year for 18 years. Then losses and capital
+ withdrawals knocked his Tiger Fund from $22.8 billion to $5.2 billion over the next 18
+ months. Every day the stock market was ridiculing both value investors like Robertson
+ and the Old Economy companies they specialized in. Robertson announced a few weeks
+ ago that he was closing up shop, saying, "we are in a market where reason does not
+ prevail" and "there is no point in subjecting our investors to risk in a market which I
+ frankly do not understand."
+
+ In a supreme irony, the April week in which Robertson announced his departure turned
+ out to be one of the best of his career, but the damage had already been done. I often
+ think about the corrosive effect of being on the wrong side of a market judgment for
+ prolonged periods, and the phenomenon through which those who resist trends the
+ longest can finally capitulate at just the wrong time. Robertson, 67, had an approach that
+ failed to work for two painful years and enough wealth to allow him to say "why put up
+ with this?" The pressure to quit obviously hit its apex just as his timing in quitting was at
+ its worst.
+
+ Last week saw a pullback from risk on the part of George Soros, head of the remarkable
+ Quantum Fund (up 32%/year after fees for 30 years), and the resignation of Stanley
+ Druckenmiller, its portfolio manager since 1989. Why? Druckenmiller had resisted tech
+ stocks until mid-1999, but then he invested and made a bundle in the second half. When
+ he held on to most of them in 2000, they brought him heavy losses. The New York
+ thought it was the eighth inning, but it was the ninth.'" Or as Soros admitted, "Maybe I
+ don't understand the market. Maybe the music has stopped but people are still dancing."
+ An analyst who dealt with both Robertson and Soros summed up aptly for the Times:
+
+ The moral of this story is that irrational markets can kill you. Julian said,
+ "This is irrational and I won't play," and they carried him out feet first.
+ Druckenmiller said "This is irrational and I will play," and they carried him out
+ feet first. (Emphasis added)
+
+ And what about Gary Brinson, another top value stock investor? After he sold his firm to
+ Swiss Bank Corp. and SBC merged with Union Bank of Switzerland, the combined firms
+ had $920 billion under management and Brinson appeared well on his way to becoming
+ the world's first trillion-dollar money manager. But either Brinson or his constituents
+ lacked the resolve needed to hang in when his approach was out of fashion, and he
+ announced his resignation on March 2. It was probably one more case of a wealthy man
+ who saw no good reason to continue subjecting himself to the market's insults. Brinson
+ became yet one more stellar investor who was kept from going out on top.
+
+ By the mid-1990s, Warren Buffett had become a household name and a role model for
+ millions of American investors. He is absolutely unique in that he became one of the
+ world's richest men by investing in common stocks. All it took was a return averaging
+ 25% a year for 30 years. But his portfolio was flat in the raging bull market of 1999, and
+ the stock price of his Berkshire Hathaway lost 49% from its 1998 high to its 2000 low.
+ Buffett certainly has been treated with less awe in the last couple of years.
+
+ Jeremy Siegel also came to be ignored. Who's Siegel? This Wharton professor was
+ voted the best in the country, and his book "Stocks for the Long Run" contributed greatly
+ to the bull market's middle years. He reported that there had been very few long periods
+ of time in which stocks had lost money or underperformed bonds or cash, and this greatly
+
+ buttressed investor confidence. But when his article "Big-Cap Tech Stocks Are a Sucker
+ Bet" ran in the Wall Street Journal on March 14, 2000, it seemed to have no immediate
+ effect on stock prices - the Nasdaq Composite was 5% higher ten days later.
+
+ If these genuine geniuses have been dissed of late, who was elevated? Take the case
+ of James Glassman and Kevin Hassett, the authors of "Dow 36,000." Utilizing
+ Siegel's research, they concluded that because stocks are so low in risk, they should
+ not provide a premium return versus bonds; thus, their return in the past was far higher
+ than it should have been. In order for stocks to offer a prospective return that is
+ appropriately low - say 6% - their current price should be higher. The broad market's
+ P/E ratio should be 100, and the Dow should be at 36,000 now. Glassman and Hassett
+ got a lot of ink in the Wall Street Journal in 1999, but I couldn't get past one question:
+ Who's going to buy stocks to make 6% a year?
+
+ And lastly, what about Frank P. Slattery, V, age 27, who entered the investment
+ business in 1996. His smallish PBHG New Opportunities Fund was up 533% in 1999
+ and another 96% in the first 70 days of 2000. Now that's genius! (However, in the
+ new market environment, the fund was down 57% between March 10 and April 14,
+ wiping out all of 2000' s gain and more. Slattery has resigned to pursue other
+ opportunities.)
+
+ In the choice of who should be canonized and who downgraded, the late
+ 1990s were certainly a time when reason was turned upside down.
+ ***
+
+ Speaking of the 1990s, I was recently asked to compare the 1980s' "Decade of Greed"
+ with the latest iteration. In the 1980s, a few financially astute leveraged buyout
+ operators attained prominence while trying to take over some of America's leading
+ companies without much capital of their own. In the 1990s, in contrast, it seemed
+ everyone in America tried to get rich quickly by jumping on a perpetual motion
+ machine.
+
+ One of the greatest irrationalities of the last few years has been the declining role of
+ reason and fundamental business analysis in the setting of stock prices.
+
+ First, a look at trading volume convinces me that the retail investor - acting either directly
+ or through mutual funds - increasingly became the marginal transactor setting stock
+ prices. I doubt institutional trading could have increased enough to account for 1.5
+ billion shares a day on the NYSE and 2.0 billion shares a day on Nasdaq. (Circa 1980,
+ when I bought Oppenheimer junk bonds whose interest was indexed to NYSE volume,
+ the benchmark was the then-current average of 49 million shares a day.)
+
+ Second, with the enormous popularization of stocks in the '90s, rank amateurs were
+ pulled in, diluting the expertise of even the retail investment community. Many of these
+ new investors were ignorant of the process through which stock prices historically have
+ been based on earnings and dividends. They knew only that stocks went up and tech
+
+ stocks went up faster. Valuation didn't matter: if you bought a stock with a good enough
+ "story," someone else would pay you more for it.
+
+ Third, the role of the brokerage house analyst changed. When I started doing equity
+ research 31 years ago, the sell-side analyst tried to serve investors so as to attract trading
+ and generate commissions. In the 1990s, with commission rates so low and the big
+ money being made in investment banking, it became the sell-side analyst's job to
+ generate capital market deal flow. The analyst tried to become influential with investors
+ in order to endear himself to company management. Serious valuation work dwindled
+ and "sell" recommendations became even more scarce: why antagonize a company
+ whose investment banking business you're trying to attract? A recent Wall Street Journal
+ quote from Morgan Stanley's Cisco analyst is emblematic of the analyst's new dog-
+ chasing-its-own-tail role:
+
+ We have to accept the facts of life. If investors want to buy these high growth
+ companies, we are just trying to take what they are willing to pay and translate
+ it into a target price and therefore a stock recommendation.
+
+ In other words, it wasn't the analyst's job to throw cold water on the investor's party by
+ pointing out that the target price had been reached or the price was too high. He just
+ moved the target price up. And investment newcomers, unaware of how superficial this
+ all was, actually attached some importance to the target prices assigned by analysts.
+
+ Fourth, with reason lacking, the retail investor's approach came to be based on
+ extremely simplistic thought processes.
+
+ When momentum investing was working, the mantra was "buy stocks that have
+ done well - they'll keep going up."
+
+ When the inevitable pause in the rise swept the market - as it did in August
+ 1998, when Long-Term Capital and the emerging markets stumbled - the cry of
+ "buy the dips" took hold, and it worked every time.
+
+ On bad days recently, with the confidence behind the rise deflated (and with no
+ reserve of reason there to back it up), I think it's been "sell before it goes down
+ more."
+
+ Investors with no knowledge of (or concern for) profits, dividends, valuation or the
+ conduct of business simply cannot possess the resolve needed to do the right thing at the
+ right time. With everyone around them buying and making money, they can't know
+ when a stock is too high and therefore resist joining in. And with a market in free fall,
+ they can't possibly have the confidence needed to hold or buy at severely reduced
+ prices.
+
+ And that brings me back to one of my favorite quotations from Warren Buffett:
+ The less prudence with which others conduct their affairs, the greater the
+ prudence with which we should conduct our own affairs.
+
+ Unless reversed, the damage of the last few weeks clearly demonstrates the extent to
+ which the risky behavior of others can create peril for you. If it has taught another
+ generation that stock ownership is not a riskless one-way street, that's a healthy
+ development that should render such imprudent behavior less likely to reappear.
+ ***
+
+ While on the subject of investors' analytical capabilities, I want to take a look at stocks'
+ failure for so long to respond to the Fed's rate increases. In earlier times, the market
+ would decline as soon as a rate increase was hinted at, no less implemented. This time
+ around, the Fed raised rates five times and Chairman Greenspan essentially came out
+ and said the market was too high and he would bring it down. How can we explain the
+ fact that there was no reaction (until recently, if that in fact did contribute to the
+ correction)? I attribute this, also, to failings on the part of those setting stock prices.
+
+ There are two main reasons why stocks fall when rates rise. I'll discuss them below
+ and offer my explanation for their failure to gain traction this time:
+
+ First, stocks dip because higher interest rates mean stiffer competition from fixed
+ income investments. No one cared in 1999, however, because 61⁄2% wasn't any
+ more tempting than 61⁄4% to someone expecting a sure 20% from stocks.
+
+ Second, higher rates make it more expensive for consumers to buy houses and cars and
+ for businesses to hold inventories, invest in machinery and build buildings. This puts a
+ crimp in the pace of business and can lead to recession. But if the investors setting stock
+ prices don't know (or care) how the economy and business cycle work, policy increases
+ can be slow to impact the equity market.
+
+ Rate increases depress stocks in the short run when people understand how they work
+ and anticipate the longer-term effects described above. That is, they work because
+ people agree they will work. If this requirement isn't met, then rate rises deserve the
+ description that First Boston's Al Wojnilower ("Dr. Doom") applied in the 1970s to
+ manipulating the money supply: "turning on and off a light switch to which no wires are
+ attached."
+ ***
+
+ Why did stocks rise so rapidly in 1999? Because people were rabid to buy and no one
+ wanted to sell to them. The result was explosive appreciation. Those gains actually
+ signaled great illiquidity (which is measured as the percentage price change that results
+ from buying or selling a certain dollar value of stock). However, an imbalance of buyers
+ over sellers is never called illiquidity; it's called profit and doesn't worry anyone.
+ U U
+
+ In the last six weeks, however, the imbalance has been on the sell side. This time,
+ investors' inability to find others willing to trade with them has forced prices down
+ drastically, and they are calling it illiquidity. In other words, radical upward movement
+ U U
+
+ was greeted warmly, but radical downward movement is being attributed somewhat to a
+ failing on the part of the market.
+
+ Certainly the behavior of stocks in 1999 was viewed more benignly than it should have
+ been. Momentum investors irrationally planned to get out when the music stopped, but
+ the market wasn't able to accommodate all of them.
+ ***
+
+ I want to turn now to the subject of market efficiency, something that's very important
+ to us at Oaktree and that I have been looking for a chance to discuss.
+
+ In recent weeks I've heard good things about a new book, fittingly titled "Irrational
+ Exuberance." Its author, Robert J. Shiller, a Yale economist, has taken on the theory
+ that the stock market is efficient, saying stocks' swings are too violent to suggest that
+ they are always accurately valued. On that famous Tuesday four weeks ago, the
+ Nasdaq Composite traded at both 3,649 and 4,138 within seventy minutes. It's
+ certainly hard to believe the underlying stocks were fairly valued at both levels. No,
+ says Shiller, the stock market is not efficient; stock prices are set irrationally. Or as
+ George Gilder recently wrote in the Wall Street Journal:
+
+ Stock markets are world-wide webs of information. So why half the time do they
+ behave like members of some candy mountain mystical sect, torn between dreams
+ of eternal wealth and horror of a bottomless pit?
+
+ In response, I want to give my view of market efficiency. I want to say up front that
+ academics don't share my view and theory says I'm wrong. But my approach works for
+ me, and I want to share it with you.
+
+ In my opinion, the market for many stocks is highly efficient. That's what I was taught
+ at the University of Chicago in the mid-'60s, when capital market theory was being
+ developed. And in 1978, when I left equity research, I told Citibank I'd do anything
+ but "spend the rest of my life choosing between Merck and Lilly." I believed in
+ market efficiency then and I believe in it now. But what does that mean?
+
+ When I say efficient, I mean "speedy," not "right." My formulation is that analysts
+ and investors work hard to evaluate all of the available information such that:
+
+ the price of a stock immediately incorporates that information and
+ reflects the consensus view of its significance, and
+
+ thus, it is unlikely that anyone can regularly outguess the consensus and
+ predict a stock's movement.
+
+ That is, the market may often misvalue stocks, but it's not easy for anyone
+ person - working with the same information as everyone else and subject to the
+ same psychological influences - to consistently know when and in which
+ direction. That's what makes the mainstream stock market awfully hard to beat -
+ even if it isn't always right.
+ ***
+
+ Lastly, I want to share what I told the board of a charity whose Investment Committee I
+ chair. I listed some of the elements that have been at the foundation of prudent investing
+ during my time in the business and more:
+
+ pursuing both appreciation and income,
+ balancing growth and value investments,
+ balancing the desire for gain and the fear of loss,
+ buying companies with a history of profitability,
+ caring about valuation parameters,
+ emphasizing cheap stocks,
+ taking profits and reallocating capital,
+ rotating industries, groups and themes,
+ diversifying,
+ hedging,
+ owning some bonds, and
+ holding some cash.
+
+ How did this list do in 1999? It was a recipe for disaster! Every one of these elements
+ would have caused you to underperform. What should you have done? Just two things:
+
+ bought growth and technology stocks that had already appreciated, and
+ held them as they rose further, refusing to sell at any price.
+
+ Thus in one more way, wisdom was turned on its ear in this period.
+ ***
+
+ Robertson, Soros, Druckenmiller, Brinson and Buffett succeeded for decades because the
+ markets they worked in (1) were driven by both fear and greed, (2) responded eventually
+ U U
+
+ to reason, and (3) rewarded disciplined analysis more than they did naked aggressiveness.
+ That's the kind of climate we at Oaktree prefer. In the late 1990s, markets were propelled
+ (and the big money was made) by people who, in my opinion, substituted optimism, risk
+ tolerance and love of a good story for reason, caution and skepticism. If investors have
+ been chastened by the events of the last few weeks, I think we'll see more of the latter in
+ the future.
+
+ P.S.: I've learned the hard way that it's not easy to be right about the future, as I've been
+ complaining about market excesses for far too long. That being the case, I'm not going to
+ miss the opportunity to celebrate the correctness to date of my last memo, "bubble. com."
+ The table below lists the stocks mentioned in that memo and their declines from its
+ publication at year end, and from the highs reached since then, to the April trough.
+
+ %Chg % Chg
+
+
+Memo: Investment Miscellany.
+
+Because I've been encouraged by the response to my "bubble. com" and venture capital
+ memos, I'm going to keep writing. Over time, I collect ideas that I'm tempted to pass on
+ to you - nothing major, but miscellany that may be of interest. Sharing them might
+ become a habit; let me know if you think it should.
+
+ Can't Get Any Respect
+ U
+
+ The behavior of IPOs and hot tech stocks in the last few years perverted everything that
+ traditionally had held true. The episode that crested in March must have been the greatest
+ bubble of all times. Certainly money was made in amounts and at speeds never seen
+ before. Companies went from business plan to IPO in a year or two, with billions of
+ dollars assigned to them in market capitalizations or bestowed on their founders and
+ venture capital backers.
+
+ In the last twelve months, technology entrepreneurs and investors on both coasts bought
+ homes costing several tens of millions of dollars. The line of eager buyers pushed up
+ prices for private planes, yachts and beachfront homes. The market for art and antiques
+ grew white hot. In short, as a friend of mine says, "money was disrespected."
+
+ Traditional investing values were equally disrespected. Risk was viewed as the
+ investor's friend, and caution as unnecessary and unavailing. Profits - and even profit
+ projections - were considered superfluous. The slow and steady ways of making money
+ came in last, and the riskiest schemes paid off best. Venture capital funds produced
+ triple-digit returns in a year, and profitless technology company IPOs did so in a day.
+
+ On the other hand, investors seemed incapable of remembering why they had fixed
+ income allocations, and value stocks and absolute return strategies weren't far
+ behind in terms of disregard. In May of 1999, I heard John Angelo of Angelo
+ Gordon put it brilliantly:
+
+ Twenty years ago, when I told people I could make them 15% a year, year in
+ and year out, they said "That's impossible." Today, when I tell people I can
+ make them 15% a year, year in and year out, they say "Who cares?"
+
+ To illustrate, take the case of high yield bonds, whose prices have been sagging, partly
+ because of steady capital flows out of high yield mutual funds (for redeployment in
+ equity funds). I was asked the other day when flows into high yield bonds would
+ resume. My answer: When people realize once again that 11 % is a good return.
+
+ But this disrespect for traditional investment thinking shall pass--and in fact it appears to
+ be in the process of doing so. In general, the portfolios that did best last year have done
+ worst so far this year, and vice versa. Traditional investing values will be respected
+ again. I can even imagine a day when words like "prudence" return to investors'
+ everyday speech.
+
+ It Restores Your Faith
+ U
+
+ If common sense and logic don't work, how are we to run our lives? In "bubble.com" I
+ battologized (look that up in your Funk & Wagnall's) regarding the dot-coms'
+ divergence from the old-fashioned notion that only if revenues exceed expenses is a
+ business attractive. Instead, in 1999 business models were based on giving away
+ products as a way to get ads in front of eyeballs, or on selling things for less than they
+ cost.
+
+ WebHouse Club is a poster child for failed giveaways. A spin-off of Priceline.com, it let
+ customers name their own price for groceries and gas. There was a problem:
+ manufacturers were unwilling to supply goods at the prices customers wanted to pay, so
+ WebHouse made up the difference. In "bubble. com" I related several old jokes about
+ the businessman who sells below cost, but I never expected to see life imitate art so
+ precisely. Anyway, WebHouse's backers lost their enthusiasm for absorbing the losses
+ (the fall of their Priceline stock from $170 to $3 may have had something to do with it),
+ and the company ceased doing business on October 5.
+
+ I find it reassuring that entrepreneurs (and, more significantly, the investors expected to
+ fund them) are realizing that profitless "business models" are untenable. Internet retail
+ firms are shutting down, especially those in overpopulated "spaces." Now, I'm told, the
+ newest "b-to-c" among Silicon Valley employees is "back to consulting." Last year,
+ Goldman Sachs had trouble recruiting the MBA it needed; this year the interview rooms
+ are overcrowded again.
+
+ U What Can Reasonably Be Expected from Equities?
+
+ In a little drama that I'm sure has played out at thousands of organizations in the last
+ year, a charitable organization investment committee that I chair began to question its
+ conservative portfolio and ask whether it should have more in equities. As a result, we
+ commissioned some bond/stock allocation work from our consultants. Its conclusions
+ were most curious.
+
+ Their model called for higher equity allocations, predicting that they would lead to higher
+ overall returns on the portfolio and lower risk. Why? Because equities were projected to
+ U U
+
+ return 14% and risk was defined as the probability of failing to average 8% over a five-
+ year period.
+
+ First, I said, I would never have any part in a process that equated higher equity
+ allocations with lower risk. I suggested that risk be defined as overall portfolio
+ volatility, and that took care of that.
+
+ But second, I questioned the 14% projected return from equities. Equities returned 28%
+ in 1995-99, I said; did someone think halving that made for a conservative projection?
+ No, I was told, the support mostly came-from the 13% long-run return on equities:--(I
+ always thought it was 10% or so, but it seems the last five years have changed all that.)
+
+ I could only think of one way to respond: I offered to put up my money against that of
+ the consultant's researchers and "take the under." I doubt strongly that equities will
+ return 14% or anything like it in the next decade. Corporate earnings have traditionally
+ grown at single-digit rates, and I don't feel that's about to change substantially. With p/e
+ ratios unlikely to rise further and dividends immaterial, single-digit earnings growth
+ should translate into single-digit average equity performance at best for the foreseeable
+ future.
+
+ In the end, I feel there has been unreasonable reliance on the average historic return from
+ equities, be it 10% for 1929-92 or 13% for 1940-99. What's been lost track of is the fact
+ that p/e ratios were much lower when these periods began and since then have risen
+ substantially. I just don't believe that further p/e expansion can be counted on. How do I
+ view the issue? I ask the bulls one question: What's been the average performance of
+ stocks bought at p/e ratios in the twenties? I don't think the return has been in double
+ digits. I'm not even sure it's been positive.
+
+ A Framework for Understanding Market Crisis
+ U
+
+ I want to call your attention to an excellent paper with the above title written by Richard
+ Bookstaber, head of risk management for Moore Capital Management. It was published
+ in the proceedings of an AIMR seminar on "Risk Management: Principles and
+ Practices" (August, 1999). What smart people do is put into logical words the thoughts
+ we may have had but never formulated or expressed. In his article, Bookstaber has
+ done a great job of explaining the forces behind market crisis.
+
+ I'll try to summarize his analysis, borrowing extensively from his words but adding my
+ own interpretation and emphasis, there'll be some slow going, but I think you'll find it
+ worthwhile.
+
+ Most people think security price movements result primarily from the market's
+ discounting of information about corporate, economic or geopolitical events - so-
+ called "fundamentals." If you sit with a trader, however, it's easy to observe that
+ prices are always moving in response to things other than fundamental information.
+
+ Bookstaber says "the principal reason for intraday price movement is the demand
+ market, in which the market is efficient and exists solely for informational purposes,
+ this view is that the role of the market is to provide immediacy for liquidity
+ demand and liquidity supply, the framework is in place for understanding what
+ causes market crises, which are the times when liquidity and immediacy matter
+ most."
+
+ "Liquidity demanders are demanders of immediacy." I would describe them as
+ holders of assets in due course, such as investors and hedgers, who from time to
+ time have a strong need to adjust their positions: When there's urgency, "the
+ the trade done immediately and are willing to pay to do so."
+
+ "Liquidity suppliers meet the liquidity demand." They may be block traders, hedge
+ fund managers or speculators with ready cash and a strong view of an asset's value
+ who "wait for an opportunity when the liquidity demander's need for liquidity
+ creates a divergence in price [from the asset's true value]. Liquidity suppliers then
+ provide the liquidity at that price." What they offer is liquidity; providing liquidity
+ entails risk to them (which increases as the market's volatility increases and as its
+ liquidity decreases); and the profit they expect to make is their price for accepting
+ this risk. "To liquidity suppliers, price matters much more than time."
+
+ Usually when the price of something falls, fewer people want to sell it and more
+ want to buy it. But in a crisis, "market prices become countereconomic," and the
+ reverse becomes true. "A falling price, instead of deterring people from selling,
+ triggers a growing flood of selling, and instead of attracting buyers, a falling price
+ drives potential buyers from the market (or, even worse, turns potential buyers into
+ sellers.)" This phenomenon can occur for reasons ranging from transactional (they
+ receive margin calls) to emotional (they get scared). The number of liquidity
+ demanders increases, and they become more highly motivated. "Liquidity
+ demanders use price to attract liquidity suppliers, which sometimes works and
+ sometimes does not. In a high-risk or crisis market, the drop in prices actually
+ reduces supply [of liquidity] and increases demand."
+
+ In times of crisis, liquidity suppliers become scarce. Maybe they spent their capital
+ in the first 10% decline and are out of powder. Maybe the market's increased
+ volatility and decreased liquidity have reduced the price they're willing to pay. And
+ maybe they're scared, too. Bookstaber recalls the Crash of 1987. After the first leg
+ down, liquidity suppliers "had already 'made their move,' risking their capital at
+ much lower levels of volatility, and now were stopped out of their positions by
+ management or, worse still, had lost their jobs. Even those who still had their jobs
+ kept their capital on the sidelines. Entering the market in the face of widespread
+ price volatility. It was caused by the crisis-induced demand for liquidity at a time
+ that liquidity suppliers were shrinking from the market."
+
+ "One of the most troubling aspects of a market crisis is that diversification strategies
+ fail. Assets that are uncorrelated suddenly become highly correlated, and all
+ positions go down together. The reason for the lack of diversification is that in a
+ [volatile] market, all assets in fact are the same. The factors that differentiate them
+ in normal times are no longer relevant. What matters is no longer the economic or
+ financial relationship between assets but the degree to which they share habitat.
+ What matters is who holds the assets." In recent years, the "habitat" in which most
+ investors feel comfortable has expanded. Barriers to entry have fallen, access to
+ information has increased and, perhaps most importantly, most investors' forays
+ abroad have been rewarded. Thus "market participants become more like one
+ another, which means that liquidity demanders all [hold] pretty much the same
+ assets and grab whatever sources of liquidity are available." If they are held by the
+ same-traders, "two types of unrelated-assets will become highly correlated
+ because a loss in the one asset will force the traders to liquidate the other."
+ That's not a bad explanation for the fact that when Long-Term Capital and the
+ emerging markets crashed in September 1998, high yield bonds and other unrelated
+ asset classes fell with them.
+
+ I hope you'll recognize in the above some of the elements behind the Oaktree
+ approach, as exemplified by our work with distressed debt.
+
+ We look for Bookstaber's "liquidity demanders," with their exogenous
+ motivations. We call them forced sellers, and they provide our best bargains.
+
+ We take advantage when "noneconomic" market conditions increase the pressure
+ to sell even as asset prices move lower.
+
+ And we rarely approach holders to buy, preferring to wait until they call us. In
+ that way we are "liquidity suppliers" rather than eager buyers. Take it from me,
+ the latter pay more.
+
+ Many of us may have had thoughts like Bookstaber's, and in my 30+ years in money
+ management I've had plenty of chances to watch liquidity demand soar, liquidity supply
+ dry up, prices collapse and diversification fail. But I respect someone who can put into a
+ rigorous framework that which "everybody knows."
+
+ Speaking of panics, we all recognize the carnage that occurs when the desire to sell far
+ exceeds the willingness to buy. But I think Bookstaber's analysis applies equally to the
+ opposite - times when the desire to buy outstrips the willingness to sell. It's called a
+ buying panic and represents no less of a crisis, even though - because the immediate
+ result is profit rather than loss - it is discussed in different terms. Certainly 1999 was
+ just as much of an irrational, liquidity-driven crisis as 1987. While some of the
+ ramifications have been seen thus far this year, I think there's more to come.
+
+ Knowledge Versus Information
+ U
+
+ If Bookstaber's article made brilliant sense of a market phenomenon, what's the
+ opposite? For an example, I would look to "Stock Hoax Should Affirm Faith in
+ Markets" by James K. Glassman (Wall Street Journal, August 30). Glassman's name
+ may be familiar to you, because my memo of May 1, 2000 took issue with "Dow
+ 36,000," a book he co-authored. Now it's a pleasure to take issue with him again.
+
+ Glassman's book said the Dow should be at 36,000 because stocks' multiples should be
+ much higher than they are. Multiples should be higher because there's so little risk in
+ stocks, and thus investors needn't incorporate a risk premium. I didn't think that argument
+ made any sense, and I don't think the recent article makes any, either. This time,
+ Glassman argues that one of the things greatly reducing the riskiness of stocks is the
+ technology being employed in the markets, most notably the Internet. Because
+ information is disseminated so rapidly and thoroughly, investing entails less risk, so
+ stocks are a better place to be. As he puts it, "The Internet - simply as a tool to get
+ financial information out speedily - has had the effect of raising stock prices, perhaps
+ permanently. In that way, the new technology has added hundreds of billions of dollars
+ to the wealth of U.S. investors."
+
+ Paradoxically, Glassman finds proof of this in the Emulex incident. On August 25, 2000,
+ a false press release was picked up on the Internet, taking Emulex stock from $103 to $45
+ within twenty minutes. After a few-hour trading halt, corrected information took it back
+ above $100. Glassman's term for the markets: "dazzling in their efficiency."
+
+ He finds comfort in the fact that both the falsified data and the correction were
+ disseminated so quickly. I feel the rapid and universal distribution of information -
+ often at speeds and in amounts that make it impossible to verify, distill and understand -
+ does nothing to make the markets safer per se. For proof, look at the trend in volatility.
+ It seems inescapable that media hype and other short-term oriented developments have
+ made the markets more treacherous.
+
+ Looking at today' s mass market and the associated flood of information, my partner
+ Sheldon Stone sees investors as passengers on a boat, running back and forth en masse
+ -to one side in response to new information, and then back to the other. That makes
+ for a rocky crossing.
+
+ Where does Glassman go wrong? To me, his error is obvious in the following sentence:
+
+ Markets know so much more about companies, and know it so quickly,
+ that their assessments of worth have an up-to-the-minute efficiency and
+ accuracy.
+
+ The bottom line for me: Efficiency and accuracy are two very different things. As I
+ wrote in my May memo, investors rapidly incorporate new information into their
+ estimates of security values, and the market rapidly reflects the consensus view of
+ mere fact that investors have data doesn't mean they understand its significance. If
+ investors' knowledge was really growing, stock volatility wouldn't be increasing as
+ dramatically as it is. As the adage says of the fool, "he knows the price of everything and
+ the value of nothing."
+
+
+Memo: We're Not In 1999 Anymore, Toto.
+
+In "The Wizard of Oz," a tornado carried Dorothy and her dog, Toto, to a land ruled by a
+ mysterious despot in whom people had vested extraordinary powers. In the investment
+ world of 1999, similarly, the promise of easy money powered a wild ride into a world in
+ thrall to high tech investing. Both of these seemingly omnipotent forces were eventually
+ exposed as vulnerable, however, and the spells surrounding Oz and the stock market were
+ broken.
+
+ * * *
+
+ In my favorite commercial of 1999, Stuart, the cyber-geek from the mailroom, exhorted
+ his boss to make his first on-line stock purchase, saying, "Let's light this candle!" When
+ Mr. P. protested that he didn't know anything about the stock, Stuart suggested, "Research
+ it." Mr. P. pushed a button on his keyboard and a few seconds later, suddenly wiser,
+ proceeded to buy his first hundred shares. Like many, he demonstrated how easy it is to
+ feel smart in a bull market.
+
+ In 2000, on the other hand, on-line brokerage commercials were different. When the little
+ boy asked his father what he was doing at the computer, the father said he was investing
+ for his college education. Looking over his dad's shoulder, the boy was curious about the
+ on-screen data. "Five-year earnings, p/e ratio . . ." the father enumerated. "A p/e ratio of
+ 23," the son asked, "is that good?" The father's dumbfounded silence clearly reflected his
+ sudden realization that he knew less than he had thought.
+
+ Obviously, in 2000, millions of investors across the board realized that they knew less
+ than they thought they did, and that lots of what they had been sure of was wrong.
+
+ * * *
+
+ A year ago, I wrote in "bubble. com" that tech stocks had benefited in 1999 from a boom
+ of colossal proportions. They exhibited all of the elements of a market bubble, with an
+ attractive story providing the foundation for a gravity-defying escalation of prices far
+ beyond reason, and for manic behavior on the part of investors. I urged readers to view
+ the tech stocks skeptically, but I also acknowledged that it's possible for overpriced assets
+
+ to remain so for a long time. I certainly had no idea that the excesses I saw in the
+ market would be remedied as quickly as they have.
+
+ The Bubble Bursts
+ U
+
+ In every regard enumerated in "bubble. com" and more, the tech-media-telecom extremes
+ of 1999 were reversed in 2000. I must say I've never seen anything quite like it.
+
+ Business models questioned - A year ago, I went to great lengths criticizing dot-com
+ U U
+
+ business models that valued eyeballs over profits and viewed operating losses as a good
+ investment. This year, investors realized that the emperor was naked. The first signs
+ came in articles like "Burning Up" (Barron's, March 20), which cited the rate at which
+ Internet companies were using their finite cash to fund operating losses. More recently,
+ "The Giveaway Is Going Away On Web Sites" (Wall Street Journal, December 4) stated
+ that "many of the online companies that are in a sad state today can blame their woes on
+ the cornucopia of free stuff and services they have been doling out to build market share."
+ So now it's "p-to-p," or path-to-profit . . . just a little late. Technology entrepreneurs went
+ through their cash, secure in the expectation that they could always raise more by selling
+ shares to eager buyers. In today's market, as the British say, that's simply not on.
+
+ Technology firms disrespected - Prospective investors (not to mention bankers, suppliers
+ U U
+
+ and landlords) now want to see profit potential. The laws of business are being enforced,
+ meaning that money-losing companies can't attract additional capital. Scores of firms
+ have closed, and tens of thousands of employees have lost their jobs. In perhaps the
+ height of indignity, the Internet has been turned against its own, as dot-coms have been
+ formed to chronicle the collapse of dot-coms. Log on to dotcomfailures.com for a list of
+ more than eighty.
+
+ Tech/media/telecom stocks brought low - Of course, the stocks that soared in 1999
+ U U
+
+ tanked in 2000. The 86% gain of the NASDAQ Composite in 1999 was the greatest in
+ history for any major average. Its 39% loss in 2000 was the greatest in its history and, in
+ terms of major averages, trailed only the 1931 drops in the Dow and S&P.
+
+ Throughout my 30-plus years in the investment business, I have seen one localized boom
+ after another. Each time, the end was marked by a Wall Street Journal table cataloging
+ once-hot stocks that had fallen more than 90% from their highs. Conglomerates (late
+ 1960s), computer software and services (1969-70), the Nifty-Fifty (1973-4), oil stocks
+ (early '80s) and biotech (early '90s) - they've all been there, and I felt certain that TMT
+ stocks would join them sooner or later. The only difference is that in 2000, the top ten
+ losers on the NASDAQ all declined more than 99%!
+
+ The 14 stocks mentioned a year ago in "bubble.com" provide a pretty good sample;
+ they're down 82% on average from their year-end 1999 prices and 87% from their highs
+ in 2000. Eight of the fourteen are down 96% or more from the top (see the table on the
+ last page for the details).
+
+ IPOs no longer a sure thing - If you ask me, the most important single contributor to the
+ U U
+
+ tech stock bubble was the mania for Initial Public Offerings. When new issues began to
+ double, triple and more on their first day of trading - and then triple again from there - a
+ gold rush started. When the stock market valued profitless new ventures, only months
+ after their formation, at multiples of their sales (and, illogically, at multiples of the price
+ at which founders were gladly to sell), anything was possible. The lottery was on, and the
+ improbable but huge payoffs going to the winners made every ticket valuable. Later,
+ investors ignored the odds against success and acted as if all of the companies - even
+ head-to-head competitors-would be winners. The perpetual motion machine eventually
+ lost its momentum, of course, and it turned out that there's no sure thing. Although the
+ IPOs of 2000 averaged a first-day gain of 55%, about two-thirds of them are now trading
+ below their issue price.
+
+ Venture capital rendered mortal - 1999 witnessed the wildest single market phenomenon
+ U U
+
+ I've ever seen: an asset class with a triple-digit annual return. The overheated IPO market
+ provided an exit for the venture capitalists and contributed greatly to their fabulous
+ profits. The model was simple: create a business plan (on the proverbial napkin), raise a
+ little money, staff up and open the doors, spend wildly to build demand for products sold
+ at a loss and go public at a hundred - or a thousand - times invested cost. In contrast to
+ last year's banner headlines, 2000's venture capital stories are a little murkier. How did
+ the funds do in 2000? Given the vagaries of pricing and the lags in reporting, no one has
+ a good reading on performance yet.
+
+ I want to highlight one thing, though: venture capital funds often distribute shares to
+ investors and reckon the amount distributed based on the market price of the stock at the
+ time. But if investors don't realize that price, their actual returns may be far lower than
+ those claimed by the funds. If the subsequent declines are charged to the investors' public
+ stock portfolios, we may never know what venture capital returns really were.
+
+ Analysts defrocked - I think one of the usual hallmarks of a market mania is
+ U U
+
+ personification. This time around, the heroes included brokerage firm analysts like Mary
+ Meeker and Henry Blodget, who were lionized in Internet chat rooms and whose target
+ prices for stocks were given great credence by investors. It turns out, though, that many
+ analysts weren't basing their targets on analytically-derived profit and p/e estimates but,
+ in a stunning circularity, on what they thought investors might pay. It's now clear the
+ analysts added little insight in terms of either fundamentals or valuation.
+
+ The December 18 Wall Street Journal revisited six price targets. On average, the analysts
+ predicted a 64% gain, but the stocks declined 88% instead. For me, the most telling
+ U U
+
+ thing was one analyst's alibi: "By setting [the target] only about 25% higher. . . we were
+ indicating there was only a little more upside in the stock." I seem to remember when
+ calling for a 25% gain was a bullish statement, not a warning. But then again, all kinds of
+ nutty behavior typified this bubble.
+
+ Odds and ends at the extreme - Numerous other elements, large and small, captured the
+ U U
+
+ excesses of the tech stock mania and their reversal.
+
+ In 1999, incubators (CMGI and Internet Capital Group), technology industry
+ participants (Intel and Amazon) and outsiders (Starbucks) were piling up profits in
+ venture investments. This year, of course, it was losses that fell to the bottom
+ line.
+ The potential for stock option profits made dot-com jobs compellingly attractive
+ last year, and old economy firms had no way to compete. This year, employees
+ wanted cash instead, and what we read about is the negative effect of stock
+ options on companies' finances.
+ Last year, the media told of executives jumping from the old economy to dot-
+ coms. This year's stories described surprise firings and careers left in the lurch.
+ In 1999, brokerage house Internet conferences drew big crowds. 2000 saw
+ conferences postponed and cancelled.
+ Whereas tech stocks commonly reached triple-digit prices in 1999, now they're
+ falling below $1 and being delisted by NASDAQ.
+ Instead of experiencing dramatic capital inflows and perhaps closing to new
+ investors, tech and Internet mutual funds are diversifying into other areas,
+ merging with other funds or shutting down.
+ Finally, in the most visible indicator, we'll see on January 28 that dot-coms will
+ run only about 10% of the commercials during the Superbowl, down from 50%
+ last year.
+
+ Of course, the bottom line is that lots of things people considered eminently logical in
+ 1999 - like low-risk triple-digit gains - are now being shown to have been far too good to
+ be true. The headlines of 1999 look silly now, and the debunking in 2000 seems obvious
+ (e.g., "What Are Tech Stocks Worth, Now That We Know It Isn't Infinity?" in the Wall
+ Street Journal on April 17). But that's a juxtaposition that marks the end of every market
+ boom.
+
+ How'd We Get Here?
+ U
+
+ In the 1990s, positive macro forces contributed to an extremely benign environment and
+ steadily reinforced each other:
+
+ low inflation,
+ the shift of the federal budget from deficit to surplus,
+ easy money at low interest rates,
+ technological gains, and
+ a high degree of risk tolerance.
+
+ These things gave rise, in turn, to the elements of economic and investor prosperity:
+
+ strong corporate and individual borrowing, leading to leveraged balance sheets,
+ aggressive buying by businesses, consumers and investors,
+ massive gains in productivity,
+
+ unusually rapid growth in corporate profits, and
+ strong appreciation in asset prices.
+
+ Now, with some of the props removed or in question, we are seeing:
+
+ retail and auto sales down,
+ consumer and investor confidence off,
+ factory orders falling and layoffs on the rise,
+ profit warnings everywhere,
+ risk aversion that has reasserted itself (or should we call it fear?),
+ rising defaults, bankruptcies and troubled bank loans, and
+ significantly lower stock and corporate bond prices.
+
+ All of this is normal cyclical behavior. Cycles are one of the few things we can rely on,
+ as you have heard me say repeatedly, and this downswing is moving along familiar lines.
+ What surprised even me this time around is the rapidity and severity of these
+ developments. Given the extreme nature of the ascent, though, I guess an equally
+ extreme reversal is not unreasonable.
+
+ Of course, former bulls will say this downturn was initiated/accelerated/exacerbated by
+ unforeseen developments that blindsided them: skyrocketing prices for oil, gas and
+ electric power; rising tensions in the Middle East; and the bizarre post-election chaos.
+ But the important point is that something eventually derails every Pollyanna scenario. In
+ 1998, I criticized the oxymoronic attitude exemplified by "we're not expecting any
+ surprises." Somehow, surprises always seem to occur. Expectations (and stock prices)
+ that assume there won't be any are dashed sooner or later, and optimism turns to
+ disappointment.
+
+ I date this cycle's turning point in investor psychology to the third quarter of 1998, with
+ the Russian default and the collapse of Long-Term Capital Management. Before that,
+ investors seemed to consider risk their friend. They blithely interpreted the upward-
+ sloping path of the Capital Market Line to mean that bearing more risk would reliably
+ bring more return. (For example, one consultant told me his firm wouldn't recommend
+ Oaktree's high yield bond management because they "wanted to maximize risk" and knew
+ they couldn't accomplish that with us.) But the Russia and Long-Term fiascoes popped
+ that balloon and reminded participants that risk-taking isn't always profitable.
+
+ Here's an illustration of the impact of these events on psychology. According to CSFB,
+ from the end of 1996 to the middle of 1998, the face amount of "distressed" bonds
+ yielding more than 20% (and thus indicating grave concern over credit) grew just $6
+ billion per year on average. But in the 2-1/3 years following Russia and Long-Term,
+ from mid-l998 through October 31, 2000, the amount increased by an average of $38
+ billion per year. Actual defaults grew only half as much over that period, ($18 billion per
+ year), but investors' sharply reduced willingness to bear risk caused the distressed bond
+ count to explode upward.
+
+ (If I'm right in saying risk tolerance turned to risk aversion in 1998, you might ask how
+ the tech/media/telecom boom could have continued into 1999 and early 2000. The
+ answer: it's the exception that proves the rule. Even as investors were turning more
+ conservative and capital was being withdrawn from hedge funds and banks' and brokers'
+ proprietary portfolios, the crowd took to TMT investing in a way that ignited the IPO
+ boom and everything that followed. It's often said that at the end of a bull market the vast
+ majority of stocks weaken while one popular sector goes on to a highly extended extreme
+ before collapsing. Certainly that's what happened in 1999, when the tech-dominated
+ NASDAQ rose 86% at the same time that the S&P 500 excluding technology was up only
+ 3% (Wall Street Journal, December 21).
+
+ In 2000, the last holdouts - the TMT aficionados - finally realized that they had
+ overstated their companies' potential, ignored their dependence on a benign environment,
+ understated the danger implied by the market's manic volatility and paid too much for
+ their stocks. All of the positives of 1999 turned into negatives, with catastrophic results.
+
+ The declines in the TMT stocks in 2000 provide a tangible reminder that psychology can
+ change much faster than fundamentals. A little fundamental deterioration, when mixed
+ with increased pessimism, can wreak absolute havoc with asset prices.
+
+ Now What?
+ U
+
+ I see little chance that the boom-creating factors enumerated above - the hallmarks of the
+ 1990s - will characterize the next few years. In particular, I see higher risk aversion and
+ tighter credit. But, of course, the prices of many stocks and bonds in the tech sector have
+ undergone serious corrections. So the question to ask is "Have they fallen enough?"
+
+ The answer is simple: I don't know. Nokia is down 55% from its high but still trades at
+ 61 times earnings (New York Times, December 2l). Qualcomm fell 53% but is still at 65
+ times expected earnings (Los Angeles Times, December 31). Overall, the NASDAQ
+ Composite, which includes many profitless companies, is valued at 90 times its
+ companies' total earnings (Wall Street Journal, December 20).
+
+ No one can know which way a market's going to go, but a few eternal truths and the right
+ mindset - the significance of which has been reinforced by the experience of the last few
+ years - can best prepare us to handle the inevitable uncertainty.
+
+ Beware of generalizations - Most of the time, and especially at the extremes, markets
+ U U
+
+ over-generalize. Last year, investors acted as if all of the telecom companies would
+ succeed; this year, investors seem to think they're all losers. In 1996 and 1997, financial
+ institutions would lend to anyone; now, even strong companies have trouble getting
+ capital. When the market "throws the baby out with the bathwater," as we believe it's
+ doing now, gems can often be found among the wreckage. As a result, for example, our
+ Distressed Debt and Principal groups are prospecting for overlooked values in telecom.
+ Also flawed are many of the broad rules that investors invoke. In 1999, no cry was heard
+ more often than "buy the dips." Each time the market dropped a bit, buyers stepped in.
+
+ Anyone who bought in those declines benefited from the rallies that surely followed. Of
+ course, that didn't work quite so well in 2000. The dips in March-April, May and July
+ were all followed by rallies, but they were traps for unsuspecting buyers. Only "sell the
+ rallies" proved correct.
+
+ Respect cycles - There's little I'm certain of, but these things are true: Cycles always
+ U U
+
+ prevail eventually. Nothing goes in one direction forever. Trees don't grow to the sky.
+ Few things go to zero.
+
+ That was really the problem with the bubble. Investors were willing to pay prices that
+ assumed success forever. They ignored the economic cycle, the credit cycle and, most
+ importantly, the corporate life cycle. They forgot that profitability will bring imitation
+ and competition, which will cut into - or eliminate - profitability. They overlooked the
+ fact that the same powerful force that made their companies attractive, technological
+ progress, could at some point render them obsolete.
+
+ Worry about time - Another element that investors ignore in their optimism is time. It
+ U U
+
+ seems obvious, but long-term trends need time in order to work out, and time can be
+ limited. Or as John Maynard Keynes put it, "Markets can remain irrational longer than
+ you can remain solvent." Whenever you're tempted to bet everything on a long-run
+ phenomenon, remember the six-foot tall man who drowned crossing the stream that was
+ five feet deep on average.
+
+ One of the great delusions suffered in the 1990s was that "stocks always outperform." I
+ agree that stocks can be counted on to beat bonds, cash and inflation, as Wharton's Prof.
+ Jeremy Siegel demonstrated, but only with the qualification "in the long run." If you have
+ thirty years, you can rest assured that equity returns will be superior. For someone with a
+ thirty-year time frame, the decline of the NASDAQ in 2000 may have been a matter of
+ indifference. But it didn't feel that way to most people.
+
+ Time came into play in another way for the TMT entrepreneurs. Many raised the money
+ they needed for a year or two and proceeded to burn it up. They counted on being able to
+ raise more later, but in 2000 capital was denied even to worthwhile ideas. Lots of
+ companies never got the chance to reach profitability. More important than money, they
+ ran out of time.
+
+ Remember that, for the most part, things don't change - The five most dangerous words
+ U U
+
+ in our business aren't "The check's in the mail" but "This time it'll be different." Most
+ bubbles proceed from the belief that something has changed permanently. It may be a
+ technological advance, a shortage or a new fad, but what all three have in common is that
+ they're usually short-lived.
+
+ Most "new paradigms" turn out to be just a new twist on an old theme. No technological
+ development is so significant that its companies' stocks can be bought regardless of price.
+ Most shortages - whether of commodities or securities - ease when supply inevitably
+ rises to meet demand. And no fad lasts forever.
+
+ Never forget valuation - The focus may shift from dividend yield to p/e ratio, and people
+ U U
+
+ may stop looking at book value, but that doesn't mean valuation is irrelevant. In the tech
+ bubble, buyers didn't worry about whether a stock was priced too high because they were
+ sure someone else would be willing to pay them more for it. Unfortunately, the "greater
+ fool theory" only works until it doesn't. Valuation eventually comes into play, and those
+ who are holding the bag when it does are forced to face the music.
+
+ Be conscious of investor psychology - I don't believe in the ability of forecasts or
+ U U
+
+ forecasters to tell us where prices are going, but I think an understanding of investor
+ psychology can give us a hint. When investors are exuberant, as they were in 1999 and
+ early 2000, it's dangerous. When the man on the street thinks stocks are a great idea and
+ sure to produce profits, I'd watch out. When attitudes of this sort make for stock prices
+ that assume the best and incorporate no fear, it's a formula for disaster.
+
+ I find myself using one quote, from Warren Buffett, more often than any other: "The less
+ prudence with which others conduct their affairs, the greater prudence with which we
+ should conduct our own affairs." When others are euphoric, that puts us in danger. When
+ others are terrified, the prices they set are low, and we can be aggressive. On December
+ 22, in "Consumer Mood Swings to Angst," the New York Times employed a new phrase:
+ "irrational anxiety." If that sentiment does come to be widespread, replacing irrational
+ exuberance, it can signal a buying opportunity.
+
+ Check your own mindset - For me, mindset holds many of the keys to success. We at
+ U U
+
+ Oaktree believe strongly in contrarianism. As suggested in the paragraph above, that
+ means leaning away from the direction chosen by most others. Sell when they're
+ euphoric, and buy when they're afraid. Sell what they love, and buy what they hate.
+
+ Closely related to contrarianism is skepticism. It's a simple concept, but it has great
+ potential for keeping us out of trouble. If it sounds too good to be true, it probably is.
+ That phrase is always heard after the losses have piled up - be it in dot-coms, portfolio
+ U U
+
+ insurance, "market neutral" funds or the "Asian miracle." Oaktree was founded on the
+ conviction that free lunches do exist, but not for everyone, or where everyone's looking,
+ or without hard work and superior skill. Skepticism needn't make you give up on superior
+ risk-adjusted returns, but it should make you ask tough questions about the ease of
+ accessing them.
+
+ We think humility is essential, especially concerning the ability to know the future.
+ Before we act on a forecast, we ask if there's good reason to think we're more right than
+ the consensus view already embodied in prices. As to macro projections, we never
+ assume we're superior. About under-researched companies and securities, we think it's
+ possible to get an edge through hard work and skill.
+
+ Finally, we believe in investing defensively. That means worrying about what we may
+ not know, about what can go wrong, and about losing money. If you're worried, you'll
+ tend to build in more margin for error. Worriers make less when everything goes right, as
+ in the tech bubble, but they also lose less - and stay in the game - when things return
+
+ to earth. At Oaktree, we're guided more by one principle than any other: if we avoid the
+ losers, the winners will take care of themselves.
+
+ These are the things that Oaktree is built on, and that got our clients through 2000 in one
+ piece. We can't promise that all of our investment decisions will be correct, but we can
+ assure you they will embody these crucial ingredients for success in 2001 and beyond.
+
+ Stocks Mentioned In "bubble.com" - January 1, 2000
+ % Chng. % Chng.
+ Company
+ U U Symbol
+ U U U U
+
+ U
+
+ # = below 50¢

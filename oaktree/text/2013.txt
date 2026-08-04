@@ -1,0 +1,1899 @@
+Memo: Ditto.
+
+Here's how I started Whad'Ya Know in March 2003:
+
+ I always ask Nancy to read my memos before I send them out. She seems to think
+ being my wife gives her license to be brutally frank. "They're all the same," she
+ says, "like your ties. They all talk about the importance of a high batting average, the
+ need to avoid losers, and how much there is that no one can know."
+
+The truth is, anyone who reads my memos of the last 23 years will see I return often to a few topics.
+This is due to the frequency with which themes tend to recur in the investment world. Humans often
+fail to learn. They forget the lessons of history, repeat patterns of behavior and make the same
+mistakes. As a result, certain themes arise over and over. Mark Twain had it right: "History doesn't
+repeat itself, but it does rhyme." The details of the events may vary greatly from occurrence to
+occurrence, but the themes giving rise to the events tend not to change.
+
+What are some of my key repeating themes? Here are a few:
+
+ the importance of risk and risk control
+ the repetitiveness of behavior patterns and mistakes
+ the role of cycles and pendulums
+ the volatility of credit market conditions
+ the brevity of financial memory
+ the errors of the herd
+ the importance of gauging investor psychology
+ the desirability of contrarianism and counter-cyclicality
+ the futility of macro forecasting
+
+Most or all of these have to do with behavior that's observed in the markets over and over. When I
+see it recur and want to comment, I'm often tempted to dust off an old memo, update the details, and
+just insert the word "ditto." But I don't, because there's usually something worth adding.
+
+Cycles
+
+One of the most important themes in investing - and one I often find worthy of discussion - relates to
+cycles. What is a cycle? Dictionaries define it as "a series of events that are regularly repeated in the
+same order" or "any complete round or series of occurrences that repeats or is repeated." And here's
+the definition of the term "business cycle": "The recurring and fluctuating levels of economic
+activity that an economy experiences over a long period of time."
+
+As you can see, the common thread is the concept of a series of events that is repeated. Many people
+think of a cycle as a continuous pattern in which a rise is followed by a fall, followed by another rise
+and another fall, and so forth.
+
+These definitions are fine as far as they go, but I think they all miss something very important: the
+sense that each of the events in a cycle not only follows the one preceding it but is a result of the one
+preceding it. I think in the economic, investment and credit arenas, a cycle is usually best
+viewed not merely as a progression through a standard sequence of positive and negative
+events, but as a chain reaction.
+
+Before I launch into the discussion of cycles that will follow, I want to make the point that it's hard
+to know where to start. It's tough to say, "The cycle started with y," since usually y was caused by x,
+and x by w. But we have to start someplace.
+
+The Real Estate Cycle
+
+I'll use the cycle in real estate as an example. In my view it's usually clear, simple and regularly
+recurring:
+
+ Bad times cause the level of building activity to be low and the availability of capital for
+ building to be constrained.
+ In a while the times become less bad, and eventually even good.
+ Better economic times cause the demand for premises to rise.
+ With few buildings having been started during the soft period and now coming on stream,
+ this additional demand for space causes the supply/demand picture to tighten and thus prices
+ and rents to rise.
+ This improves the economics of real estate ownership, reawakening developers' eagerness to
+ build.
+ The better times and improved economics also make lenders and investors more optimistic.
+ Their improved state of mind causes financing to become more readily available.
+ Cheaper, easier financing raises the pro forma returns on potential projects, adding to their
+ attractiveness and increasing developers' desire to pursue them.
+ Higher projected returns, more optimistic developers and more generous providers of capital
+ combine for a ramp-up in building starts.
+ The first completed projects encounter strong pent-up demand. They lease up or sell out
+ quickly, giving their developers good returns.
+ Those good returns - plus each day's increasingly positive headlines - cause additional
+ buildings to be planned, financed and green-lighted.
+ Cranes fill the sky (and additional cranes are ordered from the factory, but that's a different
+ cycle).
+ It takes years for the buildings started later to reach completion. In the interim, the first ones
+ to open eat into the unmet demand.
+ The period between the start of planning to the opening of a building is often long enough for
+ the economy to transition from boom to bust. Projects started in good times often open in
+ bad, meaning their space adds to vacancies, putting downward pressure on rents and sale
+ prices. Unfilled space hangs over the market.
+
+ Bad times cause the level of building activity to be low and the availability of capital for
+ building to be constrained. Or, as we said in computer programming in the 1960s, "go to
+ top" and begin again.
+
+This process is highly illustrative of the cyclical chain reaction I'm talking about. Each step in this
+progression doesn't merely follow the one that preceded it; it is caused by the one that preceded it.
+
+Cycles and Risk
+
+This memo is devoted to the cycle in attitudes toward risk. Economies rise and fall quite moderately
+(think about it: a 5% drop in GDP is considered massive). Companies see their profits fluctuate
+considerably more, because of their operating and financial leverage. But market gyrations make the
+fluctuations in company profits look mild. Securities prices rise and fall much more than profits,
+introducing considerable investment risk. Why is that so? Primarily, I think, because of the
+dramatic ups and downs in investor psychology.
+
+The economic cycle is constrained in its fluctuations by the existence of long-term contracts and the
+fact that people will always eat, pay rent, buy gasoline, and engage in many other activities. The
+quantities involved will rise and fall, but not without limitation. Likewise for most companies: cost
+reductions can mitigate the impact of sales declines on earnings, and there's often some base level
+below which sales are unlikely to go. In other words, there are limits on these cycles.
+
+But there are no checks on the swings of investor psychology. At times investors get crazily bullish
+and can imagine no limits on prosperity, growth and appreciation. They assume trees will grow to
+the sky. Nothing's too good to be true. And on other occasions, correspondingly, despondent
+investors can't think of any limits to how bad things can get. People conclude that the "worst case"
+scenario they prepared for isn't negative enough. Highly disastrous outcomes are considered
+plausible, even likely.
+
+Over the years, I've become convinced that fluctuations in investor attitudes toward risk
+contribute more to major market movements than anything else. I don't expect this to ever
+change.
+
+The Source of Investment Risk
+
+Much (perhaps most) of the risk in investing comes not from the companies, institutions or
+securities involved. It comes from the behavior of investors. Back in the dark ages of investing,
+people connected investment safety with high-quality assets and risk with low-quality assets. Bonds
+were assumed to be safer than stocks. Stocks of leading companies were considered safer than stocks
+of lesser companies. Gilt-edge or investment grade bonds were considered safe and speculative
+grade bonds were considered risky. I'll never forget Moody's definition of a B-rated bond: "fails to
+possess the characteristics of a desirable investment."
+
+All of these propositions were accepted at face value. But they often failed to hold up.
+
+ When I joined First National City Bank in the late 1960s, the bank built its investment
+ approach around the "Nifty Fifty." These were considered to be the fifty best and fastest
+ growing companies in America. Most of them turned out to be great companies . . . just not
+ great investments. In the early 1970s their p/e ratios went from 80 or 90 to 8 or 9, and
+ investors in these top-quality companies lost roughly 90% of their money.
+
+ Then, in 1978, I was asked to start a fund to invest in high yield bonds. They were
+ commonly called "junk bonds," but a few investors invested nevertheless, lured by their high
+ interest rates. Anyone who put $1 into the high yield bond index at the end of 1979 would
+ have more than $23 today, and they were never in the red.
+
+Let's think about that. You can invest in the best companies in America and have a bad experience,
+or you can invest in the worst companies in America and have a good experience. So the lesson is
+clear: it's not asset quality that determines investment risk.
+
+The precariousness of the Nifty Fifty in 1969 - and the safety of high yield bonds in 1978 - stemmed
+from how they were priced. A too-high price can make something risky, whereas a too-low price can
+make it safe. Price isn't the only factor in play, of course. Deterioration of an asset can cause a loss,
+as can its failure to produce profits as expected. But, all other things being equal, the price of an
+asset is the principal determinant of its riskiness.
+
+The bottom line on this is simple. No asset is so good that it can't be bid up to the point where
+it's overpriced and thus dangerous. And few assets are so bad that they can't become
+underpriced and thus safe (not to mention potentially lucrative).
+
+Since participants set security prices, it's their behavior that creates most of the risk in
+investing. This is true in many other activities as well, the common thread being the involvement of
+humans.
+
+ Jill Fredston, an expert on avalanches, has observed that "better safety gear can entice
+ climbers to take more risk - making them in fact less safe." (Pensions & Investments)
+
+ When all traffic controls were removed from the town of Drachten, Holland, traffic flow
+ doubled and fatal accidents fell to zero, presumably because people drove more carefully.
+ (Dylan Grice, Societe Generale)
+
+So improvements in safety equipment can be neutralized by human behavior, and driving can
+become safer despite the removal of safety equipment. It all depends on how the participants behave.
+
+The Cycle in Attitudes toward Risk
+
+The riskiest thing in the investment world is the belief that there's no risk. On the other hand,
+a high level of risk consciousness tends to mitigate risk. I call this the perversity of risk. It's the
+reason for Warren Buffett's dictum that "The less prudence with which others conduct their affairs,
+the greater the prudence with which we should conduct our own affairs." When other people love
+investments, we should be cautious. But when others hate them, we should turn aggressive.
+
+It is essential to observe that investor attitudes in this regard are far from constant. A memo called
+The Happy Medium (July 21, 2004) said that while it would be good for most investors (the ones not
+suited to be contrarians) to always hold a moderate position that balances risk aversion and risk
+tolerance - and thus the fear of losing money and the fear of missing opportunities - this is
+something very few people can do. Rather, attitudes toward risk cycle up and down, usually counter-
+productively. Becoming more and less risk averse at the right time is a great way to enhance
+investment performance. Doing it at the wrong time - like most people do - can have a terrible
+effect on results.
+
+How does the up-cycle in risk taking develop?
+
+ When economic growth is slow or negative and markets are weak, most people worry
+ about losing money and disregard the risk of missing opportunities. Only a few stout-
+ hearted contrarians are capable of imagining that improvement is possible.
+ Then the economy shows some signs of life, and corporate earnings begin to move up rather
+ than down.
+ Sooner or later economic growth takes hold visibly and earnings show surprising gains.
+ This excess of reality over expectations causes security prices to start moving up.
+ Because of those gains - along with the improving economic and corporate news - the
+ average investor realizes that improvement is actually underway. Confidence rises.
+ Investors feel richer and smarter, forget their prior bad experience, and extrapolate the recent
+ progress.
+ Skepticism and caution abate; optimism and aggressiveness take their place.
+ Anyone who's been sitting out the dance experiences the pain of watching from the sidelines
+ as assets appreciate. The bystanders feel regret and are gradually sucked in.
+ The longer this process goes on, the more enthusiasm for investments rises and resistance
+ subsides. People worry less about losing money and more about missing opportunities.
+ Risk aversion evaporates and investors behave more aggressively. People begin to have
+ difficulty imagining how losses could ever occur.
+ Financial institutions, subject to the same influences, become willing to provide increased
+ financing. In the words of Citibank's Chuck Prince, when the music's playing, they see no
+ choice but to dance. Thus they compete for market share by reducing the return they demand
+ and by being willing to finance riskier deals (see The Race to the Bottom, February 14, 2007).
+ Easier financing - along with the recent gains - encourages investors to make greater use of
+ leverage. Borrowed capital increases their buying power, and they move to put it to work.
+ Leveraged investors report the greatest gains, consistent with the old Las Vegas maxim: "the
+ more you bet, the more you win when you win." This causes others to emulate them.
+ The market takes on the appearance of a perpetual-motion machine. Appreciation
+ accelerates, possibly leading to a mania or bubble. Everyone concludes that things can
+ only get better forever. They forget about the risk of losing money and fixate on not
+ missing opportunities. Leveraged buyers become convinced that the things they buy with
+ borrowed money are certain to appreciate at a rate above their borrowing cost.
+ Eventually things get as good as they can get, the last skeptic capitulates, and the last
+ potential buyer buys.
+
+That's the way the cycle of attitudes toward risk ascends. The skeptic in times of moderation
+becomes a true believer at the top.
+
+But as Herb Stein brilliantly observed, "If something cannot go on forever, it will stop." Applying
+that thought here, I'd say when things are as good as they can get, they can't get any better. That
+suggests eventually they'll get worse.
+
+It always turns out that - investors' hopes to the contrary - economies, profits and asset prices can't
+rise forever. Or, at a minimum, they can't keep pace with investors' ever-rising hopes. And thus the
+down-cycle begins.
+
+ Once the last potential buyer has bought, there's nobody left to take prices higher.
+ A few unemotional, disciplined and foresighted investors conclude that things have gone
+ too far and a correction is in the cards.
+ Economic activity and corporate earnings turn down, or they begin to fall short of people's
+ irrationally expanded expectations.
+ The error of those expectations becomes obvious, causing security prices to start declining.
+ Perhaps someone is daring enough to point out publicly that the emperor of limitless growth
+ has no clothes. Sometimes there's a catalyzing event. Or sometimes (see early 2000)
+ security prices begin to fall of their own accord, simply because they had moved too high.
+ The first price declines cause investors to rethink their analysis, conclusions, commitment to
+ the market and risk tolerance. It becomes clear that appreciation will not go on ad infinitum.
+ "I'd buy at any price" is replaced by "how can I know what the right price is?"
+ Weak economic news takes the place of positive reports.
+ The average investor realizes that things are getting worse.
+ Interest in investing declines. Selling replaces buying.
+ Investors who sat out the dance - or who just underweighted the depreciating assets - are
+ lionized for their wisdom, and holders start to feel stupid.
+ Giddy enthusiasm is replaced by sober skepticism. Risk tolerance declines and risk aversion
+ is on the upswing. People switch from worrying about missing opportunity to worrying
+ about losing money.
+ Financial institutions become less willing to extend credit to investors. At the extremes,
+ investors receive margin calls.
+ Investors who borrowed to buy are heavily penalized, and the media report on leveraged
+ entities' spectacular meltdowns. Forced selling in response to margin calls and covenant
+ violations causes price declines to accelerate.
+ Eventually we hear some familiar refrains: "I wouldn't buy at any price," "There's no
+ negative case that can't be exceeded on the downside," and "I don't care if I ever make
+ another penny in the market; I just don't want to lose any more."
+ The last believer loses faith in the market, selling accelerates, and prices reach their nadir.
+ Everyone concludes that things can only get worse forever.
+
+Coping with the Risk Cycle
+
+The important conclusions from observing the above pattern are these:
+
+ Over time, conditions in the real world - the economy and business - cycle from better to
+ worse and back again.
+
+ Investor psychology responds to these ups and downs in a highly exaggerated fashion.
+
+ When things are going well, investors swing to excessive euphoria, under the assumption that
+ everything's good and can only get better.
+
+ And when things are bad, they swing toward depression and panic, viewing everything
+ negatively and assuming it can only get worse.
+
+ When the outlook is good and their mood is ebullient, investors take security prices to levels
+ that greatly overstate the positives, from which a correction is inevitable.
+
+ And when the outlook is bad and they're depressed, investors reduce prices to levels that
+ overstate the negatives, from which great gains are possible and the risk of further declines is
+ limited.
+
+The excessive nature of these swings in psychology - and thus security prices - dependably creates
+opportunities of over- and under-valuation. In bad times securities can often be bought at prices
+that understate their merits. And in good times securities can be sold at prices that overstate
+their potential. And yet, most people are impelled to buy euphorically when the cycle drives
+prices up and to sell in panic when it drives prices down.
+
+"Buy and hold" used to be a popular approach among investors, and it performed admirably when the
+markets rose almost non-stop from 1960 to 1972 and from 1982 to 1999. But thanks to the lackluster
+results of the last thirteen years, it has nearly disappeared. Nowadays, investors are much more
+likely to trade in an effort to profit from - or at least avoid losses connected to - economic, corporate
+and market developments. However, when most investors unite behind a macro trading decision,
+they're usually wrong in the ways described above. This is the reason why contrarianism often pays
+off big.
+
+In order to be a successful contrarian, you have to do the opposite of what the herd does. And to do
+that, you have to diverge from the conventional cycle in attitudes toward risk. Everyone would like
+to profitably resist this error-prone and thus costly cycle. The fact that most people succumb anyway
+shows how strong its power is, and that most people are not above average in this regard (of course).
+Markets move in response to decisions made by the majority of investors. Most investors are guilty
+of the sin of overreacting (and, even worse, the sin of moving in the wrong direction), demonstrating
+that the ability to resist the cycle is uncommon.
+
+To be a successful contrarian, you have to be able to:
+
+ see what most people are doing,
+ understand what's wrong about most people's behavior,
+ possess a strong sense for intrinsic value, which most people ignore at the extremes,
+ resist the psychological pressures that make most people err, and thus
+ buy when most people are selling and sell when most people are buying.
+
+And one other thing: you have to be willing to look wrong for a while. If the herd is doing the wrong
+thing, and if you're capable of seeing that and doing the opposite, it's still highly unlikely that the
+wisdom of what you do will become apparent immediately. Usually the crowd's irrational euphoria
+will continue to take prices higher for a while - possibly a long while - or its excessive negativism
+
+will continue to take prices lower. The contrarian will appear wrong, and the fact that his error
+comes in acting differently from most people will make him look like nothing but an oddball loser.
+Thus, in addition to the five requirements listed above, successful contrarianism requires the
+ability to stick with losing positions that, as David Swensen has written, "frequently appear
+downright imprudent in the eyes of conventional wisdom."
+
+If you can't stand living with the embarrassment of being unconventional and wrong, contrarianism
+may not be for you. Rather than trying to do the difficult opposite of what the crowd is doing, you
+might have to settle for merely refusing to join in its errors. That would be a very good thing. But
+even that is not easy.
+
+Risk and Return Today (2004 Version)
+
+The name of this section served as the title of a memo in October 2004. It was one of my first
+cautionary responses to the vertiginous market ascent that would be exposed by the sub-prime
+mortgage collapse in 2007 and would culminate in the global financial crisis in 2008.
+
+In the memo I observed that the "capital market line" connecting risk and return had become "lower
+and flatter." The lowness meant that the line started off with low returns on low-risk assets (due to
+the Fed's efforts to stimulate the economy through low interest rates) and, as one moved out the risk
+curve, even riskier investments offered low potential returns. "Due to the low interest rates," I said,
+"the bar for each successively riskier investment has been set lower than at any time in my career."
+
+The flatness of the line was a result of sanguine attitudes toward risk. Here are excerpts from my
+explanation (emphasis in the original):
+
+ First, investors have fallen over themselves in their effort to get away from low-risk,
+ low-return investments. When you're especially eager not to make safe investment A, it
+ takes less compensation than usual (in terms of prospective return) to get you to accept
+ risky investment B. . . .
+
+ Second, risky investments have been very rewarding for more than twenty years and
+ did particularly well in 2003. . . . Thus investors are attracted more (or repelled less) by
+ risky investments than perhaps might otherwise be the case and require less risk
+ compensation to move to them.
+
+ Third, investors perceive risk as being quite limited today. Because rising inflation isn't
+ seen as a significant risk, bond investors don't require much of a premium to extend maturity.
+ And because the combination of a recovering economy and an accommodating capital market
+ has brought default rates to record lows, investors are unconcerned about credit risk and thus
+ are willing to accept below-average credit spreads. Prospective return exists to
+ compensate for perceived risk, and when there isn't much perceived risk, there isn't
+ likely to be much prospective return.
+
+ In summary, to use the words of the "quants," risk aversion is down. . . .
+
+ . . . would-be buyers are optimistic, unafraid, undemanding in terms of return, and
+ moving en masse to small asset classes. Holders of assets, who play a part in setting market
+ prices by deciding where they'll sell, also are optimistic. The result is an unappetizing, risk-
+ tolerant, high-priced investment landscape. . . .
+
+ There are times when the investing errors are of omission: the things you should have done
+ but didn't. Today I think the errors are probably of commission: the things you shouldn't
+ have done but did. There are times for aggressiveness. I think this is a time for caution.
+
+In other words, everything seemed positive, attitudes toward risk bearing were on the upswing, and
+security prices moved higher, bringing down potential returns. That memo may have been too early,
+but it wasn't wrong. There was a fair bit of money to be made in the next few years, but its pursuit
+brought investors close to the peril that lay ahead.
+
+Risk and Return Today (2013 version)
+
+For about a year from the middle of 2011 to the middle of 2012, I was thinking and saying that given
+the many problems and uncertainties afflicting the investment environment, the biggest plus I could
+find was the near-total lack of optimism on the part of investors. And I thought it was a major plus.
+There's little that's as helpful for the availability of bargains as widespread low expectations.
+
+Arguably the eight pages of this memo leading up to this point are there for the sole purpose of
+establishing that when investors are sanguine risk is high, and when investors are afraid risk is low.
+Today there's no question about it: investors are highly aware of the uncertainties attaching to the
+sluggish recovery, fiscal imbalance and political dysfunction in the U.S.; the same or worse in
+Europe; lack of growth in Japan; slowdown in China; resulting problems in the emerging markets;
+and geopolitical tensions. If the global crisis was largely the product of obliviousness to risk - as
+I'm sure it was - it's reassuring that there is little risk obliviousness today.
+
+Sober attitudes on the part of investors should be a source of comfort, since in normal times we
+would expect them to bring down asset prices to the point where they're attractive. The problem,
+however, is that while few people are thinking bullish today, many are acting bullish. Their
+pro-risk behavior is having its normal dangerous impact on the markets, even in the absence of
+pro-risk thinking. I've become increasingly conscious of this inconsistency in recent months,
+and I think it is the most important issue that today's investors have to confront.
+
+What's the reason for this seeming inconsistency between thoughts and actions? The answer is
+simple. These people aren't buying because they want to, but because they feel they have to. In
+the past I've referred to them as "handcuff volunteers."
+
+The normal response of investors to uncertain times is to say, "Because of the risks that are present,
+I'm going to shy away from risky investments and stick with a very safe portfolio." Such views
+would tend to depress prices of risky assets. But, thanks to the actions of the world's central banks to
+keep rates near zero, that very safe portfolio - especially in the credit markets - will produce little if
+any return today.
+
+Many investors have sought the safety of money market and T-bill funds yielding zero, Treasury
+notes at +/-1%, and high grade bonds at 3%. But some can't or won't. The retiree living on his
+
+savings may not be able to abide the 90% reduction in short Treasury note returns. I imagine him
+picking up the phone, calling the 800 number and telling his mutual fund company "get me out of
+that fund yielding zero and get me into one yielding 6%. I have to replace the income I used to get
+from intermediate Treasurys." And thus he becomes a high yield bond investor . . . whether
+consciously or not.
+
+A similar process can affect a pension fund or endowment that needs a return of 7-8% and doesn't
+want to bet its future on the ultra-low yields on high grade bonds and Treasurys, or the 6% that the
+institutional consensus expects stocks to return (especially given how badly stocks performed in
+2000-02 and 2008 and their overall lack of gains since 1999).
+
+Take high yield bonds for example. They provide some of the highest contractual returns and
+greatest current income, they are attracting considerable capital. When capital flows into a market,
+the resulting buying brings down the prospective returns. And when offered returns go down,
+investors desirous of maintaining income turn to progressively riskier investments. In the bond
+world that's called "chasing yield" or "stretching for yield." Do it if you want, but do it
+consciously and with full recognition of the risks involved. And even if you refuse to stretch for
+yield, be alert to the effect on the markets of those who do.
+
+Getting Rid of Money
+
+It's relatively easy to make good investments when capital is in short supply relative to the
+opportunities and investors are reticent. But when there's "too much money chasing too few deals,"
+investors compete to put it to work in ways that are injurious to everyone's financial health. I've
+written often about the tendency of people to accept lower returns, higher risk and weaker terms in
+order to deploy their capital in "hot" times (again as described in The Race to the Bottom). The deals
+they do get worse, and that makes investing riskier and less profitable for everyone.
+
+Because the returns on "safe" investments are so low today, people are moving further out on the risk
+curve to pursue returns that meet their needs and are close to what they used to get. And the weight
+of their capital is bringing down prospective returns and making riskier deals doable.
+
+As noted on page 9, I wrote in 2004's Risk and Return Today that, "The result is an unappetizing,
+risk-tolerant, high-priced investment landscape. . . ." At that time it happened because of excessive
+bullishness and a paucity of risk aversion. This time around it's occurring despite the absence of
+bullishness, mainly because interest rates have been rendered artificially low by the Fed and other
+central banks. Regardless of the reason, things are happening again today - especially in the
+credit world - that are indicative of an elevated, risk-prone market:
+
+ Total new issue leveraged-finance volume - loans and high yield bonds - reached a new high
+ of $812 billion in 2012, according to Standard & Poor's, surpassing by 20% the previous
+ record set in pre-crisis 2007.
+
+ The yields on fixed income securities have declined markedly, and in many cases they're the
+ lowest they've ever been in our nation's history. Yield spreads, or credit risk premiums, are
+ fair to full - meaning the relative returns on riskier securities are attractive - but the absolute
+ returns are minimal.
+
+ I find it remarkable that the average high yield bond offers only about 6% today. Daily I see
+ my partner Sheldon Stone selling callable bonds at prices of 110 and 115 because their yields
+ to call or yields to worst start with numbers - "handles" - of 3 or 4 percent. The yields are
+ down to those levels because of strong demand for short paper with prospective returns in
+ that range. I've never seen anything like it.
+
+ As was the case in the years leading up to the onset of the crisis, the ability to execute
+ aggressive transactions indicates the presence of risk tolerance in the markets. Triple-C
+ bonds can be issued readily. Companies can borrow money for the purpose of paying
+ dividends to their shareholders. And CLOs are again being formed to buy leveraged loans
+ with heavy leverage.
+
+ The amount of leverage being applied in today's private equity deals also indicates a return to
+ risk taking. As The Wall Street Journal reported on December 17:
+
+ Since the beginning of 2008, private-equity firms have paid an average of 42%
+ of the cost of large buyouts with their own money, also known as "equity," while
+ borrowing the rest. In the past six months, the percentage has fallen to 33%,
+ according to Thomson Reuters, close to the 31% average in 2006 and the 30%
+ average in 2007. . . .
+
+ Other measures also suggest that debt loads are hovering around pre-crisis levels.
+ The average debt put on companies acquired in leveraged-buyout deals from
+ July to December amounted to 5.5 times the companies' annual earnings
+ (defined as earnings before interest, taxes, depreciation and amortization). That
+ is higher than any two consecutive quarters since the beginning of 2008,
+ according to S&P Capital IQ LCD. The average deal leverage was 5.4 times
+ earnings in 2006 and 6.2 times earnings in 2007.
+
+The good news is that today's investors are painfully aware of the many uncertainties. The bad news
+is that, regardless, they're being forced by the low interest rates to bear substantial risk at returns that
+have been bid down. Their scramble for return has brought elements of pre-crisis behavior
+very much back to life.
+
+Please note that my comments are directed more at fixed income securities than equities. Fixed
+income is the subject of investors' ardor today, since it's there that investors are looking for the
+income they need. Equities are still being disrespected, and equity allocations reduced. Thus they
+are not being lifted by comparable income-driven buying.
+
+ * * *
+
+In 2004, as cited above, I stated the following conclusion: "There are times for aggressiveness.
+I think this is a time for caution." Here as 2013 begins, I have only one word to add: ditto.
+
+The greatest of all investment adages states that "what the wise man does in the beginning, the
+fool does in the end." The wise man invested aggressively in late 2008 and early 2009. I believe
+only the fool is doing so now. Today, in place of aggressiveness, the challenging search for
+return should incorporate goodly doses of risk control, caution, discipline and selectivity.
+
+
+Memo: High Yield Bonds Today.
+
+Clients often ask for our views on the high yield bond market: "Do we think prices are too
+high?" "Are yields too low?" "What returns can we expect next year?" We caution them that
+it's nearly impossible to accurately predict these things, and anyone who makes such forecasts is
+unlikely to be right.
+
+These days the question is primarily whether high yield bonds are in a bubble and poised to
+collapse, given last year's strong performance and today's historically low yields. We don't
+think high yield bonds are any more vulnerable to rising rates than other fixed income
+instruments. We don't downplay the risk in the market nowadays and the fact that bond prices
+are quite high. However, the situation isn't unique to high yield bonds; rather, it is true of
+virtually all bonds and reflects the concerted effort on the part of central banks around the
+world to hold down interest rates. Yields are at historic lows and prices are unusually high all
+across the fixed income spectrum.
+
+However, two factors argue strongly that high yield bonds are less vulnerable to rising
+interest rates than other fixed income sectors:
+
+ A high yield bond of a given maturity has a shorter duration than an investment grade
+ rated bond of the same maturity, since duration is a measure of the weighted average time
+ to receipt of the promised cash flows, and the larger interest coupons on high yield bonds
+ mean the expected payments from interest and principal are received sooner on average.
+ Thus an increase in interest rates of a certain amount implies less of a price decline for a
+ high yield bond than for an investment grade rated bond of the same maturity.
+
+ In addition, rising interest rates usually imply a growing economy, and a growing
+ economy usually means improving creditworthiness and fewer defaults.
+
+Of course it's most unlikely that high yield bonds will deliver returns even close to 2012's
+performance. On the other hand, they don't have to equal last year's return to warrant
+holding today.
+
+While yields are near all-time lows, yield spreads tell a very different story. Today the average
+spread on our U.S. high yield bond portfolios - approximately 490 basis points - is toward the
+high end of the normal historical range we've invested in for nearly three decades. We believe
+such an average spread provides more-than-adequate compensation for our default experience,
+which over the last 27 years has averaged 1.4% per annum. With corporate balance sheets in
+relatively good shape (thanks in large part to all of the refinancing activity over the past two
+years), the capital markets awash in liquidity, and economies (at least in the U.S.) showing some
+
+strength, default rates are projected to remain below the long-term average for at least the next
+twelve months.
+
+Given their current average yield spread, we estimate that our portfolios could suffer a default
+rate of approximately 9% every year and still do no worse than Treasurys - and it's worth noting
+that we have never had even one year with a 9% default rate. So we don't think high yield bonds
+are overpriced in relative terms. In fact, we feel the odds favor their delivering relative
+performance that is superior to Treasurys and high grade corporates over multi-year
+holding periods ahead.
+
+Finally, let's consider the potential absolute result for high yield bonds from today. Suppose we
+hold (or buy) high yield bonds currently at around 5.7% average yield, and we have Oaktree's
+average experience: an annual default rate of 1.4% and loss of about half the money invested in
+the defaulting bonds, or 0.7% of our portfolio per year. This results in 5% net return per year
+before fees and price fluctuations. Given the alternatives today, that's an attractive
+absolute return. What else is better?
+
+If interest rates rise and/or yield spreads expand, we will suffer price declines (as will holders of
+all other fixed-rate securities). But if Oaktree is right in its credit judgments, those declines
+will prove to be temporary. The bonds will be paid off at par upon maturity, and if the other
+assumptions above are met the 5% return will be achieved.
+
+While we believe spreads are attractive given the risks we see in our portfolios, it is true that
+there is little room for price upside, making the reward for risk taking limited. (This is in essence
+what Howard concluded in his most recent memo, "Ditto.") In this type of environment,
+superior returns are more likely to be earned through minimizing mistakes than through
+stretching for yield. Rather than behaving aggressively, the search for return should
+involve risk control, caution, discipline and selectivity. Of course, this is what we emphasize
+in our portfolios.
+
+Considering these factors, should investors sell their high yield bonds and wait for a better time
+to invest? We don't think so, as market timing is next to impossible to do right and costly to
+attempt in less liquid markets like high yield bonds.
+
+
+Memo: The Outlook for Equities.
+
+It doesn‟t take much to get me started on a memo. In this case one sentence was enough, in an article
+from the February 4 online edition of Pensions & Investments, as described by FierceFinance on
+February 28: "The long-term equity risk premium is typically between 4.5% and 5%."
+
+There‟s little I hate more than investment generalizations. For years, for example, self-styled authorities
+on the high yield bond market would say "bond defaults typically take place 2-3 years after issuance."
+That always set my teeth on edge. The time to default might average 2-3 years, but unless (1) that‟s also
+the most common time period (the mode) and (2) not a highly variable parameter (which I think it is), that
+generalization is absolutely useless.
+
+In fact, I like the way Mark Twain summed up on the subject more than 100 years ago: "all
+generalizations are false, including this one." I consider most investment generalizations as useless as
+that great oxymoron: "common sense."
+
+Back to equity risk premiums. The FierceFinance article in question led with the sentence, "The „great
+rotation‟ back into equities from bonds is unlikely to be seen in 2013 among most defined benefit pension
+funds in major markets, including the U.S., U.K. and Netherlands." It included a number of what I
+consider provocative statements:
+
+ that pension funds do want fewer bonds but generally not more stocks (raising the question of
+ where the money will go, and specifically how much money can responsibly be absorbed in asset
+ classes other than stocks and bonds),
+
+ that, according to one consultant "There is recognition that bonds represent minimal-risk assets,
+ so it‟s difficult for (plan executives) to abandon bonds in favor of equities. . ." (This overlooks the
+ fact that there‟s no such thing as a minimal-risk asset regardless of price, and few assets that have
+ been the beneficiaries of years of strong cash inflows can really be "minimal-risk"), and
+
+ "that investors are taking short-term tactical advantage of the rising equity premium by, for
+ example, allowing multiasset managers to drift toward the higher end of the equity allocation
+ range."
+
+So there we are, in the third bullet point, back to the matter of the equity risk premium.
+
+Everything You Ever Wanted to Know About Equity Risk Premiums (and Much More)
+
+The equity risk premium is generally defined as, "the excess return that an individual stock or the overall
+stock market provides over a risk-free rate." (Investopedia) Thus it is the incremental return that
+investors in equities receive relative to the risk-free rate as compensation for bearing the risk involved.
+
+The term is also used to describe the extent to which the return on stocks exceeds the return on bonds,
+again as compensation for bearing incremental risk. (For example, an August 18, 2011 article on the
+Seeking Alpha website, entitled "What the Equity Risk Premium Is Saying," discusses the prospects for
+stocks versus the ten-year U.S. Treasury note.)
+
+My real problem with the term - or, more correctly, the way it‟s used - has to do with one of the littlest
+words in the English language. Or, to paraphrase a former President of the United States, "it all depends
+on the meaning of the word is."
+
+Many people know what they think they mean when they talk about the existence and magnitude of the
+equity risk premium - or even what they actually mean - but I don‟t think many are logical or consistent
+in using it. My complaints surround the definition they apply to the term, and specifically the tense of the
+verb they employ (I‟m not just being grammatically picky).
+
+Most specifically, I strongly dislike the use of the present tense, as exemplified by the writer for P&I:
+"The long-term equity risk premium is typically between 4.5% and 5%." This suggests that the premium
+is something that solidly exists in a fixed amount and can be counted on to pay off in the future.
+
+Imagine instead that she had said "The long-term equity risk premium has typically been between 4.5%
+and 5%." This makes the premium seem more like a historical fact but also less dependable in the future
+(probably as it should be).
+
+The equity risk premium can actually be defined at least four different ways, I think:
+
+ 1. The historic excess of equity returns over the risk-free rate.
+ 2. The minimum incremental return that people demanded in the past to make them shift from the
+ risk-free asset to equities.
+ 3. The minimum incremental return that people are demanding today to make them shift away from
+ the risk-free asset and into equities.
+ 4. The margin by which equity returns will exceed the risk-free rate in the future.
+
+The four uses for the term are different and, importantly, all four are applied from time to time. And I‟m
+sure the four uses are often confused. Clearly the import of the term is very different depending on which
+definition is chosen. The one that really matters, in my opinion, is the fourth: what will be the
+payoff from equity investing. It's also the one about which it's least reasonable to use the word
+"is," as if the risk premium is a fact.
+
+What Will Equities Give You?
+
+There are problems with at least three of the four meanings. Only number one can be measured. There‟s
+a lot of data on the historic performance of stocks versus bonds and cash. In fact, in the 1990s Wharton
+Professor Jeremy Siegel documented to a fare-thee-well that stocks always won out over long periods of
+time. Of course the subsequent decade proved that didn‟t have to remain the case.
+
+Now it gets more interesting. Although we can calculate the amount by which stocks outperformed bonds
+or cash in the past (assuming you were looking at periods prior to 2000), I don‟t think that‟s the same as
+saying what risk premium was demanded by investors in the sense of definition number two above. If
+stocks outperformed by 5% over a ten-year period, that doesn‟t mean people demanded a 5% higher
+return to buy equities rather than bonds or the risk-free asset. They might have "demanded" more or less.
+It‟s just that they got 5%.
+
+In a similar vein, we can also talk about number three, the minimum return increment people are
+demanding today. But (a) the answer you come up with will depend on whom you ask, (b) they may or
+may not have given it rigorous thought, and (c) whatever they say is likely to have little impact on what
+relative returns turn out to be. Their answer is likely to tell you more about what they think they‟ll get
+than about what they‟re actually demanding . . . or what they will get.
+
+What matters for today‟s investor isn‟t what stocks returned in the past, or what equity investors
+demanded in the past or think they‟re demanding today. What matters is definition number four, what
+relative performance will be in the future. The most important thing of all is to realize that this can't
+be read anyplace. As Einstein said, in one of my favorite quotes, "Not everything that counts can be
+counted, and not everything that can be counted counts."
+
+Just as number four is the most important definition of the equity risk premium, the questions surrounding
+it are also significant. In my view, people tend to think of the equity risk premium (and other risk
+premiums) like credit spreads on bonds. I‟ve been dealing with credit spreads for 35 years. They are the
+entire raison d'être for high yield bond investing. And they have almost nothing in common with the
+equity risk premium.
+
+Let's say we want to assess the adequacy of the reward being offered for bearing the credit risk of a
+given B-rated high yield bond. We compute the yield to maturity or yield to call on the bond and
+subtract from it the yield to maturity on a Treasury security of the same duration. The result is the "yield
+spread" or "credit spread." That spread tells us what the prospective relative return is and - when
+assessed in the light of historic spreads, the spreads on other bonds, the riskiness of the bond in question,
+and the spreads on other bonds of similar, lesser or greater riskiness - whether the bond is rich or cheap.
+
+Now let's apply the same process to a stock, or the stock market. First, compute the prospective
+return on the stock. Oh yeah; right. There's no way to do that. Or rather there is, but it requires one
+to either (a) make an assumption about the growth rate of earnings per share to infinity or (b) make an
+assumption about the growth rate of earnings for a number of years and also the terminal p/e ratio that the
+market will apply to e.p.s. at the end of that period (which in turn will be a function of the growth of
+earnings from then to infinity). In other words, a simple mathematical calculation will tell us exactly
+what the promised return on a bond is (albeit not the probability that it will be received), while
+coming up with the future return for a stock requires making some massive guesses about the far-
+off future. That difference - in a nutshell - encapsulates a lot of the fundamental difference
+between investing in stocks and bonds.
+
+The bottom line: given that it‟s impossible to say with any accuracy what return a stock or the stock
+market will deliver, it‟s equally impossible to say what the prospective equity risk premium is. The
+historic excess of stock returns over the risk-free rate may tell you the answer according to
+definition number one, with relevance depending on which period you choose, but it doesn't say
+anything about the other three . . . and especially not number four: the margin by which equity
+returns will exceed the risk-free rate in the future.
+
+Another Call for Counter-Intuitiveness
+
+Many of the important things about investing are counterintuitive. Low-quality assets can be safer than
+high-quality assets. Things get riskier as they become more highly respected (and thus appreciate). There
+can be more risk in thinking you know something than in accepting that you don‟t. This counter-
+intuitiveness is a favorite theme of mine.
+
+And the theme is importantly at work with regard to the equity risk premium, and especially P&I‟s use of
+the term. I take great issue with their statement "The long-term equity risk premium is typically between
+4.5% and 5%." That may be what it "was" or "has been," but it doesn't tell us anything about what
+it "is" or "will be." We know we can‟t extrapolate returns on bonds or the risk-free asset from the past;
+certainly changes in interest rates over the last five years mean investors in these things will enjoy far
+lower returns in the years ahead than they used to. So then is it possible to know what we will get from
+equities? Or from equities relative to bonds or the risk-free rate? Clearly not. Thus I think it's
+dangerously misleading to say what the risk premium "is." That‟s probably enough on this subject.
+
+Let‟s move on to the final bullet point on page one and its reference to "the rising equity premium." The
+article discusses the case for an attractive equity risk premium in terms of definition number one -
+historically superior performance - since it goes on to point out that stocks outperformed bonds by an
+unusually large margin in the six months ended January 31, 2013 (11.23% for the Russell 3000 versus
+-0.29% for the Barclays Capital U.S. Aggregate Bond Index). But do six months of good performance
+say anything about a rising equity premium? And do they tell us anything at all about the future?
+
+Well, the answer to the first question lies in which definition you‟re following. Of course the data tells us
+what the relative performance was (and 2012 was a great year, for example, with the S&P 500 up roughly
+16% while the risk-less rate was close to zero). An equity risk premium defined this way is certainly in
+the best part of the historic distribution. But it tells us little about investors‟ past or present demanded
+returns. And what does it say about the prospects for continued outperformance?
+
+To me, the answer is simple: the better returns have been, the less likely they are - all other things
+being equal - to be good in the future. Generally speaking, I view an asset as having a certain quantum
+of return potential over its lifetime. The foundation for its return comes from its ability to produce cash
+flow. To that base number we should add further return potential if the asset is undervalued and thus can
+be expected to appreciate to fair value, and we should reduce our view of its return potential if it is
+overvalued and thus can be expected to decline to fair value.
+
+So - again all other things being equal - when the yearly return on an asset exceeds the rate at which it
+produces cash flow (or at which the cash flow grows), the excess of the appreciation over that associated
+with its cash flow should be viewed as either reducing the amount of its undervaluation (and thus
+reducing the expectable appreciation) or increasing its overvaluation (and thus increasing the price
+decline which is likely). The simplest example is a 5% bond. Let‟s say a 5% bond at a given price below
+par has a 7% expected return (or yield to maturity) over its remaining life. If the bond returns 15% in the
+next twelve months, the expected return over its then-remaining life will be less than 7%. An above-trend
+year has borrowed from the remaining potential. The math is simplest with bonds (as always), but the
+principle is the same if you own stocks, companies or income-producing real estate.
+
+In other words, appreciation at a rate in excess of the cash flow growth accelerates into the present some
+appreciation that otherwise might have happened in the future. Or to paraphrase Warren Buffett, "when
+people forget that corporate profits are unlikely to grow faster than 6% per year, they tend to get into
+trouble." I doubt he intended anything special about 6%, but rather a reminder that when assets
+appreciate faster than the rate at which their value grows, it isn‟t just a windfall but also a warning sign.
+
+Let‟s take a look at the 1990s, a decade full of lessons about equities. As of 1990, the historic return on
+equities stood at 9% or 10%, and for that reason attitudes toward them were generally favorable, with that
+9-10% return expected to repeat in future decades. But the ‟90s were a salutary period in terms of
+economic growth, corporate performance, technological and productivity gains, declining interest rates,
+low inflation and relative peace in the world (as well as naïve optimism regarding the benefits of a credit-
+
+fueled expansion, the profit potential of e-commerce companies, and the extent to which equity gains
+could be perpetuated). As a result, equity returns averaged 20% per year over the decade.
+
+What was investors' response? They ratcheted up their expectations. I believe by 2000 the
+professional consensus for future equity returns had risen from the 9-10% range to 11%. A decade of the
+highest returns in history had convinced people that more good years lay ahead. Few people seemed
+concerned that the extraordinary returns of the 1990s might have borrowed from the 2000s (as certainly
+seems to have been the case in retrospect). As a result, just when stock prices were reaching levels they
+wouldn‟t see again for more than a decade, bonds were being dumped so that equity allocations could be
+expanded to all-time highs.
+
+When I look at the P&I article, I see a statement that the equity risk premium is on the rise, but not a lot
+of reason why equities will do better in the future than they have in the past (or even specific mention of
+which past they‟ll do better than). Extrapolation or analysis? They're two very different things.
+
+Valuing Stocks Today
+
+The underlying reason it took so little from FierceFinance to get me going on this memo is that I had a lot
+of pent-up thoughts about equities and their current valuation. That‟s what the following pages will be
+spent on.
+
+Ironically given the extent to which I railed above about limiting the importance attached to the equity
+risk premium, some of the strongest arguments for stocks today surround their relative earning power. In
+view of the difficulty in quantifying the prospective returns on stocks, appraising their value relative to
+bonds or the risk-free asset is often best done through comparing their yields.
+
+Since most companies pay out a modest percentage of their earnings, dividend yields greatly understate
+companies‟ ability to earn money for their shareholders, and thus for their stocks to appreciate. A better
+measure of stocks‟ long-term potential may be found in their "earnings yield." The earnings yield is the
+reciprocal of the p/e ratio: the e/p ratio or ratio of earnings to price. To gauge relative price-
+attractiveness, it isn‟t unreasonable to compare the earnings yield on a stock against the yield on a bond
+(or against the risk-free rate).
+
+Let‟s review a few data points:
+
+ If the post-WWII average p/e ratio on equities was something like 16 (for an e/p ratio of 1/16, or
+ an earnings yield of about 6.25%) and if I guess at a "normal" risk-free rate of 3%, we get a
+ historic yield differential - we might call it the equity risk premium, defined this way - of 3.25%
+ (6.25% minus 3.00%), or 325 basis points. The ratio between the yields was 6.25%/3.00%, or
+
+ At the high in 2000, the p/e ratio on the S&P 500 was more like 32 (for an e/p ratio of 1/32, or an
+ earnings yield of 3.12%), and the 30-day T-bill rate was probably 2%. In that case the yield
+ differential or equity risk premium was a skimpy 1.12% (3.12% minus 2.00%), or 112 basis
+ points, and the ratio of the two was only 3.12%/2.00%, or 1.56x. In other words, stocks didn‟t
+ offer enough relative to fixed income, and that‟s the main reason why they‟ve performed so
+ poorly - both in absolute terms and relative to bonds - over the thirteen years since.
+
+ Where are we today? The p/e ratio on the S&P 500 is back to about 16, meaning the earnings
+ yield is 6.25% once again. I‟ll use a 30-day T-bill rate of 1.00% (it‟s actually closer to zero, but a
+ yield ratio approaching infinity wouldn‟t be meaningful). That gives us a yield differential of
+ 5.25% (6.25% minus 1.00%), or 525 basis points, and a yield ratio of 6.25%/1.00%, or 6.25x.
+
+So let‟s recap:
+
+Certainly the yield comparison is highly favorable for stocks today. In fact it‟s one of the best in the last
+century (probably barring only the early 1980s, when the p/e ratio on the S&P 500 fell to mid-single
+digits). Is that the whole story? It never is; nothing‟s that simple, especially in the world of investing.
+
+The problem with basing a pro-equities argument on the yield comparison is that most of equities'
+current attraction on that basis comes from the lowness of interest rates. Just about everyone
+knows (a) interest rates are artificially low because of central banks' efforts at stimulus and (b)
+rates will be considerably higher at some point in the intermediate term. In that case, rising rates
+would render stocks less attractive (all other things being equal, but they‟re not - see below).
+
+The Other Pros and Cons of Equities
+
+There are many ways to view valuation, and many elements in the current debate over equities. Here are
+a few of them (I‟ll start by reiterating the above for the sake of completeness):
+
+ The differential between the S&P earnings yield and the risk-free rate or the yields on bonds -
+ and their ratio - makes stocks look extremely cheap. PRO
+
+ The attractiveness of these relative valuation parameters is highly dependent on interest rates
+ staying low. CON (or LESS PRO)
+
+ Relative to normal post-WWII p/e ratios, stock prices are average to slightly low as a multiple of
+ projected earnings for the year ahead. PRO
+
+ Robert Schiller‟s cycle-adjusted p/e ratios are gaining increased attention, and they suggest full
+ rather than fair valuations. CON
+
+ Arguably earnings growth in the years ahead will be slower than that which prevailed in the
+ decades following WWII. Thus the post-war valuation norms are too high under the changed
+ circumstances and should be discounted. CON
+
+ The outlook for earnings is restrained by the questionable macro environment, including the
+ challenges in restarting growth and the dire prognosis for the federal deficit. These problems may
+ not be easily solved. CON
+
+ Among the things keeping earnings high - and thus making stocks seem attractive - are some of
+ the highest profit margins in history. If profit margins were to move toward normal levels, this
+
+ would bring down earnings, either taking stock prices down with them or lifting p/e ratios and
+ thus reducing stocks‟ attractiveness. CON
+
+ Corporate cash hoards are high, implying some combination of safety, potential for stock
+ buybacks, and possible dividend increases. These are all good for shareholders. PRO
+
+ Investor attitudes toward stocks remain tepid (see below). PRO
+
+ However, with the S&P 500 up 16% last year and 10% so far this year, it can‟t be argued that
+ stocks have been overlooked and or that attitudes towards them are still mired in the doldrums.
+ CON
+
+The Role of Investor Attitudes
+
+I covered this subject at length in "Déjà Vu All Over Again" (March 19, 2012). I‟m not going to drag
+you through it again, but I will copy over parts of that memo from a year ago:
+
+ . . . people have been throwing in the towel and selling stocks. Other things have come
+ into vogue, attracting the capital that used to be invested in stocks. Mutual fund investors
+ have turned their attention elsewhere. . . . Stocks have gone through a decade in which
+ their absolute return was negligible and their real return was negative. . . . They face a
+ litany of negatives, without any real possibility of relief . . .
+
+ The negative factors are clear to the average investor. And from them he draws negative
+ conclusions. But the person who applies logic and insight, rather than superficial views
+ and emotion, sees something very different.
+
+ He sees an asset class that is unloved. He sees stocks that have cheapened for a decade -
+ once dividends have been subtracted from the returns, and especially when prices are
+ viewed relative to earnings. He sees securities that are priced below the value of the
+ underlying assets on which they have a claim. He sees outflows of capital that, rather
+ than being a negative, have lowered prices and can give rise to a strong price rebound
+ when and if they reverse. Most of all, he sees an asset class to which no optimism is
+ being applied. . . .
+
+The thing to notice about the preceding paragraphs is that when I wrote them a year ago, I
+didn't do so to describe then-current market conditions. Rather, I was trying to capture
+conditions as they were in 1982, when BusinessWeek magazine carried a cover story
+trumpeting "The Death of Equities." My point was that in 1982, overly negative investors
+were fixated on the reasons for continued lethargy on the part of stocks, just when the scene was
+set for the greatest upsurge in stock market history.
+
+ . . . As something goes in one direction for a while, people conclude increasingly that it
+ always will . . . often just when the likelihood grows that it will reverse instead. And that
+ was the greatest shortcoming of "The Death of Equities." The extrapolator threw in
+ the towel on stocks, just as the time was right for the contrarian to turn optimistic.
+ And it will always be so.
+
+I didn‟t think last year that the extent of the undervaluation was anywhere as great as it had been in 1982,
+but I did think the conditions were similar in kind. Nothing sets the stage for an upturn as well as
+excessive negativism - or at minimum excessive disinterest. And that‟s what I sensed in the stock market
+last year, following on the heels of a twelve-year malaise. Thus I don‟t consider it a freak occurrence that
+stocks all around the world went on to have an excellent year in 2012.
+
+Many conditions remain similar . . . again, in kind. Equity mutual funds are seeing only modest
+inflows, albeit the outflows have stopped. Even though they've appreciated, stocks still aren't
+highly valued. Many institutions have allocations to equities that are well below the average of the
+last fifty years, and no one's rushing to move them up. In other words, I'm comfortable saying
+attitudes toward equities are characterized by relative disinterest and apathy.
+
+This is certainly something that can turn. If it turns, it can have a significant impact. And what is most
+likely to turn it? It won‟t necessarily take a "grand bargain" in Washington to solve the nation‟s fiscal
+problems, or a sudden rebirth of economic growth worldwide, or the invention of the next iPhone. All
+that‟s required is another good year or two for stocks and a switch in investor psychology from "stocks
+are unlikely to do anything but extend the „lost decade‟ " to "hey, I‟m afraid I might not be positioned
+adequately to participate in the next bull market."
+
+A move upward can be powered by a switch from the fear of losing money to the fear of missing
+opportunity. When attitudes are moderate and allocations are low, it doesn't take much.
+
+ * * *
+
+In the mid-1970s I was fortunate to happen upon one of the first of the time-worn pearls of wisdom that
+contributed so much to my education as an investor. It described the three stages of a bull market:
+
+ the first, when a few forward-looking people begin to believe things will get better,
+ the second, when most investors realize improvement is actually underway, and
+ the third, when everyone‟s sure things will get better forever.
+
+In "The Tide Goes Out," written in March 2008, several months before the lows of the financial crisis, I
+applied the same thinking to the converse - the three stages of a bear market:
+
+ the first, when just a few prudent investors recognize that, despite the prevailing bullishness,
+ things won‟t always be rosy,
+ the second, when most investors recognize things are deteriorating, and
+ the third, when everyone‟s convinced things can only get worse.
+
+Hindsight always makes it clear what was going on at a particular point in time. It‟s a snap now to say
+the second quarter of 2007 marked the third stage of a bull market: no one could think of a way to lose
+money. And in the fourth quarter of 2008 (for credit) and the first quarter of 2009 (for equities), we were
+certainly in the third stage of a bear market: most people thought the financial system was about to
+collapse, and securities that had halved in price could do nothing but halve again.
+
+But the study of market history only makes us better investors if it teaches us how to assess
+conditions as they are, rather than in retrospect. When I wrote "Déjà Vu All Over Again" a year ago,
+it was my feeling that equities were in the first stage of a bull market. Experience had been so bad for so
+
+long - and the level of disinterest was so high - that only a few investors thought equities could ever
+catch on again. Those low expectations, when combined with modest fundamental and psychological
+improvement, gave the S&P 500 a return of about 13% over the year since that memo was written.
+
+So now we have a somewhat improved fundamental environment, a generally more optimistic group of
+investors, and stock prices that are a fair bit higher. No one should say the likelihood of improvement
+is entirely unrecognized today, as would have to be the case for this to still be stage one. I think the
+existence of improvement is generally accepted, but that acceptance is neither extremely
+widespread nor terribly overdone. Thus I'd say we're somewhere in the first half of stage two.
+Pessimists no longer control market prices, but certainly neither have carefree optimists taken over.
+
+ * * *
+
+A great rotation? Maybe . . . or maybe not. Nowadays pundits and the media are quick to come up
+with cute labels - usually just the right size for a headline or sound bite - to describe things that are taking
+place or that "everyone knows" are just around the corner. I don't know whether it's going to be great.
+Heck, I don't even know if it'll happen. But I like to enumerate the pros and cons and try to put them in
+perspective, as much as I like skewering excessive generalizations and pat pronouncements.
+
+Of course, doing that isn‟t enough. I feel I should come down on one side or the other. Thus I'm quite
+comfortable imagining a few years of equity performance that provide a pleasant surprise relative
+to what I think is the prevailing expectation of 6% or so per year.
+
+And if I‟m wrong - if there is no rotation from fixed income to stocks - I‟m not that worried that I‟ll end
+up with great regret over having failed to pile into T-bills yielding zero or the 10-year note guaranteeing
+2.0%. When attitudes are moderate and allocations are low, like I feel is currently the case with equities,
+there‟s little likelihood of investing being a big mistake. And when interest rates are among the lowest in
+history, it would take deflation, depression or calamity to make failing to invest in Treasurys and high
+grade bonds a serious omission.
+
+
+Memo: The Role of Confidence.
+
+Confidence is generally defined as belief in one's ability to choose a course of action and execute
+on it. Although it's not part of the definitions I've consulted, I think confidence also connotes
+optimism (at least it does among investors). Finally, there's an element of certainty: beyond an
+optimistic view of the future, there's conviction that view is correct. Taken together, the
+ingredients I see in confidence - belief, optimism and certainty - combine to create a feeling
+of well-being. Confident investors are sure big returns lie ahead.
+
+The Confidence Effect
+
+The so-called "wealth effect" plays an important and well recognized part in the functioning of
+an economy. In short, when assets appreciate in value, the owners of those assets translate their
+increased wealth into increased spending. While at first glance this is unsurprising, it should be
+noted that this is true even if the appreciation is unrealized, and thus the increased wealth exists
+solely on paper. The relationship can be simply stated as follows: the richer people feel, the
+more they spend.
+
+Changes in confidence have an impact on behavior similar to the wealth effect. That's what this
+memo is about.
+
+I have long been impressed by the role of confidence in an economy. In fact, I've written in the
+past - exaggerating only slightly - that sometimes I think confidence is all that matters. I
+consider its impact to be significant, pervasive, self-reinforcing and self-fulfilling.
+
+The primary impact of confidence on the economy is simple. If people think the economic
+future will be good, they'll spend and invest . . . thus things will be good.
+
+ Consumers' optimism will translate into incremental demand for goods, adding to GDP.
+ Consumer buying will convince businesses to invest in expanded facilities and additional
+ workers in order to keep up with growing demand.
+ Businesses' investment in plant and workers will add to GDP.
+ Newly hired workers will have money to spend, and their buying will add further to the
+ cycle.
+ The reports of confidence-fueled increases in GDP and other positive mentions of the
+ economy in the media will reinforce this virtuous circle of optimism: back to step one.
+
+So, just like the wealth effect, increased confidence makes people and businesses spend more,
+and this in turn cycles back into the economy. Confidence leads to spending; spending
+
+strengthens the economy; and economic strength buttresses confidence. It's a circular, self-
+fulfilling prophesy.
+
+Confidence can also fuel market movements. Belief that the price of an asset will rise causes
+people to buy the asset . . . making its price rise. This is another way in which confidence is self-
+fulfilling.
+
+Of course, the confidence that underlies economic gains and price increases only has an impact
+as long as it exists. Once it dies, its effect turns out to be far from permanent. As the economist
+Herb Stein said, "If something cannot go on forever, it will stop." This is certainly true for
+confidence and its influence.
+
+Confidence Today
+
+Back in September, I wrote a memo entitled "On Uncertain Ground." It began as follows: "The
+world seems more uncertain today than at any other time in my life." I went on to review the
+many elements contributing to uncertainty. For the sake of completeness, I'm going to restate
+and update my list. These are things I'm asked about all the time. I don't recall another time
+when the list was as long:
+
+In the U.S.:
+
+ Will the recovery from the recession of 2008 - long in the tooth but still halting and
+ unsteady - ever gain vitality? Today it seems we're experiencing "two steps forward,
+ one step back," as positive reports are regularly mixed with disappointments. Further,
+ even the improvements - in areas like job creation, consumer confidence and
+ manufacturing output - seem tepid rather than eye-popping. This is quite different from
+ the recoveries of the last few decades.
+ To what extent will the recovery be impaired by recent tax increases and the budget cuts
+ mandated by "sequestration"?
+ When will sales increases overcome businesses' resistance to spending on plant and
+ personnel?
+ How much longer will the Fed keep interest rates low? Three months? Three years? In
+ perpetuity?
+ What will happen when it no longer does? Will rates rise? How much? Will the effect
+ of higher rates on the cost of financing purchases and investments be enough to slow the
+ economy? And what will be the impact of higher rates on the government's cost of
+ financing, and thus on the deficit?
+ What are the implications of the fact that the Fed's balance sheet has swelled to over $3
+ trillion? How does the Fed pay for the bonds it buys under QE? Will it have to pay that
+ money back? Will the Treasury have to pay off the Fed when the debt matures? Where
+ will it get the money? And where will the money go? (Think about this for a minute: do
+ you feel you understand the workings of this process? Do you know anyone who does?)
+ Will our economy ever get back to the higher growth rates of the late twentieth century,
+ or will we be stuck in a slow-growth mode?
+
+ Will "structural unemployment" in the future remain stubbornly above the 5% or so of
+ the last few decades?
+ Will profit margins retreat from their current record levels, and if so, what will be the
+ effect on corporate profits?
+ Longer term, can progress ever be made on cutting the budget deficit and reducing the
+ unfunded entitlement obligations?
+ What will be the social ramifications of slow growth, high unemployment and increased
+ income disparity?
+ Will the U.S. devalue the dollar, the usual path to dealing with excessive national debt?
+ Will slow growth lead to Japan-style deflation? Or will high-volume money printing to
+ make it easier to repay the debt bring on chronic inflation? (The mere fact that intelligent
+ people worry simultaneously about both these polar opposites is in itself an indicator of
+ the high level of uncertainty that is present.)
+
+In Europe:
+
+ Can the seeming downward spiral in peripheral Europe's economies be arrested?
+ Can Europe's excessive indebtedness be brought down, and can the chronic deficits that
+ led to that level of indebtedness be trimmed through austerity?
+ Will richer nations continue to support poorer without insisting on the latter applying
+ painful austerity?
+ In practical terms, can austerity be undertaken at a time of economic weakness? If
+ austerity is continued, are recession, suffering and unrest unavoidable?
+ Won't voters demand isolationism in the richer nations and relief from the pain of
+ austerity in the poorer nations? Won't elected leaders offering anything else be ousted?
+ Will the highly restrictive regulations and labor laws be eased so as to enable Europe to
+ compete on an equal footing with the rest of the world?
+ Longer term, will the nations of Europe give a central body the control over economies
+ and financial institutions required for an effective economic union?
+ Will UK voters vote in the coming referendum to stay in the European Union or leave?
+ Will the EU remain intact? Is a political union in which actions require unanimous
+ support practical? Can governance and coordination be improved?
+
+Regarding Leadership:
+
+ Are there leaders - anywhere in the world - of the caliber we need to see us through these
+ uncertain times?
+ Can officials who seek re-election first and foremost rise to the occasion and make the
+ tough decisions needed to apply unpopular solutions to problems, rather than palliative
+ Band-Aids?
+ Will the successors to Geithner and Bernanke prove up to the task of continuing the
+ recovery while weaning the economy from ultra-low interest rates?
+ Is it conceivable that America's elected leaders will create an environment in which
+ uncertainty over taxation, regulation and healthcare costs no longer discourages
+ businesses from investing in plant and personnel?
+
+Miscellany:
+
+ Will China's credit-abetted economy experience a hard landing or a soft one?
+ If China's growth slows, what will be the effect on nations such as Brazil, Australia and
+ Canada that have prospered by supplying it with commodities? What will happen to
+ commodity prices?
+ Will Prime Minister Abe's monetary and fiscal program be enough to wake Japan's
+ economy from its lethargy?
+ Will fracking allow the U.S. to achieve energy self-sufficiency? If so, what will that do
+ to its manufacturing competitiveness and to the price of oil?
+ What will happen in hot spots such as the Middle East, Iran and North Korea?
+
+Significant uncertainty is one of the outstanding characteristics of today's investing environment.
+It discourages optimism regarding the future and limits investors' certainty that the future is
+knowable and controllable. In other words, it saps confidence. This is a major difference from
+conditions in the pre-crisis years.
+
+Confidence in 2007
+
+When I think about how the investment environment of today differs from earlier times,
+the greatest change of all jumps out at me. Let's go back to just before the onset of the sub-
+prime crisis in mid-2007. I think in those days most people were 100% certain they knew:
+
+ what made the global economy tick,
+ what the economic and business world would look like in five or ten years, and
+ what it would take to fix something that went wrong.
+
+Belief in the things listed above largely eliminated uncertainty regarding the future and
+contributed to an extremely high level of confidence. No one thinks that way today.
+
+Confidence: Good or Bad?
+
+Let's say I have accurately described that confidence, optimism and certainty were high in 2007
+and low in 2013. Here's a key question that I've been wrestling with: which is more
+desirable?
+
+The answer is largely a function of your timeframe. The high level of confidence in 2007 - not
+unlike that of the 1990s - contributed to a feeling of great well-being. The feeling that nothing
+would go wrong - that a perpetual-motion machine could be counted on to keep things on
+an upward course forever - contributed to rampant consumer optimism, aggressive
+spending, rising economic aggregates, accommodative capital markets and strong asset
+prices. It sure felt good.
+
+But was it desirable? It was not, in my view, because hindsight shows perception to have been
+very much out of proportion with reality, and thus dangerous:
+
+ Consumer confidence, and thus spending, was too high relative to incomes.
+ Excessive spending - all around the world, at all economic levels - led to excessive use
+ of credit, making the world highly overleveraged.
+ Buying fueled by confidence and leverage caused asset prices to rise out of proportion to
+ value.
+
+I often say the riskiest thing in the world is widespread belief that there's no risk. And certainly
+that was the prevailing condition in the pre-crisis years of 2005-07, as well as during the tech
+bubble of the late 1990s. In both instances the "era of well-being" was followed by a significant
+economic slowdown and market decline.
+
+A feel-good environment characterized by strong confidence creates pleasant current
+conditions but encourages dangerous behavior and an ascent (in the economy and the
+markets) from which a correction becomes inevitable. In that way, the less confident
+attitudes of 2013 create a lackluster, less enjoyable environment, but also a preferable and
+more prudent base for the future. (The wild card, as described in "Ditto," January 7, 2013, is
+that the actions of central banks to lower interest rates have caused even unconfident investors to
+engage in pro-risk behavior, setting the stage for the market declines of June and perhaps for
+additional pain in the future.)
+
+I've previously told the story of having been in New York on 9/11, and of requiring several days
+to get back to Los Angeles. When I eventually reached home, my son Andrew asked me, "Dad,
+is the world less safe than it used to be?" My answer was, "Maybe it's less safe than it used to
+be, or maybe it was never as safe as everyone thought it was." Certainly it's healthier to
+recognize and accept uncertainty than to act as if the world is a safe place if it's not. That
+goes double for the world of investing.
+
+The Pendulum in Confidence
+
+I probably write more about the pendulum of investor psychology than I do anything else. It was
+the subject of my second memo, in 1991, and my belief in its impact has grown unabated ever
+since.
+
+The pendulum swings with regard to many facets of the market, and it often swings to extremes:
+
+ between optimism and pessimism,
+ between greed and fear,
+ between euphoria and depression,
+ between credulousness and skepticism,
+ between risk tolerance and risk aversion, and thus
+ between reckless aggressiveness and excessive caution.
+
+While the pendulum moves with regard to all these things, the swinging movement, the extent
+and the error all reflect common themes. They're all examples of the ways in which, as Mark
+Twain said, history rhymes.
+
+Let's take for an example one regard in which the pendulum swings: investor attitudes toward
+emerging markets. Sometimes they're considered scary and exotic places, and sometimes
+they're the attractive high-growth alternative to the stagnant developed world. When people
+have confidence in the emerging markets and see only their virtues, the stocks sell at U.S.-style
+p/e ratios (where they're described as being cheap given the superior growth rates). But when
+problems emerge and confidence falters, investors will only buy emerging market stocks at
+discount p/e's so as to have the benefit of the risk premiums they consider necessary. I've seen
+this swing - just like the others - numerous times.
+
+I'm thinking back to 1994, when NAFTA was enacted, easing trade in North America. People
+were in awe of Mexico: "It's just like the U.S., but it grows much faster." So money flowed to
+Mexican stocks, and they boomed. But then, in short order, there occurred a revolt in the state of
+Chiapas, the assassination of a presidential candidate, and the devaluation of the Mexican peso,
+triggering the so-called "Tequila Crisis." And the pendulum swung back toward concern: "Oh,
+right - there are differences."
+
+And just a few years ago, the consensus of investors held that it was all over for the developed
+world, and China was the only economy with potential thanks to its growing population, low
+labor costs and expanding consumer class. As a result there was too much confidence in China
+and too little in the rest of the world. China does have many advantages, and the problems of the
+developed world aren't imaginary. But that doesn't mean Chinese equities are worth the moon
+and developed world equities are without value. So after Chinese stocks did much better than
+developed world stocks in 2009, they were primed for subsequent underperformance.
+
+Now with China reporting slower growth - and with the threat of reduced bond buying by the
+Fed eating into expectations for growth worldwide (and, with it, demand for China's exports) -
+confidence in China has receded. As a hedge fund strategist said in The Wall Street Journal on
+July 15, "It's not all sunshine in emerging markets anymore."
+
+Summing up, I think it's fair to say one of the key swings of the investment pendulum is
+between too much confidence and too little.
+
+ At the positive extreme, people believe only good outcomes are possible, and that they
+ (or their managers) are competent to fashion portfolios that will expose them to all of the
+ market's gains and few of its losses, to pick the winners and avoid the losers, and to ride
+ the market's rise and get out just as it crests.
+
+ And at the negative extreme, they conclude only bad outcomes are possible, and that any
+ efforts to add value or cope with the market's vicissitudes on their part or the part of their
+ now-defrocked managers will be utterly unavailing.
+
+As we've seen endless times, investors reach the overconfident state when things have been
+going well for a while, meaning prices have already soared. And, alternatively, the latter
+hopeless state is inevitably reached after a bubble has been punctured, the news has turned
+unremittingly negative, and prices have collapsed.
+
+This is the pattern that makes the herd wrong at the extremes and creates the rewards for
+contrarianism. And it's behind my favorite Warren Buffett quote: "the less prudence with which
+others conduct their affairs, the greater the prudence with which we should conduct our own
+affairs." When most investors are driven to drop their prudence by an excess of confidence,
+we should be terrified. In the same way, when most investors become devoid of confidence
+and flee the market, we should turn aggressive.
+
+All Good or All Bad?
+
+One of the things worth noting about the swing in confidence is not merely that it rises and falls,
+but that it is often marked by "all-good" or "all-bad" thinking. In short, when investors are
+optimistic regarding the future:
+
+ They tend to see the positives, by which they're incredibly impressed, and overlook the
+ negatives.
+ If they consider negatives at all, they fall for rationalizations that refute them. Foremost
+ here is the old standby: "It's different this time."
+ Isolated positive developments, often random or fortuitous, are generalized into an
+ irresistible virtuous circle. Coincidences are accepted as part of a bullet-proof cause-and-
+ effect process.
+
+This unobjective process eliminates balanced analysis and leads to dangerously
+unwarranted levels of confidence, and thus of investment risk.
+
+The years leading up to the financial crisis of 2008 were marked by the most extreme all-good
+thinking I've ever seen. In fact, when The New York Times asked me to write an article on the
+cause of the crisis, the one I wrote was titled "Too Much Trust; Too Little Worry." I said an
+excessive level of confidence had caused investors in 2005-07 to:
+
+ stop applying skepticism,
+ stop worrying about losing money,
+ stop doing thorough due diligence,
+ stop factoring in conservative assumptions,
+ stop applying risk aversion,
+ stop denying capital to risky schemes, and
+ stop demanding adequate risk premiums.
+
+In mid-2007 I was working on a memo with the projected title "The Mother of All Cycles." But
+I got worried about how people would react to my borrowing a phrase from Saddam Hussein, so
+
+when it was published on July 16, I changed the title to "It's All Good." In the memo I
+complained that every asset class, every asset and every region was appreciating.
+
+ In terms of amplitude, breadth and potential ramifications, I consider it the
+ strongest, most heated upswing I've witnessed. A lot of this is because people
+ seem to think everything's good and likely to stay that way.
+
+As I saw it, overconfident investors were ignoring the possibility of things going down as well as
+up, swallowing promises of limitless potential, suspending disbelief, accepting financial
+innovation as sure to work, and embracing the trend toward increased leverage.
+
+Of course, this house of cards fell apart in short order. Thus that memo was followed by "It's
+All Good . . . Really?" two weeks later, on July 30, and then by "Now It's All Bad?" on
+September 10. In just eight weeks, confidence had evaporated and been replaced by widespread
+pessimism. And just a year after that, we witnessed the bankruptcy of Lehman Brothers and the
+onset of the worst financial crisis in 80 years.
+
+What this reminds us is how dangerous the world can be when confidence is too high and
+people are too comfortable. Also, the speed with which things can reverse demonstrates, as my
+partner Sheldon Stone says, that the air goes out of the balloon much faster than it goes in. It
+usually takes years for confidence to reach a dangerous zenith, but then only weeks or months
+for it to collapse.
+
+When people conclude that all the merit is on either the positive or negative side of the argument,
+they reach extreme conviction regarding their view of the future and become certain they know
+
+what to do. But all-good or all-bad attitudes are rarely right, since there are invariably valid
+points on both sides and they mustn't be ignored. Mark Twain said, "It ain't what you don't
+know that gets you into trouble. It's what you know for sure that just ain't so." Most of the
+time, limits on confidence are more desirable than cocksureness. Over-confidence in one's
+judgment is very dangerous.
+
+The Bull/Bear Cycle
+
+In March 2008, in "The Tide Goes Out," I repeated one of the most helpful of all the adages to
+which I hold - the description of the three stages of a bull market:
+
+ the first stage, when a few forward-looking people begin to believe things will get better,
+ the second, when most investors realize improvement is actually underway, and
+ the third, when everyone's sure things will get better forever.
+
+What does it really mean? The essential raw material for a bull market is cheapness, and
+that cheapness exists in stage one precisely because there are so few believers and so little
+confidence that favorable developments and good times lie ahead. Thus stage one provides
+the launching pad for a bull market.
+
+Equally, in the third stage the bull market is primed to end - with the bubble popping and a
+down-cycle setting in - for the simple reason that there are too many believers (and too few
+skeptics). In short, there's too much confidence and too little cheapness. It's this imbalance
+that creates market tops. The extremeness of the bull-market upswing - just like the
+downswing of its bear-market counterpart - gives investors what should be an important signal.
+
+The Sure Thing
+
+Investors may profess confidence in their ability to grapple with the future, but deep down many
+sense their own limitations and feel at sea. Thus they're prime targets for the newly minted
+"silver bullet" that's touted as sure to deliver return without commensurate risk. They develop
+outsized confidence in it, especially if at first it provides the hoped-for results. The most
+attractive of these are often mechanical, since their perfection stems from a dependable machine
+rather than a mysterious swami.
+
+ In 1987, investors fell for "portfolio insurance," under which they could take on
+ disproportionately large equity allocations, secure in the knowledge that if the market
+ started down, the technique would automatically enter sell orders. But when the Dow
+ Jones Industrial Average fell 22.6% on Black Monday (October 19), many brokerage
+ firms refused to answer their phones, the sell orders weren't executed, and the "sure
+ thing" turned out not to be.
+
+ In the early 2000s, "portable alpha" promised high returns by overlaying hedge funds
+ with equity futures. But when stocks fell, it became clear that the previous high returns
+
+ had come not from the value added by a dependable process, but from the fact that in
+ essence the futures had allowed people to be more than 100% invested in a rising market.
+
+ And more recently, "risk parity investing" worked through volatile times because it gave
+ its followers greater strategic diversification, defensiveness and bond exposure than most
+ other investors had. But it, like most other things, failed to prevent losses when Ben
+ Bernanke spooked the market by threatening to ease off bond buying and let interest rates
+ rise. This year's results for risk parity show that nothing works all the time.
+
+The point is that no mechanical tools can enable investors to prosper under all
+circumstances. They can provide tilts or reduce exposures, but the tool that promises a mix
+of good results and great results without the possibility of bad results is too good to be true.
+And when excessive confidence develops in such things, investors are heading for trouble.
+
+The same is true for the Greenspan put and its successor, the Bernanke put. Alan Greenspan's
+tenure as Fed chairman was marked by efforts to avoid problems by injecting liquidity and
+lowering interest rates. Investors put great stock in his ability to keep things moving ever
+upward. His policies prevented occasional corrections along the way, but the price paid was a
+big one: the financial crisis of 2008. Those who had believed in Greenspan's omnipotence were
+unprepared for the consequences. Ben Bernanke succeeded Greenspan, and his own successor is
+likely to be announced soon. We must beware of equally excessive confidence in any
+individual's abilities.
+
+There is no magic solution. Nothing and no one can render economies, markets or portfolio
+results capable of rising but never falling. Awareness of that is wise. Belief to the contrary is
+dangerous.
+
+ * * *
+
+As mentioned above, I think recently many investors have been holding riskier positions than are
+natural for them, largely because, thanks to the Fed's low-rate policies, the lower-risk things they
+might have preferred offered so little return. Thus their investing actions were coerced, rather
+than being undergirded by confidence in the fundamentals.
+
+The uncertainty that has been present in the last few years should have had a healthy effect on
+the environment by calling for a high level of prudence . . . if the Fed had let it take effect. But
+instead the Fed forced people into risk taking, and the combination of risk taking and weak
+resolve had the anticipatable effect when the first doubts reared their heads.
+
+In May, Chairman Bernanke indicated that with the economy performing acceptably, the Fed's
+bond buying might soon taper off, implying that higher interest rates were acceptable. This
+shouldn't have come as a surprise, since when recovery occurs, a reduction of stimulus should be
+anticipated. The stock and bond markets' subsequent dramatic swoons showed that the
+fundamental confidence underlying investors' holdings of risk assets had been weak and
+
+vulnerable, and that there had been too much reliance on the Fed keeping rates low. All of a
+sudden investors were less sure the world looked right, what the future held, and how to make
+money in it.
+
+Investors remain uncertain, and that's good. Now that a bout of worry has been experienced, the
+credit markets are healthier (e.g., offering higher returns) than they were two months ago.
+
+If the economy continues to recover and the Fed's bond buying eases off, interest rates are likely
+to go further on the upside. But given the modest level of confidence at play, the markets should
+not turn out to be perilous. Most assets are neither dangerously elevated (with the possible
+exception of long-term Treasury bonds and high grades) nor compellingly cheap. It's easier to
+know what to do at the extremes than it is in the middle ground, where I believe we are
+today. As I wrote in my book, when there's nothing clever to do, the mistake lies in trying
+to be clever. Today it seems the best we can do is invest prudently in the coming months,
+avoiding aggressiveness and remembering to apply caution.
+
+ * * *
+
+A word about the long run: While conditions, confidence and asset prices all seem
+moderate today, meaning there's nothing brilliant to say about the short-term outlook, the
+long term remains worrisome. Because the U.S. is still able to attract capital from abroad and
+print money, our financial problems aren't pressing at the moment. But the combination of
+intractable deficit spending, unsustainable entitlement promises and a total dearth of responsible
+action in Washington certainly raises alarms regarding the future.
+
+Since I see no reason to reinvent the wheel when someone I respect has said something better
+than I could, I'll close with a few words from Seth Klarman (emphasis added). Seth doesn't find
+much in the things he discusses to inspire confidence, and I agree:
+
+ There is no free lunch in economics: if governments could print or borrow money
+ in astronomical amounts without any major adverse consequences, why wouldn't
+ they always do this, forever avoiding downturns while their countries bask in the
+ sunshine of limitless prosperity? Indeed it seems clear that prior misplaced
+ confidence in the Fed contributed greatly to years of complacency that turned the
+ 2008 downturn into a full-blown crisis. Of course there will be a price to pay for
+ today's policy excesses - an equal and opposite reaction. We just haven't seen it
+ yet. Will it take the form of a collapse of the dollar and the end of dollar
+ hegemony, high interest rates, failed auctions of U.S. government securities and
+ runaway inflation, a wrenching and protracted downturn requiring exceptional
+ sacrifice, or something else? We will find out soon enough.
+
+ In most sectors of the economy - government, individual but also corporate - the
+ U.S. has borrowed heavily to live beyond its means; we have been consuming
+ through easy credit what we otherwise would have had to wait to buy. In the
+ words of Michael Lewis, "Leverage buys you a glimpse of a prosperity you
+
+ haven't really earned." Asset values are contingent, as Jim Grant once said. But
+ debt is forever. Instead of cutting back on leverage and getting our house in
+ order, government response to the crisis has been to shift unaffordable debt from
+ individual balance sheets onto the national ledger, where every day we owe more
+ than ever before. . . .
+
+ I believe it is possible that the average citizen understands our country's fiscal
+ situation better than many of our politicians or prominent economists. Most
+ people seem to viscerally recognize that the absence of an immediate crisis does
+ not mean we will not eventually face one. They are wary of believing promises
+ by those who failed to predict previous crises in housing and in highly leveraged
+ financial institutions. They regard with skepticism those who don't accept that
+ we have a debt problem, or insist that inflation will remain under control.
+ (Indeed, they know inflation is not well under control, for they know how far the
+ purchasing power of a dollar has dropped when they go to the supermarket or
+ service station.) They are pretty sure they are not getting reasonable value from
+ the taxes they pay.
+
+ When an economist tells them that growing the nation's debt over the past 12
+ years from $6 trillion to $16 trillion is not a problem, and that doubling it again
+ will still not be a problem, this simply does not compute. They know the
+ trajectory we are on, and that the most successful country in the history of the
+ world can go into decline if it becomes arrogant or complacent. When politicians
+ claim that this tax increase or that spending cut will generate trillions over the
+ next decade, they are properly skeptical over whether anyone can truly know what
+ will happen next year, let alone a decade or more from now. They are wary of
+ grand bargains that kick in years down the road, knowing that the failure to make
+ hard decisions is how we got into today's mess. . . .
+
+ And when you tell the populace that we can all enjoy a free lunch of
+ extremely low interest rates, massive Fed purchases of mounting treasury
+ issuance, trillions of dollars of expansion in the Fed's balance sheet, and huge
+ deficits far into the future, they are highly skeptical not because they know
+ precisely what will happen, but because they are sure that no one else - even,
+ or perhaps especially, the policymakers - does either.*
+
+* Seth has asked me to point out that his remarks are copyright 2013 The Baupost Group,
+dissemination or redistribution is prohibited, whether electronically or in paper form.
+
+
+Memo: The Race Is On.
+
+I've written a lot of memos to clients over the last 24 years - well over a hundred. One I'm particularly
+proud of is The Race to the Bottom from February 2007. I think it provided a timely warning about the
+capital market behavior that ultimately led to the mortgage meltdown of 2007 and the crisis of 2008. I
+wasn't aware and didn't explicitly predict (in that memo or elsewhere) that the unwise lending practices
+that were exemplified in sub-prime mortgages would lead to a global financial crisis of multi-generational
+proportions. However, I did detect carelessness-induced behavior, and I considered it worrisome.
+
+As readers of my memos know, I believe strongly that (a) most of the key phenomena in the investment
+world are inherently cyclical, (b) these cycles repeat, reflecting consistent patterns of behavior, and (c) the
+results of that behavior are predictable.
+
+Of all the cycles I write about, I feel the capital market cycle is among the most volatile, prone to some of
+the greatest extremes. It is also one of the most impactful for investors. In short, sometimes the credit
+window is open to anyone in search of capital (meaning dumb deals get done), and sometimes it
+slams shut (meaning even deserving companies can't raise money). This memo is about the cycle's
+first half: the manic swing toward accommodativeness.
+
+An aside: I recently engaged in an exchange with a reader who took issue with my use of the word
+"cycle." In his view, something is a cycle only if it's so regular that the timing and extent of its ups and
+downs can be predicted with certainty. The cycles I describe aren't predictable as to timing or extent.
+However, their fluctuations absolutely can be counted on to recur, and that's what matters to me. I think
+it's also what Mark Twain had in mind when he said "History doesn't repeat itself, but it does rhyme."
+The details don't repeat, but the rhyming patterns are extremely reliable.
+
+Competing to Provide Capital
+
+When the economy is doing well and companies' profits are rising, people become increasingly
+comfortable making loans and investing in equity. As the environment becomes more salutary, lenders
+and investors enjoy gains. This makes them want to do more; gives them the capital to do it with; and
+makes them more aggressive. Since this happens to all of them at the same time, the competition to lend
+and invest becomes increasingly heated.
+
+When investors and lenders want to make investments in greater quantity, I think it's also inescapable that
+they become willing to accept lower quality. They don't just provide more money on the same old terms;
+they also become willing - even eager - to do so on weaker terms. In fact, one way they strive to win
+the opportunity to put money to work is by doing increasingly dangerous things.
+
+This behavior was the subject of The Race to the Bottom. In it I said to buy a painting in an auction, you
+have to be willing to pay the highest price. To buy a company, a share of stock or a building - or to make
+a loan - you also have to pay the highest price. And when the competition is heated, the bidding goes
+higher. This doesn't always - or exclusively - result in a higher explicit price; for example, bonds rarely
+come to market at prices above par. Instead, paying the highest price may take the form of accepting
+
+a higher valuation parameter (e.g., a higher price/earnings ratio for a stock or a higher multiple of
+EBITDA for a buyout) or accepting a lower return (e.g., a lower yield for a bond or a lower
+capitalization rate for an office building).
+
+Further, rather than paying more for the asset purchased, there are other ways for an investor or lender
+to get less for his money. This can come through tolerating a weaker deal structure or through an
+increase in risk. It's primarily these latter elements - rather than securities merely getting pricier - with
+which this memo is concerned.
+
+History Rhymes
+
+In the pre-crisis years, as described in the 2007 memo, the race to the bottom manifested itself in a
+number of ways:
+
+ There was widespread acceptance of financial engineering techniques, some newly minted,
+ such as derivatives creation, securitization, tranching and selling onward. These innovations
+ resulted in the creation of such things as highly levered mortgage-backed securities, CDOs and
+ CLOs (structured credit instruments offering tiered debt levels of varying riskiness); credit default
+ swaps (enabling investors to place bets regarding the creditworthiness of debtors); and SPACs
+ (Special Purpose Acquisition Companies, or blind-pool acquisition vehicles). Further, the
+ development of derivatives, in particular, vastly increased the ease with which risk could be
+ shouldered (often without a complete understanding) as well as the amount of risk that could be
+ garnered per dollar of capital committed.
+
+ While not a novel development, there was an enormous upsurge in buyouts. These included
+ the biggest deals ever; higher enterprise values as a multiple of cash flow; increased leverage
+ ratios; and riskier, more cyclical target companies, such as semiconductor manufacturers.
+
+ There was widespread structural deterioration. Examples included covenant-lite loans
+ carrying few or none of the protective terms prudent lenders look for, and PIK-toggle debt on
+ which the obligors could elect to pay interest "in kind" with additional securities rather than cash.
+
+ Finally, there was simply a willingness to buy riskier securities. Examples here included large
+ quantities of CCC-rated debt, as well as debt issued to finance dividend payments and stock
+ buybacks. The last two increase a company's leverage without adding any productive assets that
+ can help service the new debt.
+
+Toward the end, my 2007 memo included the following paragraph:
+
+ Today's financial market conditions are easily summed up: There's a global glut of
+ liquidity, minimal interest in traditional investments, little apparent concern about
+ risk, and skimpy prospective returns everywhere. Thus, as the price for accessing
+ returns that are potentially adequate (but lower than those promised in the past),
+ investors are readily accepting significant risk in the form of heightened leverage,
+ untested derivatives and weak deal structures. The current cycle isn't unusual in its
+ form, only its extent. There's little mystery about the ultimate outcome, in my opinion,
+ but at this point in the cycle it's the optimists who look best. (emphasis in the original)
+
+Now we're seeing another upswing in risky behavior. It began surprisingly soon after the crisis (see
+Warning Flags, May 2010), spurred on by central bank policies that depressed the return on safe
+investments. It has gathered steam ever since, but not to anywhere near the same degree as in
+
+ Wall Street has, thus far, been less creative in terms of financial engineering innovations. I can't
+ think of a single new "modern miracle" that's been popularized since the crisis.
+
+ Likewise, derivatives are off the front page and seem to be created at a much slower pace. A full
+ resumption of derivatives creation and other forms of financial innovation appears to be on hold
+ pending clarification of the regulatory uncertainty surrounding acceptable activity for banks.
+
+ Buyout activity seems relatively subdued. In 2006-07, it seemed a buyout in the tens of billions
+ was being announced every week; now they're quite scarce. Many smaller deals are taking place,
+ however, including a large number of "flips" from one buyout fund to another, and leverage
+ ratios have moved back up toward the highs of the last cycle.
+
+ "Cov-lite" and PIK-toggle debt issuance is in full flower, as are triple-Cs, dividend recaps and
+ stock buybacks.
+
+It's highly informative to assess how the other characteristics of 2007 enumerated above compare with
+conditions today:
+
+ global glut of liquidity - check
+ minimal interest in traditional investments - check (relatively little is expected today from
+ Treasurys, high grade bonds or equities, encouraging investors to shift toward alternatives)
+ little apparent concern about risk - check
+ skimpy prospective returns everywhere - check
+
+Risk tolerance and leverage haven't returned to their pre-crisis highs in quantitative terms, but there's no
+doubt in my mind that risk bearing is back in vogue.
+
+Examples from the Media
+
+My preparation for writing these memos often includes amassing media citations around a central theme.
+Here are some from the last few weeks:
+
+ Now, eight years since the PIK-toggle entered the market, companies are again using the
+ esoteric structures, along with a host of riskier borrowing practices associated with the
+ buyout boom that helped inflate the 2006-07 credit bubble. (Financial Times, October
+
+ At the same time, more than $200bn of "cov-lite" loans have been sold so far this year,
+ eclipsing the $100bn issued in 2007. That means 56 per cent of new leveraged loans now
+ come with fewer protections for lenders than normal loans. (Ibid.)
+
+ Bankers say much of that issuance has been a result of the return of another pre-crisis
+ market vehicle - the collateralised [sic] loan obligation. . . . Like the rest of the leveraged
+
+ loan market, CLOs have enjoyed buoyant demand. At least $55.41bn of the vehicles
+ have been sold this year - the highest amount since the $88.94bn issued in 2007. (Ibid.)
+
+ Bonds rated CCC or lower -- at least eight steps below investment grade -- by S&P have
+ gained 11 percent this year, compared with about a 6 percent gain for all dollar-
+ denominated junk bonds or a loss of more than 1 percent for investment-grade debt,
+ according to Bank of America Merrill Lynch index data. (Bloomberg, November 19)
+
+ . . . the amount of indebtedness in leveraged buyout deals is creeping up. The average
+ amount of debt used to finance LBOs has jumped from a low of 3.69 times earnings in
+ 2009 to an average of 5.37 so far this year, according to data from S&P Capital IQ. At the
+ height of the LBO boom, average leverage was 6.05. (Financial Times, October 22)
+
+ Subprime loans, given to people with little proven ability to pay, are making a comeback, this
+ time to buy cars. Issuance of bonds linked to loans for the shakiest borrowers hit $17.2 billion this
+ year, more than double the amount sold during the same period in 2010, according to Harris
+ Trifon, a debt analyst at Deutsche Bank AG. (Bloomberg, November 19)
+
+ A Goldman Sachs index of [the stocks of] companies with weaker balance sheets has rallied 42
+ percent this year, almost doubling the gain in a measure of more creditworthy firms. (Ibid.)
+
+ Twitter took the first steps in the pricing of its eagerly awaited initial public offering. . . .
+ The social media darling disclosed that it planned to sell 70 million shares at $17 to $20
+ each. At the midpoint of that range, the offering would raise about $1.3 billion and
+ would value Twitter at about $10 billion, excluding options. . . . Such a valuation would
+ make Twitter more than three times as big as one of the first big Internet giants, AOL . . .
+ (The New York Times Dealbook, October 24)
+
+ Twitter is feeling more optimistic about investor appetite for its imminent initial public offering.
+ On Monday morning, the company raised the price range for its I.P.O. to $23 to $25, signaling a
+ bullish outlook ahead of its trading debut this week. The new range increases Twitter's potential
+ market value by several billion dollars. If it prices at the high end, Twitter would be valued at
+ $13.9 billion at the start of its first day of trading. (Dealbook, November 4)
+
+ [Twitter] priced its shares at $26 on Wednesday night, giving it a market value of $18.1 billion.
+ On Thursday, Twitter closed at $44.90 a share, 73 percent above its initial public offering price.
+ (Dealbook, November 7)
+
+ In a sign of the fervor once again rising around Internet startups, the 23-year-old CEO of
+ [Snapchat] a two-year-old company with no revenue has rejected a $3 billion buyout offer. (The
+ Wall Street Journal, November 14)
+
+ Cash is returning to emerging markets, sparking big stock rallies and a surge in
+ fundraising . . . Yield-hungry investors are venturing far into risky territory. Investors
+ snapped up $1.8 billion worth of stock sold by Chinese banks in Hong Kong over the past
+ two weeks, while India's stock market has climbed to record highs. Brazil sold $3.25
+ billion of debt, its biggest dollar-denominated offering on record, and Pakistan said
+ Monday it plans to sell debt overseas for the first time in six years. (The Wall Street
+ Journal, November 7)
+
+ Emerging markets IPOs creep back into London; Emerging market companies are staging a
+ return on the London Stock Exchange after a few quiet years. (Financial News, November 5)
+
+Perhaps most tellingly, the November 19 Bloomberg story referenced above included the following
+observation from a strategist whom I'll allow to go nameless: "The analysis at some point shifts from
+fundamentals to being purely based on the price action of the stock." When people start to posit that
+fundamentals don't matter and momentum will carry the day, it's an omen we must heed.
+
+While the extent is nowhere as dramatic as in 2006-07 - and the psychology behind it isn't close to
+being as bullish or risk-blind - I certainly sense a significant increase in the acceptance of risk. The
+bottom line is that when risk aversion declines and the pursuit of return gathers steam, issuers can
+do things in the capital markets that are impossible in more prudent times.
+
+Why Is Risk Bearing on the Rise, and What Are the Implications?
+
+To set the scene for answering the above questions, I'm going to reiterate and pull together some
+observations from recent memos.
+
+Psychologically and attitudinally, I don't think the current capital market atmosphere bears much of a
+resemblance to that of 2006-07. Then I used words like "optimistic," "ebullient" and "risk-oblivious" to
+describe the players. Returns on risky assets were running high, and a number of factors were cited as
+having eliminated risk:
+
+ The Fed was considered capable of restoring growth come what may.
+ A global "wall of liquidity" was coming toward us, derived from China's and the oil producers'
+ excess reserves; it could be counted on to keep asset prices aloft.
+ The Wall Street miracles of securitization, tranching, selling onward and derivatives creation had
+ "sliced and diced" risk so finely - and directed it where it could most readily be borne - that risk
+ really didn't require much thought.
+
+In short, in those days, most people couldn't imagine a way to lose money.
+
+I believe most strongly that the riskiest thing in the investment world is the belief that there's no
+risk. When that kind of sentiment prevails, investors will engage in otherwise-risky behavior. By doing
+so, they make the world a risky place. And that's what happened in those pre-crisis years. When The
+New York Times asked a dozen people for articles about the cause of the crisis, I wrote one titled "Too
+Much Trust; Too Little Worry." Certainly a dearth of fear and a resulting high degree of risk taking
+accurately characterize the pre-crisis environment. But that was then. It's different today.
+
+Today, unlike 2006-07, uncertainty is everywhere:
+
+ Will the rate of economic growth in the U.S. get back to its prior norm? Will unemployment fall
+ to the old "structural" level?
+ Can America's elected officials possibly reach agreement on long-term solutions to the problems
+ of deficits and debt? Or will the national debt expand unchecked?
+ Will Europe improve in terms of GDP growth, competitiveness and fiscal governance? Will its
+ leaders be able to reconcile the various nations' opposing priorities?
+ Can Abenomics transform Japan's economy from lethargy to dynamism? The policies appear on
+ paper to be the right ones, but will they work?
+
+ Can China transition from a highly stimulated economy based on easy money, an excess of fixed
+ investment and an overactive non-bank financial system, without producing a hard landing that
+ keeps it from reaching its economic goals?
+ Can the emerging market economies prosper if demand from China and the developed world
+ expands more slowly than in the past?
+
+Looking at the world more thematically, a lot of questions surround the ability to manage economies and
+regulate growth:
+
+ Can low interest rates and high levels of money creation return economic growth rates to previous
+ levels? (To date, the evidence is mixed.)
+ Can inflation be returned to a salutary level somewhat above that of today? Right now,
+ insufficient inflation is the subject of complaints almost everywhere. Can the desired inflation
+ rate be reinstated without going beyond, to undesirable levels?
+ Programs like Quantitative Easing are novel inventions. How much do we know about how to
+ end them, and about what the effects of doing so will be? Will it prove possible to wind down the
+ stimulus - the word du jour is "taper" - without jeopardizing today's unsteady, non-dynamic
+ recoveries? Can the central banks back off from interest rate suppression, bond buying and easy
+ money policies without causing interest rates to rise enough to choke off growth?
+ How will governments reconcile the opposing goals of stimulating growth (lower taxes, increased
+ spending) and reining in deficits (increased taxes, less spending)?
+ Will prosperous regions (e.g., Germany) continue to be willing to subsidize profligate and poorer
+ ones (e.g., Spain and Portugal)?
+
+As to investments:
+
+ When the Fed stops buying bonds, will interest rates rise a little or a lot? Does that mean bonds
+ are unattractive?
+ Are U.S. stocks still attractive after having risen strongly over the last 18 months?
+ Ditto for real estate following its post-crash recovery?
+ Can private equity funds buy companies at attractive prices in an environment where few owners
+ are motivated to sell?
+
+As I've said before, most people are aware of these uncertainties. Unlike the smugness, complacency and
+obliviousness of the pre-crisis years, today few people are as confident as they used to be about their
+ability to predict the future, or as certain that it will be rosy. Nevertheless, many investors are
+accepting (or maybe pursuing) increased risk.
+
+The reason, of course, is that they feel they have to. The actions of the central banks to lower interest
+rates to stimulate economies have made this a low-return world. This has caused investors to move out
+on the risk curve in pursuit of the returns they want or need. Investors who used to get 6% from
+Treasurys have turned to high yield bonds for such a return, and so forth.
+
+Movement up the risk curve brings cash inflows to riskier markets. Those cash inflows increase demand,
+cause prices to rise, enhance short-term returns, and contribute to the pro-risk behavior described above.
+Through this process, the race to the bottom is renewed.
+
+In short, it's my belief that when investors take on added risks - whether because of increased
+optimism or because they're coerced to do so (as now) - they often forget to apply the caution they
+
+should. That's bad for them. But if we're not cognizant of the implications, it can also be bad for
+the rest of us.
+
+Where does investment risk come from? Not, in my view, primarily from companies, securities - pieces
+of paper - or institutions such as exchanges. No, in my view the greatest risk comes from prices that are
+too high relative to fundamentals. And how do prices get too high? Mainly because the actions of market
+participants take them there.
+
+Among the many pendulums that swing in the investments world - such as between fear and greed, and
+between depression and euphoria - one of the most important is the swing between risk aversion and risk
+tolerance.
+
+Risk aversion is the essential element in sane markets. People are supposed to prefer safety over
+uncertainty, all other things being equal. When investors are sufficiently risk averse, they'll (a) approach
+risky investments with caution and skepticism, (b) perform thorough due diligence, incorporating
+conservative assumptions, and (c) demand healthy incremental return as compensation for accepting
+incremental risk. This sort of behavior makes the market a relatively safe place.
+
+But when investors drop their risk aversion and become risk-tolerant instead, they turn bold and trusting,
+fail to do as much due diligence, base their analysis on aggressive assumptions, and forget to demand
+adequate risk premiums as a reward for bearing increased risk. The result is a more dangerous world
+where asset prices are higher, prospective returns are lower, risk is elevated, the quality and safety
+of new issues deteriorates, and the premium for bearing risk is insufficient.
+
+It's one of my first principles that we never know where we're going - given the unreliability of macro
+forecasting - but we ought to know where we are. "Where we are" means what the temperature of the
+market is: Are investors risk-averse or risk-tolerant? Are they behaving cautiously or aggressively? And
+thus is the market a safe place or a risky one?
+
+Certainly risk tolerance has been increasing of late; high returns on risky assets have encouraged
+more of the same; and the markets are becoming more heated. The bottom line varies from sector
+to sector, but I have no doubt that markets are riskier than at any other time since the depths of the
+crisis in late 2008 (for credit) or early 2009 (for equities), and they are becoming more so.
+
+Is This a Sell Signal? If Not, Then What?
+
+No, I don't think it's time to bail out of the markets. Prices and valuation parameters are higher than they
+were a few years ago, and riskier behavior is observed. But what matters is the degree, and I don't think
+it has reached the danger zone yet.
+
+First, as mentioned above, the absolute quantum of risk doesn't seem as high as in 2006-07. The modern
+miracles of finance aren't seen as often (or touted as highly), and the use of leverage isn't as high.
+
+Second, prices and valuations aren't highly extended (the p/e ratio on the S&P 500 is around 16, the post-
+war average, while in 2000 it was in the low 30s: now that's extended).
+
+A rise in risk tolerance is something that should get your attention and focus your concentration.
+But for it to be highly worrisome, it has to be accompanied by extended valuations. I don't think we're
+there yet. I think most asset classes are priced fully - in many cases on the high side of fair - but not
+at bubble-type highs. Of course the exception is bonds in general, which the central banks are
+
+supporting at yields near all-time lows, meaning prices near all-time highs. But I don't find them scary
+(unless their duration is long), since - if the issuers prove to be money-good - they'll eventually pay off at
+par, erasing the interim mark-downs that will come when interest rates rise.
+
+ * * *
+
+In the 1950s, when I was a kid, I watched old movies on TV when I got home from school. One from the
+1940s was called It Happened Tomorrow. In it, a struggling young journalist made a deal with the devil
+to be given a peek at the next day's news. His scoops brought him huge success, and everything ran
+smoothly until he received a newspaper headlined "Reporter Shot Dead at Racetrack." He tried all he
+could to avoid it, but as a result of some very clever plot devices, he of course ended up at the track
+(where he learned that the headline had resulted from a case of mistaken identity).
+
+I go through all of the above to explain that - try as I might to avoid it - my memos on excessive risk
+bearing and what to do about it invariably end up back at the same place: my favorite Buffettism:
+
+ . . . the less the prudence with which others conduct their affairs, the greater the prudence
+ with which we should conduct our own affairs.
+
+I repeat Warren's injunction for the simple reason that you just can't put it any better. When
+others are acting imprudently, making the world a riskier place, our caution level should rise in
+response. (It's equally true that when others become overly cautious and run from risk, assets get so
+cheap that we should turn aggressive.)
+
+Over the last 2-3 years, my motto for Oaktree has been consistent: "move forward, but with
+caution." I feel the outlook is not so bad, and asset prices are not so high, that it's time to apply
+maximum caution (or, as they said in The Godfather, "go to the mattresses"). But by the same token, the
+outlook is not so good, and asset prices are not so low, that we should be aggressive. That's the reason
+for my middling stance.
+
+Having said that, however, there's no doubt in my mind that the trend is in the direction of increased risk,
+and I see no reason to think that trend will be arrested anytime soon. Risk is likely to reach extreme
+levels someday - it always does, eventually - and great caution will be called for. Just not yet.
+
+Here's my conclusion from The Race to the Bottom. I'll let it stand - another case of "ditto."
+
+ . . . there's a race to the bottom going on, reflecting a widespread reduction in the level of
+ prudence on the part of investors and capital providers. No one can prove at this point
+ that those who participate will be punished, or that their long-run performance won't
+ exceed that of the naysayers. But that is the usual pattern.
