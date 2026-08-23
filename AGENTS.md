@@ -104,7 +104,7 @@ berkshire/
 ... (truncated)
 ```
 
-**Git:** branch: `main` | last commit: 2026-08-22 | 1 uncommitted | remote: https://github.com/ninjalu/read-aloud.git
+**Git:** branch: `main` | last commit: 2026-08-23 | 1 uncommitted | remote: https://github.com/ninjalu/read-aloud.git
 
 ## AI-agent bridge (Codex / open-source)
 
