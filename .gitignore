@@ -25,3 +25,6 @@ berkshire/
 podcast-sync-watch.log
 podcast-sync-watch.launchd.log
 .podcast-sync-watch.lock/
+
+# One-off book episodes published direct to R2 (audio + merged feed holding the secret token)
+books/
